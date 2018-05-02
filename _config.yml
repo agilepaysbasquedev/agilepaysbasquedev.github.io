@@ -48,7 +48,7 @@ c4sponsorsUrl: "/blog/devenir-sponsor"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
- - {permalink: "/cfp/", text: "Devenir Orateur", }
+# - {permalink: "/cfp/", text: "Devenir Orateur", }
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
@@ -68,7 +68,7 @@ eventDate: "21 / 22 Septembre 2018"
 typeoutTextValues: '"", "Pays Basque", "Cote Basque"'
 typeoutFallback: "Pays Basque"
 heroButtons:
- - {permalink: "/cfp/", text: "Devenir Orateur"}
+# - {permalink: "/cfp/", text: "Devenir Orateur"}
 heroCount: 8
 heroFirst: 1
 
