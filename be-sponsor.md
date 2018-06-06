@@ -49,7 +49,7 @@ __Pour cette 3ème édition nous avons de nouveau besoin de votre soutien.__
 
 ##### __A quoi va servir votre participation__
 Le budget de l'évènement dépend en grande partie de vos contributions.
-![Budget 2018](http://www.helloasso.com/assets/img/uploads/Budget2018_1528212201431-3470f863b1064092a7a58ee379c2b401.png)
+![Budget 2018]({{site.baseurl}}/img/sponsors/Budget2018.png)
 
 La fréquentation tiens au faible coût des entrées qui n'est possible qu'avec votre aide.
 
