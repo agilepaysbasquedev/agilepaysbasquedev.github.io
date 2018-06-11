@@ -45,7 +45,7 @@ __Pour cette 3ème édition nous avons de nouveau besoin de votre soutien.__
 - Votre NOM est mis en avant lors des keynotes d’ouverture et de fermeture.
 - Un petit "stand" espace de communication en dur vous est dédié.
   Vous pourrez y mettre à disposition “flyer” où “goodies” à destination des participants.
-- 3 pass invités (vendredi et samedi, repas inclus)
+- 3 pass invités (vendredi et samedi, déjeuner inclus)
 
 ##### __A quoi va servir votre participation__
 Le budget de l'évènement dépend en grande partie de vos contributions.
