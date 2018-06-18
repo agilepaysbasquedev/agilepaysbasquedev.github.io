@@ -15,11 +15,10 @@
     "service": "true"
 }, {
     "id": 9001,
-    "title": "Etes vous prêt pour le grand saut ?",
-    "description": "La semaine je suis facilitateur, animateur, accompagnateur sur différents sujets dont l'agilité. Le week-end je suis moniteur de saut à l’élastique ... une sorte de coaching. Jusqu’ici aucun rapport me direz vous La semaine je suis payé pour faire quelque chose qui est ma passion : aider des êtres humains à être plus à l’aise avec le tumulte du monde du travail. Le week-end, je suis bénévole : je garde les gens en vie. Jusqu’ici aucun rapport ! Oui ! Et voilà ... en fait il y a énormément de parallèles ! Je vous propose de parcourir la vie d'une entreprise qui tend à évoluer avec son environnement et la vie d'une personne, de personnes, qui va (vont) réaliser un changement très perturbant personnel nous regarderons les ponts qui existent entre ces différents contextes et envisagerons quelques clés pour la transformation d'une entreprise.",
+    "title": "Cessons les estimations !",
+    "description": "Alors que les estimations sont à la base des méthodes classiques et que dans le domaine Agile, SCRUM notamment lui accorde une grande importance, nous allons l’espace d’une conférence remettre en cause celles-ci. Après un bref rappel de différentes méthodes permettant de réaliser des estimations et croyances qui y sont attachées, nous prendrons le temps de réfléchir sur les effets néfastes de ces dernières. Enfin, nous verrons comment dans la réalité des projets, il est possible de s’en extraire. Conférence iconoclaste, sous la forme d’un one man show, afin de réfléchir (et de rire ?) sur un aspect essentiel de l’agilité. Ouvert à tout public ayant une première approche des projets de développement logiciel. Durée : 45 min.",
     "complexity": "Débutant",
     "subtype": "presentation",
-    "presentation": "https://www.slideshare.net/AurlienMorvant/transformations-tes-vos-prt-pour-le-grand-saut",
     "speakers": [43]
 }, {
     "id": 10001,
@@ -27,9 +26,9 @@
     "service": "true"
 }, {
     "id": 10151,
-    "title": "Carte, boussole et territoire",
-    "subtitle": "Le voyage du Manager agile",
-    "description": "Des clés pour comprendre l'enjeu du Management agile et sa posture de soutien",
+    "title": "L'agilité chez Amazon, Microsoft et Oracle",
+    "subtitle": "Retour d'expérience sur comment est implementée chez les GAFA",
+    "description": "La theorie c'est bien, implementer cette theorie a l'echelle de petites PMEs, c'est top, essayer d'implementer l'agilite dans d'enorme boite tech avec plusieurs milliers d'ingenieurs c'est une autre pair de manche. Que ce soit des entreprises comme Microsoft ou Oracle qui ont du subir la transition cycle en V -> agilite, ou Amazon qui a epouse l'agilite des le premier jour, je vous livrerez mon retour d\'experience. Cette session est presente par Julien Dollon, directeur des ingenieurs a Oracle Cloud et ancien AWS/Microsoft et Soumow Atitallah, ex Product Manager pour Microsoft et desormais CEO de sa startup.",
     "complexity": "Débutant",
     "subtype": "presentation",
     "presentation": "https://www.slideshare.net/ThierryGabrielCros/manager-agile-carte-boussole-et-territoire/1",
