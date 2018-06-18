@@ -50,7 +50,8 @@ navigationLinks:
  - {permalink: "/", text: "Accueil"}
  - {permalink: "/be-sponsor/", text: "Devenir Sponsor", }
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "2017"}
+# - {permalink: "/schedule/", text: "Programme"}
+ - {permalink: "/schedule2017/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
  - {permalink: "/team/", text: "Equipe"}
 # - {permalink: "/logistics/", text: "S'y rendre 2017"}
