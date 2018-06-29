@@ -48,7 +48,8 @@ c4sponsorsUrl: "/be-sponsor"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
- - {permalink: "/be-sponsor/", text: "Devenir Sponsor", }
+ - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
+ - {permalink: "/#tickets", text: "Acheter un billet"}
  - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/schedule2017/", text: "2017"}
@@ -58,9 +59,9 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Orateurs 2017"}
 # - {permalink: "/sponsors/", text: "Sponsors 2017"}
 bottomNavigationLinks:
-# - {permalink: "/#tickets", text: "Acheter un billet"}
+ - {permalink: "/#tickets", text: "Acheter un billet"}
 rightNavigationButtons:
-# - {permalink: "/#tickets", text: "Acheter un billet"}
+ - {permalink: "/#tickets", text: "Acheter un billet"}
 
 # Hero Block
 heroImage: "hero"
@@ -70,6 +71,7 @@ typeoutTextValues: '"", "Pays Basque", "Cote Basque"'
 typeoutFallback: "Pays Basque"
 heroButtons:
  - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
+ - {permalink: "/#tickets", text: "Acheter un billet"}
 heroCount: 8
 heroFirst: 1
 
@@ -118,8 +120,8 @@ eventDoorTime: "09:00"
 eventEndTime: "2018-09-21T18:00"
 eventPlaceCoordinates: "43.446321, -1.553914"
 
-event2LocationName: "A définir"
-event2LocationLink: "https://www.google.fr/maps"
+event2LocationName: "ESTIA 2"
+event2LocationLink: "http://www.estia.fr/"
 event2StreetAddress: ""
 event2AddressLocality: ""
 event2AddressLocalityRegion: "64"
@@ -136,14 +138,14 @@ mapMobileCenterCoordinates: "43.445995, -1.553750"
 
 
 # Venue Block
-venueBlockTitle: "2 jours sur 2 lieux différents"
+venueBlockTitle: "2 jours"
 venueBigImage: "venue_0.jpg"
 # ESTIA
 venueSmallImage1: "venue_1.jpg"
 venueTitle: "ESTIA"
 venueFeatures: ["Ecole d'ingénieurs", "Technopole Izarbel", "64210 BIDART"]
 # Atlanthal
-venue2Title: "A Définir"
+venue2Title: ""
 venue2Features: ["", "", ""]
 venueSmallImage2: "venue_2.jpg"
 
@@ -155,7 +157,7 @@ twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organisé par"
-partnersTitle: "Partenaires (2017)"
+partnersTitle: "Partenaires"
 partnersC4sponsorsButton: "Devenir Sponsor"
 
 # Subscribe Block
