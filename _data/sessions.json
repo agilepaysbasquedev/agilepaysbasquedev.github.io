@@ -9,7 +9,7 @@
     "title": "Accueil (ESTIA 1)",
     "service": "true"
 }, {
-    "id": 8201,
+    "id": 8301,
     "title": "Mot de l'orga - Présentation des sponsors",
     "description": "Pitch des sessions du matin",
     "service": "true"
@@ -29,20 +29,19 @@
     "title": "L'agilité chez Amazon, Microsoft et Oracle",
     "subtitle": "Retour d'expérience sur comment est implementée chez les GAFA",
     "description": "La theorie c'est bien, implementer cette theorie a l'echelle de petites PMEs, c'est top, essayer d'implementer l'agilite dans d'enorme boite tech avec plusieurs milliers d'ingenieurs c'est une autre pair de manche. Que ce soit des entreprises comme Microsoft ou Oracle qui ont du subir la transition cycle en V -> agilite, ou Amazon qui a epouse l'agilite des le premier jour, je vous livrerez mon retour d\'experience. Cette session est presente par Julien Dollon, directeur des ingenieurs a Oracle Cloud et ancien AWS/Microsoft et Soumow Atitallah, ex Product Manager pour Microsoft et desormais CEO de sa startup.",
-    "complexity": "Débutant",
-    "subtype": "presentation",
-    "presentation": "https://www.slideshare.net/ThierryGabrielCros/manager-agile-carte-boussole-et-territoire/1",
-    "speakers": [19],
-    "place": "Amphi"
+    "place": "Salle 1"
 }, {
     "id": 10152,
-    "title": "Software craftsmanship",
-    "subtitle": "Je commence par où ?",
-    "description": "Si quand on vous dit \"software craftsmanship\", vous répondez \"à vos souhaits\" ; si quand vous entendez \"TDD, BDD, DDD\" vous pensez \"encore des acronymes à la mode\" ; si quand on vous dit \"clean code\" vous vous dites \"ça n'existe pas\"... alors venez voir ce qui se cache derrière tout ça et comment gravir une à une les marches qui mènent au paradis des développeurs.",
-    "complexity": "Intermédiaire",
-    "subtype": "presentation",
-    "presentation": "https://www.slideshare.net/niiils/software-craftsmanship-je-commence-par-o",
-    "speakers": [40]
+    "title": "The Art of Product Management",
+    "description": "Complete overview of what product management is and lessons I learned from being a Product Manager at Microsoft",
+    "place": "Salle 2"    
+}, {
+    "id": 10154,
+    "title": "Entre Industrialisation et Artisanat : le métier de développeur",
+    "description": "",
+    "complexity": "Débutant",
+    "place": "Salle 3"  
+    "speakers": [17]
 }, {
     "id": 10153,
     "title": "Coaching Dojo",
@@ -51,14 +50,6 @@
     "subtype": "workshop",
     "presentation": "https://www.meetup.com/fr-FR/Agile-Bordeaux/events/235134649/",
     "speakers": [2, 23]
-}, {
-    "id": 10154,
-    "title": "Il était une fois la vie d'un Product Owner",
-    "description": "« Il était une fois la vie d’un Product Owner (PO) » est un retour d’expérience de 9 mois, une immersion dans la peau d’un Product Owner qui découvre son rôle et qui doit livrer son premier produit. Entre les visionnaires, les utilisateurs, l’équipe de développement et les investisseurs, il évolue dans un environnement exigeant, sans filet. De l’initiation à la maturité, ce Product Owner va vivre des échecs, des réussites et construire pas à pas son produit en utilisant des techniques d’expression de besoins dans le seul et unique but de valider ses hypothèses.  Entre fiction et réalité, « Il était une fois la vie d’un Product Owner » est une illustration concrète et fantastique du quotidien et de l’apprentissage d’un Product Owner fraîchement débarqué qui va gérer son produit en mode startup. ",
-    "complexity": "Débutant",
-    "subtype": "presentation",
-    "presentation": "http://talondagile.fr/2013/10/conference-il-etait-une-fois-la-vie-dun-product-owner/",
-    "speakers": [17]
 }, {
     "id": 11151,
     "title": "Où en est le contrat Agile en 2017 ?",
