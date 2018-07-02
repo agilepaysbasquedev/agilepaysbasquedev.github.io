@@ -1,5 +1,16 @@
 [
  {
+ "id": 8001,
+ "title": "Accueil (ESTIA 1)",
+ "service": "true"
+}, 
+ {
+ "id": 8301,
+ "title": "Mot de l'orga - Présentation des sponsors",
+ "description": "Pitch des sessions du matin",
+ "service": "true"
+}, 
+ {
    "id": 9001,
    "title": "Cessons les estimations !",
    "subtitle": "",
