@@ -51,7 +51,7 @@ navigationLinks:
  - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
  - {permalink: "/#tickets", text: "Acheter un billet"}
  - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Programme"}
+ - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/schedule2017/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
  - {permalink: "/team/", text: "Equipe"}
