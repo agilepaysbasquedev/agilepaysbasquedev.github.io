@@ -5,7 +5,7 @@
    "subtitle": "",
    "description": "Alors que les estimations sont à la base des méthodes classiques et que dans le domaine Agile, SCRUM notamment lui accorde une grande importance, nous allons l’espace d’une conférence remettre en cause celles-ci.\n\nAprès un bref rappel de différentes méthodes permettant de réaliser des estimations et croyances qui y sont attachées, nous prendrons le temps de réfléchir sur les effets néfastes de ces dernières. Enfin, nous verrons comment dans la réalité des projets, il est possible de s’en extraire.\n\nConférence iconoclaste, sous la forme d’un one man show, afin de réfléchir (et de rire ?) sur un aspect essentiel de l’agilité.\n\nOuvert à tout public ayant une première approche des projets de développement logiciel. Durée : 45 min.",
    "complexity": "Tout public",
-   "place": 9001,
+   "place": 09001,
    "speakers": [1]
  },
  {
@@ -42,7 +42,7 @@
    "description": "Christophe Deniaud et Fabrice Aimetti souhaitent réunir des personnes qui\ndésirent découvrir, apprendre, développer, … des techniques de coaching qui les\naideront dans leur quotidien. Ils co-facilitent depuis janvier 2016 des Coaching\nDojo sur Bordeaux.",
    "complexity": "Débutant",
    "place": 10154,
-   "speakers": "9, 10"
+   "speakers": [9, 10]
  },
  {
    "id": 86,
@@ -132,7 +132,7 @@
    "description": "Cet atelier s'adresse aussi bien à un développeur, un PO qu'à un expert métier. \n\nEn alternant rapidement des phases d'échanges sur le métier et d'implémentation, nous allons :\n    -Découvrir EventStorming\n    -Sentir comment il permet d'aligner la compréhension des Product Owners, des Experts Métiers et des Programmeurs\n    -Voir comment écrire un code cohérent avec la vision partagée du métier \n    -Bien nous amuser\n    -...\n\nAucune connaissance en programmation n'est nécessaire.",
    "complexity": "Tout public",
    "place": 13304,
-   "speakers": "16, 17"
+   "speakers": [16, 17]
  },
  {
    "id": 96,
