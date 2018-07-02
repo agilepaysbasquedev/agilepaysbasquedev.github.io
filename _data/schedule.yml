@@ -36,6 +36,10 @@
         sessionIds: [12151, 12153]
     }
     - {
+        startTime: "12:45",
+        sessionIds: [12451, 12453]
+    }
+    - {
         startTime: "13:15",
         sessionIds: [13151, 13153]
     }
@@ -48,6 +52,10 @@
     - {title: "Salle 3", color: "#D50000"}
     - {title: "Salle 4", color: "#FF6D00"}
   timeslots:
+    - {
+        startTime: "13:30",
+        sessionIds: [13301]
+    }
     - {
         startTime: "14:15",
         sessionIds: [14151]
