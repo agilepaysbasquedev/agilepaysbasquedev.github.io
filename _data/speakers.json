@@ -98,7 +98,7 @@
  {
    "id": 9,
    "name": "Fabrice",
-   "surname": "AIMETTI",
+   "surname": "Aimetti",
    "title": "",
    "bio": "Christophe et Fabrice sont tous deux Coach Agile et Coach d'Entreprise. Ils\npartagent les mêmes convictions et les mêmes espoirs dans l'accompagnement\ndes personnes, équipes et organisations.",
    "thumbnailUrl": "https://twitter.com/twitter/statuses/912000889728139264",
@@ -110,7 +110,7 @@
  {
    "id": 10,
    "name": "Christophe",
-   "surname": "DENIAUD",
+   "surname": "Deniaud",
    "title": "",
    "bio": "Christophe Deniaud est Coach en Agilité et Coach d’Entreprise chez AUSY.\nCurieux et passionné d’agilité, il accompagne des équipes dans leurs transitions\norganisationnelles visant à replacer l’individu et les relations au centre de leur\nactivité.",
    "thumbnailUrl": "https://www.dropbox.com/s/s79rhp0jcy68d5r/photo-fabrice-chris.png?dl=0",
@@ -158,7 +158,7 @@
  {
    "id": 14,
    "name": "Franck",
-   "surname": "RAGEADE",
+   "surname": "Rageade",
    "title": "",
    "bio": "Agiliplanchiste chevronné. Je planche sur l'agilité depuis 2006 : consultant SAFe (SPC), Scrum Master (CSM, PSM) et Product Owner (PSPO) certifié, j'accompagne de grandes sociétés dans leur transformation digitale à travers la mise en place de méthodes agiles. ",
    "thumbnailUrl": "https://pbs.twimg.com/profile_images/610796138208346112/ldaFChC2_400x400.jpg",
@@ -170,7 +170,7 @@
  {
    "id": 15,
    "name": "Alice",
-   "surname": "BARRALON",
+   "surname": "Barralon",
    "title": "",
    "bio": " Je forme, je déforme, je transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching).",
    "thumbnailUrl": "https://pbs.twimg.com/profile_images/619074662132281344/HQT7kjnr.png",
@@ -182,7 +182,7 @@
  {
    "id": 16,
    "name": "Isabelle",
-   "surname": "BLASQUEZ",
+   "surname": "Blasquez",
    "title": "",
    "bio": "Enseignant-chercheur. \nArtisan pédagogue développeur d'agilité.\nMembre de la team Duchess France et Fondatrice des journées #iutagile.",
    "thumbnailUrl": "https://pbs.twimg.com/profile_images/798116333745569792/TUr7R1jx_400x400.jpg",
@@ -206,7 +206,7 @@
  {
    "id": 18,
    "name": "Olivier",
-   "surname": "MY",
+   "surname": "My",
    "title": "",
    "bio": "Olivier est Coach professionnel et Coach Agile chez Soat où il accompagne ses clients dans l'optimisation de leur performance par l'intelligence collective. Passionné par les relations humaines, il cherche avant tout à redonner du sens aux pratiques utilisées en entreprise afin de stimuler plus de responsabilisation, de motivation et d'engagement.",
    "thumbnailUrl": "https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/069/32c/2b38793.jpg",
@@ -230,7 +230,7 @@
  {
    "id": 20,
    "name": "Alexandre",
-   "surname": "BOUTIN",
+   "surname": "Boutin",
    "title": "",
    "bio": "Agiliste depuis 2005 alors en charge du déploiement de l'agilité pour Yahoo! à l'international (Europe, Asie, Inde, Amérique Latine), j'accompagne depuis 2009 de nombreuses entreprises en France et à l'étranger dans leur transition vers l'agilité.\nConvaincu de l'efficacité des approches ludiques pour apprendre ou produire un résultat, j'utilise régulièrement des jeux sérieux dans mes coaching ou en animation de séminaire.\nJ'interviens régulièrement dans les conférences agiles en France pour présenter mes travaux ou faire jouer à de nouveaux jeux sérieux agile que je crée.",
    "thumbnailUrl": "https://pbs.twimg.com/profile_images/664842278528262144/F7NtV2xy_400x400.jpg",
@@ -265,8 +265,8 @@
  },
  {
    "id": 23,
-   "name": "Jean-Baptiste DUSSAUT",
-   "surname": "",
+   "name": "Jean-Baptiste",
+   "surname": "Dussaut",
    "title": "",
    "bio": "",
    "thumbnailUrl": "",
@@ -326,7 +326,7 @@
  {
    "id": 28,
    "name": "Alexis",
-   "surname": "NICOLAS",
+   "surname": "Nicolas",
    "title": "",
    "bio": "",
    "thumbnailUrl": "https://www.linkedin.com/in/alexis8nicolas/",
