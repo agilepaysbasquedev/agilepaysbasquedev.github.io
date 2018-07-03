@@ -16,7 +16,7 @@
    "subtitle": "",
    "description": "Alors que les estimations sont à la base des méthodes classiques et que dans le domaine Agile, SCRUM notamment lui accorde une grande importance, nous allons l’espace d’une conférence remettre en cause celles-ci.\n\nAprès un bref rappel de différentes méthodes permettant de réaliser des estimations et croyances qui y sont attachées, nous prendrons le temps de réfléchir sur les effets néfastes de ces dernières. Enfin, nous verrons comment dans la réalité des projets, il est possible de s’en extraire.\n\nConférence iconoclaste, sous la forme d’un one man show, afin de réfléchir (et de rire ?) sur un aspect essentiel de l’agilité.\n\nOuvert à tout public ayant une première approche des projets de développement logiciel. Durée : 45 min.",
    "complexity": "Tout public",
-   "speakers": [1]
+   "speakers": [81]
  },
  {
    "id": 10151,
@@ -24,7 +24,7 @@
    "subtitle": "",
    "description": "",
    "complexity": "",
-   "speakers": [2]
+   "speakers": [39]
  },
  {
    "id": 10152,
@@ -32,7 +32,7 @@
    "subtitle": "",
    "description": "Comme l'auteur de romans, la peur de la page blanche peut frapper certains \"Product Owner\". \n\nVous avez été nommé pour ce rôle pour la première fois dans votre entreprise, et vous aviez une casquette de chef de projet ou MOA auparavant. Vous êtes consultant externe et on a besoin de vos services pour un projet où vous tiendrez le rôle stratégique de la gestion du backlog, et ce, sans complètement connaître le sujet métier et son contexte. \n\nLe backlog est vide... comment le remplir ? Comment s'assurer que les premières user stories auront de la valeur ?\n\nUne course contre le temps démarre, celle pour obtenir de la reconnaissance, de la confiance et de la crédibilité de la part de votre équipe et de vos responsables. \n\nOn commence par poser des questions, écrire quelques \"user stories\" en marquant le qui, le quoi et le pourquoi. On passe beaucoup de temps à prioriser les récits dans le backlog, cette longue liste de choses à faire... et c'est la paralysie, le doute, plus rien ! \n\nVenez débloquer la situation avec Bastien et Alexandre !",
    "complexity": "Débutant",
-   "speakers": [3, 4]
+   "speakers": [82, 83]
  },
  {
    "id": 10153,
@@ -40,7 +40,7 @@
    "subtitle": "",
    "description": "Avez-vous déjà vécu :\n - des réunions épouvantablement ennuyeuses ?\n - l’application aveugle des Best Practices des autres ?\n - les interrogations des managers sur le mutisme des collaborateurs ou leur manque d’implication ?\n - l’application de procédures ingrates ?\n - la sempiternelle séparation entre décideurs et opérationnels ?\n - la mise à l’écart de certains collaborateurs parce qu’ils ralentissent le groupe ?\n - la déception engendrée par le fait que les idées d’amélioration ne sont jamais mises en place ?\n\nVous souhaitez développer l’intelligence collective de vos équipes de façon efficace, ludique et rapide ? Les “Liberating Structures” peuvent vous aider !\n\nLes “Liberating Structures” sont des stratégies de facilitation extrêmement efficaces;  qui peuvent être utilisées pour animer des réunions, des séances de planification, des formations, des ateliers, des présentations  ou encore lors de changements organisationnels complexes.\n\nLes “Liberating Structures” permettent de libérer la parole et d'inclure tout le monde dans les échanges et la prise de décision qui façonnent les prochaines étapes.. Les “Liberating Structures” nous invitent à envisager des alternatives aux «structures conventionnelles» (par exemple, des réunions de suivi, des conférences, des discussions non structurées) et favorisent une participation active dans des groupes de toute taille.",
    "complexity": "Tout public",
-   "speakers": [5]
+   "speakers": [30]
  },
  {
    "id": 10154,
@@ -56,7 +56,7 @@
    "subtitle": "",
    "description": "During this session, we will talk about a glimpse of best practices I've learned in my career at Microsoft, AWS and Oracle regarding coding and designing Software.\n\nHow to do code review? What is a clean code? How to design? How to do a design review? How to build things at scale? What does it mean to be a good 'developer'?\n",
    "complexity": "Expert",
-   "speakers": [6]
+   "speakers": [84]
  },
  {
    "id": 11152,
@@ -64,7 +64,7 @@
    "subtitle": "",
    "description": "A la poursuite d'un rendement industriel élevé, des entreprises mettent en place plusieurs processus de vérifications et de contrôles multi niveaux, des découpages de projets en trop petites tailles ou avec trop d'adhérences ou encore des gestions de \"ressources\" interchangeables à volonté. Ceci a pour effet d'éroder la valeur produite par point de vélocité.\nSans adresser l'équipe de développement et les pratiques de craftmanship, je ferais un tour des mauvaises pratiques en bordure (entendez actionnable au niveau management) qui perturbent, ralentissent ou ne pas permettent pas de tirer le meilleur d'une équipe de réalisation. \n",
    "complexity": "Tout public",
-   "speakers": [7]
+   "speakers": [85]
  },
  {
    "id": 11153,
@@ -80,7 +80,7 @@
    "subtitle": "",
    "description": "Complete overview of what product management is and lessons I learned from  being a Product Manager at Microsoft ",
    "complexity": "Débutant",
-   "speakers": [11]
+   "speakers": [86]
  },
  {
    "id": 12451,
@@ -88,7 +88,7 @@
    "subtitle": "",
    "description": "Avec l'évolution du marché et de la technologie les méthodes traditionnelles de recrutement ne fonctionnent plus. De nombreuses entreprises se heurtent à la problématique de recrutement de profils techniques. Et si les méthodes agiles nous aidaient à améliorer la qualité et la performance des recrutements et à offrir une meilleure expérience candidat ?",
    "complexity": "Débutant",
-   "speakers": [12]
+   "speakers": [87]
  },
  {
    "id": 13151,
@@ -96,7 +96,7 @@
    "subtitle": "",
    "description": "\"Soyez Agile ! \"... vous avez déjà entendu cette phrase en entreprise ? Mettons des mots précis sur ce que signifie \"être Agile\" en balayant la vie de plusieurs Agilistes insoupçonnés comme Bruce Lee, Schumacher ou Darwin",
    "complexity": "Débutant",
-   "speakers": [13]
+   "speakers": [88]
  },
  {
    "id": 14151,
