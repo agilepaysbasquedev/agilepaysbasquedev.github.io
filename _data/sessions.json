@@ -123,7 +123,7 @@
    "speakers": [19]
  },
  {
-   "id": 13304,
+   "id": 14154,
    "title": "EventStorming et CQRS from Scratch",
    "subtitle": "",
    "description": "Cet atelier s'adresse aussi bien à un développeur, un PO qu'à un expert métier. \n\nEn alternant rapidement des phases d'échanges sur le métier et d'implémentation, nous allons :\n    -Découvrir EventStorming\n    -Sentir comment il permet d'aligner la compréhension des Product Owners, des Experts Métiers et des Programmeurs\n    -Voir comment écrire un code cohérent avec la vision partagée du métier \n    -Bien nous amuser\n    -...\n\nAucune connaissance en programmation n'est nécessaire.",
