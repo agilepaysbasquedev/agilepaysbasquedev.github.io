@@ -12,16 +12,11 @@
    "linkedin": "https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-legu%C3%A9dois/"
  },
  {
-   "id": 39,
-   "name": "Arnaud",
-   "surname": "Lemaire",
-   "title": "",
-   "bio": "",
-   "thumbnailUrl": "",
-   "web": "",
-   "tweeter": "",
-   "facebook": "",
-   "linkedin": ""
+	"id": 39,
+	"name": "Arnaud",
+	"surname": "LEMAIRE",
+	"bio": "J’ai été tour à tour (et pas dans le bon ordre) : CTO d’une startup, directeur de la production chez un éditeur logiciel, architecte logiciel, consultant et développeur.Après avoir travaillé pour des Startups, des PME, des grands groupes et le secteur public, je suis maintenant membre d’un bureau d’étude pour aider des clients de toute taille à réussir leurs projets logiciels depuis la conception jusqu’au déploiement en production. ",
+	"thumbnailUrl": "ArnaudLemaire.jpg"
  },
  {
    "id": 82,
