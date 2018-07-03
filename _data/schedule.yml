@@ -20,10 +20,6 @@
         sessionIds: [9001]
     }
     - {
-        startTime: "10:00",
-        sessionIds: [10001]
-    }
-    - {
         startTime: "10:15",
         sessionIds: [10151, 10152, 10153, 10154]
     }
