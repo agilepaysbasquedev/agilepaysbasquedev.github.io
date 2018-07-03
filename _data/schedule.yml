@@ -50,19 +50,19 @@
   timeslots:
     - {
         startTime: "13:30",
-        sessionIds: [13301]
+        sessionIds: [14151, 14152, 14153, 14154]
     }
     - {
         startTime: "14:15",
-        sessionIds: [14151]
-    }
-    - {
-        startTime: "14:30",
-        sessionIds: [14301, 14302, 14303, 14304]
+        sessionIds: [14151, 14152, 14153, 14154]
     }
     - {
         startTime: "15:30",
-        sessionIds: [15301, 404, 404, 404]
+        sessionIds: [15301, 15302, 15303, 15304]
+    }
+    - {
+        startTime: "16:30",
+        sessionIds: [16301, 16302, 16303, 404]
     }
 - 
   date: "2017-09-22"
