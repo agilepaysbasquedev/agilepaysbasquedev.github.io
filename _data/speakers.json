@@ -45,15 +45,14 @@
  {
    "id": 30,
    "name": "Anne",
-   "surname": "Gabrillagues",
+   "surname": "GABRILLAGUES",
+   "company": "Ippon Technologies",
    "title": "",
    "bio": "Depuis une première rencontre avec l'Agilité en 2008, j'accompagne les équipes en tant que Scrum Master, Product Owner ou Coach Agile. Agiliste convaincue, je participe activement à la diffusion de l'Agilité via l'organisation de Meetups et de conférences à Paris.\n\nJ'ai fait partie de l'équipe organisatrice des 3 derniers ScrumDay et j'ai rejoint l'équipe Lean Kanban France en 2016 (conférences Lean Kanban France et FlowCon). Parmi mes projets personnels figurent aussi le développement du jeu d'apprentissage Kanbanzine et divers projets de traduction.",
-   "thumbnailUrl": "https://drive.google.com/file/d/0B3pYRpdnmDd0V0FOQ2xFdHIwMlE/view?usp=sharing",
-   "web": "",
+   "thumbnailUrl": "AnneGabrillagues.jpg"
    "tweeter": "agabrillagues",
-   "facebook": "",
-   "linkedin": "https://www.linkedin.com/in/agabrillagues/"
- },
+   "linkedin": "https://www.linkedin.com/in/agabrillagues/",	
+},
  {
    "id": 84,
    "name": "Julien",
@@ -78,37 +77,31 @@
    "facebook": "",
    "linkedin": "https://www.linkedin.com/in/bcabanne/"
  },
- {
-   "id": 8,
-   "name": "Rachel",
-   "surname": "Jolin Dubois",
-   "title": "",
-   "bio": "Depuis 12 ans je travaille au sein d’équipes agiles, en tant que Product Owner d’abord puis depuis quelques années en tant que formateur et coach agile. Mon domaine de prédilection est la gestion agile de produits et services multimédia, en combinant Marketing Produit, Stratégie Produit, Lean StartUp, Lean UX / Design Sprint, Design Thinking… J’interviens aussi au niveau entreprise en accompagnant les managers et décideurs à comprendre la culture agile, et en les aidant à se repositionner afin de faciliter les transformations agiles qu’ils engagent. Je travaille actuellement comme coach agile senior au sein des équipes Airbus Operational Excellence. ",
-   "thumbnailUrl": "https://media.licdn.com/dms/image/C4D03AQEXmqIK2AS6yA/profile-displayphoto-shrink_200_200/0?e=1528272000&v=beta&t=TkABspkuLPwl4jqKTy-DYF26Qu8Fy09AjZY8fdkKzu4",
-   "web": "",
-   "tweeter": "https://twitter.com/duboisrachel",
-   "facebook": "",
-   "linkedin": "https://www.linkedin.com/in/duboisrachel/"
- },
- {
-   "id": 2,
-   "name": "Fabrice",
-   "surname": "Aimetti",
-   "title": "",
-   "bio": "Christophe et Fabrice sont tous deux Coach Agile et Coach d'Entreprise. Ils\npartagent les mêmes convictions et les mêmes espoirs dans l'accompagnement\ndes personnes, équipes et organisations.",
-   "thumbnailUrl": "https://twitter.com/twitter/statuses/912000889728139264",
-   "web": "http://ayeba.fr",
-   "tweeter": "@fabriceaimetti",
-   "facebook": "",
-   "linkedin": "https://www.linkedin.com/in/fabrice-aimetti/"
- },
+{
+	"id": 37,
+	"name": "Rachel",
+	"surname": "JOLIN DUBOIS",
+	"company": "DSI de Pôle emploi ",
+	"title": "Coach de PO",
+	"bio": "Houlaaaaa !!  Ancienne \"Marketing Product Manager\" devenue \"Product Owner agile\" suite à une rencontre avec SCRUM et Claude Aubry en 2006, je continue à tracer mon chemin en enrichissant mes pratiques à la faveur des nouvelles rencontres et des lectures. Aujourd'hui je forme et j'accompagne les équipes, et plus particulièrement les PO. ",
+	"thumbnailUrl": "RachelJolinDubois.jpg"
+},
+{
+	"id": 2,
+	"name": "Fabrice",
+	"surname": "AIMETTI",
+	"company": "Ayeba",
+	"title": "Coach Agile",
+	"bio": "Fabrice est Coach Agile et Coach d'Entreprise. Il est convaincu et croit dans l'accompagnement des personnes, équipes et organisations.",
+	"thumbnailUrl": "FabriceAimetti.jpg"
+},
  {
    "id": 23,
    "name": "Christophe",
-   "surname": "Deniaud",
-   "title": "",
+   "surname": "DENIAUD",
+   "title": "Coach Agile",
    "bio": "Christophe Deniaud est Coach en Agilité et Coach d’Entreprise chez AUSY.\nCurieux et passionné d’agilité, il accompagne des équipes dans leurs transitions\norganisationnelles visant à replacer l’individu et les relations au centre de leur\nactivité.",
-   "thumbnailUrl": "https://www.dropbox.com/s/s79rhp0jcy68d5r/photo-fabrice-chris.png?dl=0",
+   "thumbnailUrl": "ChristopheDeniaud.jpg",
    "web": "http://chrisdeniaud.com/",
    "tweeter": "",
    "facebook": "",
@@ -129,7 +122,7 @@
  {
    "id": 87,
    "name": "Marija",
-   "surname": "Perez",
+   "surname": "PEREZ",
    "title": "",
    "bio": "Responsable recrutement",
    "thumbnailUrl": "https://www.linkedin.com/in/marijaperez/",
@@ -165,27 +158,27 @@
  {
    "id": 8,
    "name": "Alice",
-   "surname": "Barralon",
+   "surname": "BARRALON",
+   "company": "Oriions",
    "title": "",
-   "bio": " Je forme, je déforme, je transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching).",
-   "thumbnailUrl": "https://pbs.twimg.com/profile_images/619074662132281344/HQT7kjnr.png",
+   "bio": "Artisan agiliste, et développeur sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). J'ai co-fondé l’événement AgilePaysBasque.",
+   "thumbnailUrl": "AliceBarralon.jpg",
    "web": "oriions.com",
-   "tweeter": "@a_barralon",
-   "facebook": "",
-   "linkedin": ""
- },
+   "tweeter": "@a_barralon"
+},
  {
    "id": 12,
    "name": "Isabelle",
-   "surname": "Blasquez",
-   "title": "",
+   "surname": "BLASQUEZ",
+   "company": "Université de Limoges",
+   "title": "Enseignant-Chercheur",
    "bio": "Enseignant-chercheur. \nArtisan pédagogue développeur d'agilité.\nMembre de la team Duchess France et Fondatrice des journées #iutagile.",
-   "thumbnailUrl": "https://pbs.twimg.com/profile_images/798116333745569792/TUr7R1jx_400x400.jpg",
+   "thumbnailUrl": "IsabelleBlasquez.jpg",
    "web": "https://github.com/iblasquez",
    "tweeter": "https://twitter.com/iblasquez",
    "facebook": "",
    "linkedin": "https://www.linkedin.com/in/isabelle-blasquez-9b377023/"
- },
+},
  {
    "id": 89,
    "name": "Fabien",
@@ -257,19 +250,16 @@
    "tweeter": "",
    "facebook": "https://twitter.com/Matthieu__r",
    "linkedin": ""
- },
+ }, 
  {
-   "id": 28,
-   "name": "Jean-Baptiste",
-   "surname": "Dussaut",
-   "title": "",
-   "bio": "",
-   "thumbnailUrl": "",
-   "web": "",
-   "tweeter": "",
-   "facebook": "",
-   "linkedin": ""
- },
+	"id": 28,
+	"name": "Jean-Baptiste",
+	"surname": "DUSSEAUT",
+	"company": "",
+	"title": "Developpeur",
+	"bio": "eXtreme programmer, co-fondateur d'Arpinum. ",
+	"thumbnailUrl": "Jean-baptisteDusseaut.jpg"
+},
  {
    "id": 93,
    "name": "Raphaël",
@@ -309,15 +299,15 @@
  {
    "id": 58,
    "name": "Claude",
-   "surname": "Andrieux",
+   "surname": "ANDRIEUX",
    "title": "",
    "bio": "https://www.linkedin.com/in/claudejardinier/",
-   "thumbnailUrl": "https://www.linkedin.com/in/claudejardinier/",
+   "thumbnailUrl": "ClaudeAndrieux.jpg",
    "web": "www.legrand.fr",
    "tweeter": "@claude_64510",
    "facebook": "",
    "linkedin": "https://www.linkedin.com/in/claudejardinier/"
- },
+},
  {
    "id": 96,
    "name": "Alexis",
