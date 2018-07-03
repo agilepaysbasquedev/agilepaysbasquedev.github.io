@@ -21,13 +21,13 @@
     - {name: "site", link: "http://www.oriions.com/"}
 - 
   id: 3,
-	name: "Robin",
-	surname: "BERAUD-SUDREAU",
-	title: "",
+  name: "Robin",
+  surname: "BERAUD-SUDREAU",
+  title: "",
   team: true
-	bio: "Coach Agile, j'accompagne mes clients ( Cdiscount, Bouygues, Axa,) et interviens pour des missions de coaching d’équipe où je couvre aussi bien le coaching technique (TDD, intégration continue, …) et organisationnel que le coaching des équipes produits (Personaes, vision, Story mapping,…). Cette approche m'a permis d'acquérir une vision 360°:  Technologie, Produit/Vision & Méthode employée pour maximiser le bien-être des équipes et le ROI des projets sur lesquels j'interviens.",
-	thumbnailUrl: "RobinBeraud.jpg",
-	social:
+  bio: "Coach Agile, j'accompagne mes clients ( Cdiscount, Bouygues, Axa,) et interviens pour des missions de coaching d’équipe où je couvre aussi bien le coaching technique (TDD, intégration continue, …) et organisationnel que le coaching des équipes produits (Personaes, vision, Story mapping,…). Cette approche m'a permis d'acquérir une vision 360°:  Technologie, Produit/Vision & Méthode employée pour maximiser le bien-être des équipes et le ROI des projets sur lesquels j'interviens.",
+  thumbnailUrl: "RobinBeraud.jpg",
+  social:
     - {name: "twitter", link: "https://twitter.com/beraudsudreau"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/robinberaudsudreau/"}
 - 
