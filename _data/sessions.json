@@ -48,7 +48,7 @@
    "subtitle": "",
    "description": "Christophe Deniaud et Fabrice Aimetti souhaitent réunir des personnes qui\ndésirent découvrir, apprendre, développer, … des techniques de coaching qui les\naideront dans leur quotidien. Ils co-facilitent depuis janvier 2016 des Coaching\nDojo sur Bordeaux.",
    "complexity": "Débutant",
-   "speakers": [9, 10]
+   "speakers": [2, 23]
  },
  {
    "id": 11151,
@@ -104,7 +104,7 @@
    "subtitle": "",
    "description": "Alice re-visite l'agilité à Agile-Land à travers son histoire.  \"Voudriez-vous me dire, s’il vous plaît, quel chemin je dois prendre pour [faire de l'agilité] ? – Cela dépend beaucoup de l’endroit où tu veux aller, répondit le chat. – Peu m’importe l’endroit...dit Alice. – En ce cas, peu importe la route que tu prendras, répliqua-t-il.\"\nRencontre théâtralisée avec Alice et le Chapelier fou qui vivent au Pays des Merveilles ou les valeurs humaines et le respect des individus passent avant les képis-aïe ! Ou les managers, comme le chat du cheschire s'éclipsent pour faire place aux principaux protagonistes qui \"font\" l'histoire.\nNous passeront ensuite \"de l'autre côté du miroir\" pour voir ce qu'il en est vraiment de Pays de l'Agilité, dans le monde de l'entreprise.\n\nNous vous proposons un parallèle entre l'aventure d'Alice racontée par Lewis Caroll et notre aventure au Pays de l'Agilité. Cette présentation théatrale permet de revisiter les fondamentaux de l'agilité en s'amusant.\n\nA l'issue de cette présentation, les participants seront amenés à s'interroger sur la voie qu'ils ont chois pour aller vers leur chemin de l'agilité.\n\nNous trouvons le livre de Lewis Caroll très philosophique et nous aimerions faire des parallèles avec notre histoire et l'apprentissage que nous avons de l'agilité.",
    "complexity": "Intermédiaire",
-   "speakers": [14, 15]
+   "speakers": [48, 8]
  },
  {
    "id": 14152,
@@ -112,7 +112,7 @@
    "subtitle": "",
    "description": "Lorsque l’on se lance sur le chemin de l’agilité arrive souvent cette fameuse question : Scrum ou Kanban ? Mais est-ce véritablement la bonne question ? Quels sont les objectifs que l’on souhaite atteindre ?\n\nManager l’auto-organisation, énergiser sans contraindre, structurer une démarche d’amélioration sans imposer de méthode ou encore satisfaire ses clients en anticipant leurs besoins sont des sujets qui font également partie intégrante du processus de transformation.\n\nC’est suite à ce constat qu’a émergé l’Agile Rocket, une démarche alternative vers une agilité respectueuse, modulaire et progressive basée sur la métaphore de la fusée.\n\nDans cette session, vous découvrirez :\n\n- une métaphore pour parler d'Agilité, différemment\n- la mise en oeuvre concrète de son premier module “Coopérer” au sein d’une équipe hors IT",
    "complexity": "Débutant",
-   "speakers": [18]
+   "speakers": [90]
  },
  {
    "id": 14153,
@@ -128,7 +128,7 @@
    "subtitle": "",
    "description": "Cet atelier s'adresse aussi bien à un développeur, un PO qu'à un expert métier. \n\nEn alternant rapidement des phases d'échanges sur le métier et d'implémentation, nous allons :\n    -Découvrir EventStorming\n    -Sentir comment il permet d'aligner la compréhension des Product Owners, des Experts Métiers et des Programmeurs\n    -Voir comment écrire un code cohérent avec la vision partagée du métier \n    -Bien nous amuser\n    -...\n\nAucune connaissance en programmation n'est nécessaire.",
    "complexity": "Tout public",
-   "speakers": [16, 17]
+   "speakers": [89, 12]
  },
  {
    "id": 15301,
@@ -136,7 +136,7 @@
    "subtitle": "",
    "description": "Nous sommes généralement efficaces pour identifier les problèmes d’une situation ou ce que les autres, ou nous-mêmes, ne faisons pas correctement. Par contre, lorsqu’il s’agit de parler de nos points forts, ou de ceux des autres, nous sommes souvent mal à l’aise et parfois démunis.\n\nJe vous propose de découvrir un atelier à la fois concret (des cartes joliment imagées) et ludique (dynamique d’équipe) pour faire émerger vos points forts et générer des échanges bénéfiques.",
    "complexity": "Débutant",
-   "speakers": [20]
+   "speakers": [91]
  },
  {
    "id": 15302,
@@ -144,15 +144,15 @@
    "subtitle": "",
    "description": "Imaginez...\nJohn à Brigitte: \"J’ai un problème, mon Superman d'élite est au bord du burn out… je sens qu’il va se casser! Mais si il se barre toute ma prod part en vrille !\"\n\nPatrick à son écran : \"Purée !!!! J’en ai marre de sauver le monde! J’ai même pas encore pris mon café! J’ai pas le temps de descendre au fond des problèmes… et je reste à éteindre les incendies! je vais finir par me tirer de cette boîte de m...de\"\n\nKevin devant sa spec : \"Oula, la prod est pétée : Vite Patrick viens corriger!\" - \"Euh je sais pas comment faire : Je vais demander à Patrick!\" - \"Aïe! c’est compliqué, je suis sur que Patrick saura le faire!\" - \"Euh non, ça j’ai pas envie, baah Patrick le fera bien pour moi!\"\n\nSi vous êtes John, Brigitte, Patrick, Kevin, un écran, ou une spec… vous avez un problème de super héros !\nOn vous explique comment l’identifier, pourquoi il faut le résoudre et comment nous l’avons fait!\n",
    "complexity": "Débutant",
-   "speakers": [21, 22]
+   "speakers": [51, 92]
  },
  {
    "id": 15303,
-   "title": "JB",
+   "title": "Coming Soon",
    "subtitle": "",
    "description": "",
    "complexity": "",
-   "speakers": [23]
+   "speakers": [28]
  },
  {
    "id": 15304,
@@ -160,7 +160,7 @@
    "subtitle": "",
    "description": "Comment mesurer efficacement l'UX (expérience utilisateur) avec des outils faciles à mettre en place et à exploiter ?",
    "complexity": "Tout public",
-   "speakers": [24, 25]
+   "speakers": [93, 94]
  },
  {
    "id": 16301,
@@ -168,7 +168,7 @@
    "subtitle": "",
    "description": "Une visite 200 ans en arrière pour découvrir une des premières et plus intéressantes collaborations dans toute l'aventure de l'informatique. Nous découvrons ensemble un peu d'histoire du \"pré-ordinateur\" et une investigation dans les annales du développement pour découvrir un couple pas-comme-les-autres, Charles Babbage et Ada Lovelace,  travaillant égal à égal dans une ère où ça ne devrait pas arriver. Même 2 siècles plus tard nous avons beaucoup de leçons à tirer des premiers pas autour de la \"Machine Analytique\". ",
    "complexity": "Tout public",
-   "speakers": [26]
+   "speakers": [95]
  },
  {
    "id": 16302,
@@ -176,7 +176,7 @@
    "subtitle": "",
    "description": "La R&D de la BU “Building System” de Legrand a engagé une transformation Agile courant 2016 suite à des échecs commerciaux et des difficultés à sortir des produits nouveaux depuis plusieurs années. La transformation a mal commencé, uniquement incantatoire et sans aucun accompagnement, les incompréhensions entre direction et collaborateurs, renforcées par des tensions sociales fortes et des craintes pour l’avenir, ont amené l’organisation à être très rapidement bloquée.\nC’est dans ce contexte que Claude, qui jusque là libérait les énergies d’une PME, a accepté de rejoindre Legrand en qualité de responsable R&D (mais avant tout en tant que jardinier holiste). Pourtant, tout lui indiquait qu’une transformation Agile était impossible : un grand groupe du CAC40, à l’organisation pyramidale et à la gestion financière serrée, qui a fait du “contrôle-commande” la norme indiscutable et qui envisagerait de sauver une de ces entités en passant par l’agilité ?!?... Une entreprise vouée à l’échec pour beaucoup d’observateurs...\nC’est aussi dans ce contexte que la tribu Culture Hacking d’OCTO a été retenu pour accompagner cette transformation, notamment grâce à sa proposition de travailler avant tout sur la culture et les relations entre les individus, plutôt que sur une ou des méthodes Agile.\nDepuis 1 an et demi, et ce n’est pas fini, le chemin se construit, des sourires sont revenus, des initiatives ont émergé, des projets de développement engrangent leurs premiers résultats et beaucoup de questions se posent encore.\nNous proposons de partager ce REX “une transformation Agile impossible”. Nous y traiterons de son lot de succès, de doutes, d’échecs, de hasards, au travers d’un jeu des 7 familles d’acteurs du changement et des anecdotes qui tissent ensemble un fil rouge délicat et congruent, à l’image des relations humaines.",
    "complexity": "Débutant",
-   "speakers": [27, 28]
+   "speakers": [58, 96]
  },
  {
    "id": 16303,
@@ -184,6 +184,6 @@
    "subtitle": "",
    "description": "L'agilité, ce sont essentiellement des principes énoncés dans un\nmanifeste. Pour que ces mots ne restent pas que des mots, nous devons\nnous essayer à les mettre en pratique.\nOn peut être agile dans bien des domaines, mais évidemment le champ\nprivilégié reste le développement informatique, parce qu'il est le\nberceau de ce mouvement.\n\nQuelles sont les pratiques ou les outils \"modernes\" de l'informatique\nqui aident à devenir ou rester agile ?\nConnaissez-vous le développement dirigé par les tests ? Le pair\nprogramming ? Les gestionnaires de révision ? La revue de code ? Le\ndéploiement continu ? Automatisez-vous tout ce que vous faites ?\nFaites-vous des POC ? Des Feature Flags ?\n\nEt surtout... pourquoi ne pratiquez-vous pas tout ça déjà ?\n\nSans tomber dans le \"solutionnisme\", nous essaierons de faire un tour\nd'horizon de ces avancées du métier et de leur application dans notre\ncontexte habituel : celui d'un monde changeant, complexe et\nrock'n'roll.",
    "complexity": "",
-   "speakers": [29]
+   "speakers": [97]
  }
 ]
