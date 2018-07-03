@@ -20,7 +20,18 @@
     - {name: "twitter", link: "https://twitter.com/a_barralon"}
     - {name: "site", link: "http://www.oriions.com/"}
 - 
-  id: 2
+  id: 3,
+	name: "Robin",
+	surname: "BERAUD-SUDREAU",
+	title: "",
+  team: true
+	bio: "Coach Agile, j'accompagne mes clients ( Cdiscount, Bouygues, Axa,) et interviens pour des missions de coaching d’équipe où je couvre aussi bien le coaching technique (TDD, intégration continue, …) et organisationnel que le coaching des équipes produits (Personaes, vision, Story mapping,…). Cette approche m'a permis d'acquérir une vision 360°:  Technologie, Produit/Vision & Méthode employée pour maximiser le bien-être des équipes et le ROI des projets sur lesquels j'interviens.",
+	thumbnailUrl: "RobinBeraud.jpg",
+	social:
+    - {name: "twitter", link: "https://twitter.com/beraudsudreau"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/robinberaudsudreau/"}
+- 
+  id: 4
   name: "Mikaël"
   surname: "BERGER"
   title: "Consultant AMOA & Testing Indépendant"
@@ -30,7 +41,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/mikaël-berger-82a307129/"}
     - {name: "twitter", link: "https://twitter.com/mikaquitain"} 
 - 
-  id: 3
+  id: 5
   name: "Vincent"
   surname: "LOUSTAU"
   title: "Product Owner passionné"
@@ -40,7 +51,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/vincent-loustau-3b625931/"}
     - {name: "twitter", link: "https://twitter.com/vincent_loustau"} 
 - 
-  id: 4
+  id: 6
   name: "Pascal"
   surname: "MENARDAIS"
   title: "Software craftsman"
@@ -51,7 +62,7 @@
     - {name: "twitter", link: "https://twitter.com/SquallyGator"}
     - {name: "github", link: "https://github.com/SquallyGator"}
 - 
-  id: 5
+  id: 7
   name: "Christophe"
   surname: "MERLO"
   title: "Enseignant"
@@ -61,7 +72,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/christophemerlo/"}
     - {name: "site", link: "http://www.eralan2.eu/fr/les-acteurs/equipe-estia/christophe-merlo.html"}
 - 
-  id: 6
+  id: 8
   name: "Nicolas"
   surname: "MINGO"
   title: "Software craftsman"
@@ -72,16 +83,7 @@
     - {name: "twitter", link: "https://twitter.com/nicolas_mingo"}
     - {name: "github", link: "https://github.com/nicolasmingo"}
 -
-  id: 7
-  name: "Véronique"
-  surname: "PILNIERE"
-  title: "Enseignante"
-  thumbnailUrl: VeroniquePilniere.jpg
-  team: true
-  social: 
-    - {name: "site", link: "http://www.eralan2.eu/fr/les-acteurs/equipe-estia/veronique-pilniere.html"}
--
-  id: 8
+  id: 9
   name: "Marion"
   surname: "SAUMONNEAU"
   title: "Chargée de projet"
