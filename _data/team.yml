@@ -21,6 +21,16 @@
     - {name: "site", link: "http://www.oriions.com/"}
 - 
   id: 2
+  name: "Robin"
+  surname: "BERAUD-SUDREAU"
+  title: "Coach Agile"
+  thumbnailUrl: "RobinBeraud.jpg"
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/beraudsudreau"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/robinberaudsudreau/"}
+- 
+  id: 3
   name: "Mikaël"
   surname: "BERGER"
   title: "Consultant AMOA & Testing Indépendant"
@@ -30,7 +40,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/mikaël-berger-82a307129/"}
     - {name: "twitter", link: "https://twitter.com/mikaquitain"} 
 - 
-  id: 3
+  id: 4
   name: "Vincent"
   surname: "LOUSTAU"
   title: "Product Owner passionné"
@@ -40,7 +50,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/vincent-loustau-3b625931/"}
     - {name: "twitter", link: "https://twitter.com/vincent_loustau"} 
 - 
-  id: 4
+  id: 5
   name: "Pascal"
   surname: "MENARDAIS"
   title: "Software craftsman"
@@ -51,7 +61,7 @@
     - {name: "twitter", link: "https://twitter.com/SquallyGator"}
     - {name: "github", link: "https://github.com/SquallyGator"}
 - 
-  id: 5
+  id: 6
   name: "Christophe"
   surname: "MERLO"
   title: "Enseignant"
@@ -61,7 +71,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/christophemerlo/"}
     - {name: "site", link: "http://www.eralan2.eu/fr/les-acteurs/equipe-estia/christophe-merlo.html"}
 - 
-  id: 6
+  id: 7
   name: "Nicolas"
   surname: "MINGO"
   title: "Software craftsman"
@@ -71,15 +81,6 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/nicolasmingo/"}
     - {name: "twitter", link: "https://twitter.com/nicolas_mingo"}
     - {name: "github", link: "https://github.com/nicolasmingo"}
--
-  id: 7
-  name: "Véronique"
-  surname: "PILNIERE"
-  title: "Enseignante"
-  thumbnailUrl: VeroniquePilniere.jpg
-  team: true
-  social: 
-    - {name: "site", link: "http://www.eralan2.eu/fr/les-acteurs/equipe-estia/veronique-pilniere.html"}
 -
   id: 8
   name: "Marion"
