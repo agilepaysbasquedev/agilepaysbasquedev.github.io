@@ -84,9 +84,9 @@ aboutLines:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "", info: "Participants attendus", detail: "professionnels, enseignants, étudiants"}
- - {count: "48", specialCharacter: "", info: "Heures d'échanges", detail: "autour de l'agilité"}
+ - {count: "48", specialCharacter: "", info: "Heures d'échanges", detail: "autour des valeurs et pratiques Agile"}
  - {count: "22", specialCharacter: "+", info: "Sessions", detail: "pour tout type de profil"}
- - {count: "3", specialCharacter: "", info: "Formats différents", detail: "conférences, ateliers, forums ouvert"}
+ - {count: "3", specialCharacter: "", info: "Formats différents", detail: "conférences, ateliers, forum ouvert"}
 
 # Format Block
 formatBlock:
