@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Agile Pays Basque"
 email: "agilepb@gmail.com"
 
-description: "Agile Pays Basque les 21 et 22 Septembre 2018 à Bidart. Venez découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances, ou simplement discuter autour de l’agilité et du lean."
+description: "Agile Pays Basque les 21 et 22 Septembre 2018 à Bidart. Venez découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances, ou simplement discuter avec vos pairs autour des valeurs et pratiques Agile"
 baseurl: "/site-web"
 url: "https://agilepaysbasquedev.github.io"
 
@@ -26,7 +26,7 @@ siteVerification: "0n_5JEXK74797dsueojcTPkshAVOblUL7oIpcFIctI8"
 # Organizer Info
 organizerName: "Agile Pays Basque"
 organizerAlternateName: "Agile Pays Basque"
-organizerDescription: "Association pour promouvoir l'Agilité au sein du Pays Basque et ses alentours. Informer et initier aux méthodes agiles."
+organizerDescription: "Association pour promouvoir l'Agilité au Pays Basque. Informer et initier aux pratiques agiles."
 organizerEmail: "agilepb@gmail.com"
 
 # FIXME logo
@@ -48,13 +48,12 @@ c4sponsorsUrl: "/be-sponsor"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
- - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
- - {permalink: "/#tickets", text: "Acheter un billet"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programme"}
+ - {permalink: "/schedule/", text: "Programme 2018"}
  - {permalink: "/schedule2017/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Equipe"}
+ - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
 # - {permalink: "/logistics/", text: "S'y rendre 2017"}
 # - {permalink: "/speakers/", text: "Orateurs 2017"}
 # - {permalink: "/sponsors/", text: "Sponsors 2017"}
@@ -78,22 +77,21 @@ heroFirst: 1
 # About Block
 aboutTitle: "3ème édition de la conférence Agile Pays Basque"
 aboutLines:
- - {text: "L'agilité avec l'ensemble de ses valeurs, principes, méthodes et pratiques, se diffuse progressivement dans nos environnements de travail et dans l'enseignement."}
- - {text: "La 3ème édition : Agile Pays Basque 2018, sera cette année l'évènement agile du Pays Basque. C'est le rendez-vous des professionnels, enseignants et étudiants qui souhaitent savoir comment s'y prendre, découvrir, échanger, apprendre, expérimenter, tester, approfondir leurs connaissances, ou simplement discuter autour de l’agilité."}
- - {text: "Débutants ou experts, curieux ou praticiens, venez donc partager, échanger, vous enrichir sur des thématiques telles que Management Agile, Développement logiciel, Lean IT, Lean Startup, Scrum, Kanban, eXtreme Programming, et l'agile hors IT."}
+ - {text: "La 3ème édition d'Agile Pays Basque 2018 sera le rendez-vous des professionnels, enseignants et étudiants qui souhaitent découvrir, échanger, apprendre, expérimenter, tester, approfondir leurs connaissances, ou simplement discuter avec leurs pairs autour des valeurs et pratiques Agile"}
+ - {text: "Débutants ou experts, venez partager, vous enrichir sur des thématiques telles que le Développement Logiciel et les Tests, la Découverte et la Conception de Produits, la Culture Agile (y compris hors IT) et le Management"}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "", info: "Participants attendus", detail: "Professionnels, Enseignants, &Eacute;tudiants ou Curieux"}
- - {count: "48", specialCharacter: "", info: "Heures d'échanges", detail: "Autour de l'agilité pour tout niveau"}
- - {count: "20", specialCharacter: "+", info: "Sessions", detail: "Pour tout type de profil"}
+ - {count: "200", specialCharacter: "", info: "Participants attendus", detail: "Professionnels, Enseignants, &Eacute;tudiants"}
+ - {count: "48", specialCharacter: "", info: "Heures d'échanges", detail: "Autour de l'agilité"}
+ - {count: "22", specialCharacter: "+", info: "Sessions", detail: "Pour tout type de profil"}
  - {count: "3", specialCharacter: "", info: "Formats différents", detail: "Conférences, Ateliers, Forums Ouverts"}
 
 # Format Block
 formatBlock:
  - {title: "19 Conférences", image: "conference.jpg", text: "réparties sur 3 thématiques \"Culture Agile et Management\", \"Découverte et Conception de Produits\" et \"Développement Logiciel et Tests\". Débutants bienvenus!" }
- - {title: "5 Ateliers", image: "workshop.jpg", text: "pour découvrir ou d'approfondir des pratiques agiles en lien avec les thématiques des conférences" }
+ - {title: "3 Ateliers", image: "workshop.jpg", text: "pour découvrir ou approfondir les pratiques agiles en lien avec les thématiques des conférences" }
  - {title: "1 Forum ouvert", image: "forum.jpg", text: "pendant 1 journée avec un programme co-construit le jour même entre les speakers et les participants, pour augmenter la variété des thématiques ou les approfondir" }
 
 # Latest News Block
