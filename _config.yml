@@ -83,10 +83,10 @@ aboutLines:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "", info: "Participants attendus", detail: "Professionnels, Enseignants, &Eacute;tudiants"}
- - {count: "48", specialCharacter: "", info: "Heures d'échanges", detail: "Autour de l'agilité"}
- - {count: "22", specialCharacter: "+", info: "Sessions", detail: "Pour tout type de profil"}
- - {count: "3", specialCharacter: "", info: "Formats différents", detail: "Conférences, Ateliers, Forums Ouverts"}
+ - {count: "200", specialCharacter: "", info: "Participants attendus", detail: "professionnels, enseignants, étudiants"}
+ - {count: "48", specialCharacter: "", info: "Heures d'échanges", detail: "autour de l'agilité"}
+ - {count: "22", specialCharacter: "+", info: "Sessions", detail: "pour tout type de profil"}
+ - {count: "3", specialCharacter: "", info: "Formats différents", detail: "conférences, ateliers, forums ouvert"}
 
 # Format Block
 formatBlock:
