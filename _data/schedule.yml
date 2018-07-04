@@ -60,57 +60,6 @@
         startTime: "16:30",
         sessionIds: [16301, 16302, 16303, 404]
     }
-
-- 
-  date: "2017-09-22"
-  dateReadable: "22 Septembre - APRES-MIDI"
-  tracks: 
-    - {title: "Estia 1 - Amphi MARI", color: "#00C853"}
-    - {title: "Estia 2 - Amphi 21", color: "#0091EA"}
-    - {title: "Estia 2 - Réunion 1", color: "#D50000"}
-    - {title: "Estia 2 - Réunion 2", color: "#FF6D00"}
-  timeslots:
-    - {
-        startTime: "14:15",
-        sessionIds: [14151]
-    }
-    - {
-        startTime: "14:30",
-        sessionIds: [14301, 14302, 14303, 14304]
-    }
-    - {
-        startTime: "15:30",
-        sessionIds: [15301, 15302, 404, 404]
-    }
-- 
-  date: "2017-09-22"
-  dateReadable: "22 Septembre - APRES-MIDI"
-  tracks: 
-    - {title: "Estia 1 - Amphi MARI", color: "#00C853"}
-    - {title: "Estia 2 - Salles des assos", color: "#AA00FF"}
-    - {title: "Estia 2 - Réunion 1", color: "#D50000"}
-    - {title: "Estia 2 - Réunion 2", color: "#FF6D00"}
-  timeslots:
-    - {
-        startTime: "16:30",
-        sessionIds: [16301]
-    }
-    - {
-        startTime: "16:45",
-        sessionIds: [16451, 16452, 16453, 16454]
-    }
-    - {
-        startTime: "17:45",
-        sessionIds: [17451, 404, 404, 17454]
-    }
-    - {
-        startTime: "18:45",
-        sessionIds: [18451]
-    }
-    - {
-        startTime: "19:00",
-        sessionIds: [19001]
-    }
 - 
   date: "2018-09-23"
   dateReadable: "23 Septembre"
