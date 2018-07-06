@@ -19,7 +19,7 @@
    "title": "Entre industrialisation et artisanat : le métier de développeur",
    "subtitle": "",
    "description": "",
-   "complexity": "",
+   "complexity": "Tout public",
    "speakers": [39]
 }, {
    "id": 10152,
@@ -128,10 +128,10 @@
    "speakers": [51, 92]
 }, {
    "id": 15303,
-   "title": "Coming Soon",
+   "title": "Domain Driven design, une étude de cas",
    "subtitle": "",
-   "description": "",
-   "complexity": "",
+   "description": "Le Domain driven design semble enfin devenir un sujet tendance dans les conférences.\n\nL’approche DDD pourtant ne consiste pas à jeter des patterns à la mode dans son architecture, CQRS et Event Sourcing en tête, mais bien à remettre le métier, et ses problèmes, au coeur de nos préoccupations et de notre code, pour devenir finalement des Full spectrum developers, concept mis en avant par Michal Feather.\n\nTout ceci peut être très abstrait, d’autant plus qu’il est délicat de l’expliquer tant le DDD est somme toute un état d’esprit et une suite de micro-décisions du quotidien. C’est pourquoi, pour tenter de donner un peu de sens à tout ça,  je propose de vous faire une étude de cas sur ma dernière annéel : la refonte de l’application mobile de Sud-Ouest. Je tenterai d’expliquer la démarche stratégique, puis les choix au quotidien. Juste pour le plaisir des buzzwords, oui cette nouvelle application s’appuie sur Google Kubernetes Engine, Firebase, react-native, rx-java, mais ces technologies restent à notre service, pas l’inverse.",
+   "complexity": "Intermédiaire",
    "speakers": [28]
 }, {
    "id": 15304,
