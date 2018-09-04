@@ -10,6 +10,7 @@
     - {name: "Neotech", description: "Neotech Solutions", link: "https://www.neotech-solutions.fr", imageUrl: "Neotechsolutions.png", width: "215px"}
     - {name: "OnePoint", description: "OnePoint, conseil en transformation et solutions digitales", link: "https://www.groupeonepoint.com/", imageUrl: "Onepoint.png", width: "215px"}
     - {name: "Oriions", description: "Oriions, Avez-vous pensé à vous faire former ou accompagner dans votre transition agile et votre innovation continue ?", link: "http://www.oriions.com/", imageUrl: "oriions.png", width: "150px"}
+    - {name: "SOPHiA GENETICS", description: "SOPHiA GENETICS is a health tech company which has developed SOPHiA Artificial Intelligence, the universal and innovative technology for genomic data analysis.", link: "https://www.sophiagenetics.com", imageUrl: "Sophia.svg", width: "215px"}
     - {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
 - 
   group: "Partenaires privilégiés"
