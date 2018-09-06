@@ -107,9 +107,9 @@
    "speakers": [19]
 }, {
    "id": 14154,
-   "title": "EventStorming et CQRS from Scratch",
+   "title": "Découvrir Event Storming et le quotidien des développeurs",
    "subtitle": "",
-   "description": "Cet atelier s'adresse aussi bien à un développeur, un PO qu'à un expert métier. \n\nEn alternant rapidement des phases d'échanges sur le métier et d'implémentation, nous allons :\n    -Découvrir EventStorming\n    -Sentir comment il permet d'aligner la compréhension des Product Owners, des Experts Métiers et des Programmeurs\n    -Voir comment écrire un code cohérent avec la vision partagée du métier \n    -Bien nous amuser\n    -...\n\nAucune connaissance en programmation n'est nécessaire.",
+   "description": "Cet atelier s'adresse aussi bien à un développeur, un PO qu'à un expert métier. \n\nEn alternant rapidement des phases d'échanges sur le métier et d'implémentation, nous allons :\n    -Découvrir EventStorming\n    -Sentir comment il permet d'aligner la compréhension des Product Owners, des Experts Métiers et des Programmeurs\n    -Voir comment écrire un code cohérent avec la vision partagée du métier \n    -Bien nous amuser\n    -...\n\nAucune connaissance en programmation n'est nécessaire. \n\nPrérequis : si possible amener un PC dans lequel vous aurez préchargé Scratch dans votre navigateur en ouvrant la page https://beta.scratch.mit.edu/",
    "complexity": "Tout public",
    "speakers": [89, 12]
 }, {
