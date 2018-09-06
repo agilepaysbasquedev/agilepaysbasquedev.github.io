@@ -15,7 +15,8 @@ Edition:
     # - {name: "Infotel", description: "Infotel Conseil, Editeur de Logiciels du mobile au Big Data", link: "http://www.infotel.com/", imageUrl: "infotel.png", width: "215px"}
     - {name: "Neotech", description: "Neotech", link: "http://www.neotech-solutions.fr/", imageUrl: "http://www.neotech-solutions.fr/media/1050/logoneotechsolutions.png", width: "215px"}
     # - {name: "OnePoint", description: "OnePoint, conseil en transformation et solutions digitales", link: "https://www.groupeonepoint.com/", imageUrl: "Onepoint.png", width: "215px"}
-    # - {name: "Oriions", description: "Oriions, Avez-vous pensé à vous faire former ou accompagner dans votre transition agile et votre innovation continue ?", link: "http://www.oriions.com/", imageUrl: "oriions.png", width: "150px"}
+    - {name: "Oriions", description: "Oriions, Avez-vous pensé à vous faire former ou accompagner dans votre transition agile et votre innovation continue ?", link: "http://www.oriions.com/", imageUrl: "oriions.png", width: "150px"}
+    - {name: "SOPHiA GENETICS", description: "SOPHiA GENETICS is a health tech company which has developed SOPHiA Artificial Intelligence, the universal and innovative technology for genomic data analysis.", link: "https://www.sophiagenetics.com", imageUrl: "Sophia.svg", width: "215px"}
     # - {name: "Wemanity", description: "Wemanity", link: "https://www.wemanity.com", imageUrl: "https://www.wemanity.com/wp-content/uploads/2017/08/wemanity-mobile.png", width: "215px"}
     - {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
   - group: "Partenaires privilégiés"
