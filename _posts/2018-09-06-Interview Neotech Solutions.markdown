@@ -9,8 +9,6 @@ image: Neotechsolutions.png
 
 *Neotech Solutions (Groupe Azeo) est un cabinet de conseil spécialisé sur les technologies Microsoft. Nous accompagnons nos clients dans leur transformation digitale en les aidant à améliorer leur productivité, leur processus de décision et leur compétitivité.*
 
-**Votre entreprise ae&t a fêté ses 40 ans en 2016. Quelles sont les conditions et pré-requis pour mettre en place l’agilité dans une entreprise qui a une certaine ancienneté et un mode de fonctionnement et de management traditionnel ?**
-
 **Pourquoi nous soutenons la communauté Agile ?** 
 
 Les valeurs portées par l’agilité sont très proches de celles du Groupe Azeo dont Neotech Solutions fait partie. A l’heure d’aujourd’hui, l’Agile Tour Pays Basque, comme celui de Bordeaux, est un événement incontournable de l’agilité dans le Sud-Ouest de la France. C’est important pour nous de pouvoir y être associé.
