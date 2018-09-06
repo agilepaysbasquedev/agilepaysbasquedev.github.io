@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Neotech Solutions soutien Agile Pays basque !"
+title:  "Neotech Solutions soutient Agile Pays Basque !"
 date:   2018-09-06 13:00:00
 isStaticPost: false
 category: sponsor
