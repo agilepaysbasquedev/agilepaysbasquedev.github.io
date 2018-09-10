@@ -7,7 +7,7 @@ category: sponsor
 image: Zenika.png
 ---
 
-## **Chez Zenika, l&#39;agilité est au cœur de notre métier.**
+##### **Chez Zenika, l&#39;agilité est au cœur de notre métier.**
 
 Nous partons du principe qu&#39;une seule personne ne peut tout connaître et c&#39;est pour cette raison que la tribu agile vous aide à trouver votre chemin vers l&#39;agilité. Nous proposons une offre agile à 360° avec du conseil, de l&#39;accompagnement terrain et du coaching. Les membres de la tribu qu&#39;ils soient  **Coach** ,  **ScrumMaster**  et ** Product Owner**  seront des relais pour atteindre vos objectifs. Cette approche a pour but de vous aider à consolider la chaîne de valeur client – produit – développement – production.
 
@@ -24,13 +24,13 @@ Les pratiques, que nous mettons en place :  **Scrum** ,  **eXtreme Programming**
 
 Nous adaptons notre approche à votre environnement que ce soit dans un contexte d&#39;adoption de l&#39;agilité ou de transformation agile :
 
-### **Guérison Agile :**
+**Guérison Agile :**
 
 - Nous rencontrons régulièrement des entreprises, des équipes qui ont besoin de reprendre confiance dans l&#39;agilité : soit parce qu&#39;elles se sont confrontées à des freins liés à la culture d&#39;entreprise, soit parce que les pratiques agiles mises en place ont dévié avec le temps. Nous intervenons alors pour relancer une dynamique nouvelle.
 
 - Nous intervenons souvent sur des projets en difficultés, car les enjeux sont importants, que le temps s&#39;écoule, ou bien parce que les équipes de réalisation doivent travailler avec des paradigmes comme «  **faire + avec –**  ». Nous apportons alors notre expérience et l&#39;agilité pour identifier les axes d&#39;améliorations et sécuriser vos objectifs. Nous intervenons pour vous aider dans votre gestion de projet à tout niveau : _Produit_, _Facilitation_, _Technique_.
 
-### **Initiation :**
+**Initiation :**
 
 Parce qu&#39;il est important d&#39;optimiser le potentiel des personnes, de mettre en place de bonnes pratiques et de rapprocher la technique de la création de valeur, nous proposons :
 
@@ -39,13 +39,13 @@ Parce qu&#39;il est important d&#39;optimiser le potentiel des personnes, de met
 - de  **ScrumMasters**
 - ainsi que l&#39;apport de cultures  **DevOps**  et  **Craftsman**.
 
-### **Maturation :**
+**Maturation :**
 
 - Parce que vous adoptez des pratiques agiles et vous voulez améliorer votre  **culture agile** , nous vous accompagnons pour identifier des axes d&#39;amélioration, mettre en oeuvre l **&#39;entreprise libérée** , ou manager une équipe agile –  **Management 3.0**
 
 - Certains projets ou organisations ont besoin d&#39;utiliser  **Scrum à grande échelle** , sur plusieurs équipes, plusieurs  **feature teams**. Zenika vous aide à implémenter les méthodes  **LeSS**  ou  **SAFe**  par la formation et le coaching.
 
-## **L&#39;agilité à tous les étages**
+**L&#39;agilité à tous les étages**
 
 L&#39;agilité par Zenika est organisée en 3 strates :
 
