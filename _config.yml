@@ -49,12 +49,12 @@ c4sponsorsUrl: "/be-sponsor"
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
  - {permalink: "/schedule/", text: "Programme 2018"}
+ - {permalink: "/logistics/", text: "Accès"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule2017/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Equipe"}
- - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
-# - {permalink: "/logistics/", text: "S'y rendre 2017"}
+# - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
 # - {permalink: "/speakers/", text: "Orateurs 2017"}
 # - {permalink: "/sponsors/", text: "Sponsors 2017"}
 bottomNavigationLinks:
@@ -69,7 +69,7 @@ eventDate: "21 / 22 Septembre 2018"
 typeoutTextValues: '"", "Pays Basque", "Cote Basque"'
 typeoutFallback: "Pays Basque"
 heroButtons:
- - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
+ - {permalink: "/logistics/", text: "S'y Rendre"}
  - {permalink: "/#tickets", text: "Acheter un billet"}
 heroCount: 8
 heroFirst: 1
@@ -280,11 +280,13 @@ logisticsMapAutoDirections: true
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Autour de l'ESTIA"
+directionDetailsTitle: "Comment s'y rendre ?"
 directionDetailsCards:
  - {title: "Train et aéroport", information: "La gare TGV Biarritz (La Negresse) est située à 5 minutes. <p>L'aéroport Biarritz (Parme) est situé à 10 minutes.</p>"}
  - {title: "Par bus", information: "La technopole Izarbel, et donc l'Estia, est desservie par Chronoplus le réseau de transport de l’agglomération Côte Basque Adour. <p>La ligne C vous permet d'attendre l'ESTIA. Tous les arrêts de la ligne C sur le site web. Consultez vos trajets et vos horaires en un seul clic sur internet <a href='http://www.chronoplus.eu/horaires_ligne/?rub_code=6&lign_id=4'>www.chronoplus.eu</a> et même depuis votre mobile sur www.chronoplus.mobi.</p>"}
  - {title: "Par autoroute", information: "<p><b>Depuis Bordeaux</b></p><p>Autoroute A63, sortie n° 4 : Biarritz Parme à 2 minutes.</p><p><b>Depuis Toulouse</b></p><p>Autoroute A64 jusqu'à Bayonne puis A63 (direction Espagne), sortie n° 4 : Biarritz Parme à 2 minutes</p>"}
+ - {title: "Covoiturage", information: "<p>Si pour vous le partage est une valeur essentielle, que vous aimer optimiser vos flux ou simplement que vous n’aimez pas voyager seul.</p><p><strong>Pourquoi ne pas opter pour le covoiturage pour vous rendre à Agile Pays Basque ?</strong></p><p>Vu que nous sommes adepte de l’<em>auto</em> organisation, voici un espace dedié, comme ça on vous laisse gérer ça :</p><p><a href='https://tinyurl.com/Agile-PaysBasque-2018-covoit'>https://tinyurl.com/Agile-PaysBasque-2018-covoit</a> ou directement ci-dessous</p>" }
+
 directionDetailsWideCards:
  -
   title: "Questions ?"
@@ -293,11 +295,16 @@ directionDetailsWideCards:
     title: "Hotels"
     links:
      - {link: "http://www.fasthotel.com/aquitaine/hotels-biarritz-pas-cher", text: "Fast Hotel"}
-     - {link: "http://www.atlanthal.com/", text: "Athlantal"}
+     - {link: "http://www.hotel-motel-mil.com/", text: "Motel Mil"}
+     - {link: "http://www.hotel-goxoki.com/fr/", text: "Hôtel Goxoki"}
+     - {link: "http://www.hotelolatua.com/", text: "Hôtel Olatua"}
+     - {link: "http://www.hotel-uhabia.com/", text: "Hôtel Uhabia"}
+     - {link : "http://www.hotel-restaurant-ypua.com/", text: "Hôtel Abaca Ypua"}
    -
     title: "Restauration"
     links:
-     - {link: "http://www.le-spot.rest", text: "Le Spot"}
+     - {link: "http://www.le-spot.rest", text: "Le Spot'"}
+     - {link: "https://www.facebook.com/pages/category/Restaurant/Bleu-Blanc-Jaune-1545775982383554/", text: "Le Bleu Blanc Jaune (BBJ)"}
      - {link: "http://www.fasthotel.com/aquitaine/hotels-biarritz-pas-cher", text: "Fast Hotel"}
 
 # Logistics Direction Details Block
