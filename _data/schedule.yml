@@ -21,11 +21,11 @@
     }
     - {
         startTime: "10:15",
-        sessionIds: [10151, 10152, 10153, 10154]
+        sessionIds: [10151, 10152, 16301, 10154]
     }
     - {
         startTime: "11:15",
-        sessionIds: [11151,11152, 11153, 404]
+        sessionIds: [11151,11153, 11152, 404]
     }
     - {
         startTime: "12:15",
@@ -50,15 +50,15 @@
   timeslots:
     - {
         startTime: "14:15",
-        sessionIds: [14151, 14152, 14153, 14154]
+        sessionIds: [14151, 14153, 14152, 14154]
     }
     - {
         startTime: "15:30",
-        sessionIds: [15301, 15302, 15303, 15304]
+        sessionIds: [15301, 15303, 15302, 15304]
     }
     - {
         startTime: "16:30",
-        sessionIds: [16301, 16302, 16303, 404]
+        sessionIds: [10153, 16302, 16303, 404]
     }
 - 
   date: "2018-09-22"
