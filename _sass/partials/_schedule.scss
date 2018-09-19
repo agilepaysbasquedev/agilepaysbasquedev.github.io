@@ -36,9 +36,9 @@ $small-label-width: 80px;
     }
 }
 .schedule-table {
-    margin-bottom: 90px;
+    margin-bottom: 30px;
     @media (max-width: 767px) {
-        margin-bottom: 60px;
+        margin-bottom: 15px;
         padding: 0;
     }
 }
@@ -109,7 +109,7 @@ $small-label-width: 80px;
     }
 }
 .slot-title {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: $regular;
     margin: 0;
     padding-right: 20px;
@@ -119,6 +119,7 @@ $small-label-width: 80px;
 }
 .track-header-title {
     @extend .slot-title;
+    font-size: 18px;
 }
 .track-header-slot {
     padding: 10px 15px 10px;
@@ -175,6 +176,9 @@ $small-label-width: 80px;
         &:hover {
             transform: translateY(0);
         }
+    }
+    h6{
+        font-size:15px;
     }
     &:hover {
         transform: translateY(5px);
