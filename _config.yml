@@ -59,8 +59,10 @@ navigationLinks:
 # - {permalink: "/sponsors/", text: "Sponsors 2017"}
 bottomNavigationLinks:
  - {permalink: "/#tickets", text: "Acheter un billet"}
+ - {permalink: "/assets/agilepb-programme-2018.pdf", text: "Programme (PDF)"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Acheter un billet"}
+ - {permalink: "/assets/agilepb-programme-2018.pdf", text: "Programme (PDF)"}
 
 # Hero Block
 heroImage: "hero"
@@ -71,6 +73,7 @@ typeoutFallback: "Pays Basque"
 heroButtons:
  - {permalink: "/logistics/", text: "S'y Rendre"}
  - {permalink: "/#tickets", text: "Acheter un billet"}
+ - {permalink: "/assets/agilepb-programme-2018.pdf", text: "Programme (PDF)"}
 heroCount: 8
 heroFirst: 1
 
