@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Agile Pays Basque"
 email: "agilepb@gmail.com"
 
-description: "Agile Pays Basque les 21 et 22 Septembre 2018 à Bidart. Venez découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances, ou simplement discuter avec vos pairs autour des valeurs et pratiques Agile"
+description: "Agile Pays Basque les 20 et 21 Septembre 2019 à Bidart. Venez découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances, ou simplement discuter avec vos pairs autour des valeurs et pratiques Agile"
 baseurl: "/site-web"
 url: "https://agilepaysbasquedev.github.io"
 
@@ -48,40 +48,53 @@ c4sponsorsUrl: "/be-sponsor"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
- - {permalink: "/schedule/", text: "Programme 2018"}
- - {permalink: "/logistics/", text: "Accès"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/schedule/", text: "Programme 2019"}
+# - {permalink: "/logistics/", text: "Accès"}
+ - {permalink: "/intro/", text: "Presentation"}
+ - {permalink: "/schedule2018/", text: "2018"}
  - {permalink: "/schedule2017/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
- - {permalink: "/team/", text: "Equipe"}
+ - {permalink: "/community/", text: "Communauté"}
+ - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
 # - {permalink: "/speakers/", text: "Orateurs 2017"}
 # - {permalink: "/sponsors/", text: "Sponsors 2017"}
 bottomNavigationLinks:
- - {permalink: "/#tickets", text: "Acheter un billet"}
- - {permalink: "/assets/agilepb-programme-2018.pdf", text: "Programme (PDF)"}
+# - {permalink: "/#tickets", text: "Acheter un billet"}
+# - {permalink: "/assets/agilepb-programme-2019.pdf", text: "Programme (PDF)"}
 rightNavigationButtons:
- - {permalink: "/#tickets", text: "Acheter un billet"}
- - {permalink: "/assets/agilepb-programme-2018.pdf", text: "Programme (PDF)"}
+# - {permalink: "/#tickets", text: "Acheter un billet"}
+# - {permalink: "/assets/agilepb-programme-2019.pdf", text: "Programme (PDF)"}
 
 # Hero Block
 heroImage: "hero"
-heroTitle: "Agile <typeout> 2018"
-eventDate: "21 / 22 Septembre 2018"
-typeoutTextValues: '"", "Pays Basque", "Cote Basque"'
-typeoutFallback: "Pays Basque"
+heroTitle: "Agile Pays Basque <typeout>"
+eventDate: "20 / 21 Septembre 2019"
+eventDateExtra: "En cours de preparation"
+typeoutTextValues: '"2016", "2017", "2018", "2019"'
+typeoutFallback: "2019"
 heroButtons:
- - {permalink: "/logistics/", text: "S'y Rendre"}
- - {permalink: "/#tickets", text: "Acheter un billet"}
- - {permalink: "/assets/agilepb-programme-2018.pdf", text: "Programme (PDF)"}
-heroCount: 8
+ - {permalink: "/intro/", text: "Conference"}
+ - {permalink: "/community/", text: "Communauté"}
+# - {permalink: "/logistics/", text: "S'y Rendre"}
+# - {permalink: "/#tickets", text: "Acheter un billet"}
+# - {permalink: "/assets/agilepb-programme-2019.pdf", text: "Programme (PDF)"}
+heroCount: 1
 heroFirst: 1
 
 # About Block
-aboutTitle: "3ème édition de la conférence Agile Pays Basque"
+aboutTitle: "4ème édition en preparation"
 aboutLines:
- - {text: "La 3ème édition d'Agile Pays Basque 2018 sera le rendez-vous des professionnels, enseignants et étudiants qui souhaitent découvrir, échanger, apprendre, expérimenter, tester, approfondir leurs connaissances, ou simplement discuter avec leurs pairs autour des valeurs et pratiques Agile"}
+# - {text: "Ici c'est la tempête mais dès l'arrivée des beaux jours,"}
+# - {text: "L'équipage va se réunir pour étudier les itineraires,"}
+# - {text: "Fixer le cap, et hisser les voiles pour démarrer l'aventure 2019."}
+ - {text: "A noter vos agenda : l'édition 2019 se tiendra les 20 / 21 Septembre 2019"}
+ - {text: "Agile Pays Basque est le rendez-vous des professionnels, enseignants et étudiants qui souhaitent découvrir, échanger, apprendre, expérimenter, tester, approfondir leurs connaissances, ou simplement discuter avec leurs pairs autour des valeurs et pratiques Agile"}
  - {text: "Débutants ou experts, venez partager, vous enrichir sur des thématiques telles que le Développement Logiciel et les Tests, la Découverte et la Conception de Produits, la Culture Agile (y compris hors IT) et le Management"}
+ - {text: "A venir : Sponsoring, Appels à orateurs, Programme, et Billeterie"}
+ 
+# - {text: "Agile Pays Basque c'est le rendez-vous pour découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances des valeurs et pratiques Agile"}
+# - {text: "Débutants ou experts, venez partager, vous enrichir sur des thématiques telles que le Développement Logiciel et les Tests, la Découverte et la Conception de Produits, la Culture Agile (y compris hors IT) et le Management"}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -116,9 +129,9 @@ eventAddressLocality: "Bidart"
 eventAddressLocalityRegion: "64"
 eventPostalCode: "64210"
 eventAddressCountry: "France"
-eventStartTime: "2018-09-21T09:00"
+eventStartTime: "2019-09-20T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2018-09-21T18:00"
+eventEndTime: "2019-09-20T18:00"
 eventPlaceCoordinates: "43.446321, -1.553914"
 
 event2LocationName: "ESTIA 2"
@@ -128,9 +141,9 @@ event2AddressLocality: ""
 event2AddressLocalityRegion: "64"
 event2PostalCode: ""
 event2AddressCountry: "France"
-event2StartTime: "2018-09-22T09:00"
+event2StartTime: "2019-09-21T09:00"
 event2DoorTime: "09:00"
-event2EndTime: "2018-09-22T18:00"
+event2EndTime: "2019-09-21T18:00"
 event2PlaceCoordinates: "43.521377, -1.523359"
 
 mapCenterCoordinates: "43.445995, -1.553750"
@@ -267,7 +280,7 @@ teamBlockTitle: "Envie de participer ?"
 aboutUs: ""
 
 # CFP Block
-cfpBlockTitle: "Appel à orateurs 2018"
+cfpBlockTitle: "Appel à orateurs 2019"
 
 # Logistics Find Way Block
 findWayTitle: ""
@@ -288,7 +301,7 @@ directionDetailsCards:
  - {title: "Train et aéroport", information: "La gare TGV Biarritz (La Negresse) est située à 5 minutes. <p>L'aéroport Biarritz (Parme) est situé à 10 minutes.</p>"}
  - {title: "Par bus", information: "La technopole Izarbel, et donc l'Estia, est desservie par Chronoplus le réseau de transport de l’agglomération Côte Basque Adour. <p>La ligne C vous permet d'attendre l'ESTIA. Tous les arrêts de la ligne C sur le site web. Consultez vos trajets et vos horaires en un seul clic sur internet <a href='http://www.chronoplus.eu/horaires_ligne/?rub_code=6&lign_id=4'>www.chronoplus.eu</a> et même depuis votre mobile sur www.chronoplus.mobi.</p>"}
  - {title: "Par autoroute", information: "<p><b>Depuis Bordeaux</b></p><p>Autoroute A63, sortie n° 4 : Biarritz Parme à 2 minutes.</p><p><b>Depuis Toulouse</b></p><p>Autoroute A64 jusqu'à Bayonne puis A63 (direction Espagne), sortie n° 4 : Biarritz Parme à 2 minutes</p>"}
- - {title: "Covoiturage", information: "<p>Si pour vous le partage est une valeur essentielle, que vous aimer optimiser vos flux ou simplement que vous n’aimez pas voyager seul.</p><p><strong>Pourquoi ne pas opter pour le covoiturage pour vous rendre à Agile Pays Basque ?</strong></p><p>Vu que nous sommes adepte de l’<em>auto</em> organisation, voici un espace dedié, comme ça on vous laisse gérer ça :</p><p><a href='https://tinyurl.com/Agile-PaysBasque-2018-covoit'>https://tinyurl.com/Agile-PaysBasque-2018-covoit</a> ou directement ci-dessous</p>" }
+# - {title: "Covoiturage", information: "<p>Si pour vous le partage est une valeur essentielle, que vous aimer optimiser vos flux ou simplement que vous n’aimez pas voyager seul.</p><p><strong>Pourquoi ne pas opter pour le covoiturage pour vous rendre à Agile Pays Basque ?</strong></p><p>Vu que nous sommes adepte de l’<em>auto</em> organisation, voici un espace dedié, comme ça on vous laisse gérer ça :</p><p><a href='https://tinyurl.com/Agile-PaysBasque-2019-covoit'>https://tinyurl.com/Agile-PaysBasque-2018-covoit</a> ou directement ci-dessous</p>" }
 
 directionDetailsWideCards:
  -
