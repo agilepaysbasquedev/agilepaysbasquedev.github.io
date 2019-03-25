@@ -1,55 +1,66 @@
 ---
 layout: post
-title: Devenir Orateur
+title: Appel à Orateur 2019
 permalink: /cfp/
 image: schedule.jpg
 isStaticPost: true
 ---
 
-#### Pourquoi ?
-Avec une participation constante (150-200 participants), une programmation riche, des orateurs bienveillants et un cadre accueillant, les éditions précédentes d'Agile Pays Basque (2016, 2017) ont été des succès.
-Alors il serait dommage de s'arrêter là !
+#### Edition 2019
+Après 3 années hautes en couleurs, nous préparons cette nouvelle édition et ses 2 jours de « festivités » qui se dérouleront sur 2 jours 
+les vendredi 20 et samedi 21 Septembre 2019 à L’ESTIA à Bidart.
+Cette année, nous avons souhaité adapter un peu la formule en mixant les formats des éditions précedentes 
+- Conférences et atelier repartis sur les 1 jours et demi (vendredi et samedi matin)
+- Open-space le samedi après-midi.
 
-_Le feedback de Chris Deniaud_ :
-- [2016](http://chrisdeniaud.com/2016/10/agile-pays-basque-v-1-0/)
-- [2017](http://chris.deniaud.eu/2017/09/agile-pays-basque-saison-2/)
+#### Soumissions
+**<a href="https://tinyurl.com/agilepb-cfp19" target="_blank" class="btn-link">https://tinyurl.com/agilepb-cfp19</a>**
 
-#### Quand ?
-Agile Pays Basque revient en 2018 !
-Nous préparons d'ores et déjà cette nouvelle édition et ses 2 jours de « festivités »,  les 21 et 22 Septembre 2018.
+**Date limite : 30 avril 2019 à minuit.**
 
-#### Où ?
-Comme les années précédentes l’ESTIA nous accueillera avec plaisir pour la première journée à Bidart. Pour le samedi, nous n'avons pas encore validé de façon définitive l’endroit, mais nous sommes attentifs à vous proposer un cadre aussi agréable que les années précedentes.
-
-#### Comment ?
-Comme en 2017, cette édition sera composée de conférences le 1er jour et d'un open-space le second jour.
-Soumettez nous vos sessions, leurs contenus n’ont pas besoin d'être définitifs, vous pourrez même échanger entre orateurs si vous le souhaitez.
-Vos propositions de sessions, serviront à constituer le programme de la 1ère journée.
-
-<!-- <h4><a href="https://tinyurl.com/agilepb-cfp18" target="_blank" class="btn-link">https://tinyurl.com/agilepb-cfp18</a></h4>
-**Date limite : 30 avril 2018 à minuit.**
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWJI4qCpKrgZYMZTZTHrNufih2s2RyLVbA9-Xgf8n5jG38Ug/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe> -->
-**Le CPF est clôturé, merci pour vos proposition.**
+Soumettez-nous vos propositions de sessions/ateliers, leurs contenus n’ont pas besoin d'être définitifs, .
+Vos soumissions nous serviront à constituer le programme du vendredi et du samedi matin.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc-eMx4b4NRZV5eq-iVyfFUsRzSUR6W22Kcp9Y4ph2AB4iT4Q/viewform?embedded=true" width="760" height="3294" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
+<!--**Le CPF est clôturé, merci pour vos proposition.**-->
 
 #### Revue et Sélection
 Une revue de chaque proposition sera effectuée et une sélection sera opérée afin d’offrir la meilleure expérience possible à nos participants.
-
-#### Qui peut proposer ?
-Nous sommes ouverts à toute proposition, que vous soyez débutant(e) ou confirmé(e), seul(e) ou accompagné(e), d'ici ou d'ailleurs.
-
-#### Multilingue ?
-Les sessions peuvent être proposée en Français, Anglais, Espagnol ou en Basque.
-Comme Ane et Mathieu en 2016 vous pouvez mixer ! Mais la conf sera principalement en français pour être accessible au plus grand nombre.
-
-#### Retour sur le second jour : « Open-Space »
-Le second jour, nous souhaitons de manière plus volontaire ne pas organiser les sujets, pour favoriser le dialogue, les échanges et la spontanéité.
-Tout le monde participe, le contenu sera choisi sur le moment à partir de propositions faites au début de la matinée (tout le monde peut proposer son sujet).
-Le principe de « timebox » sera appliqué, et à chaque fin de cycle, chacun pourra décider de prolonger l’aventure ou passer à un autre sujet.
-Si vous ne pouvez pas proposer de sujet à l’avance, venez avec vos idées et vos envies.
+Nous vous informerons par email courant mai si votre session a été retenue.
+Une liste d'attente est succeptible d'être mise en place jusqu'a mi-juin, le temps d'avoir les confirmations de tout le monde.
 
 #### Quand le programme sera-t-il disponible ?
-Le programme sera communiqué quelques semaines avant la conférence.
-Cependant, en qualité d’équipe d’organisation, nous nous réservons la possibilité de l’aménager les jours qui précèdent l'événement. 
+La liste des orateurs sera communiqué à partir de juin, au fur et a mesure des confirmations. Le programme sera publié un fois que tous les orateurs auront confirmés.
+Nous nous réserverons la possibilité de l’aménager en cas d'imprevus.
+Vous serez, bien entendu, consulté si nous envisageons un changement d'horaire vous concernant.
+
+#### Conditions pour tous nos orateurs
+- Accès gratuit à la conference
+- Repas du midi offert vendredi et samedi
+- Apéro/Repas des orateurs le vendredi soir offert
+- Coffret cadeau suprise 
+- 4 Formules de Defraiements
+ 
+    - **Simplicité**
+        - 1 nuit en chambre d'hôtel + petit déjeuner (reservation par nos soins, hotel imposé)
+        - Remboursement des frais de déplacement (maxi 100€)
+    - **Tranquilité**
+        - 2 nuits en chambre d'hôtel + petit déjeuner (reservation par nos soins, hotel imposé)
+        - Remboursement des frais de déplacement (maxi 25€)
+    - **Liberté**
+        - Hébergement Libre (on ne s'en occupe pas)
+        - Remboursement des Frais d'hébergement et/ou de déplacement (maxi 175€ au total)
+    - **Solidatité**
+        - Si certains sont déjà convenablement financé par leur entreprise, d'autre y mettent de leur poche et il est essentiel de les favoriser.
+        - Donc, si vous estimez ne pas être dans le besoin, vous pouvez renoncer aux défraiement et nous réaffecterons le reste à ceux qui en ont réellement besoin.
+
+Les remboursement de frais se font sur justificatif/facture uniquement, dans la limite définie par la formule choisie
+
+#### Autorisation de Diffusion
+L'orateur s'engage à fournir un support de la présentation ou un lien vers le support partagé à l'issue de la conférence afin qu'il soit publié.
+L'orateur accepte que les photos et vidéos filmées pendant les sessions soient diffusées dans le cadre de l'évènement.
+
+#### Sponsoring
+Vous souhaitez également soutenir l'événement en devenant sponsor, contactez-nous, nous vous enverrons tout ce qu’il faut pour assouvir votre envie de partage.
 
 #### A qui s’adressent les sessions ? Les “Personas”
 Nous vous proposons quelques Persona auxquels vous référer pour cibler vos propositions : 
@@ -69,20 +80,6 @@ Nous vous proposons quelques Persona auxquels vous référer pour cibler vos pro
 - **Padawan** 
     
     Brillant étudiant de 2ème année, tous ces concepts sont encore flous pour lui, mais il aimerait bien partir dans le monde du travail avec un vision plus opérationnelle de son futur travail et s’orienter vers le côté clair de la force.
-
-#### Sponsoring
-Vous souhaitez également soutenir l'événement en devenant sponsor, contactez-nous, nous vous enverrons tout ce qu’il faut pour assouvir votre envie de partage.
-
-#### Diffusion
-L'orateur s'engage à fournir un support de la présentation ou un lien vers le support partagé à l'issue de la conférence afin qu'il soit publié.
-L'orateur accepte que les photos et vidéos filmées pendant les sessions soient diffusées dans le cadre de l'évènement.
-
-#### Participation gratuite des orateurs
-Pour chaque session, si elle est acceptée, les orateurs sont naturellement conviés à participer à l'événement. 
-
-#### Défraiement
-Cette année, nous allouerons un budget pour le defraiement (principalement pour ceux qui viennent de loin).
-Il se fera au cas par cas à l’issue de l'événement, à votre demande, sur présentation des factures, en fonction des recettes et du budget prévisionnel 2019.
 
 #### FeedBack / Aide
 Si vous souhaitez nous aider à organiser un événement qui vous ressemble, envoyez vos idées, toute suggestion est la bienvenue.
