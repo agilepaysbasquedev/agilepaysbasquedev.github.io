@@ -49,7 +49,7 @@ Vous serez, bien entendu, consulté si nous envisageons un changement d'horaire 
     - **Liberté**
         - Hébergement Libre (on ne s'en occupe pas)
         - Remboursement des Frais d'hébergement et/ou de déplacement (maxi 175€ au total)
-    - **Solidatité**
+    - **Solidarité**
         - Si certains sont déjà convenablement financé par leur entreprise, d'autre y mettent de leur poche et il est essentiel de les favoriser.
         - Donc, si vous estimez ne pas être dans le besoin, vous pouvez renoncer aux défraiement et nous réaffecterons le reste à ceux qui en ont réellement besoin.
 
