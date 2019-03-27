@@ -3,7 +3,7 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.data.allpartners.Title }}</h3>
-            {% for partner in site.data.allpartners.Edition[0].partners %}
+            {% for partner in site.data.allpartners.Edition[include.editionIndex].partners %}
                 <h5>{{ partner.group }}</h5>
                 <ul class="list-inline">
                     {% for element in partner.elements %}

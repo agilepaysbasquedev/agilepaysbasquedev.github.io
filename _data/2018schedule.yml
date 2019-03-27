@@ -1,0 +1,107 @@
+- 
+  date: "2018-09-21"
+  dateReadable: "21 Septembre - MATIN"
+  tracks: 
+    - {title: "Grand Amphithéatre  (ESTIA 1)", color: "#0F0000"}
+  timeslots:
+    - {
+        startTime: "8:00",
+        sessionIds: [8001]
+    }
+    - {
+        startTime: "8:20",
+        sessionIds: [8201]
+    }
+    - {
+        startTime: "9:00",
+        sessionIds: [9001]
+    }
+- 
+  date: "2018-09-21"
+  tracks: 
+    - {title: "Amphi 1 (ESTIA 2)", color: "#00C853"}
+    - {title: "Amphi 2 (ESTIA 2)", color: "#0091EA"}
+    - {title: "Salle 1 (ESTIA 2)", color: "#D50000"}
+    - {title: "Salle 2 (ESTIA 2)", color: "#FFD600"}
+  timeslots:
+    - {
+        startTime: "10:15",
+        sessionIds: [10151, 10152, 16301, 10154]
+    }
+    - {
+        startTime: "11:15",
+        sessionIds: [11151,11153, 11152, 404]
+    }
+- 
+  date: "2018-09-21"
+  tracks: 
+    - {title: "Amphi 1 (ESTIA 2)", color: "#00C853"}
+    - {title: "Restaurant le Spot'", color: "BROWN"}
+  timeslots:
+    - {
+        startTime: "12:15",
+        sessionIds: [12151, 12153]
+    }
+    - {
+        startTime: "12:45",
+        sessionIds: [12451, 404]
+    }
+    - {
+        startTime: "13:15",
+        sessionIds: [13151,  13153]
+    }
+    - {
+        startTime: "13:45",
+        sessionIds: [13451,  404]
+    }
+- 
+  date: "2018-09-21"
+  dateReadable: "APRES-MIDI"
+  tracks: 
+    - {title: "Amphi 1 (ESTIA 2)", color: "#00C853"}
+    - {title: "Amphi 2 (ESTIA 2)", color: "#0091EA"}
+    - {title: "Salle 1 (ESTIA 2)", color: "#D50000"}
+    - {title: "Salle 2 (ESTIA 2)", color: "#FFD600"}
+  timeslots:
+    - {
+        startTime: "13:30",
+        sessionIds: [404,404,404,14154]
+    }
+    - {
+        startTime: "14:15",
+        sessionIds: [14151, 14153, 14152, 404]
+    }
+    - {
+        startTime: "15:15",
+        sessionIds: [15151, 15153, 15152, 15154]
+    }
+    - {
+        startTime: "16:30",
+        sessionIds: [10153, 16302, 16303, 404]
+    }
+- 
+  date: "2018-09-22"
+  dateReadable: "22 Septembre (ESTIA 2)"
+  tracks: 
+    - {title: "Forum Ouvert", color: "#00C853"}
+  timeslots:
+    - {
+        startTime: "9:00",
+        sessionIds: [140]
+    }
+    - {
+        startTime: "10:00",
+        sessionIds: [141]
+    }
+    - {
+        startTime: "12:00",
+        sessionIds: [144]
+    }
+    - {
+        startTime: "14:00",
+        sessionIds: [142]
+    }
+    - {
+        startTime: "16:00",
+        sessionIds: [143]
+    }
