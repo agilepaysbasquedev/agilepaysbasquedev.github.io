@@ -50,12 +50,13 @@ navigationLinks:
  - {permalink: "/", text: "Accueil"}
 # - {permalink: "/schedule/", text: "Programme 2019"}
 # - {permalink: "/logistics/", text: "Accès"}
- - {permalink: "/intro/", text: "Presentation"}
+# - {permalink: "/intro/", text: "Presentation"}
+ - {permalink: "/cfp/", text: "Devenir Orateur 2019"}
  - {permalink: "/schedule2018/", text: "2018"}
  - {permalink: "/schedule2017/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
  - {permalink: "/community/", text: "Communauté"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
 # - {permalink: "/speakers/", text: "Orateurs 2017"}
 # - {permalink: "/sponsors/", text: "Sponsors 2017"}
@@ -74,8 +75,9 @@ eventDateExtra: "En cours de preparation"
 typeoutTextValues: '"2016", "2017", "2018", "2019"'
 typeoutFallback: "2019"
 heroButtons:
- - {permalink: "/intro/", text: "Conference"}
- - {permalink: "/community/", text: "Communauté"}
+- {permalink: "/cfp/", text: "Devenir Orateur 2019"}
+#- {permalink: "/intro/", text: "Conference"}
+#- {permalink: "/community/", text: "Rejoindre la Communauté"}
 # - {permalink: "/logistics/", text: "S'y Rendre"}
 # - {permalink: "/#tickets", text: "Acheter un billet"}
 # - {permalink: "/assets/agilepb-programme-2019.pdf", text: "Programme (PDF)"}
