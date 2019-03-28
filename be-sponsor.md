@@ -16,9 +16,9 @@ isStaticPost: true
 - __9 sponsors__ (dont 5 qui nous soutiennent depuis le début) et des partenaires fidèles et engagés
 
 ###### Une programmation et un public varié
-- La conférence se veut un rendez-vous ouvert à tous, avec un programmation varié afin d'avoir aussi bien des sessions accessibles aux débutants, que des sessions pour les plus avancés.
-- Le programme propose 3 tracks dédiées pour pouvoir parler aussi bien aux Développeurs, Testeurs, ScrumMasters, Product owners, qu'aux managers et autres fonctions transverses
-- Parler d'Agile est pour nous une porte d'entrée pour aborder d'autres sujets connexes comme l'artisanat du logiciel (software craftsmanship), ou l'entreprise libérée.
+- La conférence se veut un rendez-vous ouvert à tous, avec un programmation variée afin d'avoir aussi bien des sessions accessibles aux débutants, que des sessions pour les plus avancés.
+- Cette année nous souhaitons que le programme propose des sessions pour les développeurs et les product owners / product manager. Les sessions seront des talks de 50 minutes ou des ateliers.
+- Parler d'Agile est pour nous une porte d'entrée pour aborder d'autres sujets plus transverses comme l'artisanat du logiciel (software craftsmanship), ou l'entreprise libérée. Nous n'oublions pas l'importance de la communication au sein des équipes.
 
 ##### __Pourquoi nous soutenir ?__
 ###### Pour participer à une initiative locale
@@ -32,9 +32,7 @@ isStaticPost: true
 ###### Nous vous proposons ces contreparties
 - Mise en avant sur notre site www.agile-paysbasque.fr
     - Logo, descriptif et lien vers votre société
-    - Interview dans un article du blog pour expliquer pourquoi vous vous engagez en nous soutenant
 - Remerciements pour votre soutien sur les réseaux sociaux (Twitter, LinkedIn)
-- Remerciements lors de la keynote d’ouverture le jour de la conférence
 - Espace de communication dédié (petit stand) le jour de la conférence: vous pourrez y mettre à disposition flyers ou goodies
 - 3 pass invités (vendredi et samedi, déjeuners inclus)
 
