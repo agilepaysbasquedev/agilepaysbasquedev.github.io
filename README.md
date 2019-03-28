@@ -1,6 +1,7 @@
-# Site Web Agile Pays Basque
+# (DEV) Site Web Agile Pays Basque 
 
-### Live https://agile-paysbasque.fr
+### Live(DEV) https://agilepaysbasquedev.github.io/site-web/
+### Live(PROD) https://agile-paysbasque.fr
 
 **Fork** (https://github.com/gdg-x/zeppelin/fork) 
 
