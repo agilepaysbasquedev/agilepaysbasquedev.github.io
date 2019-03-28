@@ -5,7 +5,7 @@ permalink: /be-sponsor/
 image: team.jpg
 isStaticPost: true
 ---
-### __Pour que la conférence Agile Pays Basque continue d'avoir lieu nous avons besoin de votre soutien.__
+#### __Pour que la conférence Agile Pays Basque continue d'avoir lieu nous avons besoin de votre soutien.__
 ##### En 2017 c'était :
 ###### Chiffres clé :
 - __200 participants__ : principalement des professionnels (développeurs, PO, managers et autres fonctions transverses), mais aussi des enseignants et des étudiants
