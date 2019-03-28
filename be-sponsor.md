@@ -46,7 +46,3 @@ Par ailleurs, certains orateurs n'ont pas les moyens de se déplacer si l'associ
 
 ##### __Aidez-nous dès maintenant__
 Contactez-nous par mail [agilepb@gmail.com](mailto:agilepb@gmail.com) et nous vous adresserons un contrat de sponsoring.
-
-Et pour faciliter vos règlement nous avons mis en place une collecte sur helloasso : <a href="https://www.helloasso.com/associations/agile-cote-basque/collectes/agile-pays-basque-2018-sponsoring/1" target="_blank">Accés / nouvel onglet</a>
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/agile-cote-basque/collectes/agile-pays-basque-2018-sponsoring/widget" style="width:100%;height:750px;border:none;" onload="window.scroll(0, this.offsetTop)"></iframe>
-<div style="width:100%;text-align:center;">Propulsé par <a href="https://www.helloasso.com" rel="nofollow">HelloAsso</a></div>
