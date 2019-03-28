@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Devenez Sponsor de l'édition 2018
+title: Devenez Sponsor de l'édition 2019
 permalink: /be-sponsor/
 image: team.jpg
 isStaticPost: true
 ---
-#### __Pour que la conférence Agile Pays Basque continue d'avoir lieu nous avons besoin de votre soutien.__
-##### En 2017 c'était :
-###### Chiffres clé :
+
+__Pour que la conférence Agile Pays Basque continue d'avoir lieu, nous avons besoin de votre soutien.__
+<br/>
+<br/>
+<br/>
+##### __La conférence en quelques lignes__
+###### Chiffres clé (2017) :
 - __200 participants__ : principalement des professionnels (développeurs, PO, managers et autres fonctions transverses), mais aussi des enseignants et des étudiants
 - __48 Heures d'échanges__ autour de l'Agile (pour tous niveaux)
 - __3 Formats différents__: conférences et ateliers le vendredi, forum ouvert le samedi
