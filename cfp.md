@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Appel à Orateur 2019
+title: Appel à Orateur/Oratrice 2019
 permalink: /cfp/
 image: schedule.jpg
 isStaticPost: true
@@ -10,7 +10,7 @@ isStaticPost: true
 Après 3 années hautes en couleurs, nous préparons cette nouvelle édition et ses 2 jours de « festivités » qui se dérouleront sur 2 jours 
 les vendredi 20 et samedi 21 Septembre 2019 à L’ESTIA à Bidart.
 Cette année, nous avons souhaité adapter un peu la formule en mixant les formats des éditions précedentes 
-- Conférences et atelier repartis sur les 1 jours et demi (vendredi et samedi matin)
+- Conférences et atelier repartis sur 1 jours et demi (vendredi et samedi matin)
 - Open-space le samedi après-midi.
 
 #### Soumissions
@@ -29,9 +29,9 @@ Nous vous informerons par email courant mai si votre session a été retenue.
 Une liste d'attente est succeptible d'être mise en place jusqu'a mi-juin, le temps d'avoir les confirmations de tout le monde.
 
 #### Quand le programme sera-t-il disponible ?
-La liste des orateurs sera communiqué à partir de juin, au fur et a mesure des confirmations. Le programme sera publié un fois que tous les orateurs auront confirmés.
+La liste des orateurs/oratrices sera communiqué à partir de juin, au fur et à mesure des confirmations. Le programme sera publié un fois que tous les intervenant.e.s auront confirmés.
 Nous nous réserverons la possibilité de l’aménager en cas d'imprevus.
-Vous serez, bien entendu, consulté si nous envisageons un changement d'horaire vous concernant.
+Vous serez, bien entendu, consulté.e si nous envisageons un changement d'horaire vous concernant.
 
 #### Conditions pour tous nos orateurs
 - Accès gratuit à la conference
@@ -53,11 +53,11 @@ Vous serez, bien entendu, consulté si nous envisageons un changement d'horaire 
         - Si certains sont déjà convenablement financé par leur entreprise, d'autre y mettent de leur poche et il est essentiel de les favoriser.
         - Donc, si vous estimez ne pas être dans le besoin, vous pouvez renoncer aux défraiement et nous réaffecterons le reste à ceux qui en ont réellement besoin.
 
-Les remboursement de frais se font sur justificatif/facture uniquement, dans la limite définie par la formule choisie
+Les remboursements de frais se font sur justificatif/facture uniquement, dans la limite définie par la formule choisie
 
 #### Autorisation de Diffusion
-L'orateur s'engage à fournir un support de la présentation ou un lien vers le support partagé à l'issue de la conférence afin qu'il soit publié.
-L'orateur accepte que les photos et vidéos filmées pendant les sessions soient diffusées dans le cadre de l'évènement.
+L'orateur/oratrice s'engage à fournir un support de la présentation ou un lien vers le support partagé à l'issue de la conférence afin qu'il soit publié.
+L'orateur/oratrice accepte que les photos et vidéos filmées pendant les sessions soient diffusées dans le cadre de l'évènement.
 
 #### Sponsoring
 Vous souhaitez également soutenir l'événement en devenant sponsor, contactez-nous, nous vous enverrons tout ce qu’il faut pour assouvir votre envie de partage.
