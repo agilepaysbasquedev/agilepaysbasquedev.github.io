@@ -5,6 +5,7 @@ permalink: /cfp-en/
 image: schedule.jpg
 isStaticPost: true
 ---
+**<a href="{{ site.baseurl }}/cfp/" class="btn-link">fr-FR &lt;--</a>**
 
 #### Edition 2019
 After 3 colorfull years, we are preparing the 2019 edition with its 2 days of  « celebrations ». It  will occures from friday 20 to saturday 21 of September 2019 in Bidart, at the ESTIA school.

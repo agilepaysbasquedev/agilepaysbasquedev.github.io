@@ -5,6 +5,7 @@ permalink: /cfp/
 image: schedule.jpg
 isStaticPost: true
 ---
+**<a href="{{ site.baseurl }}/cfp-en/" class="btn-link">--&gt; en-FR</a>**
 
 #### Edition 2019
 Après 3 années hautes en couleurs, nous préparons cette nouvelle édition et ses 2 jours de « festivités » qui se dérouleront sur 2 jours 
