@@ -52,7 +52,7 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Accès"}
 # - {permalink: "/intro/", text: "Presentation"}
  - {permalink: "/cfp/", text: "Devenir Orateur"}
- - {permalink: "/be-sponsor/", text: "Sponsoring"}
+# - {permalink: "/be-sponsor/", text: "Sponsoring"}
  - {permalink: "/schedule2018/", text: "2018"}
  - {permalink: "/schedule2017/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
@@ -77,7 +77,7 @@ typeoutTextValues: '"2016", "2017", "2018", "2019"'
 typeoutFallback: "2019"
 heroButtons:
 - {permalink: "/cfp/", text: "Devenir Orateur"}
-- {permalink: "/be-sponsor/", text: "Sponsoring"}
+#- {permalink: "/be-sponsor/", text: "Sponsoring"}
 #- {permalink: "/intro/", text: "Conference"}
 #- {permalink: "/community/", text: "Rejoindre la Communauté"}
 # - {permalink: "/logistics/", text: "S'y Rendre"}
