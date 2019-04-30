@@ -17,7 +17,7 @@ Cette année, nous avons souhaité adapter un peu la formule en mixant les forma
 #### Soumissions
 **<a href="https://tinyurl.com/agilepb-cfp19" target="_blank" class="btn-link">https://tinyurl.com/agilepb-cfp19</a>**
 
-**Date limite : 30 avril 2019 à minuit.**
+**Date limite : 31 mai 2019 à minuit.**
 
 Soumettez-nous vos propositions de sessions/ateliers, leurs contenus n’ont pas besoin d'être définitifs, .
 Vos soumissions nous serviront à constituer le programme du vendredi et du samedi matin.
@@ -25,8 +25,8 @@ Vos soumissions nous serviront à constituer le programme du vendredi et du same
 <!--**Le CPF est clôturé, merci pour vos proposition.**-->
 
 #### Revue et Sélection
-Une revue de chaque proposition sera effectuée et une sélection sera opérée afin d’offrir la meilleure expérience possible à nos participants.
-Nous vous informerons par email courant mai si votre session a été retenue.
+Une revue de chaque proposition sera effectuée et une sélection sera opérée afin d’offrir la meilleure expérience possible à nos participant.e.s.
+Nous vous informerons par email courant mai/juin si votre session a été retenue.
 Une liste d'attente est succeptible d'être mise en place jusqu'a mi-juin, le temps d'avoir les confirmations de tout le monde.
 
 #### Quand le programme sera-t-il disponible ?
@@ -38,24 +38,27 @@ Vous serez, bien entendu, consulté.e si nous envisageons un changement d'horair
 - Accès gratuit à la conference
 - Repas du midi offert vendredi et samedi
 - Apéro/Repas des orateurs le vendredi soir offert
-- Coffret cadeau suprise 
-- 4 Formules de Defraiements
- 
-    - **Simplicité**
-        - 1 nuit en chambre d'hôtel + petit déjeuner (reservation par nos soins, hotel imposé)
-        - Remboursement des frais de déplacement (maxi 100€)
-    - **Tranquilité**
-        - 2 nuits en chambre d'hôtel + petit déjeuner (reservation par nos soins, hotel imposé)
-        - Remboursement des frais de déplacement (maxi 25€)
-    - **Liberté**
-        - Hébergement Libre (on ne s'en occupe pas)
-        - Remboursement des Frais d'hébergement et/ou de déplacement (maxi 175€ au total)
-    - **Solidarité**
-        - Si certains sont déjà convenablement financé par leur entreprise, d'autre y mettent de leur poche et il est essentiel de les favoriser.
-        - Donc, si vous estimez ne pas être dans le besoin, vous pouvez renoncer aux défraiement et nous réaffecterons le reste à ceux qui en ont réellement besoin.
+- Coffret cadeau suprise
 
-Les remboursements de frais se font sur justificatif/facture uniquement, dans la limite définie par la formule choisie
+#### Defraiements
+Nous proposons un remboursements de frais rééls (avion/train/péage/essence) sur justificatif/facture uniquement.
 
+Il faudra nous contacter au préalable pour accord et plafonnement éventuel.
+
+##### Quelques exemples :
+
+- Depuis **Paris** ~300 euros 
+    - 1 vol via Hop aller vendredi matin 7h->8h30/ retour samedi 17h35->19:00 : 
+    - 1 nuit en chambre d'hôtel + petit déjeuner
+   
+- Depuis **Bordeaux** ~150 euros
+    - 1 A/R en voiture ou en train depuis Bordeaux
+    - 1 nuits en chambre d'hôtel + petit déjeuner 
+    
+- Depuis **Toulouse** ~200 euros
+    - 1 A/R en voiture ou en train depuis Toulouse
+    - 1 nuits en chambre d'hôtel + petit déjeuner 
+    
 #### Autorisation de Diffusion
 L'orateur/oratrice s'engage à fournir un support de la présentation ou un lien vers le support partagé à l'issue de la conférence afin qu'il soit publié.
 L'orateur/oratrice accepte que les photos et vidéos filmées pendant les sessions soient diffusées dans le cadre de l'évènement.

@@ -16,7 +16,7 @@ This year we wanted to adapt a little bit the event formula by mixing previous e
 #### Submissions (FR)
 **<a href="https://tinyurl.com/agilepb-cfp19" target="_blank" class="btn-link">https://tinyurl.com/agilepb-cfp19</a>**
 
-**Limite Date : 30 april 2019 midnight.**
+**Limite Date : 31 may 2019 midnight.**
 
 Send us your talk/workshop proposal, its content doesn't need to be complete, 
 we will use it to build the program of friday and saturday morning.
@@ -26,8 +26,8 @@ we will use it to build the program of friday and saturday morning.
 
 #### Review and Selection
 Each proposal will be reviewed and a selection will be done in order to propose the best possible experience to our participants.
-We will inform you by email during may if your proposal has been selected.
-A waiting list can be used until mid-june, the time to have all presence confirmed.
+We will inform you by email during may/june if your proposal has been selected.
+A waiting list can be used until end of june, the time to have all presence confirmed.
 
 #### When will the program be available ?
 The speaker list will be communicated during june, gradually after each speaker confirmation. The full program will be published only when all is clear and confirmed.
@@ -40,22 +40,25 @@ Of course, you will be consulted on eventual schedule or room shifting, if you'r
 - Lunch offered friday and saturday
 - Free Speakers aperitif/diner friday night
 - Surprise gift box 
-- 4 Defferals Formulas :
- 
-    - **Simplicity**
-        - 1 night in a hotel room + breakfast (booking by us, imposed hotel)
-        - Refund of travel expenses (max 100€)
-    - **Tranquility**
-        - 2 nights in a hotel room + breakfast (booking by us, imposed hotel)
-        - Refund of travel expenses (max 25€)
-    - **Liberty**
-        - Accommodation at your convenience (We do not care)
-        - Refund of travel and accommodation expenses (max 175€)
-    - **Solidarity**
-        - If some speakers are already adequately financed by their company, on the other hand others finance their coming by their own, we think that it is essential to promote them.
-        - So, If you feel that you are not in need, you can give up the expenses and we will reassign the rest to those who really need it.
 
-Refunds of travel or accommodation expenses are on proof/invoice only, within the limit defined by the chosen formula.
+#### Defferals
+We propose a refund of travel and accommodation expenses(flight/train/toll/gas cost)  on proof/invoice only.
+
+It will be necessary to contact us beforehand for aggreement/approval and eventual limitation.
+
+##### Some exemples :
+
+- From **Paris** ~300 euros 
+    - 1 flight round trip via Hop Go on friday 7h->8h30/back on saturday 17h35->19:00
+    - 1 night in a hotel room + breakfast
+   
+- From **Bordeaux** ~150 euros
+    - 1 round trip by car or by train from Bordeaux
+    - 1 night in a hotel room + breakfast
+    
+- From **Toulouse** ~200 euros
+    - 1 round trip by car or by train from Toulouse
+    - 1 night in a hotel room + breakfast
 
 #### Broadcasting Agreement
 Each speaker undertakes to provide presentation support or a link to the shared media at the end of the conference for publication.
