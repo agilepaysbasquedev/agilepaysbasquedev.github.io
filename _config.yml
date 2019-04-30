@@ -13,8 +13,8 @@ title: "Agile Pays Basque"
 email: "agilepb@gmail.com"
 
 description: "Agile Pays Basque les 20 et 21 Septembre 2019 à Bidart. Venez découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances, ou simplement discuter avec vos pairs autour des valeurs et pratiques Agile"
-baseurl: ""
-url: "https://agile-paysbasque.fr"
+baseurl: "/site-web"
+url: "https://agilepaysbasquedev.github.io"
 
 permalink: "/blog/:title"
 
@@ -51,7 +51,8 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Programme 2019"}
 # - {permalink: "/logistics/", text: "Accès"}
 # - {permalink: "/intro/", text: "Presentation"}
- - {permalink: "/cfp/", text: "Devenir Orateur 2019"}
+ - {permalink: "/cfp/", text: "Devenir Orateur"}
+# - {permalink: "/be-sponsor/", text: "Sponsoring"}
  - {permalink: "/schedule2018/", text: "2018"}
  - {permalink: "/schedule2017/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
@@ -75,7 +76,8 @@ eventDateExtra: "En cours de preparation"
 typeoutTextValues: '"2016", "2017", "2018", "2019"'
 typeoutFallback: "2019"
 heroButtons:
-- {permalink: "/cfp/", text: "Devenir Orateur 2019"}
+- {permalink: "/cfp/", text: "Devenir Orateur"}
+#- {permalink: "/be-sponsor/", text: "Sponsoring"}
 #- {permalink: "/intro/", text: "Conference"}
 #- {permalink: "/community/", text: "Rejoindre la Communauté"}
 # - {permalink: "/logistics/", text: "S'y Rendre"}
