@@ -51,7 +51,7 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Programme 2019"}
 # - {permalink: "/logistics/", text: "Accès"}
 # - {permalink: "/intro/", text: "Presentation"}
- - {permalink: "/cfp/", text: "Devenir Orateur"}
+# - {permalink: "/cfp/", text: "Devenir Orateur"}
 # - {permalink: "/be-sponsor/", text: "Sponsoring"}
  - {permalink: "/schedule2018/", text: "2018"}
  - {permalink: "/schedule2017/", text: "2017"}
@@ -62,10 +62,10 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Orateurs 2017"}
 # - {permalink: "/sponsors/", text: "Sponsors 2017"}
 bottomNavigationLinks:
-# - {permalink: "/#tickets", text: "Acheter un billet"}
+- {permalink: "/#tickets", text: "Acheter un billet"}
 # - {permalink: "/assets/agilepb-programme-2019.pdf", text: "Programme (PDF)"}
 rightNavigationButtons:
-# - {permalink: "/#tickets", text: "Acheter un billet"}
+- {permalink: "/#tickets", text: "Acheter un billet"}
 # - {permalink: "/assets/agilepb-programme-2019.pdf", text: "Programme (PDF)"}
 
 # Hero Block
@@ -76,12 +76,12 @@ eventDateExtra: "En cours de preparation"
 typeoutTextValues: '"2016", "2017", "2018", "2019"'
 typeoutFallback: "2019"
 heroButtons:
-- {permalink: "/cfp/", text: "Devenir Orateur"}
+#- {permalink: "/cfp/", text: "Devenir Orateur"}
 #- {permalink: "/be-sponsor/", text: "Sponsoring"}
 #- {permalink: "/intro/", text: "Conference"}
 #- {permalink: "/community/", text: "Rejoindre la Communauté"}
 # - {permalink: "/logistics/", text: "S'y Rendre"}
-# - {permalink: "/#tickets", text: "Acheter un billet"}
+- {permalink: "/#tickets", text: "Acheter un billet"}
 # - {permalink: "/assets/agilepb-programme-2019.pdf", text: "Programme (PDF)"}
 heroCount: 1
 heroFirst: 1
@@ -195,7 +195,7 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "70"
   ribbon: "-35%"
-  buyButtonLink: "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2017/"
+  buyButtonLink: "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2019/"
   buyButtonText: "Acheter"
   ticketContentList: ["Conférences et ateliers à l'ESTIA, vendredi", "Repas au Spot' vendredi midi", "Forum ouvert à l'ATLANTHAL, samedi", "Repas à l'ATLANTHAL, samedi midi"]
   validFrom: "2017-06-14T00:00"
