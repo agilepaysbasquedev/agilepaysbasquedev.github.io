@@ -1,0 +1,101 @@
+- 
+  date: "2019-09-XX"
+  dateReadable: "XX Septembre - MATIN"
+  tracks: 
+    - {title: "Amphi", color: "#0F0000"}
+  timeslots:
+    - {
+        startTime: "8:00",
+        sessionIds: [404]
+    }
+    - {
+        startTime: "8:20",
+        sessionIds: [404]
+    }
+    - {
+        startTime: "9:00",
+        sessionIds: [404]
+    }
+- 
+  date: "2019-09-XX"
+  tracks: 
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#0091EA"}
+    - {title: "Salle 3", color: "#D50000"}
+  timeslots:
+    - {
+        startTime: "10:15",
+        sessionIds: [20190110151, 20190110152, 20190110153]
+    }
+    - {
+        startTime: "11:15",
+        sessionIds: [20190111151, 20190111152, 20190111153]
+    }
+- 
+  date: "2019-09-XX"
+  tracks: 
+    - {title: "Amphi XX", color: "#00C853"}
+    - {title: "Restaurant", color: "BROWN"}
+  timeslots:
+    - {
+        startTime: "12:15",
+        sessionIds: [404, 404]
+    }
+    - {
+        startTime: "12:45",
+        sessionIds: [404, 404]
+    }
+    - {
+        startTime: "13:15",
+        sessionIds: [404,  404]
+    }
+    - {
+        startTime: "13:45",
+        sessionIds: [404,  404]
+    }
+- 
+  date: "2019-09-XX"
+  dateReadable: "APRES-MIDI"
+  tracks: 
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#0091EA"}
+    - {title: "Salle 3", color: "#D50000"}
+  timeslots:
+    - {
+        startTime: "13:30",
+        sessionIds: [404, 404, 404]
+    }
+    - {
+        startTime: "14:15",
+        sessionIds: [20190114151, 20190114152, 20190114153]
+    }
+    - {
+        startTime: "15:15",
+        sessionIds: [20190115151, 20190115152, 20190115153]
+    }
+    - {
+        startTime: "16:30",
+        sessionIds: [20190116301, 20190116302, 20190116303]
+    }
+- 
+  date: "2019-09-XX"
+  dateReadable: "XX Septembre"
+  tracks: 
+    - {title: "Forum Ouvert", color: "#00C853"}
+  timeslots:
+    - {
+        startTime: "9:30",
+        sessionIds: [2019029301, 2019029301, 2019029301]
+    }
+    - {
+        startTime: "12:00",
+        sessionIds: [404]
+    }
+    - {
+        startTime: "14:00",
+        sessionIds: [20190214001]
+    }
+    - {
+        startTime: "16:00",
+        sessionIds: [404]
+    }
