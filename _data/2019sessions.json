@@ -1,0 +1,240 @@
+[
+    {
+        "id": 20190108001,
+        "title": "Accueil",
+        "service": "true"
+    },
+    {
+        "id": 20190108201,
+        "title": "Mot de l'orga - Présentation des sponsors",
+        "description": "Pitch des sessions du matin",
+        "service": "true"
+    },
+    {
+        "id": 20190109001,
+        "title": "Arnaud Lemaire (BDX - à confirmer)",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Tout public",
+        "speakers": [
+            81
+        ]
+    },
+    {
+        "id": 20190110151,
+        "title": "DDD et le modèle Acteur",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Tout public",
+        "speakers": [
+            39
+        ]
+    },
+    {
+        "id": 20190110152,
+        "title": "Product vision: from the framing phase",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Débutant",
+        "speakers": [
+            82,
+            83
+        ]
+    },
+    {
+        "id": 20190110153,
+        "title": "Transformation agile: arrêtons de suivre aveuglément des frameworks",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Tout public",
+        "speakers": [
+            30
+        ]
+    },
+    {
+        "id": 20190111151,
+        "title": "Test Architecture DDD",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Débutant",
+        "speakers": [
+            2,
+            23
+        ]
+    },
+    {
+        "id": 20190111152,
+        "title": "Comment délivrer un max de valeur?",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Expert",
+        "speakers": [
+            84
+        ]
+    },
+    {
+        "id": 20190111153,
+        "title": "Appréhender des postures managériales en contexte agile",
+        "subtitle": "",
+        "description": "A la poursuite d'un rendement industriel élevé, des entreprises mettent en place plusieurs processus de vérifications et de contrôles multi niveaux, des découpages de projets en trop petites tailles ou avec trop d'adhérences ou encore des gestions de \"ressources\" interchangeables à volonté. Ceci a pour effet d'éroder la valeur produite par point de vélocité.\nSans adresser l'équipe de développement et les pratiques de craftmanship, je ferais un tour des mauvaises pratiques en bordure (entendez actionnable au niveau management) qui perturbent, ralentissent ou ne pas permettent pas de tirer le meilleur d'une équipe de réalisation. \n",
+        "complexity": "Tout public",
+        "speakers": [
+            85
+        ]
+    },
+    {
+        "id": 20190112153,
+        "title": "PAUSE / REPAS",
+        "description": " 1er service",
+        "service": "true"
+    },
+    {
+        "id": 20190113153,
+        "title": "PAUSE / REPAS",
+        "description": " 2er service",
+        "service": "true"
+    },
+    {
+        "id": 20190113451,
+        "title": "PAUSE",
+        "description": "",
+        "service": "true"
+    },
+    {
+        "id": 20190114151,
+        "title": "Romeu Moura",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Intermédiaire",
+        "speakers": [
+            37
+        ]
+    },
+    {
+        "id": 20190114152,
+        "title": "Anne Gabrillagues",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Débutant",
+        "speakers": [
+            86
+        ]
+    },
+    {
+        "id": 20190114153,
+        "title": "La spirale Agile",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Débutant",
+        "speakers": [
+            87
+        ]
+    },
+    {
+        "id": 20190115151,
+        "title": "JB Dusseaut (BDX - à confirmer)",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Débutant",
+        "speakers": [
+            91
+        ]
+    },
+    {
+        "id": 20190115152,
+        "title": "Nils Lesieur (PAR - à confirmer)",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Débutant",
+        "speakers": [
+            51,
+            92
+        ]
+    },
+    {
+        "id": 20190115153,
+        "title": "Dette emotionnelle",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Intermédiaire",
+        "speakers": [
+            28
+        ]
+    },
+    {
+        "id": 20190116301,
+        "title": "The software evolution hasn't happened yet",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Tout public",
+        "speakers": [
+            95
+        ]
+    },
+    {
+        "id": 20190116302,
+        "title": "Le Product Owner, star de l’équipe agile : entre fantasme et réalité",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Débutant",
+        "speakers": [
+            58,
+            96
+        ]
+    },
+    {
+        "id": 20190116303,
+        "title": "Faire tomber le cycle en V",
+        "subtitle": "",
+        "description": "",
+        "complexity": "",
+        "speakers": [
+            97
+        ]
+    },
+    {
+        "id": 140,
+        "title": "Forum Ouvert : Ordre du Jour",
+        "subtitle": "Les participants et orateurs co-définissent l'ordre du jour en amenant leurs idées.",
+        "description": "Tous les participants se retrouvent en session plénière pour co-définir l'ordre du jour. Chaque partipant amène ses idées, questions, besoins à traiter. Tout le monde doit s'y retrouver dans les sujets à aborder pour un engagement maximal",
+        "complexity": "Tous",
+        "subtype": "workshop"
+    },
+    {
+        "id": 20190209301,
+        "title": "Kata \"code\"",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Tous",
+        "subtype": "workshop"
+    },
+    {
+        "id": 20190209302,
+        "title": "Kata \"splitter les US\"",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Tous",
+        "subtype": "workshop"
+    },
+    {
+        "id": 20190209303,
+        "title": "L'héritage de Demin",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Tous",
+        "subtype": "workshop"
+    },
+    {
+        "id": 20190214001,
+        "title": "Forum Ouvert",
+        "subtitle": "",
+        "description": "",
+        "complexity": "Tous",
+        "subtype": "workshop"
+    },
+    {
+        "id": 144,
+        "title": "Repas",
+        "service": "true"
+    }
+]
