@@ -2,7 +2,7 @@
   date: "2019-09-20"
   dateReadable: "20 Septembre - MATIN"
   tracks: 
-    - {title: "Grand Amphithéatre", color: "#0F0000"}
+    - {title: "Salle 1", color: "#0F0000"}
   timeslots:
     - {
         startTime: "8:00",
@@ -19,17 +19,17 @@
 - 
   date: "2018-09-20"
   tracks: 
-    - {title: "Salle 1 (ESTIA 2)", color: "#00C853"}
-    - {title: "Salle 2 (ESTIA 2)", color: "#D50000"}
-    - {title: "Salle 3 (ESTIA 2)", color: "#FFD600"}
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#D50000"}
+    - {title: "Salle 3", color: "#FFD600"}
   timeslots:
     - {
         startTime: "10:00",
-        sessionIds: [10151, 10152, 16301]
+        sessionIds: [10001, 10002, 10003]
     }
     - {
         startTime: "11:00",
-        sessionIds: [11151, 11153, 11152]
+        sessionIds: [11001, 11002, 11003]
     }
 - 
   date: "2019-09-20"
@@ -38,27 +38,27 @@
   timeslots:
     - {
         startTime: "12:00",
-        sessionIds: [12451, 404]
+        sessionIds: [12001]
     }
 - 
   date: "2019-09-20"
   dateReadable: "APRES-MIDI"
   tracks: 
-    - {title: "Amphi 1 (ESTIA 2)", color: "#00C853"}
-    - {title: "Amphi 2 (ESTIA 2)", color: "#0091EA"}
-    - {title: "Salle 1 (ESTIA 2)", color: "#D50000"}
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#0091EA"}
+    - {title: "Salle 3", color: "#D50000"}
   timeslots:
     - {
         startTime: "14:00",
-        sessionIds: [14154, 404, 404]
+        sessionIds: [14001, 14002, 14003]
     }
     - {
         startTime: "15:00",
-        sessionIds: [14151, 14153, 14152]
+        sessionIds: [15001, 15002, 15003]
     }
     - {
         startTime: "16:00",
-        sessionIds: [10153, 16302, 16303]
+        sessionIds: [16001, 16002, 16003]
     }
 - 
   date: "2018-09-21"
@@ -70,11 +70,11 @@
   timeslots:
     - {
         startTime: "9:00",
-        sessionIds: [140]
+        sessionIds: [209001]
     }
     - {
         startTime: "9:30",
-        sessionIds: [141, 404, 404]
+        sessionIds: [209301, 209301, 209303]
     }
 - 
   date: "2018-09-21"
@@ -84,13 +84,13 @@
   timeslots:
     - {
         startTime: "12:00",
-        sessionIds: [144]
+        sessionIds: [212001]
     }
     - {
         startTime: "14:00",
-        sessionIds: [142]
+        sessionIds: [214001]
     }
     - {
         startTime: "16:00",
-        sessionIds: [143]
+        sessionIds: [216001]
     }

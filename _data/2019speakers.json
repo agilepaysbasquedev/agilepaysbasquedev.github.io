@@ -70,19 +70,6 @@
 	"linkedin": ""
 },
 {
-	"id": 85,
-	"name": "Benjamin",
-	"surname": "CABANNE",
-	"title": "Coach Agile",
-	"company": "Orange",
-	"bio": "Coach pro, coach agile, facilitateur et scribeur. Avec ma casquette de coach, j'accompagne les humains, les équipes et les organisations à se poser leurs bonnes questions pour définir leur chemin et s'engager dessus. Avec ma casquette de facilitateur ou scribeur, j'accompagne les humains, les équipes et les organisations à mettre plus de plaisir et plus de collectif dans leurs engagements de tous les jours pour progresser sur leur chemin.\nIssu du monde du développement logiciel, j’ai vécu et appris de l’intérieur et compris la nécessité de l’agilité. Issu également du sport en compétition, j’ai une appétence particulière pour l’apprentissage par l'expérimentation.\n#Happy #CoachPro #CoachAglile #Scribing \n",
-	"thumbnailUrl": "BenjaminCabanne.jpg",
-	"web": "",
-	"tweeter": "https://twitter.com/plopMaker",
-	"facebook": "",
-	"linkedin": "https://www.linkedin.com/in/bcabanne/"
-},
-{
 	"id": 37,
 	"name": "Rachel",
 	"surname": "JOLIN DUBOIS",
@@ -349,6 +336,182 @@
 	"tweeter": "brunobord",
 	"facebook": "",
 	"linkedin": ""
+},
+{
+	"id": 100,
+	"name": "Didier",
+	"surname": "PLAINDOUX",
+	"title": "",
+	"company": "",
+	"bio": "",
+	"thumbnailUrl": "DidierPlaindoux.jpg",
+	"web": "",
+	"tweeter": "",
+	"facebook": "",
+	"linkedin": ""
+},
+{
+	"id": 101,
+	"name": "Ségolène",
+	"surname": "POROT",
+	"title": "",
+	"company": "",
+	"bio": "",
+	"thumbnailUrl": "SegolenePorot.jpg",
+	"web": "",
+	"tweeter": "",
+	"facebook": "",
+	"linkedin": ""
+},
+{
+	"id": 102,
+	"name": "Denis",
+	"surname": "MIGOT",
+	"title": "Coach agile | Formateur",
+	"company": "Zenika",
+	"bio": "J’aide les personnes, les équipes, les managers, les dirigeants et les entreprises à atteindre leur plein potentiel en créant un environnement favorable à l’engagement et à l’amélioration continue. Pour y parvenir j’anime des formations et je m’appuie sur le coaching, le mentorat ainsi que la facilitation d’ateliers.\nPragmatique, créatif et enthousiaste, j’accompagne les organisations dans leur recherche de performance dans un contexte complexe en privilégiant le dialogue centré solution, le management libéré et la visualisation des systèmes.\n\nJe dispose de plus de 15 années d’expérience en accompagnement de personnes, de projets et d’entreprises. 15 années durant lesquelles j’ai pu endosser différentes casquettes : chargé de communication, chef de projet, scrum master, responsable de service, formateur, coach agile, auteur et conférencier. 15 années durant lesquelles j’ai eu l’opportunité de travailler aussi bien en France qu’au Canada au sein de start-ups, PME, groupes internationaux et entreprises classées au Fortune Global 500.",
+	"thumbnailUrl": "DenisMigot.jpg",
+	"web": "",
+	"tweeter": "DenisMigot",
+	"facebook": "",
+	"linkedin": "denis-migot-agile"
+},
+{
+	"id": 103,
+	"name": "Xavier",
+	"surname": "BLANC",
+	"title": "",
+	"company": "",
+	"bio": "",
+	"thumbnailUrl": "XavierBlanc.jpg",
+	"web": "",
+	"tweeter": "",
+	"facebook": "",
+	"linkedin": ""
+},
+{
+	"id": 104,
+	"name": "Jérôme",
+	"surname": "FROVILLE",
+	"title": "Coach agile",
+	"company": "Pôle Emploi",
+	"bio": "",
+	"thumbnailUrl": "JeromeFroville.jpg",
+	"web": "",
+	"tweeter": "",
+	"facebook": "",
+	"linkedin": "froville"
+}, {
+    "id": 52,
+    "name": "Régis",
+    "surname": "SCHNEIDER",
+    "title": "Coach Agile",
+    "bio": "Je suis marié, avec 2 enfants (7 & 8 ans). J'adore la randonnée (disons trekking si ça fait mieux), la montagne. J'apprécie particulièrement les voyages éloignés, mais aussi ceux au bout de la rue. Tant d'opportunités de rencontrer et d'apprendre !Sinon, je suis Coach Agile à tendance Product Owner chez Valtech à Paris.Je suis tombé dans Agile en 2009 et je ne veux maintenant plus m'en sortir. En particulier pour la raison que je trouve là un bon prétexte pour [m']amuser au boulot. Mais c'est toujours fait avec beaucoup de sérieux.",
+    "thumbnailUrl": "RegisSchneider.jpg",
+    "ribbon": [{
+        "abbr": "2017",
+        "title": "2017",
+        "url": "2017"
+    }]
+},
+{
+	"id": 105,
+	"name": "Romeu",
+	"surname": "MOURA",
+	"title": "",
+	"company": "",
+	"bio": "Endless conversation — with friends, compilers — on art, Symmathesy, methods, absurdism, dialectic, paradigm jumps, serendipity.",
+	"thumbnailUrl": "RomeuMoura.jpg",
+	"web": "",
+	"tweeter": "",
+	"facebook": "",
+	"linkedin": ""
+},
+{
+	"id": 106,
+	"name": "David",
+	"surname": "DESFOUGERES",
+	"title": "Coach Professionnel Certifié RNCP1, Coach de Transition Agile et Fondateur de Allagi",
+	"company": "Allagi",
+	"bio": "",
+	"thumbnailUrl": "DavidDesfougeres.jpg",
+	"web": "",
+	"tweeter": "",
+	"facebook": "",
+	"linkedin": "david-desfougeres"
+}, {
+	"id": 61,
+	"name": "Marc",
+	"surname": "DUGUE",
+	"thumbnailUrl": "MarcDugue.jpg"
+},
+{
+	"id": 107,
+	"name": "Johan",
+	"surname": "MARTINSSON",
+	"title": "Independent dev. Craftsman.",
+	"company": "",
+	"bio": "Passionate about code and the pursuit of excellency.",
+	"thumbnailUrl": "JohanMartinsson.jpg",
+	"web": "",
+	"tweeter": "johan_alps",
+	"facebook": "",
+	"linkedin": ""
+}, {
+    "id": 40,
+    "name": "Nils",
+    "surname": "LESIEUR",
+    "company": "Nexeo",
+    "title": "CTO",
+    "bio": "Développeur surtout en .Net depuis 10 ansFan de l'agilité depuis 5 ans (j'aurai tellement aimé tomber dedans avant)Joueur, coach de rugby mais aujourd'hui seulement supporterMembre de l'organisation de Lean Kanban France 2016 & 17Speaker à l'Agile Tour Toulouse et Sophia 2016Responsable technique et opérationnel chez Nexeo",
+    "thumbnailUrl": "NilsLesieur.jpg"
+},
+{
+	"id": 108,
+	"name": "Marylin",
+	"surname": "KOL",
+	"title": "",
+	"company": "",
+	"bio": "",
+	"thumbnailUrl": "MarylinKol.jpg",
+	"web": "",
+	"tweeter": "",
+	"facebook": "",
+	"linkedin": ""
+},
+{
+	"id": 109,
+	"name": "Emilien",
+	"surname": "PECOUL",
+	"title": "",
+	"company": "",
+	"bio": "Passionate by #SoftwareCrafting #DDD #CQRS #ES #TDD #BDD #FunctionalProgramming (no specific order) Lost in #CategoryTheory Currently #Freelance and #JobHacker",
+	"thumbnailUrl": "EmilienPecoul.jpg",
+	"web": "",
+	"tweeter": "ouarzy",
+	"facebook": "",
+	"linkedin": ""
+},
+{
+	"id": 110,
+	"name": "Jean-Pierre",
+	"surname": "LAMBERT",
+	"title": "Agile Coach - Writer & Speaker about Agile & Quality",
+	"company": "Freelance",
+	"bio": "Creator of the 'Scrum Life' YouTube show",
+	"thumbnailUrl": "JeanPierreLambert.jpg",
+	"web": "",
+	"tweeter": "",
+	"facebook": "",
+	"linkedin": "jp-lambert"
+}, {
+    "id": 85,
+    "name": "François",
+    "surname": "SALAZAR",
+    "company": "Waavy",
+    "title": "Entrepreneur, Formateur",
+    "bio": "François occupe aujourd’hui un poste de directeur dans une PME Innovante en transition vers un modèle agile intégral. Il partage aussi ses retours d’expériences comme facilitateur de transition pour les dirigeants. Bien avant : Développeur, chef de projet, manager, entrepreneur, formateur",
+    "thumbnailUrl": "FrancoisSalazar.jpg"
 }
 
 ]
