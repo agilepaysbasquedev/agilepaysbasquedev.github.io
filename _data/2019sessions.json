@@ -12,49 +12,49 @@
      "title": "Coming soon !",
      "subtitle": "",
      "description": "Keynote Arnaud Lemaire. Durée : 45 min.",
-     "complexity": "Tout public",
+     "complexity": "Tous",
      "speakers": [39]
   }, {
      "id": 10001,
      "title": "DDD et le modèle Acteur",
-     "subtitle": "Didier Plaindoux",
+     "subtitle": "",
      "description": "",
-     "complexity": "Dev",
+     "complexity": "IT, developpeurs",
      "speakers": [100]
   }, {
      "id": 10002,
      "title": "Product vision: from the framing phase",
      "subtitle": "",
      "description": "",
-     "complexity": "Product",
+     "complexity": "Tous",
      "speakers": [101]
   }, {
      "id": 10003,
      "title": "Transformation agile: Arrêtons de suivre aveuglément des frameworks",
      "subtitle": "",
      "description": "",
-     "complexity": "Organisation",
+     "complexity": "Tous",
      "speakers": [102]
   }, {
      "id": 11001,
      "title": "Test Architecture DDD",
-     "subtitle": "Domain Driven Design",
+     "subtitle": "",
      "description": "",
-     "complexity": "Dev - expert",
+     "complexity": "IT, développeurs",
      "speakers": [103]
   }, {
      "id": 11002,
      "title": "Comment délivrer un max de valeur?",
      "subtitle": "",
      "description": "",
-     "complexity": "Product",
+     "complexity": "Tous",
      "speakers": [104]
   }, {
      "id": 11003,
      "title": "Appréhender des postures managériales en contexte agile",
      "subtitle": "",
      "description": "",
-     "complexity": "Coaching",
+     "complexity": "Tous",
      "speakers": [52]
   }, {
       "id": 12001,
@@ -63,14 +63,14 @@
       "service": "true"
   }, {
      "id": 14001,
-     "title": "Romeu Moura",
-     "subtitle": "Romeu Moura",
+     "title": "Coming soon !",
+     "subtitle": "",
      "description": "",
-     "complexity": "Dev",
+     "complexity": "IT, développeurs",
      "speakers": [105]
   }, {
      "id": 14002,
-     "title": "Anne Gabrillagues",
+     "title": "Coming soon !",
      "subtitle": "",
      "description": "",
      "complexity": "",
@@ -84,45 +84,45 @@
      "speakers": [106]
   }, {
      "id": 15001,
-     "title": "Johann Martinsson",
+     "title": "Coming soon !",
      "subtitle": "",
      "description": "",
-     "complexity": "Dev",
+     "complexity": "IT, développeurs",
      "speakers": [107]
   }, {
      "id": 15002,
-     "title": "Nils Lesieur",
+     "title": "Coming soon !",
      "subtitle": "",
      "description": "",
-     "complexity": "Dev",
+     "complexity": "IT, développeurs",
      "speakers": [40]
   }, {
      "id": 15003,
      "title": "Dette emotionnelle",
      "subtitle": "",
      "description": "",
-     "complexity": "",
+     "complexity": "Tous",
      "speakers": [108]
   }, {
      "id": 16001,
      "title": "The software evolution hasn't happened yet",
      "subtitle": "",
      "description": "",
-     "complexity": "Dev",
+     "complexity": "IT, développeurs",
      "speakers": [109]
   },{
      "id": 16002,
      "title": "Le Product Owner, star de l’équipe agile: entre fantasme et réalité",
      "subtitle": "",
      "description": "",
-     "complexity": "",
+     "complexity": "Tous",
      "speakers": [110]
   }, {
      "id": 16003,
      "title": "Faire tomber le cycle en V",
      "subtitle": "",
      "description": "",
-     "complexity": "",
+     "complexity": "Tous",
      "speakers": [37, 85]
   }, {
       "id": 209001,
@@ -144,7 +144,7 @@
       "title": "Kata \"splitter les User Stories\"",
       "subtitle": "",
       "description": "",
-      "complexity": "",
+      "complexity": "Tous",
       "subtype": "workshop",
       "speakers": [104]
    }, {
@@ -152,7 +152,7 @@
       "title": "Comment devenir le seigneur des pictos",
       "subtitle": "",
       "description": "",
-      "complexity": "",
+      "complexity": "Tous",
       "subtype": "workshop",
       "speakers": [61]
    }, {
