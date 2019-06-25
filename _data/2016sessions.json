@@ -216,7 +216,8 @@
 	"complexity": "Tous",
 	"subtype": "keynote",
 	"speakers": [68],
-	"place": "Amphi"
+	"place": "Amphi",
+	"presentation": "https://www.aubryconseil.com/blog/public/prez/ClaudeAubry-ScrumMonScrotum.pdf"
 }, {
 	"id": 133,
 	"title": "Spécifications en milieu Agile",
