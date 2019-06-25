@@ -65,8 +65,8 @@
   dateReadable: "21 Septembre"
   tracks: 
     - {title: "Salle 1", color: "#00C853"}
-    - {title: "Salle 2", color: "#00C853"}
-    - {title: "Salle 3", color: "#00C853"}
+    - {title: "Salle 2", color: "#D50000"}
+    - {title: "Salle 3", color: "#FFD600"}
   timeslots:
     - {
         startTime: "9:00",
@@ -74,7 +74,16 @@
     }
     - {
         startTime: "9:30",
-        sessionIds: [209301, 209301, 209303]
+        sessionIds: [209301, 209302, 209303]
+    }
+- 
+  date: "2018-09-21"
+  tracks: 
+    - {title: "Buffet", color: "#00C853"}
+  timeslots:
+    - {
+        startTime: "12:00",
+        sessionIds: [212001]
     }
 - 
   date: "2018-09-21"
@@ -82,10 +91,6 @@
   tracks: 
     - {title: "Forum Ouvert", color: "#00C853"}
   timeslots:
-    - {
-        startTime: "12:00",
-        sessionIds: [212001]
-    }
     - {
         startTime: "14:00",
         sessionIds: [214001]
