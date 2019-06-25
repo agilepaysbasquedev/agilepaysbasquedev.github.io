@@ -48,7 +48,7 @@ c4sponsorsUrl: "/be-sponsor"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
-# - {permalink: "/schedule/", text: "Programme 2019"}
+ - {permalink: "/schedule2019/", text: "Programme 2019"}
 # - {permalink: "/logistics/", text: "Accès"}
 # - {permalink: "/intro/", text: "Presentation"}
 # - {permalink: "/cfp/", text: "Devenir Orateur"}
