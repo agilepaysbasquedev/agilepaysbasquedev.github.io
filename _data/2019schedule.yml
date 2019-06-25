@@ -24,37 +24,24 @@
     - {title: "Salle 3 (ESTIA 2)", color: "#FFD600"}
   timeslots:
     - {
-        startTime: "10:15",
+        startTime: "10:00",
         sessionIds: [10151, 10152, 16301]
     }
     - {
-        startTime: "11:15",
+        startTime: "11:00",
         sessionIds: [11151, 11153, 11152]
     }
 - 
-  date: "2018-09-21"
+  date: "2019-09-20"
   tracks: 
-    - {title: "Amphi 1 (ESTIA 2)", color: "#00C853"}
     - {title: "Restaurant le Spot'", color: "BROWN"}
   timeslots:
     - {
-        startTime: "12:15",
-        sessionIds: [12151, 12153]
-    }
-    - {
-        startTime: "12:45",
+        startTime: "12:00",
         sessionIds: [12451, 404]
     }
-    - {
-        startTime: "13:15",
-        sessionIds: [13151, 13153]
-    }
-    - {
-        startTime: "13:45",
-        sessionIds: [13451, 404]
-    }
 - 
-  date: "2018-09-21"
+  date: "2019-09-20"
   dateReadable: "APRES-MIDI"
   tracks: 
     - {title: "Amphi 1 (ESTIA 2)", color: "#00C853"}
@@ -62,35 +49,39 @@
     - {title: "Salle 1 (ESTIA 2)", color: "#D50000"}
   timeslots:
     - {
-        startTime: "13:30",
+        startTime: "14:00",
         sessionIds: [14154, 404, 404]
     }
     - {
-        startTime: "14:15",
+        startTime: "15:00",
         sessionIds: [14151, 14153, 14152]
     }
     - {
-        startTime: "15:15",
-        sessionIds: [15151, 15153, 15152]
-    }
-    - {
-        startTime: "16:30",
+        startTime: "16:00",
         sessionIds: [10153, 16302, 16303]
     }
 - 
-  date: "2018-09-22"
-  dateReadable: "22 Septembre (ESTIA 2)"
+  date: "2018-09-21"
+  dateReadable: "21 Septembre"
   tracks: 
-    - {title: "Forum Ouvert", color: "#00C853"}
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#00C853"}
+    - {title: "Salle 3", color: "#00C853"}
   timeslots:
     - {
         startTime: "9:00",
         sessionIds: [140]
     }
     - {
-        startTime: "10:00",
-        sessionIds: [141]
+        startTime: "9:30",
+        sessionIds: [141, 404, 404]
     }
+- 
+  date: "2018-09-21"
+  dateReadable: "APRES-MIDI"
+  tracks: 
+    - {title: "Forum Ouvert", color: "#00C853"}
+  timeslots:
     - {
         startTime: "12:00",
         sessionIds: [144]
