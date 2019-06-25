@@ -13,8 +13,14 @@
 
 # Docker
 
+To start locally:
 ```
-docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll --volume="$(pwd)/.gems:/usr/share/ruby/default-gems" -it -p 4000:4000 jekyll/jekyll bundle config local.jekyll /usr/srv/.gems && jekyll serve --watch --incremental 
+docker-compose up
+```
+
+To stop:
+```
+docker-compose down
 ```
 
 ## Dev en Local
