@@ -20,7 +20,8 @@
     "complexity": "Débutant",
     "subtype": "presentation",
     "presentation": "https://www.slideshare.net/AurlienMorvant/transformations-tes-vos-prt-pour-le-grand-saut",
-    "speakers": [43]
+    "speakers": [43],
+    "video": "https://www.youtube.com/embed/5bQkGLU8170"
 }, {
     "id": 10001,
     "title": "Pause",
@@ -34,7 +35,8 @@
     "subtype": "presentation",
     "presentation": "https://www.slideshare.net/ThierryGabrielCros/manager-agile-carte-boussole-et-territoire/1",
     "speakers": [19],
-    "place": "Amphi"
+    "place": "Amphi",
+    "video": "https://www.youtube.com/embed/pf-s0ETRmvQ"
 }, {
     "id": 10152,
     "title": "Software craftsmanship",
@@ -66,7 +68,8 @@
     "description": "La manière de contractualiser des développements Agile est un choix crucial qui peut avoir de lourdes conséquences sur la réussite d'un produit. Quel est l'état de l'art des différents type de contrats ? Quel niveau de compatibilité offrent-ils pour les développement d'un produit en méthode Agile ? En quoi un contrat Agile peut-il aider ? Quelles sont les règles de base d'un contrat Agile ? Cette conférence parcourra les bénéfices et inconvénients de chaque contrat en les illustrant à l'aide de cas réels.",
     "complexity": "Débutant",
     "subtype": "presentation",
-    "speakers": [20, 31]
+    "speakers": [20, 31], 
+    "video": "https://www.youtube.com/embed/sVPEu_TDU0k"
 }, {
     "id": 11152,
     "title": "TDD et event sourcing",
@@ -141,7 +144,8 @@
     "description": "Cette présentation traitera des questions essentielles : de l’intégration d’un nouvel arrivant dans une entreprise, à l’encouragement de la progression individuelle, en passant par le bien-être au travail de tous. La solution miracle (ou une partie du miracle) ? Le pair coaching maison !\nNous vous expliquerons tout de ce système que nous avons mis en place l’an dernier et continuons à améliorer depuis.\nUn coach (coaché) et une coachée viennent vous présenter la méthode (“du bonheur”).",
     "complexity": "Débutant",
     "subtype": "presentation",
-    "speakers": [79, 80]
+    "speakers": [79, 80],
+    "video": "https://www.youtube.com/embed/sbWf0igvJrc"
 }, {
     "id": 14302,
     "title": "Entropie du logiciel",
@@ -150,7 +154,8 @@
     "complexity": "Débutant",
     "subtype": "presentation",
     "presentation": "https://speakerdeck.com/lilobase/entropie-du-logiciel-dette-technique-and-complexite-accidentelle-agile-pays-basque-2017",
-    "speakers": [39]
+    "speakers": [39],
+    "video": "https://www.youtube.com/embed/VKe9EE4MUxk"
 }, {
     "id": 14303,
     "title": "Co-concevoir un atelier de co-conception",
@@ -174,7 +179,8 @@
     "complexity": "Débutant",
     "subtype": "presentation",
     "presentation": "https://fr.slideshare.net/alicebarralon9",
-    "speakers": [8]
+    "speakers": [8],
+    "video": "https://www.youtube.com/embed/V5f5gGVegZA"
 }, {
     "id": 15302,
     "title": "Tests Tout-Terrain",
@@ -196,7 +202,8 @@
     "complexity": "Débutant",
     "subtype": "workshop",
     "presentation": "https://www.slideshare.net/francois_salazar/agile-pays-basque-2017-parcequon-ne-change-pas-une-culture-comme-on-change-une-roue-de-voiture/1",
-    "speakers": [85]
+    "speakers": [85],
+    "video": "https://www.youtube.com/embed/T0dQI4TDymY"
 }, {
     "id": 16452,
     "title": "Mob Programming 101",
@@ -230,7 +237,8 @@
     "description": "L'agilité ne se fait pas toute seule, il faut l'instaurer avec soin et attention. Un regard sur les différentes façons d'implémenter l'agilité et les pièges à éviter. Intéressant pour les débutants aussi bien que les initiés, les développeurs aussi bien que les directeurs. Pas de connaissance particulière nécessaire, je parlerai de tous ce qu'il est nécessaire pour réussir une bonne et durable implémentation agile.L'idée de cette présentation est de partager un retour d'expérience et une vue étrangère tirés des discussions et questions posées sur les transitions vers l'agilité.",
     "complexity": "Débutant",
     "subtype": "presentation",
-    "speakers": [18, 78]
+    "speakers": [18, 78],
+    "video": "https://www.youtube.com/embed/F4t813QZD0s"
 }, {
     "id": 17454,
     "title": "Lean Takeoff",
