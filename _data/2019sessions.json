@@ -37,9 +37,9 @@
      "speakers": [102]
   }, {
      "id": 11001,
-     "title": "Test Architecture DDD",
+     "title": "Test d’architecture avec ArchUnit : Mise en œuvre pour le DDD",
      "subtitle": "",
-     "description": "",
+     "description": "ArchUnit est un framework qui permet de décrire des règles d’architecture et de les vérifier sur du code Java.\nLes règles ArchUnit expriment des propriétés topologiques. Par exemple, il est possible de vérifier qu’aucune classe située dans un package donné n’est liée avec aucune autre classe d’un autre package. La vérification des règles est faite par ArchUnit qui exploite les propriétés d’introspection de Java. ArchiUnit supporte l’ajout d’annotations qui seront utilisées par les règles pour affiner les vérifications. Par exemple, une règle peut cibler les classes qui portent une annotation particulière. \nNous avons effectué une mise en œuvre de ArchUnit pour vérifier l’application des patterns tactiques du DDD. Par exemple, nous avons décrit une règle vérifiant que les classes situées dans le package « domain » n’appellent pas les classes situées dans le packages « infra ». La mise en œuvre que nous avons réalisée nous a permis de formaliser la façon dont nous appliquons le DDD. La vérification de ces règles garantie ainsi une homogénéité de l’application du DDD telle que nous l’avons formalisée.\nDans ce talk nous présenterons le retour sur expérience que nous avons de ArchUnit. Nous illustrerons ce retour d’expérience en présentant les règles que nous avons formalisées. Ces règles et les annotations sur lesquelles elles sont basées sont disponibles dans un projet Open Source. Nous décrirons aussi les hésitations que nous avons eues quant au déploiement de ArchUnit. En outres, nous discuterons du compromis qu’il faut avoir entre l’exploitation des annotations et la mise en œuvre de conventions syntaxique.",
      "complexity": "IT, développeurs",
      "speakers": [103]
   }, {
