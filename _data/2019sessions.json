@@ -5,20 +5,20 @@
   }, {
    "id": 8201,
    "title": "Mot de l'orga - Présentation des sponsors",
-   "description": "Pitch des sessions du matin",
+   "description": "Pitch des sessions du jour",
    "service": "true"
   }, {
      "id": 9001,
-     "title": "Coming soon !",
+     "title": "Keynote d'ouverture (coming soon!)",
      "subtitle": "",
      "description": "Keynote Arnaud Lemaire. Durée : 45 min.",
      "complexity": "Tous",
      "speakers": [39]
   }, {
      "id": 10001,
-     "title": "DDD et le modèle Acteur",
+     "title": "Modélisation de Domaine et le modèle Acteur",
      "subtitle": "",
-     "description": "",
+     "description": "L'approche DDD met l'accent sur le domaine metier et la mise en évidence d'un contexte borné mais elle ne traite pas spécifiquement de la notion d'effet comme par exemple la prise en compte de la latence. Le motif architectural CQRS est un élément de réponse. Cependant avec l'avénement des microservices cet effet tend à se généraliser. Durant cette présentation nous ferons un tour de la problématique du passage à l'échelle, de la latence et voir comment le modèle acteur pourrait y répondre. Quelle forme de couplage peut exister entre l'expression de la solution via les acteurs et l'approche DDD ?",
      "complexity": "IT, developpeurs",
      "speakers": [100]
   }, {
@@ -70,9 +70,9 @@
      "speakers": [105]
   }, {
      "id": 14002,
-     "title": "Coming soon !",
+     "title": "Les OKRs: la colonne vertébrale de l’alignement entre votre stratégie globale, produit et managériale",
      "subtitle": "",
-     "description": "",
+     "description": "Vous êtes PO ? Vous êtes vous déjà posé ces questions : Comment aligner ma stratégie produit sur la stratégie de l’entreprise ? Pourquoi développons-nous telle ou telle fonctionnalité ? Comment arriver à communiquer ma stratégie aussi bien avec l’équipe que les sponsor avec un seul outil ? En tant que manager: Comment proposer des challenges porteurs de sens à vos équipes tout en gardant une cohérence d’ensemble ? Comment permettre à l’ensemble des co-équipiers d’un produit d’avancer dans le même sens ? Notre conviction est que les OKRs (“Objectifs Key Results”) sont un fabuleux outil permettant de cultiver l’alignement au sein d’une organisation. Nous allons vous raconter une histoire qui vous permettra de toucher du doigt la puissance de cet outil.",
      "complexity": "",
      "speakers": [30]
   }, {
@@ -84,23 +84,24 @@
      "speakers": [106]
   }, {
      "id": 15001,
-     "title": "Coming soon !",
+     "title": "De legacy au TDD",
      "subtitle": "",
-     "description": "",
+     "description": "C'est quoi l'obstacle principal à travailler avec les tests ou en TDD. C'est que le code existant n'a pas été concu pour! Voyons à travers un exemple comment on reprend le code, le prépare au travail en TDD à l'aide des tests :) et du refactoring préparatoire afin que cela devienne un jeu d'enfant d'ajouter la nouvelle fonctionnalité en TDD (ou presque :D). Vous verrez comment aborder les tests sur le legacy, comment le refactoring rend plus facile l'introduction d'une nouvelle fonctionnalité et comment cela coincide souvent avec la possibilité d'utiliser TDD efficacement. Et tout cela dans une application qui ressemble à nos SI habituels.",
      "complexity": "IT, développeurs",
      "speakers": [107]
   }, {
      "id": 15002,
-     "title": "Coming soon !",
+     "title": "User Story Mapping from the trenches",
      "subtitle": "",
      "description": "",
      "complexity": "IT, développeurs",
      "speakers": [40]
   }, {
      "id": 15003,
-     "title": "Dette emotionnelle",
+     "title": "Comment réduire soi-même sa dette émotionnelle pour mieux collaborer dans une équipe agile?",
      "subtitle": "",
-     "description": "",
+     "description": "Dans ma conférence “Comment réduire la dette émotionnelle dans une équipe Scrum”, j’ai partagé mon expérience pour traiter l’accumulation de problèmes humains dans une équipe, que j’appelle la dette émotionnelle dans une équipe.
+Aujourd'hui, je propose de partager de nouveau mon expérience et mes techniques à tout individu souhaitant réduire sa propre dette émotionnelle, sans l’aide de personne. Pourquoi est-ce utile? Quand on est frustré ou en colère, comment accueillir un feedback négatif sans le prendre comme une attaque? Comment réussir à faire un feedback négatif à l’autre quand on n’ose pas? Etre capable de réduire sa propre dette émotionnelle de manière autonome, c’est un moyen de mieux collaborer au sein d’une équipe agile, en osant s’exprimer quand c’est nécessaire et en étant capable d’entendre n’importe quel type de message pour le bien être du collectif. Et en bonus, on se sent mieux ensuite au travail, croyez moi.",
      "complexity": "Tous",
      "speakers": [108]
   }, {
@@ -133,7 +134,7 @@
       "subtype": "workshop"
   }, {
       "id": 209301,
-      "title": "",
+      "title": "Coding Dojo (coming soon)",
       "subtitle": "",
       "description": "",
       "complexity": "Dev",
@@ -141,7 +142,7 @@
       "speakers": [28]
    }, {
       "id": 209302,
-      "title": "Kata \"splitter les User Stories\"",
+      "title": "PO Dojo \"splitter les User Stories\"",
       "subtitle": "",
       "description": "",
       "complexity": "Tous",
