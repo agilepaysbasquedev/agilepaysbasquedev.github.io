@@ -87,15 +87,19 @@ heroCount: 1
 heroFirst: 1
 
 # About Block
-aboutTitle: "4ème édition en preparation"
+aboutTitle: "2 jours de conférences et ateliers agiles, sur le développement logiciel, la culture produit et les transformations organisationnelles."
 aboutLines:
 # - {text: "Ici c'est la tempête mais dès l'arrivée des beaux jours,"}
 # - {text: "L'équipage va se réunir pour étudier les itineraires,"}
 # - {text: "Fixer le cap, et hisser les voiles pour démarrer l'aventure 2019."}
- - {text: "A noter vos agenda : l'édition 2019 se tiendra les 20 / 21 Septembre 2019"}
- - {text: "Agile Pays Basque est le rendez-vous des professionnels, enseignants et étudiants qui souhaitent découvrir, échanger, apprendre, expérimenter, tester, approfondir leurs connaissances, ou simplement discuter avec leurs pairs autour des valeurs et pratiques Agile"}
- - {text: "Débutants ou experts, venez partager, vous enrichir sur des thématiques telles que le Développement Logiciel et les Tests, la Découverte et la Conception de Produits, la Culture Agile (y compris hors IT) et le Management"}
- - {text: "A venir : Sponsoring, Appels à orateurs, Programme, et Billeterie"}
+# - {text: "A noter vos agenda : l'édition 2019 se tiendra les 20 / 21 Septembre 2019"}
+- {text: "La quatrième édition de l'Agile Pays Basque aura lieu sur 2 jours  :"}
+- {text: "- le vendredi 20 Septembre 2019 à l'ESTIA à Bidart"}
+- {text: "- le samedi 21 Septembre 2019 à l'ESTIA à Bidart"}
+
+
+# - {text: "Débutants ou experts, venez partager, vous enrichir sur des thématiques telles que le Développement Logiciel et les Tests, la Découverte et la Conception de Produits, la Culture Agile (y compris hors IT) et le Management"}
+# - {text: "A venir : Sponsoring, Appels à orateurs, Programme, et Billeterie"}
  
 # - {text: "Agile Pays Basque c'est le rendez-vous pour découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances des valeurs et pratiques Agile"}
 # - {text: "Débutants ou experts, venez partager, vous enrichir sur des thématiques telles que le Développement Logiciel et les Tests, la Découverte et la Conception de Produits, la Culture Agile (y compris hors IT) et le Management"}
@@ -103,16 +107,16 @@ aboutLines:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "", info: "Participants attendus", detail: "professionnels, enseignants, étudiants"}
+ - {count: "200", specialCharacter: "", info: "Participants attendus", detail: "Développeurs, POs, Métiers, Managers, Fonctions Transverses, Enseignants, Etudiants"}
  - {count: "48", specialCharacter: "", info: "Heures d'échanges", detail: "autour des valeurs et pratiques Agile"}
- - {count: "22", specialCharacter: "+", info: "Sessions", detail: "pour tout type de profil"}
- - {count: "3", specialCharacter: "", info: "Formats différents", detail: "conférences, ateliers, forum ouvert"}
+ - {count: "16", specialCharacter: "+", info: "Talks", detail: "de 50 minutes"}
+ - {count: "3", specialCharacter: "", info: "Formats", detail: "Talks, Ateliers, Forum Ouvert"}
 
 # Format Block
 formatBlock:
- - {title: "19 Conférences", image: "conference.jpg", text: "réparties sur 3 thématiques \"Culture Agile et Management\", \"Découverte et Conception de Produits\" et \"Développement Logiciel et Tests\". Débutants bienvenus!" }
+ - {title: "16 Conférences", image: "conference.jpg", text: "réparties sur 3 thématiques \"Développement Logiciel et Tests\", \"Découverte et Conception de Produits\" et \"Culture Agile et Management\". Débutants bienvenus!" }
  - {title: "3 Ateliers", image: "workshop.jpg", text: "pour découvrir ou approfondir les pratiques agiles en lien avec les thématiques des conférences" }
- - {title: "1 Forum ouvert", image: "forum.jpg", text: "pendant 1 journée avec un programme co-construit le jour même entre les speakers et les participants, pour augmenter la variété des thématiques ou les approfondir" }
+ - {title: "1 Forum ouvert", image: "forum.jpg", text: "pendant 1/2 journée avec un programme co-construit le jour même entre les speakers et les participants" }
 
 # Latest News Block
 latestNewsTitle: "Dernières news"
