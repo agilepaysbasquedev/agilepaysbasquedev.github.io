@@ -109,7 +109,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "", info: "Participants attendus", detail: "Développeurs, POs, Métiers, Managers, Fonctions Transverses, Enseignants, Etudiants"}
  - {count: "48", specialCharacter: "", info: "Heures d'échanges", detail: "autour des valeurs et pratiques Agile"}
- - {count: "16", specialCharacter: "+", info: "Talks", detail: "de 50 minutes"}
+ - {count: "16", specialCharacter: "", info: "Talks", detail: "de 50 minutes"}
  - {count: "3", specialCharacter: "", info: "Formats", detail: "Talks, Ateliers, Forum Ouvert"}
 
 # Format Block
