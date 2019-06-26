@@ -356,7 +356,7 @@
 	"surname": "POROT",
 	"title": "",
 	"company": "",
-	"bio": "",
+	"bio": "J’ai découvert l’agilité un peu par hasard à travers plusieurs expériences (avant de me lancer complètement dans ce sujet) : D’une part lors de mes études à Centrale Paris : je me souviens d’un cours sur l’agilité réalisé par Goood!. Je n’ai pas vraiment eu de révélation d’emblée mais je trouvais ça intéressant. D’autre part, j’ai intégré ArcelorMittal qui a mis en place pour la première fois la méthode agile au sein du département Business Processes and Systems. Ici, il s’agissait plus de la découverte d’une méthode. J’étais convaincue que la méthodologie, les processus, les relations humaines feraient partie de mon quotidien professionnel. D’où mon envie de rejoindre un cabinet de conseil chez beNext puis zen value. Ainsi, il m’aura fallu plusieurs rencontres avec l’agilité avant de me spécialiser en tant que product owner chez BeNext, une société innovante qui prône et met en action les valeurs et principes de l’agilité jusque dans l’essence même de son organisation. C’est bien chez BeNext que j’ai réellement découvert ce qu’était l’agilité, le monde agile, ses impacts, ses douleurs, ses intérêts mais surtout ce pourquoi cela donnait du sens à mon travail. En effet, en quittant beNext, j’ai réalisé que ceux sont ni plus ni moins les principes et la façon d’envisager le monde du travail de demain que j’aime à travers : la valorisation des talents de chacun, la collaboration, le respect, le courage, l’amélioration continue et donc recherche de l’efficacité et d’excellence. C’est encore après 2 ans d’expériences chez beNext que j’ai décidé de me consacrer pleinement à la méthodologie agile, lean. J’entame depuis quelques mois, un nouveau chapitre, en tant que coach agile, avec de nouveaux challenges, de nouvelles rencontres. Enfin, toutes ces expériences me rapprochent de l’excellence opérationnelle en terme de méthodologie mais aussi de développement d’un point de vue humain et relationnel.",
 	"thumbnailUrl": "SegolenePorot.jpg",
 	"web": "",
 	"tweeter": "",
@@ -470,9 +470,9 @@
 	"id": 108,
 	"name": "Marylin",
 	"surname": "KOL",
-	"title": "",
+	"title": "Coach Agile",
 	"company": "",
-	"bio": "",
+	"bio": "En tant que développeuse, puis chef de projet, j'ai vécu de l'intérieur les problématiques liées aux méthodologies traditionnelles. En réponse à ces problématiques, j'ai étudié l'agilité et je suis devenue Scrum Master.\nAujourd'hui, je mène deux activités en parallèle qui font écho à mes deux passions :  l'agilité et le développement personnel. En tant que Coach Agile, j'accompagne des équipes en revenant aux bases de l’agilité. Et en tant que Coach Professionnelle, j'accompagne des individus sur des demandes personnelles.",
 	"thumbnailUrl": "MarylinKol.jpg",
 	"web": "",
 	"tweeter": "",
@@ -496,9 +496,9 @@
 	"id": 110,
 	"name": "Jean-Pierre",
 	"surname": "LAMBERT",
-	"title": "Agile Coach - Writer & Speaker about Agile & Quality",
+	"title": "Coach agile indépendant",
 	"company": "Freelance",
-	"bio": "Creator of the 'Scrum Life' YouTube show",
+	"bio": "Avant, j'étais un ingénieur logiciel. Mais peut-être pas le genre que vous imaginez ; les outils et les belles architectures logicielles me laissaient de marbre. Non, mon truc, c’était plutôt la qualité, la valeur produit, les process et les relations humaines. Du coup, maintenant, j'aide les équipes en tant que Coach Agile. Ce n'est pas plus mal !",
 	"thumbnailUrl": "JeanPierreLambert.jpg",
 	"web": "",
 	"tweeter": "",
@@ -512,6 +512,14 @@
     "title": "Entrepreneur, Formateur",
     "bio": "François occupe aujourd’hui un poste de directeur dans une PME Innovante en transition vers un modèle agile intégral. Il partage aussi ses retours d’expériences comme facilitateur de transition pour les dirigeants. Bien avant : Développeur, chef de projet, manager, entrepreneur, formateur",
     "thumbnailUrl": "FrancoisSalazar.jpg"
+}, {
+	"id": 111,
+	"name": "Nathalie",
+	"surname": "KEO",
+	"company": "",
+	"title": "Product Owner",
+	"bio": "Nathalie Keo a eu l'occasion d'être Product Owner ou Product Manager dans de nombreuses équipes et d'y accompagner le succès de nombreux produits. Très à l'aise aussi bien au sein de l'équipe de développement qu'à parler aux parties prenantes ou à mener des tests utilisateurs et à définir la stratégie marketing, elle maîtrise les différents aspects du métier.",
+	"thumbnailUrl": "NathalieKeo.png"
 }
 
 ]

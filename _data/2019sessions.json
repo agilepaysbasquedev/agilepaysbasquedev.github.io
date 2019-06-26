@@ -25,35 +25,35 @@
      "id": 10002,
      "title": "Product vision: from the framing phase",
      "subtitle": "",
-     "description": "",
+     "description": "Here the problem, how to define and share your vision ? nowadays, organizations have to moove very quickly to survive but without a long term vision, the organization will be lost. It is the same thing for your product. First of all, The “Why”, people Don’t buy what you do, but why you are doing it. Then, a know-how will be share (the How) and finaly a product will be made (What). When we communicate about the why and not about the what or the how then, the feeling and the decision making part will be easier and finaly the Customer buy your product.",
      "complexity": "Tous",
      "speakers": [101]
   }, {
      "id": 10003,
      "title": "Transformation agile: Arrêtons de suivre aveuglément des frameworks",
      "subtitle": "",
-     "description": "",
+     "description": "70% des changements organisationnels échouent.\nVous avez sûrement entendu ce chiffre à de nombreuses reprises pourtant… Cette statistique, répétée à l’unisson par de nombreux conférenciers, est un mythe. Un mythe tenace qui a un effet dévastateur : il rend, dans l’imaginaire collectif, le changement au sein d’une organisation difficile voire impossible, il impose inconsciemment le suivi scrupuleux d’un framework (SAFe, LeSS, Nexus…) pour éviter tout échec. Seulement, imiter aveuglément un framework est un piège.\nBien lancer et réussir la transformation de son entreprise ne dépend pas d'un cadre ou d'une méthode. C'est un effort, long certes, mais à la portée de tous à condition de se poser les bonnes questions.",
      "complexity": "Tous",
      "speakers": [102]
   }, {
      "id": 11001,
-     "title": "Test Architecture DDD",
+     "title": "Test d’architecture avec ArchUnit : Mise en œuvre pour le DDD",
      "subtitle": "",
-     "description": "",
+     "description": "ArchUnit est un framework qui permet de décrire des règles d’architecture et de les vérifier sur du code Java.\nLes règles ArchUnit expriment des propriétés topologiques. Par exemple, il est possible de vérifier qu’aucune classe située dans un package donné n’est liée avec aucune autre classe d’un autre package. La vérification des règles est faite par ArchUnit qui exploite les propriétés d’introspection de Java. ArchiUnit supporte l’ajout d’annotations qui seront utilisées par les règles pour affiner les vérifications. Par exemple, une règle peut cibler les classes qui portent une annotation particulière. \nNous avons effectué une mise en œuvre de ArchUnit pour vérifier l’application des patterns tactiques du DDD. Par exemple, nous avons décrit une règle vérifiant que les classes situées dans le package « domain » n’appellent pas les classes situées dans le packages « infra ». La mise en œuvre que nous avons réalisée nous a permis de formaliser la façon dont nous appliquons le DDD. La vérification de ces règles garantie ainsi une homogénéité de l’application du DDD telle que nous l’avons formalisée.\nDans ce talk nous présenterons le retour sur expérience que nous avons de ArchUnit. Nous illustrerons ce retour d’expérience en présentant les règles que nous avons formalisées. Ces règles et les annotations sur lesquelles elles sont basées sont disponibles dans un projet Open Source. Nous décrirons aussi les hésitations que nous avons eues quant au déploiement de ArchUnit. En outres, nous discuterons du compromis qu’il faut avoir entre l’exploitation des annotations et la mise en œuvre de conventions syntaxique.",
      "complexity": "IT, développeurs",
      "speakers": [103]
   }, {
      "id": 11002,
      "title": "Comment délivrer un max de valeur?",
      "subtitle": "",
-     "description": "",
+     "description": "Comment délivrer le maximum de valeur (dans mon entreprise, mon département, mon équipe...) ? Et puis c'est quoi la valeur ? Comment je la mesure ? Et puis d'abord pourquoi je dois m'intéresser à la valeur ? He ! Pourquoi t'es pas d'accord avec moi que c'est ça qu'à plus de valeur ? Bon, pour y voir plus clair dans tout ça, il faut venir nous voir pour découvrir les éclairages que nous avons découverts et qui devraient changer radicalement la vision que tu as de la valeur !",
      "complexity": "Tous",
      "speakers": [104]
   }, {
      "id": 11003,
      "title": "Appréhender des postures managériales en contexte agile",
      "subtitle": "",
-     "description": "",
+     "description": "Les jeux Agile sont un moyen très intéressant pour aider les acteurs qui s’engagent (que l’on engage…) dans une démarche Agile. Nous en expérimenterons un certain nombre axés autour des postures managériales.",
      "complexity": "Tous",
      "speakers": [52]
   }, {
@@ -79,7 +79,7 @@
      "id": 14003,
      "title": "La spirale Agile",
      "subtitle": "",
-     "description": "",
+     "description": "Vous avez peut être lu \"Reinventing Organization\" de Frédéric Laloux, son analyse se base sur la \"Spirale Dynamique\".C'est une théorie qui démontre que l'humanité, les individus et les organisation suivent les mêmes cycles d'évolutions (son autre nom \"La Théorie de l’Emergence Cyclique des Niveaux d’Existence\") Elle est utilisé autant comme base de thérapie par des praticiens de la santé, en politique (Nelson Mandela l'a utilisé lors de la sortie de l’apartheid), ou encore en coaching car elle est une grille de lecture des valeurs d'un individu ou d'un groupe. Puisque l'agilité s'intéresse aux individus et à leurs interactions,  j'ai décliné cette théorie sur l'agilité pour créer ce que j'ai appelé la \"Spirale Agile\". Je vous propose de découvrir cette grille de lecture comme outil de coaching qui peut venir en aide aux équipes agiles et aux managers pour  : \n- Se définir un objectif de transformation agile\n- Comprendre son état agile du moment\n- Définir ses valeurs et aligner ses pratiques\n- Tirer profit de ses forces\n- Comprendre les enjeux et prérequis d'une transformation",
      "complexity": "",
      "speakers": [106]
   }, {
@@ -107,21 +107,21 @@
      "id": 16001,
      "title": "The software evolution hasn't happened yet",
      "subtitle": "",
-     "description": "",
+     "description": "On nous parle depuis longtemps de la fameuse loi de Moore, mais pourquoi cette loi ne semble s’appliquer qu’au Hardware et pas au Software ? S’il existe une ingénierie de l’informatique, alors pourquoi les programmeurs n’arrivent pas à trouver des méthodes scientifiques qui produisent un logiciel robuste, dans un délai et un coup raisonnable ? Qu’est ce qui peut être si compliqué dans le fait de traduire un besoin métier en une série d’instructions non ambiguës compréhensibles par un ordinateur ? \n\nDurant cette présentation, j’aimerais introduire quelques hypothèses pour répondre à ces questions. Le but est de challenger nos pratiques ainsi que notre compréhension de ce qu’est un logiciel et un développeur, dans le but de nous améliorer. Je vous préviens : vous aurez plus de questions en repartant qu’en arrivant, mais heureusement l’important c’est le voyage, pas la destination.",
      "complexity": "IT, développeurs",
      "speakers": [109]
   },{
      "id": 16002,
-     "title": "Le Product Owner, star de l’équipe agile: entre fantasme et réalité",
-     "subtitle": "",
-     "description": "",
+     "title": "Le Product Owner, star de l’équipe agile:",
+     "subtitle": "entre fantasme et réalité",
+     "description": "S'il y a bien dans l'imaginaire collectif un rôle qui fait rêver dans l'équipe agile, c'est le Product Owner. D'une, il est là pour parler produit -- rappelons que c'est forcément mieux que de travailler dans la tech. Et de deux, il prend des décisions et dit aux autres sur quoi travailler, ce qui fait de lui une personne importante. On pourrait presque dire que le reste de l'équipe est constituée de citoyens de seconde zone. D'ailleurs ce sont peut-être des presta, justement...\n\nNathalie Keo et Jean-Pierre Lambert vous proposent d'aller au-delà de cette vision naïve, souvent liée à la transposition malheureuse d'un ancien mode de fonctionnement pas vraiment agile, et d'aller réellement découvrir le rôle de Product Owner. C'est un rôle complexe, dont l'essence même est souvent mal comprise, et dont la mise en pratique peut grandement varier d'une entreprise, d'une équipe et d'un produit à un autre.",
      "complexity": "Tous",
-     "speakers": [110]
+     "speakers": [110, 111]
   }, {
      "id": 16003,
-     "title": "Faire tomber le cycle en V",
+     "title": "Faire tomber le&nbsp;cycle en&nbsp;V",
      "subtitle": "",
-     "description": "",
+     "description": "En clin d'oeil au livre (quasi) éponyme de Srdja Popovic, Francois et Rachel vous proposent une vision décalée de la gestion du changement et des idées d'expérimentations pour faire bouger les lignes même quand on est isolé dans une grande organisation.",
      "complexity": "Tous",
      "speakers": [37, 85]
   }, {
@@ -151,7 +151,7 @@
       "id": 209303,
       "title": "Comment devenir le seigneur des pictos",
       "subtitle": "",
-      "description": "",
+      "description": "Les techniques visuelles (Sketchnotes, Facilitation graphique, Scribing, ...) reposent toutes plus ou moins sur les mêmes pictogrammes, et on en a assez parlé dans le premier volet de cette saga il y a 3 ans. Cette année nous nous concentrerons donc surtout sur ce qui fait la force de Sauron : Les personnages. Nous verrons comment dessiner des personnages qui donnent de la vie à vos visuels et qui transmettent efficacement vos messages tout en impliquant au mieux l'audience.",
       "complexity": "Tous",
       "subtype": "workshop",
       "speakers": [61]
