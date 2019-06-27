@@ -12,7 +12,7 @@ exclude: [ '/vendor/', '/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Agile Pays Basque"
 email: "agilepb@gmail.com"
 
-description: "2 jours de conférences et ateliers agiles, sur le développement logiciel, la culture produit et les transformations organisationnelles."
+description: "2 jours de conférences et ateliers Agile, sur le développement logiciel, la culture produit et les transformations organisationnelles."
 baseurl: "/site-web"
 url: "https://agilepaysbasquedev.github.io"
 
@@ -87,7 +87,7 @@ heroCount: 1
 heroFirst: 1
 
 # About Block
-aboutTitle: "2 jours de conférences et ateliers agiles, sur le développement logiciel, la culture produit et les transformations organisationnelles."
+aboutTitle: "2 jours de conférences et ateliers Agile, sur le développement logiciel, la culture produit et les transformations organisationnelles."
 aboutLines:
 # - {text: "Ici c'est la tempête mais dès l'arrivée des beaux jours,"}
 # - {text: "L'équipage va se réunir pour étudier les itineraires,"}
