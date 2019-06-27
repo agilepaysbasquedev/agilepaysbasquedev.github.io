@@ -4,8 +4,8 @@
    "service": "true"
   }, {
    "id": 8201,
-   "title": "Mot de l'orga - Présentation des sponsors",
-   "description": "Pitch des sessions du jour",
+   "title": "Mot de l'orga - Présentation des sessions",
+   "description": "",
    "service": "true"
   }, {
      "id": 9001,
@@ -74,7 +74,7 @@
      "subtitle": "",
      "description": "Vous êtes PO ? Vous êtes vous déjà posé ces questions : Comment aligner ma stratégie produit sur la stratégie de l’entreprise ? Pourquoi développons-nous telle ou telle fonctionnalité ? Comment arriver à communiquer ma stratégie aussi bien avec l’équipe que les sponsor avec un seul outil ? En tant que manager: Comment proposer des challenges porteurs de sens à vos équipes tout en gardant une cohérence d’ensemble ? Comment permettre à l’ensemble des co-équipiers d’un produit d’avancer dans le même sens ? Notre conviction est que les OKRs (“Objectifs Key Results”) sont un fabuleux outil permettant de cultiver l’alignement au sein d’une organisation. Nous allons vous raconter une histoire qui vous permettra de toucher du doigt la puissance de cet outil.",
      "complexity": "",
-     "speakers": [30]
+     "speakers": [30,112]
   }, {
      "id": 14003,
      "title": "La spirale Agile",
