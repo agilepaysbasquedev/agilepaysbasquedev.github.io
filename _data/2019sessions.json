@@ -136,15 +136,15 @@
       "title": "Coding Dojo: \"(coming soon)\"",
       "subtitle": "",
       "description": "",
-      "complexity": "Dev",
+      "complexity": "Atelier",
       "subtype": "workshop",
       "speakers": [28]
    }, {
       "id": 209302,
       "title": "PO Dojo: \"L’art de couper les Stories en 4!\"",
       "subtitle": "",
-      "description": "",
-      "complexity": "Tous",
+      "description": "Est-ce un art ? En tout cas, le découpage des User Stories est une compétence souvent ignorée et qui nécessite un réel apprentissage pour être maîtrisée. C’est aussi un prérequis à la livraison rapide de valeur. Viens expérimenter et échanger avec nous ! Sois zen, tous ces découpages seront doux et sécurisés !",
+      "complexity": "Atelier",
       "subtype": "workshop",
       "speakers": [104]
    }, {
@@ -152,22 +152,22 @@
       "title": "Comment devenir le seigneur des pictos",
       "subtitle": "",
       "description": "Les techniques visuelles (Sketchnotes, Facilitation graphique, Scribing, ...) reposent toutes plus ou moins sur les mêmes pictogrammes, et on en a assez parlé dans le premier volet de cette saga il y a 3 ans. Cette année nous nous concentrerons donc surtout sur ce qui fait la force de Sauron : Les personnages. Nous verrons comment dessiner des personnages qui donnent de la vie à vos visuels et qui transmettent efficacement vos messages tout en impliquant au mieux l'audience.",
-      "complexity": "Tous",
+      "complexity": "Atelier",
       "subtype": "workshop",
       "speakers": [61]
    }, {
       "id": 214001,
       "title": "Forum Ouvert : Sessions",
       "subtitle": "Des sessions de travail se forment par groupe de participants pour débattre des sujets.",
-      "description": "Lors des sessions de travail les participants vont débattre des sujets.",
-      "complexity": "Tous",
+      "description": "Le Forum Ouvert est une méthode pour structurer des conversations et des conférences. Grâce à cette méthode, des groupes de 5 à 2 000 participants peuvent s'assembler et travailler ensemble. La caractéristique de la méthode est l'ouverture mise à la fois sur le contenu mais aussi sur la forme. Les participants sont invités à travailler ensemble sur une thématique importante et complexe. L'ordre du jour est réalisé par les participants au démarrage du Forum Ouvert en un temps record. Les utilisateurs donnent ainsi leurs propres sujets en plénière et forment des groupes de travail pour chaque thème abordé dans lesquels les projets vont être élaborés. Chaque groupe de travail rédige un compte-rendu qui est affiché immédiatement. L'ensemble des comptes-rendus apparait ainsi au fur et à mesure de l'avancement du Forum Ouvert. Le Forum Ouvert permet de traiter de sujets complexes et de produire une diversité de mesures concrètes en peu de temps. source: wikipedia",
+      "complexity": "Forum Ouvert",
       "subtype": "workshop"
   }, {
       "id": 216001,
       "title": "Forum Ouvert : Sessions (suite)",
       "subtitle": "Des sessions de travail se forment par groupe de participants pour débattre des sujets.",
-      "description": "Lors des sessions de travail les participants vont débattre des sujets.",
-      "complexity": "Tous",
+      "description": "Le Forum Ouvert est une méthode pour structurer des conversations et des conférences. Grâce à cette méthode, des groupes de 5 à 2 000 participants peuvent s'assembler et travailler ensemble. La caractéristique de la méthode est l'ouverture mise à la fois sur le contenu mais aussi sur la forme. Les participants sont invités à travailler ensemble sur une thématique importante et complexe. L'ordre du jour est réalisé par les participants au démarrage du Forum Ouvert en un temps record. Les utilisateurs donnent ainsi leurs propres sujets en plénière et forment des groupes de travail pour chaque thème abordé dans lesquels les projets vont être élaborés. Chaque groupe de travail rédige un compte-rendu qui est affiché immédiatement. L'ensemble des comptes-rendus apparait ainsi au fur et à mesure de l'avancement du Forum Ouvert. Le Forum Ouvert permet de traiter de sujets complexes et de produire une diversité de mesures concrètes en peu de temps. source: wikipedia",
+      "complexity": "Forum Ouvert",
       "subtype": "workshop"
   }, {
       "id": 143,
