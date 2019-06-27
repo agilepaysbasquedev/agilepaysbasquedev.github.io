@@ -9,7 +9,7 @@
    "service": "true"
   }, {
      "id": 9001,
-     "title": "Keynote d'ouverture (coming soon!)",
+     "title": "Keynote d'ouverture (coming soon)",
      "subtitle": "",
      "description": "Keynote Arnaud Lemaire. Durée : 45 min.",
      "complexity": "Tous",
@@ -63,7 +63,7 @@
       "service": "true"
   }, {
      "id": 14001,
-     "title": "Coming soon !",
+     "title": "Coming soon",
      "subtitle": "",
      "description": "",
      "complexity": "",
@@ -112,15 +112,15 @@
      "speakers": [109]
   },{
      "id": 16002,
-     "title": "Le Product Owner, star de l’équipe agile:",
-     "subtitle": "entre fantasme et réalité",
+     "title": "Le Product Owner, star de l’équipe agile: entre fantasme et réalité",
+     "subtitle": "",
      "description": "S'il y a bien dans l'imaginaire collectif un rôle qui fait rêver dans l'équipe agile, c'est le Product Owner. D'une, il est là pour parler produit -- rappelons que c'est forcément mieux que de travailler dans la tech. Et de deux, il prend des décisions et dit aux autres sur quoi travailler, ce qui fait de lui une personne importante. On pourrait presque dire que le reste de l'équipe est constituée de citoyens de seconde zone. D'ailleurs ce sont peut-être des presta, justement...\n\nNathalie Keo et Jean-Pierre Lambert vous proposent d'aller au-delà de cette vision naïve, souvent liée à la transposition malheureuse d'un ancien mode de fonctionnement pas vraiment agile, et d'aller réellement découvrir le rôle de Product Owner. C'est un rôle complexe, dont l'essence même est souvent mal comprise, et dont la mise en pratique peut grandement varier d'une entreprise, d'une équipe et d'un produit à un autre.",
      "complexity": "Découverte et Conception de Produits",
      "speakers": [110, 111]
   }, {
      "id": 16003,
-     "title": "Comment faire tomber un Cycle en V?",
-     "subtitle": "Quand on est seul, tout petit, et sans armes...",
+     "title": "Comment faire tomber un Cycle en V, quand on est seul, tout petit, et sans armes?",
+     "subtitle": "",
      "description": "En clin d'oeil au livre (quasi) éponyme de Srdja Popovic, Francois et Rachel vous proposent une vision décalée de la gestion du changement et des idées d'expérimentations pour faire bouger les lignes même quand on est isolé dans une grande organisation.",
      "complexity": "Culture Agile et Management",
      "speakers": [37, 85]
@@ -133,7 +133,7 @@
       "subtype": "workshop"
   }, {
       "id": 209301,
-      "title": "Coding Dojo (coming soon)",
+      "title": "Coding Dojo: \"(coming soon)\"",
       "subtitle": "",
       "description": "",
       "complexity": "Dev",
@@ -141,7 +141,7 @@
       "speakers": [28]
    }, {
       "id": 209302,
-      "title": "PO Dojo \"splitter les User Stories\"",
+      "title": "PO Dojo: \"L’art de couper les Stories en 4!\"",
       "subtitle": "",
       "description": "",
       "complexity": "Tous",
@@ -178,7 +178,7 @@
       "subtype": "workshop"
   }, {
       "id": 212001,
-      "title": "Repas",
+      "title": "Buffet",
       "service": "true"
   }, {
       "id": 500,
