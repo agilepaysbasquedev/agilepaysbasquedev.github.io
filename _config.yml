@@ -114,7 +114,7 @@ statisticBlock:
 
 # Format Block
 formatBlock:
- - {title: "16 Talks", image: "conference.jpg", text: "réparties sur 3 thématiques \"Développement Logiciel et Tests\", \"Découverte et Conception de Produits\" et \"Culture Agile et Management\". Débutants bienvenus!" }
+ - {title: "16 Talks", image: "conference.jpg", text: "répartis sur 3 thématiques \"Développement Logiciel et Tests\", \"Découverte et Conception de Produits\" et \"Culture Agile et Management\". Débutants bienvenus!" }
  - {title: "3 Ateliers", image: "workshop.jpg", text: "pour découvrir ou approfondir les sujets des talks" }
  - {title: "1 Forum ouvert", image: "forum.jpg", text: "pendant 1/2 journée avec un programme co-construit le jour même entre les speakers et les participants" }
 
