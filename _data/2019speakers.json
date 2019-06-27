@@ -444,6 +444,8 @@
 	"id": 61,
 	"name": "Marc",
 	"surname": "DUGUE",
+	"title": "Facilitateur Graphique",
+	"company": "Freelance",
 	"thumbnailUrl": "MarcDugue.jpg"
 },
 {
@@ -451,7 +453,7 @@
 	"name": "Johan",
 	"surname": "MARTINSSON",
 	"title": "Independent dev. Craftsman.",
-	"company": "",
+	"company": "ChangIT",
 	"bio": "Passionate about code and the pursuit of excellency.",
 	"thumbnailUrl": "JohanMartinsson.jpg",
 	"web": "",
