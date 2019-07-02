@@ -119,8 +119,9 @@ Edition:
     #- {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
   - group: "Partenaires privilégiés"
     elements: 
-    - {name: "A venir", description: "A venir", link: "#TBD", imageUrl: "tbd.png", width: "120px"}
-    #- {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
+    #- {name: "A venir", description: "A venir", link: "#TBD", imageUrl: "tbd.png", width: "120px"}
+    - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
+    - {name: "Bleu-Blanc-Jaune", description: "Restaurant", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bleu-blanc-jaune.png", width: "120px"}
     #- {name: "IUT Bayonne Pays Basque", description: "IUT Bayonne Pays Basque", link: "https://www.iutbayonne.univ-pau.fr/", imageUrl: "https://www.iutbayonne.univ-pau.fr/sites/all/themes/iutbay/logo-black.png", width: "150px"}
     # - {name: "IAE Pau", description: "IAE Pau", link: "http://iae.univ-pau.fr", imageUrl: "iae-pau.png", width: "170px"}
     #- {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "250px"}
