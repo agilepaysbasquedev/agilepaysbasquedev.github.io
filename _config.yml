@@ -13,8 +13,8 @@ title: "Agile Pays Basque"
 email: "agilepb@gmail.com"
 
 description: "2 jours de conférences et ateliers Agile, sur le développement logiciel, la culture produit et les transformations organisationnelles."
-baseurl: "/site-web"
-url: "https://agilepaysbasquedev.github.io"
+baseurl: "/"
+url: "https://agile-paysbasque.fr"
 
 permalink: "/blog/:title"
 
