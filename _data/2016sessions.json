@@ -216,7 +216,8 @@
 	"complexity": "Tous",
 	"subtype": "keynote",
 	"speakers": [68],
-	"place": "Amphi"
+	"place": "Amphi",
+	"presentation": "https://www.aubryconseil.com/blog/public/prez/ClaudeAubry-ScrumMonScrotum.pdf"
 }, {
 	"id": 133,
 	"title": "Spécifications en milieu Agile",
@@ -225,7 +226,8 @@
 	"subtype": "presentation",
 	"presentation": "https://speakerdeck.com/lilobase/specifications-en-milieu-agile-agile-pays-basque-2016",
 	"speakers": [39],
-	"place": "Salle Lang 6"
+	"place": "Salle Lang 6",
+	"video": "https://player.vimeo.com/video/222168353?title=0&byline=0&portrait=0"
 }, {
 	"id": 134,
 	"title": "Agilité et Coworking",

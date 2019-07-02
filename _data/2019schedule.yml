@@ -1,0 +1,101 @@
+- 
+  date: "2019-09-20"
+  dateReadable: "20 Septembre - MATIN"
+  tracks: 
+    - {title: "Salle 1", color: "#0F0000"}
+  timeslots:
+    - {
+        startTime: "8:00",
+        sessionIds: [8001]
+    }
+    - {
+        startTime: "8:45",
+        sessionIds: [8451]
+    }
+    - {
+        startTime: "9:00",
+        sessionIds: [9001]
+    }
+- 
+  date: "2018-09-20"
+  tracks: 
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#D50000"}
+    - {title: "Salle 3", color: "#FFD600"}
+  timeslots:
+    - {
+        startTime: "10:00",
+        sessionIds: [10001, 10002, 10003]
+    }
+    - {
+        startTime: "11:00",
+        sessionIds: [11001, 11002, 11003]
+    }
+- 
+  date: "2019-09-20"
+  tracks: 
+    - {title: "Restaurant le Spot'", color: "BROWN"}
+  timeslots:
+    - {
+        startTime: "12:00",
+        sessionIds: [12001]
+    }
+- 
+  date: "2019-09-20"
+  dateReadable: "APRES-MIDI"
+  tracks: 
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#0091EA"}
+    - {title: "Salle 3", color: "#D50000"}
+  timeslots:
+    - {
+        startTime: "14:00",
+        sessionIds: [14001, 14002, 14003]
+    }
+    - {
+        startTime: "15:00",
+        sessionIds: [15001, 15002, 15003]
+    }
+    - {
+        startTime: "16:00",
+        sessionIds: [16001, 16002, 16003]
+    }
+- 
+  date: "2018-09-21"
+  dateReadable: "21 Septembre"
+  tracks: 
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#D50000"}
+    - {title: "Salle 3", color: "#FFD600"}
+  timeslots:
+    - {
+        startTime: "9:00",
+        sessionIds: [209001]
+    }
+    - {
+        startTime: "9:30",
+        sessionIds: [209301, 209302, 209303]
+    }
+- 
+  date: "2018-09-21"
+  tracks: 
+    - {title: "Buffet", color: "#00C853"}
+  timeslots:
+    - {
+        startTime: "12:00",
+        sessionIds: [212001]
+    }
+- 
+  date: "2018-09-21"
+  dateReadable: "APRES-MIDI"
+  tracks: 
+    - {title: "Forum Ouvert", color: "#00C853"}
+  timeslots:
+    - {
+        startTime: "14:00",
+        sessionIds: [214001]
+    }
+    - {
+        startTime: "16:00",
+        sessionIds: [216001]
+    }
