@@ -119,17 +119,15 @@ Edition:
     #- {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
   - group: "Partenaires privilégiés"
     elements: 
-    - {name: "A venir", description: "A venir", link: "#TBD", imageUrl: "tbd.png", width: "120px"}
-    #- {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
+    - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
     #- {name: "IUT Bayonne Pays Basque", description: "IUT Bayonne Pays Basque", link: "https://www.iutbayonne.univ-pau.fr/", imageUrl: "https://www.iutbayonne.univ-pau.fr/sites/all/themes/iutbay/logo-black.png", width: "150px"}
     # - {name: "IAE Pau", description: "IAE Pau", link: "http://iae.univ-pau.fr", imageUrl: "iae-pau.png", width: "170px"}
     #- {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "250px"}
     #- {name: "La mêlée Adour", description: "Structure fédératrice des acteurs de l'économie numérique du bassin de l'Adour", link: "http://lameleeadour.com", imageUrl: "melee_adour.png", width: "120px"}
   - group: "Avec la participation de"
     elements: 
-    - {name: "A venir", description: "A venir", link: "#TBD", imageUrl: "tbd.png", width: "120px"}
     #- {name: "Le Spot", description: "Bar-Brasserie-Snack Le Spot", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
-    #- {name: "Bleu Blanc Jaune", description: "Bleu Blanc Jaune", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bbj.jpg", width: "120px"}
+    - {name: "Bleu Blanc Jaune", description: "Bleu Blanc Jaune", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bbj.jpg", width: "120px"}
     #- {name: "Moulin de Bassilour", description: "Moulin de Bassilour", link: "https://www.facebook.com/moulinde.bassilour", imageUrl: "moulindebassilour.jpg", width: "120px"}
     #- {name: "La fournée de Louis", description: "La fournée de Louis", link: "https://www.facebook.com/La-fourn%C3%A9e-de-louis-893515194022085/", imageUrl: "louis.jpg", width: "140px"}
     #- {name: "L'Eau Vive", description: "L'Eau Vive", link: "http://www.eau-vive.com/", imageUrl: "eau-vive.png", width: "140px"}

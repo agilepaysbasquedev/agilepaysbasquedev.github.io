@@ -18,42 +18,42 @@
      "id": 10001,
      "title": "Modélisation de Domaine et le modèle Acteur",
      "subtitle": "",
-     "description": "L'approche DDD met l'accent sur le domaine metier et la mise en évidence d'un contexte borné mais elle ne traite pas spécifiquement de la notion d'effet comme par exemple la prise en compte de la latence. Le motif architectural CQRS est un élément de réponse. Cependant avec l'avénement des microservices cet effet tend à se généraliser. Durant cette présentation nous ferons un tour de la problématique du passage à l'échelle, de la latence et voir comment le modèle acteur pourrait y répondre. Quelle forme de couplage peut exister entre l'expression de la solution via les acteurs et l'approche DDD ?",
+     "description": "L'approche DDD met l'accent sur le domaine metier et la mise en évidence d'un contexte borné mais elle ne traite pas spécifiquement de la notion d'effet comme par exemple la prise en compte de la latence.\n\n Le motif architectural CQRS est un élément de réponse. Cependant avec l'avénement des microservices cet effet tend à se généraliser. \n\nDurant cette présentation nous ferons un tour de la problématique du passage à l'échelle, de la latence et voir comment le modèle acteur pourrait y répondre. \nQuelle forme de couplage peut exister entre l'expression de la solution via les acteurs et l'approche DDD ?",
      "complexity": "Développement Logiciel et Tests",
      "speakers": [100]
   }, {
      "id": 10002,
      "title": "Product vision: from the framing phase",
      "subtitle": "",
-     "description": "Here the problem, how to define and share your vision ? nowadays, organizations have to moove very quickly to survive but without a long term vision, the organization will be lost. It is the same thing for your product. First of all, The “Why”, people Don’t buy what you do, but why you are doing it. Then, a know-how will be share (the How) and finaly a product will be made (What). When we communicate about the why and not about the what or the how then, the feeling and the decision making part will be easier and finaly the Customer buy your product.",
+     "description": "Here the problem, how to define and share your vision ? \n\nNowadays, organizations have to move very quickly to survive; but without a long term vision, the organization will be lost. It is the same thing for your product. \n\nFirst of all, The “Why”, people Don’t buy what you do, but why you are doing it. \nThen, a know-how will be share (the How) and finaly a product will be made (What). \nWhen we communicate about the why and not about the what or the how then, the feeling and the decision making part will be easier and finaly the Customer buy your product.",
      "complexity": "Découverte et Conception de Produits",
      "speakers": [101]
   }, {
      "id": 10003,
      "title": "Transformation agile: Arrêtons de suivre aveuglément des frameworks",
      "subtitle": "",
-     "description": "70% des changements organisationnels échouent.\nVous avez sûrement entendu ce chiffre à de nombreuses reprises pourtant… Cette statistique, répétée à l’unisson par de nombreux conférenciers, est un mythe. Un mythe tenace qui a un effet dévastateur : il rend, dans l’imaginaire collectif, le changement au sein d’une organisation difficile voire impossible, il impose inconsciemment le suivi scrupuleux d’un framework (SAFe, LeSS, Nexus…) pour éviter tout échec. Seulement, imiter aveuglément un framework est un piège.\nBien lancer et réussir la transformation de son entreprise ne dépend pas d'un cadre ou d'une méthode. C'est un effort, long certes, mais à la portée de tous à condition de se poser les bonnes questions.",
+     "description": "70% des changements organisationnels échouent.\n\nVous avez sûrement entendu ce chiffre à de nombreuses reprises pourtant… Cette statistique, répétée à l’unisson par de nombreux conférenciers, est un mythe. Un mythe tenace qui a un effet dévastateur : il rend, dans l’imaginaire collectif, le changement au sein d’une organisation difficile voire impossible, il impose inconsciemment le suivi scrupuleux d’un framework (SAFe, LeSS, Nexus…) pour éviter tout échec. \nSeulement, imiter aveuglément un framework est un piège.\n\nBien lancer et réussir la transformation de son entreprise ne dépend pas d'un cadre ou d'une méthode. C'est un effort, long certes, mais à la portée de tous à condition de se poser les bonnes questions.",
      "complexity": "Culture Agile et Management",
      "speakers": [102]
   }, {
      "id": 11001,
      "title": "Test d’architecture avec ArchUnit : Mise en œuvre pour le DDD",
      "subtitle": "",
-     "description": "ArchUnit est un framework qui permet de décrire des règles d’architecture et de les vérifier sur du code Java.\nLes règles ArchUnit expriment des propriétés topologiques. Par exemple, il est possible de vérifier qu’aucune classe située dans un package donné n’est liée avec aucune autre classe d’un autre package. La vérification des règles est faite par ArchUnit qui exploite les propriétés d’introspection de Java. ArchiUnit supporte l’ajout d’annotations qui seront utilisées par les règles pour affiner les vérifications. Par exemple, une règle peut cibler les classes qui portent une annotation particulière. \nNous avons effectué une mise en œuvre de ArchUnit pour vérifier l’application des patterns tactiques du DDD. Par exemple, nous avons décrit une règle vérifiant que les classes situées dans le package « domain » n’appellent pas les classes situées dans le packages « infra ». La mise en œuvre que nous avons réalisée nous a permis de formaliser la façon dont nous appliquons le DDD. La vérification de ces règles garantie ainsi une homogénéité de l’application du DDD telle que nous l’avons formalisée.\nDans ce talk nous présenterons le retour sur expérience que nous avons de ArchUnit. Nous illustrerons ce retour d’expérience en présentant les règles que nous avons formalisées. Ces règles et les annotations sur lesquelles elles sont basées sont disponibles dans un projet Open Source. Nous décrirons aussi les hésitations que nous avons eues quant au déploiement de ArchUnit. En outres, nous discuterons du compromis qu’il faut avoir entre l’exploitation des annotations et la mise en œuvre de conventions syntaxique.",
+     "description": "ArchUnit est un framework qui permet de décrire des règles d’architecture et de les vérifier sur du code Java.\n\nLes règles ArchUnit expriment des propriétés topologiques. Par exemple, il est possible de vérifier qu’aucune classe située dans un package donné n’est liée avec aucune autre classe d’un autre package. La vérification des règles est faite par ArchUnit qui exploite les propriétés d’introspection de Java. \n\nArchiUnit supporte l’ajout d’annotations qui seront utilisées par les règles pour affiner les vérifications. Par exemple, une règle peut cibler les classes qui portent une annotation particulière. \n\nNous avons effectué une mise en œuvre de ArchUnit pour vérifier l’application des patterns tactiques du DDD. Par exemple, nous avons décrit une règle vérifiant que les classes situées dans le package « domain » n’appellent pas les classes situées dans le packages « infra ». \n\nLa mise en œuvre que nous avons réalisée nous a permis de formaliser la façon dont nous appliquons le DDD. \nLa vérification de ces règles garantie ainsi une homogénéité de l’application du DDD telle que nous l’avons formalisée.\n\nDans ce talk nous présenterons le retour sur expérience que nous avons de ArchUnit. Nous illustrerons ce retour d’expérience en présentant les règles que nous avons formalisées. \nCes règles et les annotations sur lesquelles elles sont basées sont disponibles dans un projet Open Source. \nNous décrirons aussi les hésitations que nous avons eues quant au déploiement de ArchUnit. \n\nEn outres, nous discuterons du compromis qu’il faut avoir entre l’exploitation des annotations et la mise en œuvre de conventions syntaxique.",
      "complexity": "Développement Logiciel et Tests",
      "speakers": [103]
   }, {
      "id": 11002,
      "title": "Comment délivrer un max de valeur?",
      "subtitle": "",
-     "description": "Comment délivrer le maximum de valeur (dans mon entreprise, mon département, mon équipe...) ? Et puis c'est quoi la valeur ? Comment je la mesure ? Et puis d'abord pourquoi je dois m'intéresser à la valeur ? He ! Pourquoi t'es pas d'accord avec moi que c'est ça qu'à plus de valeur ? Bon, pour y voir plus clair dans tout ça, il faut venir nous voir pour découvrir les éclairages que nous avons découverts et qui devraient changer radicalement la vision que tu as de la valeur !",
+     "description": "Comment délivrer le maximum de valeur (dans mon entreprise, mon département, mon équipe...) ? Et puis c'est quoi la valeur ? Comment je la mesure ? Et puis d'abord pourquoi je dois m'intéresser à la valeur ? \n\nHe ! Pourquoi t'es pas d'accord avec moi que c'est ça qui a plus de valeur ? \nBon, pour y voir plus clair dans tout ça, il faut venir nous voir pour découvrir les éclairages que nous avons découverts et qui devraient changer radicalement la vision que tu as de la valeur !",
      "complexity": "Découverte et Conception de Produits",
      "speakers": [104]
   }, {
      "id": 11003,
      "title": "Appréhender des postures managériales en contexte agile",
      "subtitle": "",
-     "description": "Les jeux Agile sont un moyen très intéressant pour aider les acteurs qui s’engagent (que l’on engage…) dans une démarche Agile. Nous en expérimenterons un certain nombre axés autour des postures managériales. Et vous pourrez par la suite les réutiliser et transmettre dans vos propres contextes.",
+     "description": "Les jeux Agile sont un moyen très intéressant pour aider les acteurs qui s’engagent (que l’on engage…) dans une démarche Agile. \n\nNous en expérimenterons un certain nombre axés autour des postures managériales. Et vous pourrez par la suite les réutiliser et transmettre dans vos propres contextes.",
      "complexity": "Culture Agile et Management",
      "speakers": [52]
   }, {
@@ -72,21 +72,21 @@
      "id": 14002,
      "title": "Les OKRs: la colonne vertébrale de l’alignement entre votre stratégie globale, produit et managériale",
      "subtitle": "",
-     "description": "Vous êtes PO ? Vous êtes vous déjà posé ces questions : Comment aligner ma stratégie produit sur la stratégie de l’entreprise ? Pourquoi développons-nous telle ou telle fonctionnalité ? Comment arriver à communiquer ma stratégie aussi bien avec l’équipe que les sponsor avec un seul outil ? En tant que manager: Comment proposer des challenges porteurs de sens à vos équipes tout en gardant une cohérence d’ensemble ? Comment permettre à l’ensemble des co-équipiers d’un produit d’avancer dans le même sens ? Notre conviction est que les OKRs (“Objectifs Key Results”) sont un fabuleux outil permettant de cultiver l’alignement au sein d’une organisation. Nous allons vous raconter une histoire qui vous permettra de toucher du doigt la puissance de cet outil.",
+     "description": "Vous êtes PO ? Vous êtes vous déjà posé ces questions : Comment aligner ma stratégie produit sur la stratégie de l’entreprise ? \n\nPourquoi développons-nous telle ou telle fonctionnalité ? Comment arriver à communiquer ma stratégie aussi bien avec l’équipe que les sponsor avec un seul outil ? \n\nEn tant que manager: Comment proposer des challenges porteurs de sens à vos équipes tout en gardant une cohérence d’ensemble ? Comment permettre à l’ensemble des co-équipiers d’un produit d’avancer dans le même sens ? \n\nNotre conviction est que les OKRs (“Objectifs Key Results”) sont un fabuleux outil permettant de cultiver l’alignement au sein d’une organisation. Nous allons vous raconter une histoire qui vous permettra de toucher du doigt la puissance de cet outil.",
      "complexity": "Découverte et Conception de Produits",
      "speakers": [30,112]
   }, {
      "id": 14003,
      "title": "La spirale Agile",
      "subtitle": "",
-     "description": "Vous avez peut être lu \"Reinventing Organization\" de Frédéric Laloux, son analyse se base sur la \"Spirale Dynamique\".C'est une théorie qui démontre que l'humanité, les individus et les organisation suivent les mêmes cycles d'évolutions (son autre nom \"La Théorie de l’Emergence Cyclique des Niveaux d’Existence\") Elle est utilisé autant comme base de thérapie par des praticiens de la santé, en politique (Nelson Mandela l'a utilisé lors de la sortie de l’apartheid), ou encore en coaching car elle est une grille de lecture des valeurs d'un individu ou d'un groupe. Puisque l'agilité s'intéresse aux individus et à leurs interactions,  j'ai décliné cette théorie sur l'agilité pour créer ce que j'ai appelé la \"Spirale Agile\". Je vous propose de découvrir cette grille de lecture comme outil de coaching qui peut venir en aide aux équipes agiles et aux managers pour  : \n- Se définir un objectif de transformation agile\n- Comprendre son état agile du moment\n- Définir ses valeurs et aligner ses pratiques\n- Tirer profit de ses forces\n- Comprendre les enjeux et prérequis d'une transformation",
+     "description": "Vous avez peut être lu \"Reinventing Organization\" de Frédéric Laloux, son analyse se base sur la \"Spirale Dynamique\". \n\nC'est une théorie qui démontre que l'humanité, les individus et les organisation suivent les mêmes cycles d'évolutions (son autre nom \"La Théorie de l’Emergence Cyclique des Niveaux d’Existence\") \n\nElle est utilisé autant comme base de thérapie par des praticiens de la santé, en politique (Nelson Mandela l'a utilisé lors de la sortie de l’apartheid), ou encore en coaching car elle est une grille de lecture des valeurs d'un individu ou d'un groupe. \n\nPuisque l'agilité s'intéresse aux individus et à leurs interactions, j'ai décliné cette théorie sur l'agilité pour créer ce que j'ai appelé la \"Spirale Agile\". \n\nJe vous propose de découvrir cette grille de lecture comme outil de coaching qui peut venir en aide aux équipes agiles et aux managers pour  : \n- Se définir un objectif de transformation agile\n- Comprendre son état agile du moment\n- Définir ses valeurs et aligner ses pratiques\n- Tirer profit de ses forces\n- Comprendre les enjeux et prérequis d'une transformation",
      "complexity": "Culture Agile et Management",
      "speakers": [106]
   }, {
      "id": 15001,
      "title": "De legacy au TDD",
      "subtitle": "",
-     "description": "C'est quoi l'obstacle principal à travailler avec les tests ou en TDD. C'est que le code existant n'a pas été concu pour! Voyons à travers un exemple comment on reprend le code, le prépare au travail en TDD à l'aide des tests :) et du refactoring préparatoire afin que cela devienne un jeu d'enfant d'ajouter la nouvelle fonctionnalité en TDD (ou presque :D). Vous verrez comment aborder les tests sur le legacy, comment le refactoring rend plus facile l'introduction d'une nouvelle fonctionnalité et comment cela coincide souvent avec la possibilité d'utiliser TDD efficacement. Et tout cela dans une application qui ressemble à nos SI habituels.",
+     "description": "C'est quoi l'obstacle principal à travailler avec les tests ou en TDD. C'est que le code existant n'a pas été concu pour! \n\nVoyons à travers un exemple comment on reprend le code, le prépare au travail en TDD à l'aide des tests :) et du refactoring préparatoire afin que cela devienne un jeu d'enfant d'ajouter la nouvelle fonctionnalité en TDD (ou presque :D). \n\nVous verrez comment aborder les tests sur le legacy, comment le refactoring rend plus facile l'introduction d'une nouvelle fonctionnalité et comment cela coincide souvent avec la possibilité d'utiliser TDD efficacement. \n\nEt tout cela dans une application qui ressemble à nos SI habituels.",
      "complexity": "Développement Logiciel et Tests",
      "speakers": [107]
   }, {
@@ -100,21 +100,21 @@
      "id": 15003,
      "title": "Comment réduire soi-même sa dette émotionnelle pour mieux collaborer dans une équipe agile?",
      "subtitle": "",
-     "description": "Dans ma conférence \"Comment réduire la dette émotionnelle dans une équipe Scrum\", j’ai partagé mon expérience pour traiter l’accumulation de problèmes humains dans une équipe, que j’appelle la dette émotionnelle dans une équipe. Aujourd'hui, je propose de partager de nouveau mon expérience et mes techniques à tout individu souhaitant réduire sa propre dette émotionnelle, sans l’aide de personne. Pourquoi est-ce utile ? Quand on est frustré ou en colère, comment accueillir un feedback négatif sans le prendre comme une attaque ? Comment réussir à faire un feedback négatif à l’autre quand on n’ose pas ? Etre capable de réduire sa propre dette émotionnelle de manière autonome, c’est un moyen de mieux collaborer au sein d’une équipe agile, en osant s’exprimer quand c’est nécessaire et en étant capable d’entendre n’importe quel type de message pour le bien être du collectif. Et en bonus, on se sent mieux ensuite au travail, croyez moi.",
+     "description": "Dans ma conférence \"Comment réduire la dette émotionnelle dans une équipe Scrum\", j’ai partagé mon expérience pour traiter l’accumulation de problèmes humains dans une équipe, que j’appelle la dette émotionnelle dans une équipe. \n\nAujourd'hui, je propose de partager de nouveau mon expérience et mes techniques à tout individu souhaitant réduire sa propre dette émotionnelle, sans l’aide de personne. \n\nPourquoi est-ce utile ? Quand on est frustré ou en colère, comment accueillir un feedback négatif sans le prendre comme une attaque ? Comment réussir à faire un feedback négatif à l’autre quand on n’ose pas ? Etre capable de réduire sa propre dette émotionnelle de manière autonome, c’est un moyen de mieux collaborer au sein d’une équipe agile, en osant s’exprimer quand c’est nécessaire et en étant capable d’entendre n’importe quel type de message pour le bien être du collectif. Et en bonus, on se sent mieux ensuite au travail, croyez moi.",
      "complexity": "Culture Agile et Management",
      "speakers": [108]
   }, {
      "id": 16001,
      "title": "The software evolution hasn't happened yet",
      "subtitle": "",
-     "description": "On nous parle depuis longtemps de la fameuse loi de Moore, mais pourquoi cette loi ne semble s’appliquer qu’au Hardware et pas au Software ? S’il existe une ingénierie de l’informatique, alors pourquoi les programmeurs n’arrivent pas à trouver des méthodes scientifiques qui produisent un logiciel robuste, dans un délai et un coup raisonnable ? Qu’est ce qui peut être si compliqué dans le fait de traduire un besoin métier en une série d’instructions non ambiguës compréhensibles par un ordinateur ? \n\nDurant cette présentation, j’aimerais introduire quelques hypothèses pour répondre à ces questions. Le but est de challenger nos pratiques ainsi que notre compréhension de ce qu’est un logiciel et un développeur, dans le but de nous améliorer. Je vous préviens : vous aurez plus de questions en repartant qu’en arrivant, mais heureusement l’important c’est le voyage, pas la destination.",
+     "description": "On nous parle depuis longtemps de la fameuse loi de Moore, mais pourquoi cette loi ne semble s’appliquer qu’au Hardware et pas au Software ? \n\nS’il existe une ingénierie de l’informatique, alors pourquoi les programmeurs n’arrivent pas à trouver des méthodes scientifiques qui produisent un logiciel robuste, dans un délai et un coup raisonnable ? \n\nQu’est ce qui peut être si compliqué dans le fait de traduire un besoin métier en une série d’instructions non ambiguës compréhensibles par un ordinateur ? \n\nDurant cette présentation, j’aimerais introduire quelques hypothèses pour répondre à ces questions. \n\nLe but est de challenger nos pratiques ainsi que notre compréhension de ce qu’est un logiciel et un développeur, dans le but de nous améliorer. \n\nJe vous préviens : vous aurez plus de questions en repartant qu’en arrivant, mais heureusement l’important c’est le voyage, pas la destination.",
      "complexity": "Développement Logiciel et Tests",
      "speakers": [109]
   },{
      "id": 16002,
      "title": "Le Product Owner, star de l’équipe agile: entre fantasme et réalité",
      "subtitle": "",
-     "description": "S'il y a bien dans l'imaginaire collectif un rôle qui fait rêver dans l'équipe agile, c'est le Product Owner. D'une, il est là pour parler produit -- rappelons que c'est forcément mieux que de travailler dans la tech. Et de deux, il prend des décisions et dit aux autres sur quoi travailler, ce qui fait de lui une personne importante. On pourrait presque dire que le reste de l'équipe est constituée de citoyens de seconde zone. D'ailleurs ce sont peut-être des presta, justement...\n\nNathalie Keo et Jean-Pierre Lambert vous proposent d'aller au-delà de cette vision naïve, souvent liée à la transposition malheureuse d'un ancien mode de fonctionnement pas vraiment agile, et d'aller réellement découvrir le rôle de Product Owner. C'est un rôle complexe, dont l'essence même est souvent mal comprise, et dont la mise en pratique peut grandement varier d'une entreprise, d'une équipe et d'un produit à un autre.",
+     "description": "S'il y a bien dans l'imaginaire collectif un rôle qui fait rêver dans l'équipe agile, c'est le Product Owner. \n\nD'une, il est là pour parler produit -- rappelons que c'est forcément mieux que de travailler dans la tech. \n\nEt de deux, il prend des décisions et dit aux autres sur quoi travailler, ce qui fait de lui une personne importante. \n\nOn pourrait presque dire que le reste de l'équipe est constituée de citoyens de seconde zone. D'ailleurs ce sont peut-être des presta, justement...\n\nNathalie Keo et Jean-Pierre Lambert vous proposent d'aller au-delà de cette vision naïve, souvent liée à la transposition malheureuse d'un ancien mode de fonctionnement pas vraiment agile, et d'aller réellement découvrir le rôle de Product Owner. C'est un rôle complexe, dont l'essence même est souvent mal comprise, et dont la mise en pratique peut grandement varier d'une entreprise, d'une équipe et d'un produit à un autre.",
      "complexity": "Découverte et Conception de Produits",
      "speakers": [110, 111]
   }, {
@@ -125,12 +125,11 @@
      "complexity": "Culture Agile et Management",
      "speakers": [37, 85]
   }, {
-      "id": 209001,
-      "title": "Forum Ouvert : Ordre du Jour",
-      "subtitle": "Les participants et orateurs co-définissent l'ordre du jour en amenant leurs idées.",
-      "description": "Tous les participants se retrouvent en session plénière pour co-définir l'ordre du jour. Chaque partipant amène ses idées, questions, besoins à traiter. Tout le monde doit s'y retrouver dans les sujets à aborder pour un engagement maximal",
-      "complexity": "Tous",
-      "subtype": "workshop"
+      "id": 19001,
+      "title": "Repas orateurs",
+      "subtitle": "",
+      "description": "",
+      "service": "true"
   }, {
       "id": 209301,
       "title": "Coding Dojo: \"(coming soon)\"",
@@ -143,7 +142,7 @@
       "id": 209302,
       "title": "PO Dojo: \"L’art de couper les Stories en 4!\"",
       "subtitle": "",
-      "description": "Est-ce un art ? En tout cas, le découpage des User Stories est une compétence souvent ignorée et qui nécessite un réel apprentissage pour être maîtrisée. C’est aussi un prérequis à la livraison rapide de valeur. Viens expérimenter et échanger avec nous ! Sois zen, tous ces découpages seront doux et sécurisés !",
+      "description": "Est-ce un art ? En tout cas, le découpage des User Stories est une compétence souvent ignorée et qui nécessite un réel apprentissage pour être maîtrisée. \n\nC’est aussi un prérequis à la livraison rapide de valeur. Viens expérimenter et échanger avec nous ! Sois zen, tous ces découpages seront doux et sécurisés !",
       "complexity": "Atelier",
       "subtype": "workshop",
       "speakers": [104]
@@ -151,7 +150,7 @@
       "id": 209303,
       "title": "Atelier Sketchnotes: comment devenir le seigneur des pictos?",
       "subtitle": "",
-      "description": "Les techniques visuelles (Sketchnotes, Facilitation graphique, Scribing, ...) reposent toutes plus ou moins sur les mêmes pictogrammes, et on en a assez parlé dans le premier volet de cette saga il y a 3 ans. Cette année nous nous concentrerons donc surtout sur ce qui fait la force de Sauron : les personnages. Nous verrons comment dessiner des personnages qui donnent de la vie à vos visuels et qui transmettent efficacement vos messages tout en impliquant au mieux l'audience.",
+      "description": "Les techniques visuelles (Sketchnotes, Facilitation graphique, Scribing, ...) reposent toutes plus ou moins sur les mêmes pictogrammes, et on en a assez parlé dans le premier volet de cette saga il y a 3 ans. \n\nCette année nous nous concentrerons donc surtout sur ce qui fait la force de Sauron : les personnages. Nous verrons comment dessiner des personnages qui donnent de la vie à vos visuels et qui transmettent efficacement vos messages tout en impliquant au mieux l'audience.",
       "complexity": "Atelier",
       "subtype": "workshop",
       "speakers": [61]
@@ -159,7 +158,7 @@
       "id": 214001,
       "title": "Forum Ouvert : Sessions",
       "subtitle": "Des sessions de travail se forment par groupe de participants pour débattre des sujets.",
-      "description": "Le Forum Ouvert est une méthode pour structurer des conversations et des conférences. Grâce à cette méthode, des groupes de 5 à 2 000 participants peuvent s'assembler et travailler ensemble. La caractéristique de la méthode est l'ouverture mise à la fois sur le contenu mais aussi sur la forme. Les participants sont invités à travailler ensemble sur une thématique importante et complexe. L'ordre du jour est réalisé par les participants au démarrage du Forum Ouvert en un temps record. Les utilisateurs donnent ainsi leurs propres sujets en plénière et forment des groupes de travail pour chaque thème abordé dans lesquels les projets vont être élaborés. Chaque groupe de travail rédige un compte-rendu qui est affiché immédiatement. L'ensemble des comptes-rendus apparait ainsi au fur et à mesure de l'avancement du Forum Ouvert. Le Forum Ouvert permet de traiter de sujets complexes et de produire une diversité de mesures concrètes en peu de temps. source: wikipedia",
+      "description": "Le Forum Ouvert est une méthode pour structurer des conversations et des conférences. Grâce à cette méthode, des groupes de 5 à 2 000 participants peuvent s'assembler et travailler ensemble. \n\nLa caractéristique de la méthode est l'ouverture mise à la fois sur le contenu mais aussi sur la forme. Les participants sont invités à travailler ensemble sur une thématique importante et complexe. \n\nL'ordre du jour est réalisé par les participants au démarrage du Forum Ouvert en un temps record. Les utilisateurs donnent ainsi leurs propres sujets en plénière et forment des groupes de travail pour chaque thème abordé dans lesquels les projets vont être élaborés. \n\nChaque groupe de travail rédige un compte-rendu qui est affiché immédiatement. L'ensemble des comptes-rendus apparait ainsi au fur et à mesure de l'avancement du Forum Ouvert. Le Forum Ouvert permet de traiter de sujets complexes et de produire une diversité de mesures concrètes en peu de temps. source: wikipedia",
       "complexity": "Forum Ouvert",
       "subtype": "workshop"
   }, {
