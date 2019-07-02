@@ -125,12 +125,11 @@
      "complexity": "Culture Agile et Management",
      "speakers": [37, 85]
   }, {
-      "id": 209001,
-      "title": "Forum Ouvert : Ordre du Jour",
-      "subtitle": "Les participants et orateurs co-définissent l'ordre du jour en amenant leurs idées.",
-      "description": "Tous les participants se retrouvent en session plénière pour co-définir l'ordre du jour. Chaque partipant amène ses idées, questions, besoins à traiter. Tout le monde doit s'y retrouver dans les sujets à aborder pour un engagement maximal",
-      "complexity": "Tous",
-      "subtype": "workshop"
+      "id": 19001,
+      "title": "Repas orateurs",
+      "subtitle": "",
+      "description": "",
+      "service": "true"
   }, {
       "id": 209301,
       "title": "Coding Dojo: \"(coming soon)\"",
