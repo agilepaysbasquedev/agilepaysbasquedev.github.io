@@ -107,7 +107,7 @@ Edition:
     #- {name: "A venir", description: "A venir", link: "#Todo", imageUrl: "tbd.png", width: "120px"}
     #- {name: "AE&T", description: "AE&T, Spécialiste français de la sécurité industrielle et de la protection des biens et des personnes", link: "https://aet.fr", imageUrl: "aet.png", width: "120px"}
     #- {name: "Actinuum", description: "Actinuum, Cabinet de conseil et de formation en management de projet", link: "http://www.actinuum.com/", imageUrl: "actinuum.png", width: "204px"}
-    #- {name: "Agile Tribu", description: "Agile Tribu, Améliorons ensemble nos pratiques Agiles.", link: "http://www.agiletribu.com/", imageUrl: "agile-tribu.png", width: "204px"}
+    - {name: "Agile Tribu", description: "Agile Tribu, Améliorons ensemble nos pratiques Agiles.", link: "http://www.agiletribu.com/", imageUrl: "agile-tribu.png", width: "204px"}
     - {name: "ANEO", description: "ANEO", link: "https://www.aneo.eu/", imageUrl: "ANEO_LOGO_Qualité max.png", width: "120px"}
     #- {name: "CAFPI", description: "CAFPI, N°1 des courtiers en crédits immobiliers", link: "http://www.cafpi.fr", imageUrl: "cafpi.png", width: "203px"}
     - {name: "EXAKIS NELITE", description: "Exakis Nelite, partenaire de la DSI et des Métiers, pour bâtir des plateformes Cloud intelligentes, encourager la collaboration, favoriser la mobilité,l&#039;innovation", link: "http://www.exakis-nelite.com", imageUrl: "exakis-nelite.png", width: "125px"}
