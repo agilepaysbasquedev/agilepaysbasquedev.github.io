@@ -9,3 +9,8 @@ params:
     bluesky: "https://bsky.app/profile/agile-paysbasque.bsky.social"
     facebook: "https://www.facebook.com/AgilePaysBasque/"
     youtube: "https://www.youtube.com/channel/UCMvs0KliF5msZ7dQmMkXMLA"
+  menu:
+    mainAction:
+      name: "Billet"
+      url: "/todo"
+      enable: true
