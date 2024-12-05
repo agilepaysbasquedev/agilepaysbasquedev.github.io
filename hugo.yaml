@@ -1,6 +1,6 @@
 baseURL: 'https://agile-paysbasque.fr/'
 languageCode: 'fr'
-title: 'My New Hugo Site'
+title: 'Agile Pays Basque'
 
 params:
   social:
