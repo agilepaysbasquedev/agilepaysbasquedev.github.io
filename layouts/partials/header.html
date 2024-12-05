@@ -22,6 +22,9 @@
         </ul>
       </nav>
       <a href="#" class="primary-btn top-btn"><i class="fa fa-ticket"></i> Ticket</a>
+      {{ range .Site.Menus.button }}
+        <a class="primary-btn top-btn" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
     </div>
     <div id="mobile-menu-wrap"></div>
   </div>

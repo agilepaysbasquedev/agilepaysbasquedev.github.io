@@ -4,11 +4,8 @@ title: 'My New Hugo Site'
 
 params:
   social:
-    twitter: arnolanglade
-    linkedin: "https://www.linkedin.com/in/arnolanglade"
-    x: "https://twitter.com/arnolanglade"
-    bluesky: "https://bsky.app/profile/arnolanglade.bsky.social"
-    github: "https://github.com/arnolanglade"
-    mastodon: "https://mastodon.social/@arnolanglade"
-    youtube: "https://www.youtube.com/@arnolanglade"
-    rss: "/blog/index.xml"
+    linkedin: "https://www.linkedin.com/company/agile-paysbasque"
+    x: "https://x.com/agilepb"
+    bluesky: "https://bsky.app/profile/agile-paysbasque.bsky.social"
+    facebook: "https://www.facebook.com/AgilePaysBasque/"
+    youtube: "https://www.youtube.com/channel/UCMvs0KliF5msZ7dQmMkXMLA"
