@@ -1,0 +1,14 @@
+baseURL: 'https://agile-paysbasque.fr/'
+languageCode: 'fr'
+title: 'My New Hugo Site'
+
+params:
+  social:
+    twitter: arnolanglade
+    linkedin: "https://www.linkedin.com/in/arnolanglade"
+    x: "https://twitter.com/arnolanglade"
+    bluesky: "https://bsky.app/profile/arnolanglade.bsky.social"
+    github: "https://github.com/arnolanglade"
+    mastodon: "https://mastodon.social/@arnolanglade"
+    youtube: "https://www.youtube.com/@arnolanglade"
+    rss: "/blog/index.xml"
