@@ -1,4 +1,60 @@
 {{ define "main" }}
 {{ .Content | safeHTML }}
 
+<!-- Newslatter Section Begin -->
+<section class="newslatter-section">
+  <div class="container">
+    <div class="newslatter-inner set-bg" data-setbg="img/newslatter-bg.jpg">
+      <div class="ni-text">
+        <h3>S'inscrire à notre newsletter</h3>
+        <p>Recevez les dernières infos sur l'événement</p>
+      </div>
+      <form action="#" class="ni-form">
+        <input type="text" placeholder="Votre email">
+        <button type="submit">S'inscrire</button>
+      </form>
+    </div>
+  </div>
+</section>
+<!-- Newslatter Section End -->
+
+<!-- Contact Section Begin -->
+<section class="contact-section spad">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="section-title">
+          <h2>Où nous trouver ?</h2>
+          <p>Comment chaque année, on se trouve à l'ESTIA.</p>
+        </div>
+        <div class="cs-text">
+          <div class="ct-address">
+            <span>Adresse:</span>
+            <p>Technopole Izarbel 90 Allée Fauste d’Elhuyar, <br> 64210 Bidart</p>
+          </div>
+          <ul>
+            <li>
+              <span>Phone:</span>
+              (+12)-345-67-8910
+            </li>
+            <li>
+              <span>Email:</span>
+              info.colorlib@gmail.com
+            </li>
+          </ul>
+          <div class="ct-links">
+            <span>Website:</span>
+            <p>https://conference.colorlib.com</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="cs-map">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1101.7188611045692!2d-1.5533379885442795!3d43.44598377798183!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd51151b71e976eb%3A0xd29f42f57decb96a!2s%C3%89cole%20sup%C3%A9rieure%20des%20technologies%20industrielles%20avanc%C3%A9es%20(ESTIA)%20-%20Universit%C3%A9%20de%20Bordeaux!5e0!3m2!1sfr!2sfr!4v1733482608821!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Contact Section End -->
 {{ end }}
