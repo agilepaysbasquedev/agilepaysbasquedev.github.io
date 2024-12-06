@@ -549,33 +549,24 @@ ol {
   Member Item
 -----------------------*/
 
-.team-member-section {
-	overflow: hidden;
-}
+/*.team-member-section {*/
+/*	overflow: hidden;*/
+/*}*/
 
 .member-item {
-	width: 20%;
-	float: left;
-	height: 420px;
-	position: relative;
-	overflow: hidden;
+	text-align: center;
 }
 
-.member-item:hover .mi-social {
-	top: 0;
-}
+/*.member-item:hover .mi-social {*/
+/*	top: 0;*/
+/*}*/
 
-.member-item:hover .mi-text {
-	left: 20px;
-}
+/*.member-item:hover .mi-text {*/
+/*	left: 20px;*/
+/*}*/
 
 .member-item .mi-social {
-	text-align: center;
-	position: relative;
-	top: -60px;
-	-webkit-transition: all 0.3s ease-out;
-	-o-transition: all 0.3s ease-out;
-	transition: all 0.3s ease-out;
+	padding: 10px;
 }
 
 .member-item .mi-social .mi-social-inner {
@@ -597,14 +588,7 @@ ol {
 
 .member-item .mi-text {
 	background: #ffffff;
-	padding: 16px 0 18px 25px;
-	position: absolute;
-	left: -500px;
-	bottom: 20px;
-	width: calc(100% - 40px);
-	-webkit-transition: all 0.5s ease-out;
-	-o-transition: all 0.5s ease-out;
-	transition: all 0.5s ease-out;
+	padding: 10px;
 }
 
 .member-item .mi-text h5 {
@@ -1270,8 +1254,8 @@ ol {
 -----------------------*/
 
 .about-section {
-	padding-top: 0;
-	padding-bottom: 90px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 .about-section .section-title {
@@ -1318,6 +1302,7 @@ ol {
 	color: #6a6b7c;
 	line-height: 30px;
 	list-style: none;
+	margin-top: 20px;
 }
 
 .about-text ul li span {
