@@ -1147,7 +1147,6 @@ ol {
 
 .footer-text {
 	text-align: center;
-	padding-top: 60px;
 }
 
 .footer-text .ft-logo {
@@ -1201,6 +1200,10 @@ ol {
 
 .footer-text .copyright-text a:hover {
 	color: #f44949;
+}
+
+.footer-text .ft-social {
+	padding-top: 40px;
 }
 
 .footer-text .ft-social a {
