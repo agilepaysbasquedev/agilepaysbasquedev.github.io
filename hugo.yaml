@@ -14,3 +14,10 @@ params:
       name: "Billet"
       url: "/todo"
       enable: true
+  homepage:
+    title: Agile Pays Basque
+    subtitle: La conférence est de retour en 2025
+    link:
+      url: mailto:agilepb@gmail.com
+      label: Devenir Sponsor
+    date: 2025/09/23
