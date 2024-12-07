@@ -484,7 +484,7 @@ ol {
 -----------------------*/
 
 .home-about-section {
-	padding-bottom: 90px;
+	margin-top: 90px;
 }
 
 .ha-pic {
@@ -514,7 +514,7 @@ ol {
 }
 
 .ha-text ul {
-	margin-bottom: 27px;
+	margin-bottom: 0px;
 }
 
 .ha-text ul li {
@@ -745,6 +745,7 @@ ol {
 -----------------------*/
 
 .pricing-section {
+	margin-top: 90px;
 	padding-top: 90px;
 	padding-bottom: 80px;
 }
@@ -958,7 +959,10 @@ ol {
   Newslatter Section
 -----------------------*/
 
-.newslatter-section.about-newslatter .newslatter-inner {
+.newslatter-section {
+	margin-top: 90px;
+}
+.newslatter-section.about-newslatter .newslatter-inner  {
 	margin-top: 0;
 }
 
@@ -966,7 +970,6 @@ ol {
 	padding: 60px 70px 48px;
 	overflow: hidden;
 	border-radius: 2px;
-	margin-top: 100px;
 }
 
 .newslatter-inner .ni-text {
@@ -1041,6 +1044,11 @@ ol {
   Home Contact
 -----------------------*/
 
+.contact-section {
+	margin-top: 90px;
+	min-height: 450px;
+}
+
 .contact-section .section-title {
 	text-align: left;
 	margin-bottom: 40px;
@@ -1111,6 +1119,7 @@ ol {
 	background: #171822;
 	padding-top: 50px;
 	padding-bottom: 60px;
+	margin-top: 90px;
 }
 
 .partner-logo {
