@@ -91,15 +91,4 @@
     $('.video-popup').magnificPopup({
         type: 'iframe'
     });
-
-    /*------------------
-        CountDown
-    --------------------*/
-    // Use this for real timer date
-    var timerdate = "2025/09/23";
-
-	$("#countdown").countdown(timerdate, function(event) {
-        $(this).html(event.strftime("<div class='cd-item'><span>%D</span> <p>Jours</p> </div>" + "<div class='cd-item'><span>%H</span> <p>Heures</p> </div>" + "<div class='cd-item'><span>%M</span> <p>Minutes</p> </div>" + "<div class='cd-item'><span>%S</span> <p>Secondes</p> </div>"));
-    });
-
 })(jQuery);

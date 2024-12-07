@@ -36,3 +36,12 @@
 <script src="/js/jquery.slicknav.js"></script>
 <script src="/js/owl.carousel.min.js"></script>
 <script src="/js/main.js"></script>
+
+<script>
+  {{ with .Site.Params.homepage.date }}
+  var timerdate = "{{ . }}";
+
+  $("#countdown").countdown(timerdate, function(event) {
+  $(this).html(event.strftime("<div class='cd-item'><span>%D</span> <p>Jours</p> </div>" + "<div class='cd-item'><span>%H</span> <p>Heures</p> </div>" + "<div class='cd-item'><span>%M</span> <p>Minutes</p> </div>" + "<div class='cd-item'><span>%S</span> <p>Secondes</p> </div>"));});
+  {{ end }}
+</script>
