@@ -23,8 +23,8 @@
 </section>
 <!-- Hero Section End -->
 
-<!-- Counter Section Begin -->
 {{ with .Site.Params.homepage.countdown.display }}
+<!-- Counter Section Begin -->
 <section class="counter-section bg-gradient">
     <div class="container">
         <div class="row">
@@ -41,8 +41,8 @@
         </div>
     </div>
 </section>
-{{ end }}
 <!-- Counter Section End -->
+{{ end }}
 
 <!-- Home About Section Begin -->
 <section class="home-about-section">
@@ -75,8 +75,8 @@
 </section>
 <!-- Home About Section End -->
 
-<!-- Pricing Section Begin -->
 {{ with .Site.Params.homepage.pricing.display }}
+<!-- Pricing Section Begin -->
 <section class="pricing-section set-bg" data-setbg="img/pricing-bg.jpg">
     <div class="container">
         <div class="row">
@@ -144,8 +144,8 @@
         </div>
     </div>
 </section>
-{{ end }}
 <!-- Pricing Section End -->
+{{ end }}
 
 <!-- Newslatter Section Begin -->
 <section class="newslatter-section">
@@ -164,6 +164,7 @@
 </section>
 <!-- Newslatter Section End -->
 
+{{ with .Site.Params.homepage.pricing.display }}
 <!-- Contact Section Begin -->
 <section class="contact-section">
     <div class="container">
@@ -203,4 +204,5 @@
     </div>
 </section>
 <!-- Contact Section End -->
+{{ end }}
 {{ end }}
