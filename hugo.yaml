@@ -20,5 +20,7 @@ params:
     link:
       url: mailto:agilepb@gmail.com
       label: Devenir Sponsor
-    date: 2025-12-12
+    countdown:
+      display: false
+      date: 2025-12-12
     pricing: true
