@@ -23,7 +23,7 @@
       </nav>
       {{ with .Site.Params.menu.mainAction }}
         {{ if .enable }}
-          <a class="primary-btn top-btn" href="{{ .url }}" target="_blank">{{ .Name }}</a>
+          <a class="primary-btn top-btn" href="{{ .url }}" {{ if .openInNewPage }} target="_blank"{{ end }}>{{ .Name }}</a>
         {{ end }}
       {{ end }}
     </div>

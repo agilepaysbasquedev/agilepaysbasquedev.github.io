@@ -12,7 +12,8 @@ params:
   menu:
     mainAction:
       name: "Devenir Sponsor"
-      url: "mailto:agilepb@gmail.com"
+      url: "/sponsor"
+      openInNewPage: false
       enable: true
   homepage:
     title: Agile Pays Basque

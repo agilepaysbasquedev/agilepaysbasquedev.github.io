@@ -1313,16 +1313,37 @@ ol {
 }
 
 .about-text ul li {
-	font-size: 16px;
-	color: #6a6b7c;
-	line-height: 30px;
 	list-style: none;
-	margin-top: 20px;
 }
 
 .about-text ul li span {
 	color: #f44949;
 }
+
+/*---------------------
+  Sponsor Section
+-----------------------*/
+
+.sponsor-section ul li {
+	font-size: 16px;
+	color: #6a6b7c;
+	list-style: none;
+}
+
+.sponsor-section .section-title {
+	text-align: left;
+}
+
+.sponsor-section .section-title h2 {
+	margin-bottom: 20px;
+}
+
+.sponsor-section .section-title p {
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+
 
 /*---------------------
   Story Section
