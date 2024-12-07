@@ -11,12 +11,13 @@ params:
     youtube: "https://www.youtube.com/channel/UCMvs0KliF5msZ7dQmMkXMLA"
   menu:
     mainAction:
-      name: "Billet"
-      url: "/todo"
+      name: "Devenir Sponsor"
+      url: "mailto:agilepb@gmail.com"
       enable: true
   homepage:
     title: Agile Pays Basque
-    subtitle: La conférence est de retour en 2025
+    topTitle: La conférence avec les pieds dans l'eau
+    subTitle: La conférence est de retour en 2025
     link:
       url: mailto:agilepb@gmail.com
       label: Devenir Sponsor

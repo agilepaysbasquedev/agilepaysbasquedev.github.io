@@ -391,7 +391,7 @@ ol {
 -----------------------*/
 
 .hero-section {
-	padding-top: 55px;
+	padding-top: 25px;
 	min-height: 550px;
 }
 
@@ -406,12 +406,18 @@ ol {
 	letter-spacing: 2px;
 }
 
-.hero-section .hero-text h2 {
+.hero-section .hero-text h1 {
 	font-size: 60px;
 	color: #ffffff;
 	line-height: 72px;
 	font-weight: 600;
 	margin-top: 24px;
+}
+
+.hero-section .hero-text h2 {
+	font-size: 28px;
+	color: #ffffff;
+	margin-top: 30px;
 	margin-bottom: 35px;
 }
 
