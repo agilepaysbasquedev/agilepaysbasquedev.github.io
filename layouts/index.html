@@ -45,7 +45,7 @@
 <!-- Counter Section End -->
 
 <!-- Home About Section Begin -->
-<section class="home-about-section spad">
+<section class="home-about-section">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
@@ -76,7 +76,8 @@
 <!-- Home About Section End -->
 
 <!-- Pricing Section Begin -->
-<section class="pricing-section set-bg spad" data-setbg="img/pricing-bg.jpg">
+{{ with .Site.Params.homepage.pricing }}
+<section class="pricing-section set-bg" data-setbg="img/pricing-bg.jpg">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -143,6 +144,7 @@
         </div>
     </div>
 </section>
+{{ end }}
 <!-- Pricing Section End -->
 
 <!-- Newslatter Section Begin -->

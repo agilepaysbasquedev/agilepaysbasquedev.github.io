@@ -21,3 +21,4 @@ params:
       url: mailto:agilepb@gmail.com
       label: Devenir Sponsor
     date: false
+    pricing: false
