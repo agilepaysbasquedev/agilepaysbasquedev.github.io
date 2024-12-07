@@ -23,4 +23,5 @@ params:
     countdown:
       display: false
       date: 2025-12-12
-    pricing: true
+    pricing:
+      display: false
