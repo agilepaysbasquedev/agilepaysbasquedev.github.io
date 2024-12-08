@@ -45,16 +45,17 @@
     </div>
 </section>
 <!-- Venue Top Content Section End -->
+{{ end }}
 
-<section class="contact-content-section">
-    <div class="container-fluid">
+<section class="mt-5">
+    <div class="container">
         <div class="row">
-            {{ .Content | safeHTML }}
+            {{ .Content }}
         </div>
     </div>
 </section>
 
 {{ partial "newsletter" . }}
 
-{{ end }}
+
 {{ end }}
