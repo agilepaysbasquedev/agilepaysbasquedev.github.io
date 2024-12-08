@@ -492,17 +492,6 @@ ol {
 	margin-top: 90px;
 }
 
-.ha-pic {
-	-webkit-box-shadow: 0px 0px 30px rgba(11, 12, 48, 0.15);
-	box-shadow: 0px 0px 30px rgba(11, 12, 48, 0.15);
-	margin-right: 30px;
-}
-
-.ha-pic img {
-	min-width: 100%;
-	border-radius: 2px;
-}
-
 .ha-text {
 	padding-top: 74px;
 }
