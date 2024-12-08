@@ -1,0 +1,64 @@
+{{ define "main" }}
+<section class="page-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>L'équipe</h2>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            {{ range .Site.Data.team.members }}
+            <div class="member-item col-lg-4">
+                {{ partial "asset-image" (dict "src" .image "alt" .name "size" "200x") }}
+                <div class="mi-social">
+                    <div class="mi-social-inner bg-gradient">
+                        {{ with .socials.facebook }}<a href="{{ . }}"><i class="fa fa-facebook"></i></a>{{ end }}
+                        {{ with .socials.instagram }}<a href="{{ . }}"><i class="fa fa-instagram"></i></a>{{ end }}
+                        {{ with .socials.twitter }}<a href="{{ . }}"><i class="fa fa-twitter"></i></a>{{ end }}
+                        {{ with .socials.linkedin }}<a href="{{ . }}"><i class="fa fa-linkedin"></i></a>{{ end }}
+                    </div>
+                </div>
+                <div class="mi-text">
+                    <h5>{{ .name }}</h5>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<section class="page-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>Nos partenaires de l'ESTIA</h2>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            {{ range .Site.Data.team.partners }}
+            <div class="member-item col-lg-4">
+                {{ partial "asset-image" (dict "src" .image "alt" .name "size" "200x") }}
+                <div class="mi-social">
+                    <div class="mi-social-inner bg-gradient">
+                        {{ with .socials.facebook }}<a href="{{ . }}"><i class="fa fa-facebook"></i></a>{{ end }}
+                        {{ with .socials.instagram }}<a href="{{ . }}"><i class="fa fa-instagram"></i></a>{{ end }}
+                        {{ with .socials.twitter }}<a href="{{ . }}"><i class="fa fa-twitter"></i></a>{{ end }}
+                        {{ with .socials.linkedin }}<a href="{{ . }}"><i class="fa fa-linkedin"></i></a>{{ end }}
+                    </div>
+                </div>
+                <div class="mi-text">
+                    <h5>{{ .name }}</h5>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ partial "newsletter" . }}
+
+{{ end }}

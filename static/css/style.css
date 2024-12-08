@@ -523,21 +523,9 @@ ol {
   Member Item
 -----------------------*/
 
-/*.team-member-section {*/
-/*	overflow: hidden;*/
-/*}*/
-
 .member-item {
 	text-align: center;
 }
-
-/*.member-item:hover .mi-social {*/
-/*	top: 0;*/
-/*}*/
-
-/*.member-item:hover .mi-text {*/
-/*	left: 20px;*/
-/*}*/
 
 .member-item .mi-social {
 	padding: 10px;
@@ -545,8 +533,8 @@ ol {
 
 .member-item .mi-social .mi-social-inner {
 	display: inline-block;
-	padding: 10px 23px 8px;
-	border-radius: 0 0 4px 4px;
+	padding: 10px 18px;
+	border-radius: 4px;
 }
 
 .member-item .mi-social .mi-social-inner a {
