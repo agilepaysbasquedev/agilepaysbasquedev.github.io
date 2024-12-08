@@ -1302,6 +1302,7 @@ ol {
 
 .about-text ul li {
 	list-style: none;
+	padding: 15px 0;
 }
 
 .about-text ul li span {
