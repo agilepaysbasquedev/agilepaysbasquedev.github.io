@@ -154,7 +154,8 @@
 
 {{ partial "newsletter" . }}
 
-{{ with .Site.Params.homepage.pricing.display }}
+{{ if .Site.Params.homepage.venue.display }}
+{{ with .Site.Params.venue }}
 <!-- Contact Section Begin -->
 <section class="contact-section">
     <div class="container">
@@ -165,34 +166,37 @@
                     <p>Comment chaque année, on se trouve à l'ESTIA.</p>
                 </div>
                 <div class="cs-text">
+                    {{ with .address }}
                     <div class="ct-address">
-                        <span>Address:</span>
-                        <p>Technopole Izarbel 90 Allée Fauste d’Elhuyar, <br> 64210 Bidart</p>
+                        <span>Adresse:</span>
+                        <p>ESTIA 3, <br> Technopole Izarbel 90 Allée Fauste d’Elhuyar, <br> 64210 Bidart</p>
                     </div>
-                    <ul>
-                        <li>
-                            <span>Phone:</span>
-                            (+12)-345-67-8910
-                        </li>
-                        <li>
-                            <span>Email:</span>
-                            info.colorlib@gmail.com
-                        </li>
-                    </ul>
+                    {{ end }}
+                    {{ with .link }}
                     <div class="ct-links">
-                        <span>Website:</span>
-                        <p>https://conference.colorlib.com</p>
+                        <span>Site Web:</span>
+                        <p>{{ . }}</p>
                     </div>
+                    {{ end }}
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="cs-map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1101.7188611045692!2d-1.5533379885442795!3d43.44598377798183!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd51151b71e976eb%3A0xd29f42f57decb96a!2s%C3%89cole%20sup%C3%A9rieure%20des%20technologies%20industrielles%20avanc%C3%A9es%20(ESTIA)%20-%20Universit%C3%A9%20de%20Bordeaux!5e0!3m2!1sfr!2sfr!4v1733482608821!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    {{ with .map }}
+                    <iframe src="{{ . }}"
+                            width="600"
+                            height="450"
+                            style="border:0;"
+                            allowfullscreen="false"
+                            loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    {{ end }}
                 </div>
             </div>
         </div>
     </div>
 </section>
 <!-- Contact Section End -->
+{{ end }}
 {{ end }}
 {{ end }}

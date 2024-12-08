@@ -1,0 +1,60 @@
+{{ define "main" }}
+{{ with .Site.Params.venue }}
+<!-- Venue Top Content Section Begin -->
+<section class="contact-content-section">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="cc-text set-bg" data-setbg="/img/venue-bg.jpg">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-4">
+                            <div class="section-title">
+                                <h2>Location</h2>
+                                <p>Get directions to our event center</p>
+                            </div>
+                            <div class="cs-text">
+                                {{ with .address }}
+                                <div class="ct-address">
+                                    <span>Adresse:</span>
+                                    <p>ESTIA 3, <br> Technopole Izarbel 90 Allée Fauste d’Elhuyar, <br> 64210 Bidart</p>
+                                </div>
+                                {{ end }}
+                                {{ with .link }}
+                                <div class="ct-links">
+                                    <span>Site Web:</span>
+                                    <p>{{ . }}</p>
+                                </div>
+                                {{ end }}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="cc-map">
+                    {{ with .map }}
+                    <iframe
+                        src="{{ . }}"
+                        height="580"
+                        style="border:0;"
+                        allowfullscreen=""></iframe>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Venue Top Content Section End -->
+
+<section class="contact-content-section">
+    <div class="container-fluid">
+        <div class="row">
+            {{ .Content | safeHTML }}
+        </div>
+    </div>
+</section>
+
+{{ partial "newsletter" . }}
+
+{{ end }}
+{{ end }}
