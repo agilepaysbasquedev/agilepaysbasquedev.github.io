@@ -20,7 +20,7 @@ params:
     topTitle: La conférence les pieds dans l'eau
     subTitle: La conférence est de retour en 2025
     link:
-      url: mailto:agilepb@gmail.com
+      url: /sponsor
       label: Devenir Sponsor
     countdown:
       display: false

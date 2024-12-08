@@ -1,0 +1,5 @@
+<p class="text-center mt-5">
+  <a class="{{ .Get "class" | default "btn btn-primary" }}" href="{{ .Get "href" }}">
+    {{ .Inner | default "Cliquez ici" }}
+  </a>
+</p>
