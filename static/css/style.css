@@ -38,6 +38,9 @@ body {
 	font-family: "Work Sans", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+	color: #6a6b7c;
+	font-family: "Work Sans", sans-serif;
+	font-size: 18px;
 }
 
 h1,
@@ -46,11 +49,11 @@ h3,
 h4,
 h5,
 h6 {
-	margin: 0;
 	color: #111111;
-	font-weight: 400;
-	font-family: "Work Sans", sans-serif;
 	width: 100%;
+	margin-bottom: 20px;
+	font-size: 40px;
+	font-weight: 700;
 }
 
 h1 {
@@ -78,9 +81,6 @@ h6 {
 }
 
 p {
-	font-size: 16px;
-	font-family: "Work Sans", sans-serif;
-	color: #6a6b7c;
 	font-weight: 400;
 	line-height: 28px;
 	margin: 0 0 15px 0;
@@ -113,24 +113,6 @@ ol {
 /*---------------------
   Helper CSS
 -----------------------*/
-
-.section-title {
-	text-align: center;
-	margin-bottom: 52px;
-}
-
-.section-title h2 {
-	font-size: 40px;
-	font-weight: 700;
-	color: #171822;
-	margin-bottom: 10px;
-}
-
-.section-title p {
-	font-size: 18px;
-	color: #6a6b7c;
-	margin-bottom: 0;
-}
 
 .set-bg {
 	background-repeat: no-repeat;
@@ -494,13 +476,10 @@ ol {
 }
 
 .ha-text {
-	padding-top: 74px;
+	padding-top: 15px;
 }
 
 .ha-text h2 {
-	color: #171822;
-	font-size: 40px;
-	font-weight: 700;
 	margin-bottom: 32px;
 }
 
@@ -1254,59 +1233,39 @@ ol {
 }
 
 /*---------------------
-  About Section
+  Page Section
 -----------------------*/
 
-.about-section {
+.page-section {
 	padding-top: 60px;
-	padding-bottom: 60px;
 }
 
-.about-section .section-title {
-	text-align: left;
-}
-
-.about-section .section-title h2 {
+.page-section h2 {
 	margin-bottom: 20px;
+	font-size: 40px;
+	font-weight: 700;
 }
 
-.about-section .section-title p {
-	font-size: 16px;
-}
-
-.about-section .section-title p.f-para {
-	margin-bottom: 20px;
-}
-
-.about-pic {
-	-webkit-box-shadow: 0px 0px 30px rgba(11, 12, 48, 0.15);
-	box-shadow: 0px 0px 30px rgba(11, 12, 48, 0.15);
-}
-
-.about-pic img {
-	min-width: 100%;
-}
-
-.about-text {
-	padding-top: 20px;
-}
-
-.about-text h3 {
+.page-section h3 {
 	color: #171822;
 	font-weight: 600;
 	margin-bottom: 25px;
 }
 
-.about-text p {
+.page-section p {
 	margin-bottom: 20px;
 }
 
-.about-text ul li {
-	list-style: none;
-	padding: 15px 0;
+.page-section ul {
+	margin-bottom: 20px;
 }
 
-.about-text ul li span {
+.page-section ul li {
+	margin-left: 20px;
+	text-align: justify;
+}
+
+.page-section ul li span {
 	color: #f44949;
 }
 
