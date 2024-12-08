@@ -152,22 +152,7 @@
 <!-- Pricing Section End -->
 {{ end }}
 
-<!-- Newslatter Section Begin -->
-<section class="newslatter-section">
-    <div class="container">
-        <div class="newslatter-inner set-bg" data-setbg="img/newslatter-bg.jpg">
-            <div class="ni-text">
-                <h3>S'inscrire à notre newsletter</h3>
-                <p>Recevez les dernières infos sur la prochaine édition</p>
-            </div>
-            <form action="#" class="ni-form">
-                <input type="text" placeholder="Votre email">
-                <button type="submit">S'inscrire</button>
-            </form>
-        </div>
-    </div>
-</section>
-<!-- Newslatter Section End -->
+{{ partial "newsletter" . }}
 
 {{ with .Site.Params.homepage.pricing.display }}
 <!-- Contact Section Begin -->
