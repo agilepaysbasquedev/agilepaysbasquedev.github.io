@@ -6,13 +6,13 @@
             <div class="col-lg-8">
                 <div class="hero-text">
                     {{ with .Site.Params.homepage.topTitle }}
-                    <span>{{ . }}</span>
+                    <span>{{ . | safeHTML }}</span>
                     {{ end }}
                     {{ with .Site.Params.homepage.title }}
-                    <h1>{{ . }}</h1>
+                    <h1>{{ . | safeHTML }}</h1>
                     {{ end }}
                     {{ with .Site.Params.homepage.subTitle }}
-                    <h2>{{ . }}</h2>
+                    <h2>{{ . | safeHTML }}</h2>
                     {{ end }}
                     {{ with .Site.Params.homepage.link }}
                     <a href="{{ .url }}" class="primary-btn" target="_blank">{{ .label }}</a>
@@ -169,13 +169,13 @@
                     {{ with .address }}
                     <div class="ct-address">
                         <span>Adresse:</span>
-                        <p>ESTIA 3, <br> Technopole Izarbel 90 Allée Fauste d’Elhuyar, <br> 64210 Bidart</p>
+                        <p>{{ . | safeHTML }}</p>
                     </div>
                     {{ end }}
                     {{ with .link }}
                     <div class="ct-links">
                         <span>Site Web:</span>
-                        <p>{{ . }}</p>
+                        <p>{{ . | safeHTML }}</p>
                     </div>
                     {{ end }}
                 </div>

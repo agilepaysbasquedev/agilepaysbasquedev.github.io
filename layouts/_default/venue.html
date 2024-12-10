@@ -16,13 +16,13 @@
                                 {{ with .address }}
                                 <div class="ct-address">
                                     <span>Adresse:</span>
-                                    <p>{{ . }}</p>
+                                    <p>{{ . | safeHTML }}</p>
                                 </div>
                                 {{ end }}
                                 {{ with .link }}
                                 <div class="ct-links">
                                     <span>Site Web:</span>
-                                    <p>{{ . }}</p>
+                                    <p>{{ . | safeHTML }}</p>
                                 </div>
                                 {{ end }}
                             </div>
