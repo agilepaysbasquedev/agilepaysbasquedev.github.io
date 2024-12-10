@@ -16,7 +16,6 @@ La première journée est consacrée aux conférences et aux ateliers. Le lendem
 
 {{< asset-image src="about.jpg" alt="Le grand amphi de l'ESTIA" class="img-fluid" size="1140x" >}}
 
-
 ## Nos valeurs :
 
 * **Accessibilité et inclusion :** Venez comme vous êtes, Agile Pays Basque est une conférence ouverte à toutes et à tous.
