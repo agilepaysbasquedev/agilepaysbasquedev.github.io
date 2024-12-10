@@ -1,11 +1,11 @@
 ---
-title: "A propos"
+title: "Nos valeurs"
 menus:
     main:
-        name: "A propos"
+        name: "Nos valeurs"
         weight: 1
     footer:
-        name: "A propos"
+        name: "Nos valeurs"
         weight: 3
 ---
 
