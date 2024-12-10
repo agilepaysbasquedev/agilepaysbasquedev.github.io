@@ -254,9 +254,6 @@ ol {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
-}
-
-.header-section.header-normal {
 	border-bottom: 1px solid #e5e5e5;
 }
 
@@ -265,7 +262,7 @@ ol {
 	color: #171822;
 	text-transform: uppercase;
 	font-weight: 600;
-	padding: 42px 0;
+	padding: 15px 0;
 }
 
 .navbar-nav li {
@@ -284,7 +281,7 @@ ol {
 .navbar-nav li a::after {
 	position: absolute;
 	left: 0;
-	bottom: 36px;
+	bottom: 10px;
 	height: 2px;
 	width: 100%;
 	background: #F44949;
