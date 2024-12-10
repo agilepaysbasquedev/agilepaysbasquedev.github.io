@@ -6,28 +6,30 @@
 <!-- Header Section Begin -->
 <header class="header-section">
   <div class="container">
-    <div class="logo">
-      <a href="/">
-        {{ partial "asset-image" (dict "src" "logo.png" "alt" "Agile Pays Basque" "size" "128x") }}
-      </a>
-    </div>
-    <div class="nav-menu">
-      <nav class="mainmenu mobile-menu">
-        <ul>
-          {{ range sort (.Site.Menus.main) "Weight" "asc" }}
-          <li>
-            <a href="{{ .URL }}" {{ with .Params.target }}target="{{ . }}"{{ end }}>{{ .Name }}</a>
-          </li>
+      <nav class="navbar navbar-light navbar-expand-lg">
+        <a class="navbar-brand" href="/">
+          {{ partial "asset-image" (dict "src" "logo.png" "alt" "Agile Pays Basque" "size" "128x") }}
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
+            {{ range sort (.Site.Menus.main) "Weight" "asc" }}
+            <li class="nav-item">
+              <a href="{{ .URL }}" class="nav-link" {{ with .Params.target }}target="{{ . }}"{{ end }}>{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+          {{ with .Site.Params.menu.mainAction }}
+            {{ if .enable }}
+              <div class="text-center">
+                <a class="primary-btn top-btn" href="{{ .url }}" {{ if .openInNewPage }} target="_blank"{{ end }}>{{ .Name }}</a>
+              </div>
+            {{ end }}
           {{ end }}
-        </ul>
+        </div>
       </nav>
-      {{ with .Site.Params.menu.mainAction }}
-        {{ if .enable }}
-          <a class="primary-btn top-btn" href="{{ .url }}" {{ if .openInNewPage }} target="_blank"{{ end }}>{{ .Name }}</a>
-        {{ end }}
-      {{ end }}
     </div>
-    <div id="mobile-menu-wrap"></div>
-  </div>
 </header>
 <!-- Header End -->
