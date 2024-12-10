@@ -24,6 +24,9 @@ members:
     socials:
       twitter: "https://x.com/arnolanglade"
       linkedin: "https://www.linkedin.com/in/arnolanglade/"
+      bluesky: "https://bsky.app/profile/arnolanglade.bsky.social"
+      mastodon: "https://mastodon.social/@arnolanglade"
+      github: "https://github.com/arnolanglade/"
 partners:
   - name: "Marion Saumonneau"
     image: "team/marion.png"
