@@ -27,4 +27,4 @@ En devenant sponsor, vous contribuerez à réunir la communauté Agile autour d�
 
 Envoyez-nous un message pour en savoir plus ou discuter des options de sponsoring. Nous serons ravis d’en parler avec vous.
 
-{{< button class="btn btn-primary" href="mailto:agilepb@gmail.com" >}}Devenez sponsor{{< /button >}}
+{{< button class="primary-btn" href="mailto:agilepb@gmail.com" >}}Devenez sponsor{{< /button >}}
