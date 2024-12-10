@@ -19,7 +19,7 @@ La première journée est consacrée aux conférences et aux ateliers. Le lendem
 * **Accessibilité et inclusion :** Venez comme vous êtes, Agile Pays Basque est une conférence ouverte à toutes et à tous.
 * **Ambiance familiale :** Nous privilégions un événement à taille humaine pour encourager les échanges et les rencontres.
 * **Apprentissage :** Enrichissez vos connaissances grâce à des intervenants de qualité.
-* **Prix abordable :** Organisée par une équipe de bénévoles, la conférence a pour objectif de rassembler la communauté autour de l’agilité dans un esprit de partage.
+* **Prix abordable :** Organisée par une équipe de bénévoles et sans but lucratif, la conférence vise à rassembler la communauté autour de l’agilité, dans un esprit de partage et d’échange.
 
 ## Pourquoi venir à Agile Pays Basque ?
 
