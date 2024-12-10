@@ -11,6 +11,8 @@ menus:
 
 ## La conférence les pieds dans l'eau !
 
+{{< asset-image src="about.jpg" alt="Le grand amphi de l'ESTIA" class="img-fluid" size="1140x" >}}
+
 Agile Pays Basque est une conférence qui se tient au Pays Basque à quelques pas de l'océan. Nous réunissons les acteurs du monde du logiciel comme les développeurs, les product managers, les UX designers, les facilitateurs, ainsi que tous les curieux désireux de découvrir et d'apprendre de nouvelles choses. </p>
 La première journée est consacrée aux conférences et aux ateliers. Le lendemain matin, place à l'open space : chacun peut proposer ses sujets et échanger avec les autres participants. L’après-midi, c’est détente ! Ce serait dommage de ne pas profiter du beau temps pour aller surfer ou explorer les environs !</p>
 
