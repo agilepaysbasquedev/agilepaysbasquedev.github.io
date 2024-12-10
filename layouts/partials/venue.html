@@ -1,0 +1,18 @@
+<div class="section-title">
+  <h2>Où se trouve la conférence ?</h2>
+  <p>Comme chaque année, la conférence se déroule à Bidart, au Pays basque, plus précisément dans les locaux de l'ESTIA.</p>
+</div>
+<div class="cs-text">
+  {{ with .address }}
+  <div class="ct-address">
+    <span>Adresse:</span>
+    <p>{{ . | safeHTML }}</p>
+  </div>
+  {{ end }}
+  {{ with .link }}
+  <div class="ct-links">
+    <span>Site Web:</span>
+    <p><a href="{{ . }}" class="btn btn-link" target="_blank">{{ . }}</a> </p>
+  </div>
+  {{ end }}
+</div>
