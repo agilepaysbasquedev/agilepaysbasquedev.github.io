@@ -1,5 +1,7 @@
 ---
 title: "Devenez sponsor"
+description: "Soutenez Agile Pays Basque en devenant sponsor. Associez votre image à un événement agile à taille humaine, rencontrez une audience passionnée et profitez d’une visibilité locale."
+keywords: "Agile Pays Basque, Agile, Pays Basque, Conférence agile, Développement logiciel, Product management, UX design, Facilitation, Open space, Ateliers, Communauté agile, Partage d’expériences, Ambiance conviviale, Événement agile, Accessibilité, Inclusion, Collaboration, Mer et montagne, Gastronomie locale, Réseautage, Innovation technologique"
 menus:
     footer:
         name: "Devenez sponsor"

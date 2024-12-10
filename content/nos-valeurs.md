@@ -1,5 +1,7 @@
 ---
 title: "Nos valeurs"
+description: "Découvrez les valeurs qui animent Agile Pays Basque : accessibilité, ambiance familiale, esprit collaboratif et ancrage local. Une conférence agile à taille humaine, où chacun peut s’exprimer, apprendre et échanger en toute simplicité."
+keywords: "Agile Pays Basque, Agile, Pays Basque, Conférence agile, Développement logiciel, Product management, UX design, Facilitation, Open space, Ateliers, Communauté agile, Partage d’expériences, Ambiance conviviale, Événement agile, Accessibilité, Inclusion, Collaboration, Mer et montagne, Gastronomie locale, Réseautage, Innovation technologique"
 menus:
     main:
         name: "Nos valeurs"

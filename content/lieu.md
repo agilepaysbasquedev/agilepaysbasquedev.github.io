@@ -1,5 +1,7 @@
 ---
 title: "Le lieu"
+description: "Où nous trouver ? Toutes les informations pratiques pour vous rendre à Agile Pays Basque : localisation, moyens de transport et conseils utiles pour profiter du cadre exceptionnel de la côte basque."
+keywords: "Agile Pays Basque, Agile, Pays Basque, Conférence agile, Développement logiciel, Product management, UX design, Facilitation, Open space, Ateliers, Communauté agile, Partage d’expériences, Ambiance conviviale, Événement agile, Accessibilité, Inclusion, Collaboration, Mer et montagne, Gastronomie locale, Réseautage, Innovation technologique"
 layout: "venue"
 menus:
     main:
