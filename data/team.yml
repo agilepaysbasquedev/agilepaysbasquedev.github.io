@@ -1,26 +1,31 @@
 members:
   - name: "Alice Barralon"
     image: "team/alice.png"
+    position: "Coach Professionnel indépendant"
     socials:
       twitter: "https://x.com/a_barralon"
       linkedin: "https://www.linkedin.com/in/alice-barralon/"
   - name: "Emeline Boulet Ronteix"
     image: "team/emeline.png"
+    position: "Coach Agile"
     socials:
       twitter: "https://x.com/BouletEmeline"
       linkedin: "https://www.linkedin.com/in/emelineboulet/"
   - name: "Audrey Portron"
     image: "team/audrey.png"
+    position: "Coach Agile"
     socials:
       twitter: "https://x.com/atron_pi"
       linkedin: "https://www.linkedin.com/in/audreyportron/"
   - name: "Pascal Menardais"
     image: "team/pascal.png"
+    position: "Ingénieur logiciel senoir"
     socials:
       twitter: "https://x.com/SquallyGator"
       linkedin: "https://www.linkedin.com/in/pascalmen/"
   - name: "Arnaud Langlade"
     image: "team/arnaud.png"
+    position: "Coach tech / architecture logiciel indépendant"
     socials:
       twitter: "https://x.com/arnolanglade"
       linkedin: "https://www.linkedin.com/in/arnolanglade/"
@@ -30,9 +35,11 @@ members:
 partners:
   - name: "Marion Saumonneau"
     image: "team/marion.png"
+    position: "Enseignante - Responsable DD&RS"
     socials:
       linkedin: "https://www.linkedin.com/in/marion-saumonneau-459685ba/"
   - name: "Christophe Merlo"
     image: "team/christophe.png"
+    position: "Professeur en Ingénierie"
     socials:
       linkedin: "https://www.linkedin.com/in/christophemerlo/"
