@@ -16,7 +16,7 @@ params:
       openInNewPage: false
       enable: true
   homepage:
-    title: Agile Pays Basque
+    title: "Agile Pays Basque"
     topTitle: La conférence les pieds dans l'eau
     subTitle: La conférence est de retour en 2025
     link:
