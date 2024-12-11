@@ -1,0 +1,704 @@
+{
+  "name":"Agile Pays Basque 2024",
+  "startDate":"2024-09-05T22:00:00.000Z",
+  "endDate":"2024-09-07T21:59:59.999Z",
+  "proposals":[
+    {
+      "id":"clzyn3b7y7p9j13hpz76fwaya",
+      "title":"La gestion des risques vue par une Agiliste",
+      "abstract":"Je suis coach agile et j'ai un secret à vous avouer : j'ai une passion pour la gestion de projet, notamment la gestion des risques. J'ai même encore mon vieil exemplaire du PMBOK 3eme édition dans ma bibliothèque ...\n\nEt c'est notamment pour cela que j'aime l'Agilité !\n\nJe vous propose lors de  cette session de vous partager en quoi l'Agilité est (entre autres) un fabuleux corpus de pratiques, postures, outils etc. de gestion de risques. C'est aussi par ce biais que j'ai pu initier des conversations impactantes dans des contextes où la culture est fondée sur la gestion de projet classique et où mes interlocuteurs ne voyaient pas forcément d'un bon oeil une coach agile débarquer sur leur périmètre ... Toute ressemblance avec un programme de transformation réel est bien évidement fortuite ;)\n\nCe sera aussi pour moi l'occasion de vous dévoiler une partie de ma boîte à outils sur le sujet, notamment des ateliers prêts à l'emploi.",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"INTERMEDIATE",
+      "references":"Cette session est toute neuve et serait donnée pour la première fois lors de Agile Pays Basque.\nElle est basée sur mon expérience (10 ans en tant que développeuse puis chef de projet en contexte cycle en V, puis 10 ans dans des rôles agiles opérationnels et 5 ans en tant que coach) et mes réflexions sur les pratiques, postures, outils etc. permettant de sécuriser au mieux le déroulement de la construction d'un produit",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "🌶️ Autres propositions pimentées "
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Anne Gabrillagues",
+          "bio":"J'ai à mon actif un peu plus de 15 ans d'expérience en contexte agile,sur des rôles de Scrum Master et Product Owner (produits IT) puis de coach agile. Virage pris en 2008,  faisant suite à 10 ans de carrière en contexte cycle en V dans le développement logiciel et la gestion de projet.\n\nJ'accompagne équipes et organisations de la façon la plus pragmatique possible, afin de les aider à adopter de façon durable une meilleure façon de travailler ensemble au service de la satisfaction de leurs clients. Dans ma boîte à outils vous trouverez des choses aussi variées que des OKR, du Kanban, des outils Lean, de la gestion de produit,  des pratiques de facilitation et de conception d'ateliers / serious games, des techniques d'ingénierie logicielle, des pratiques de gestion de portefeuille, ainsi que des choses issues d'autres domaines et dont je suis en train d'expérimenter l'utlisation en contexte agile.\n\nLa communauté agile est un élément important dans ma vie professionnelle,  notamment en tant qu'oratrice ayant la chance d'être régulièrement retenue. Je fais aussi partie d'équipes organisatrices de conférences depuis 2012, je me concentre actuellement sur la conférence FlowCon France, dédiée à la création de valeur en flux.",
+          "company":"essensei",
+          "references":"Je suis oratrice depuis 2012 , et j'ai la chance d'être régulièrement retenue en conférence :  Agile Pays Basque, Agile Tour Toulouse, Agile Tour Bordeaux, Agile Grenoble, Agile Tour Rennes, Agil'Lille, Agile en Seine, etc.\nJ'ai notamment eu l'immense honneur de donner une keynote à Agile Tour Bordeaux et Agile Tour Toulouse en 2022 (et si tout s e passe bien je serais aussi en keynote lors du prochain Agile Niort)\n\nUne partie de mes supports de conférence est disponible ici : https://speakerdeck.com/agabrillagues \nJ'ai aussi eu la chance de voir certaines de mes interventions filmées : https://www.youtube.com/playlist?list=PLGVBrGY5VVS_lpnx0YPv0lf_iiVcRyuC3 ",
+          "picture":"https://lh3.googleusercontent.com/a/ACg8ocLrM8gITt1V0pFIjDOQHDLbgMDocFr7g7en6HPY2g68zqgG040=s96-c",
+          "location":"Paris, France",
+          "socials":{
+            "twitter":"agabrillagues"
+          }
+        }
+      ],
+      "review":{
+        "average":4.75,
+        "positives":3,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn3oot7peg13hpi1h6oded",
+      "title":"'Tidy First?' de Kent Beck, un guide pratique pour un code durable et rentable",
+      "abstract":"\"Tidy First?\", le dernier ouvrage de Kent Beck, est le fruit de plusieurs années de réflexion sur le métier de développeur.\n\nÀ travers une quinzaine de patterns, il nous enseigne comment réaliser de petits nettoyages de code qui peuvent considérablement simplifier notre travail quotidien.\n\nEn illustrant ces patterns, nous montrerons comment les intégrer de manière efficace dans notre flux de travail. Nous aborderons également les aspects économiques souvent négligés du nettoyage de code : comment investir judicieusement dans la propreté du code pour garantir plus d'options et une valeur à long terme, même si cela signifie parfois sacrifier un peu de valeur immédiate. Que vous soyez un développeur débutant ou un expert chevronné, cette conférence vous fournira des stratégies pratiques pour maintenir un code propre et rentable tout au long de votre parcours de développement logiciel.",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"BEGINNER",
+      "references":"Le talk sera donné le 6 juin 2024 à Alpescraft",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "💻 Tech"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Arnaud Thiefaine",
+          "bio":"Arnaud est développeur, coach craft et formateur. Passionné par la transmission des bonnes pratiques, il est également co-auteur du livre \"Software Craft : TDD, Clean Code et autres pratiques essentielles\" aux éditions Dunod et anime régulièrement des meetups, BBL et conférences autour du Craft.",
+          "company":"Arolla",
+          "references":null,
+          "picture":"https://lh3.googleusercontent.com/a/AEdFTp6u26nbjHeEMOzECpcMKVH4Q0hW0QrmU8F8dTwWAQ=s96-c",
+          "location":"Paris, France",
+          "socials":{
+            "github":"athiefaine",
+            "twitter":"ArnaudThiefaine"
+          }
+        }
+      ],
+      "review":{
+        "average":5,
+        "positives":1,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn30667p4y13hp74phcfnq",
+      "title":"Découvrez le Basque, l’OVNI linguistique européen",
+      "abstract":"Kaixo!\n\nJe m'appelle Ane, et j'ai l'immense plaisir de vous faire découvrir ma langue, le basque.\n\nAprès une brève introduction sur la culture basque et son histoire nous nous concentrerons plus spécifiquement sur la langue basque.\n\nAujourd'hui, je me sens en mesure d'expliquer les éléments essentiels de cette langue singulière, tout en établissant des parallèles avec d'autres langues que je maîtrise, telles que le français ou l'anglais. En utilisant la technique de la pensée visuelle, j'essaierai de rendre cette partie la plus claire et pédagogique possible.\n\nVenez explorer cette culture européenne unique et méconnue.\n",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"BEGINNER",
+      "references":"Je n'ai jamais donné ce talk, ce sera une première fois pour moi:\n\n### Parlons d'entretiens techniques :\n\n- [Datadog en partenariat avec Ladies of Code Paris](https://youtu.be/oAiq4eyFHDI?t=2763)\n\n### Le job de mes rêves :\n\n- [50inTech 2022](https://m.youtube.com/watch?v=VoPvX9K_Gok)\n- [SunnyTech Montpellier 2022](https://m.youtube.com/watch?v=l1zl0ift9q0)\n- [Ladies of code 2022](https://m.youtube.com/watch?v=7ZLb6SQ9tTs)\n- [BDX.IO 2019](https://www.youtube.com/watch?v=Ig5_nm5fpEY)\n\n\n### Conférences sur le sketchnoting : \n- [Google Women Developer Academy Francophone 2023](https://www.youtube.com/watch?v=O4ch095al50)\n- [La Pensée visuelle a changé ma vie - BDX/IO keynote de fermeture 2022:](https://www.youtube.com/watch?v=ifXy9jRLWl8&ab_channel=bdxio)\n- [DevFest Toulouse 2018](https://www.youtube.com/watch?v=NInM_wndk2U)\n- [VoxxedDays Luxembourg 2018](https://www.youtube.com/watch?v=dYAGTPDRcD4)\n- Devoxx France 2018 :\n  - [Quickie](https://www.youtube.com/watch?v=sxyHF5pptgY)\n  - Hands on-lab\n  - [Keynote de fermeture](https://www.youtube.com/watch?v=lFkDUWcKPyU)\n- [BDX/IO 2018] (https://www.youtube.com/watch?time_continue=7&v=bsx8V0NZULA)\n- [Touraine Tech 2018](https://2018.touraine.tech/agenda.html#2499)\n- [Jug Summer Camp 2017](https://www.youtube.com/watch?v=EGSwp_bC3kA)",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "🌶️ Autres propositions pimentées "
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Ane Diaz De Tuesta",
+          "bio":"Ane est Software Engineer chez Datadog. Elle est aussi oratrice de conférences et facilitatrice graphique. \n\nDepuis + de 12 ans dans le monde du développement web, principalement du Frontend, elle est passionnée par son travail, où elle est en constant apprentissage.\n\nElle est très impliquée dans les conférences techniques,  que ce soit en tant que participante ou oratrice. \nEnthousiaste de la Facilitation Graphique et du Sketchnoting, qu'elle essaie de mettre en place dans son quotidien (professionnel et personnel), elle est une vraie convaincue des bénéfices que ces techniques apportent.\n\nAne est une personne ouverte, dynamique et qui aime bien les interactions sociales.",
+          "company":"Datadog",
+          "references":"### Parlons d'entretiens techniques :\n\n- [Datadog en partenariat avec Ladies of Code Paris](https://youtu.be/oAiq4eyFHDI?t=2763)\n\n### Le job de mes rêves :\n\n- [50inTech 2022](https://m.youtube.com/watch?v=VoPvX9K_Gok)\n- [SunnyTech Montpellier 2022](https://m.youtube.com/watch?v=l1zl0ift9q0)\n- [Ladies of code 2022](https://m.youtube.com/watch?v=7ZLb6SQ9tTs)\n- [BDX.IO 2019](https://www.youtube.com/watch?v=Ig5_nm5fpEY)\n\n\n### Conférences sur le sketchnoting : \n- [Google Women Developer Academy Francophone 2023](https://www.youtube.com/watch?v=O4ch095al50)\n- [La Pensée visuelle a changé ma vie - BDX/IO keynote de fermeture 2022:](https://www.youtube.com/watch?v=ifXy9jRLWl8&ab_channel=bdxio)\n- [DevFest Toulouse 2018](https://www.youtube.com/watch?v=NInM_wndk2U)\n- [VoxxedDays Luxembourg 2018](https://www.youtube.com/watch?v=dYAGTPDRcD4)\n- Devoxx France 2018 :\n  - [Quickie](https://www.youtube.com/watch?v=sxyHF5pptgY)\n  - Hands on-lab\n  - [Keynote de fermeture](https://www.youtube.com/watch?v=lFkDUWcKPyU)\n- [BDX/IO 2018] (https://www.youtube.com/watch?time_continue=7&v=bsx8V0NZULA)\n- [Touraine Tech 2018](https://2018.touraine.tech/agenda.html#2499)\n- [Jug Summer Camp 2017](https://www.youtube.com/watch?v=EGSwp_bC3kA)",
+          "picture":"https://github.com/anediaz.png",
+          "location":"Bordeaux, France",
+          "socials":{
+            "github":"anediaz",
+            "twitter":"ane_naiz"
+          }
+        }
+      ],
+      "review":{
+        "average":4.333333333333333,
+        "positives":2,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn2yfj7p4913hp3jol2oug",
+      "title":"Démystifier l'IA : Un guide pratique pour les développeurs",
+      "abstract":"L'intelligence artificielle est en train de transformer en profondeur le paysage professionnel. Si son impact est déjà considérable dans le domaine du traitement des données, les progrès fulgurants réalisés ces dernières années laissent entrevoir une transformation de tous les secteurs d'activité.\n\nDans cette présentation, j'ai pour objectif de démystifier l'IA. Je vous guiderai à travers les concepts fondamentaux de cette technologie, en explorant ses capacités et ses limites dans le contexte du développement de logiciel. Mon ambition est de fournir aux développeurs les connaissances et les outils nécessaires pour se familiariser avec l'IA et l'intégrer efficacement dans leurs projets.",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"BEGINNER",
+      "references":null,
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "💻 Tech"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"iana iatsun",
+          "bio":"Iana a obtenu son doctorat en traitement d’images et du signal en 2014. Son premier réseau de neurone a été entrainé en 2013.  Après sa thèse, elle a travaillé comme data-scientist dans le domaine de la biométrie pour la reconnaissance d’empreintes digitales et des visages.  Depuis 4 ans, Iana gère avec son équipe les activités autour de la mise en production des modèles d’apprentissage automatique (MLOps)  dans une institution financière . Elle s’investit sur les sujets concernant une IA éthique, explicable et responsable.",
+          "company":"IA parle",
+          "references":"talk \"Intelligence Artificielle en Production\" AFUP Day Poitiers   05/2024\ntalk at meetup WIMLDS \"Mahine Learning in Production\" , online  12/2022\ntalk at meetup \"Paris Data Ladies\", 11/2019\n\nExperienced Toastmaster",
+          "picture":"https://avatars.githubusercontent.com/u/150619991?v=4",
+          "location":"Poitiers, France",
+          "socials":{
+
+          }
+        }
+      ],
+      "review":{
+        "average":3.4,
+        "positives":0,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn3ps27pev13hp1eoemk06",
+      "title":"Spotify, de l'intérieur :)",
+      "abstract":"En 2002, des entrepreneurs suédois, loin d'être des experts de la musique, se lancent dans un pari fou : révolutionner l'industrie en pleine crise du piratage. Leur arme ? Un service de streaming musical illimité par abonnement. Trouvant rapidement un public, Spotify connait pourtant des revers : mauvaises décisions stratégiques et croissance négative. Mais l'entreprise s'adapte, apprend de ses erreurs et repart de l'avant pour devenir le géant mondial du streaming que l'on connaît aujourd'hui.  Comment expliquer cette saga suédoise ?  Quels sont les ingrédients qui font son succès depuis plus de 10 ans ? Qu'est-ce qui les différencie des autres géants de la technologie ? Est-ce le fameux \"Spotify model\" ou bien autre chose ?  Comment cette alchimie mèle OKR , les Bets, le darwinisme des projets, l'agilité a l'échelle, la DATA , la découverte continue, le Design Thinking, l'UX Lean, le Service Design avec  une organisation sociale évolutive basée sur la vitesse. \nLe tout saupoudré d'un peu d'ABBA pour mettre l'ambiance, alors préparez-vous à être surpris !\n\nUn REX de première fraicheur de la part du seul coach agile français à avoir travaillé au sein du mythique eldorado agile qu'est Spotify ! ",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"INTERMEDIATE",
+      "references":null,
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "🎯 Product"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Rachel Dubois",
+          "bio":"Some call me an “agile rockstar” 🤘, others a “product powerhouse” ⚡, I prefer \"passionate leader\" with a knack for getting things done (and having fun while doing it !).\nAs a Senior Agile Coach and Product Manager at Spotify with 20+ years of experience, I'm here to turn \"what ifs\" into \"Ah Ah\" !\n\nI've navigated the software industry trenches from the very first Dotcom startups to today key players, as a product champion, a team manager and an agile evangelist. From mastering frameworks like Scrum, Kanban or Lean StartUp to scaling agile, fostering collaborative cultures, I've seen it in all places (and done quite a lot!!!). So, when I say I can create environments where teamwork hums, transparency shines, and efficiency breaks records, you can bet on me. But don't let the process fool you - I'm all about empowering individuals. Think continuous learning, fearless experimentation, and a contagious \"can-do\" spirit. Witnessing teams unlock their agile lightbulb moments and propel products, teams, and businesses to success? That's my fuel!\n\nSpeaking of sharing the love, I'm a regular speaker at lean agile and product conferences. Think captivating stories, practical examples, and a healthy dose of \"been there, failed that and learned this\" wisdom.",
+          "company":"Spotify",
+          "references":"I have talked there :- sometimes several times ;-) \n=== \nAgile en Med \nAgile Bordeaux\nAgile Toulouse\nAgile Rennes\nAgile Pays Basque\nAgile Niort\nAgile Game France\nAgile en Seine\nTech Rocks\nSchool of Product\nACE Conference\nProduct World\nAgile on the Beach ",
+          "picture":"https://lh3.googleusercontent.com/a/ACg8ocJ0TIPrg0O6TmfIWwDaM8GsoDEknwMjVyuW0UAaGNIA-EWbcz9Vsw=s96-c",
+          "location":"Toulouse, France",
+          "socials":{
+
+          }
+        }
+      ],
+      "review":{
+        "average":5,
+        "positives":3,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn4gy77pos13hpxxy052cm",
+      "title":"Parle à mon coeur, ma tête est malade !",
+      "abstract":"Dans un monde en perpétuelle mutation, où les avancées technologiques transforment nos modes de vie et de travail à une vitesse fulgurante, il devient impératif de repenser notre approche du travail.Nous parlons de transformation, de conduite de changement, d'Agilité, d'OKR... Et aussi de burn-out, de risques psycho-sociaux, de reconversion...\n\nAlors dans ce monde qui a basculé dans le cognitif, qui retente de mettre du corps et du temps (dès lors que l'on parle de régénératif ou de travail vivant ) comment faire pour remettre sens ? \n\nAvec nos casquettes de coachs RH et de designer, nous allons explorer la relation au travail à travers du triptyque de la tête, du corps et du cœur, et proposer divers scénarios futurs du travail en tenant compte de cette perspective.",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"BEGINNER",
+      "references":"Le présent talk sera issu d'un livre blanc qui est en train en cours de finalisation par Pauline Garric et Nicolas Petitjean. \n\nPauline Garric\nAncienne RH, actuellement coach, je suis passée par des cabinets de conseil différenciant de par leur culture forte (OCTO et Benext). Je tiens un blog depuis 2017 et ai participé à plusieurs talk : Flowcon, Agile tour ainsi que plusieurs podcast.\n\nNicolas Petitjean : ancien vice-président du design au Groupe Sodexo et fondateur visionnaire de \"collectivehood\" et \"afterstudio\", est un architecte du futur dont l'œuvre transcende le domaine du design et de l'innovation. Avec plus de vingt ans d'expérience enrichie par des collaborations avec des noms prestigieux tels que Salomon, Adidas, et Google.",
+      "formats":[
+        "Interactif : 120 mins (jeux, atelier, dojo,...)"
+      ],
+      "categories":[
+        "🌶️ Autres propositions pimentées "
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Nicolas Petitjean",
+          "bio":"Leader de l'innovation créative qui relie les personnes, les entreprises et la planète, avec plus de 20 ans d'expérience dans la conception de produits et de services, la stratégie et la gestion de l'innovation au sein de grands groupes, ayant travaillé avec des marques renommées telles que Decathlon, Adidas, Sodexo, Pernod Ricard et Google dans 20 pays. PDG fondateur d'Afterstudio, un partenaire pour construire des entreprises prêtes pour l'avenir et adopter une adaptabilité radicale, il mène des voyages de transformation avec passion et humilité. Enseignant, orateur et conférencier spécialisé dans l'innovation et l'adaptabilité radicale. ",
+          "company":"afterstudio",
+          "references":"🎥 RECORDS\nEnfin, vous pouvez passer au crible certains des liens ici, certains sont dans 🇫🇷other dans 🇬🇧 \n\n# Une interview canadienne sur l'application du design au sein d'une société de services :\nhttps://youtu.be/J2-D3j9n680\n\n# Parler de l'innovation dans l'industrie textile @ESCP Paris (0:47)\nhttps://youtu.be/EnWg21anTjY\n\n# Interview sur la stratégie d'innovation de DBApparel\nhttps://www.capital.fr/votre-carriere/qu-auriez-vous-fait-a-la-place-de-nicolas-petitjean-pour-sauver-dim-1111064\n\n# Panel sur l'innovation (37:17)\nhttps://vimeo.com/151540677\n\n# Innovation dans les services\nhttps://youtu.be/eUJKSEuX2KE\n\n# cas d'utilisation innovation centrée sur l'utilisateur \nhttp://www.inprocess-group.com/works/hanesbrands/\n\n# Innovation inclusive : aligner les opérations et les objectifs\nhttps://youtu.be/Dpf0QWNmVT0?si=E6Vv6EEI80N8rrfR ",
+          "picture":"https://drive.google.com/file/d/1Jn_5vo4tMtoQ0Q8z9bWMJWsasVfT7GUz/view?usp=sharing",
+          "location":"Paris, France",
+          "socials":{
+
+          }
+        },
+        {
+          "name":"GARRIC Pauline",
+          "bio":"Mordue du terrain, j'ai toujours eu à coeur de mettre l'humain et les échanges au centre de mes activités.\n\nAprès une maîtrise de lettres modernes, cinq années en tant qu'assistante d'éducation en ZUS, un master Stratégie d'entreprise et une dizaine d'année dans les RH chez OCTO Technology et DRH chez feu-benext.\nEn 2017, je développe ma posture de coach où j'accompagne les groupes à devenir des équipes avec un boîte à outils qui s'aagrandie au fur et à mesure : agilité, développement personnel, equicoaching...\n\nEn 2021 je rentre à nouveau chez OCTO Technology part of Accenture en temps que partner suite au rachat de benext et me lance à mon compte en janvier 2024.\n\nCette année, j'enrichi ma pratique avec un cursus de psychopraticienne pour accompagner les entreprises et les aider à appréhender les enjeux du futur du travail. ",
+          "company":"Pauline Garric Coaching",
+          "references":"- Flowcon en 2018 sur l'agilité RH\n- blog : https://www.le-lab-de-pauline.com/",
+          "picture":"https://drive.google.com/drive/folders/1Iy14Lu6dm8LukOA_XKid3ie45BtZS_pb",
+          "location":"5 Rue du Moulin, 89500 Rousson, France",
+          "socials":{
+
+          }
+        }
+      ],
+      "review":{
+        "average":5,
+        "positives":1,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn3wfw7phd13hpxfbnlemu",
+      "title":"Dynamiques de pouvoir : comment vos biais sabotent l'intelligence collective",
+      "abstract":"L'Agilité, c'est en grande partie les individus et leurs interactions. Le dialogue entre les différentes expertises et métiers. Davantage d'horizontalité. Vous êtes certainement très au fait des meilleures techniques d'animation, de super formats pour des réunions et ateliers participatifs.\nMais connaissez-vous le sentiment de sécurité psychologique de chacun des individus qui habitent la pièce ? Êtes-vous vraiment au max de la performance collective que vous pouvez espérer des groupes que vous accompagnez ?\n\nCe talk vous propose de porter un autre regard sur vos équipes et les dynamiques qui s'y jouent. Peut-être découvrirez-vous quelques angles morts et des expérimentations à mettre en place.",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"INTERMEDIATE",
+      "references":null,
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "👥 People management"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Sara Dufour",
+          "bio":"Sara accompagne les entreprises ou autres collectifs dans leur cheminement Agile et leurs pratiques Produit, en tant que coach ou manager de transition freelance. Elle a co-fondé La Place des Grenouilles, une association anti-sexiste fin 2021. C'est une passionnée d'arts et de mots, de diversité et d'inclusion, de gastronomie et de CNV.",
+          "company":null,
+          "references":null,
+          "picture":"https://pbs.twimg.com/profile_images/1566047592630439940/btDhpYzV_normal.jpg",
+          "location":null,
+          "socials":{
+            "twitter":"ComSaraDufour"
+          }
+        }
+      ],
+      "review":{
+        "average":4.6,
+        "positives":1,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn2uts7p2p13hpif7d1fix",
+      "title":"De l'exclusion à l'inclusion : l'accessibilité numérique pour tous et toutes.",
+      "abstract":"Il est temps de changer notre perception des personnes handicapées et de l'utilisation d'Internet. En réalité, les personnes handicapées sont aussi actives en ligne que tout le monde. Cependant, elles rencontrent souvent des obstacles lorsqu'il s'agit d'effectuer des tâches comme faire des achats en ligne ou remplir des formulaires administratifs. Ces difficultés se présentent lorsque les sites web ne sont pas accessibles. En France, une personne sur cinq est handicapée, et il y a également de nombreuses autres personnes qui se retrouvent dans des situations de handicap temporaire ou situationnel. Il est donc primordial de considérer l'accessibilité numérique comme une nécessité dès le début de tout projet. \nCette conférence a pour objectif d'aborder les enjeux de l'accessibilité numérique et d'aider les acteurs et actrices du web à comprendre l'importance d'assurer un environnement en ligne inclusif pour tous les utilisateurs et utilisatrices.",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"BEGINNER",
+      "references":"C'est une nouvelle conférence que j'ai créée pour 2024.\n\nPour en savoir plus sur mes conférences : https://emmanuelle-aboaf.netlify.app/conferences",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "💻 Tech"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Emmanuelle ABOAF",
+          "bio":"Sourde de naissance, bionique (deux implants cochléaires) et surtout développeuse Fullstack Angular .NET chez Shodo, je lutte chaque jour pour l’accessibilité. Dans mon monde idéal, tout doit être accessible aussi bien dans la vraie vie que dans le Web.",
+          "company":"SHODO",
+          "references":"Vous pouvez voir toutes les informations sur mon portoflio : https://emmanuelle-aboaf.netlify.app/conferences",
+          "picture":"https://lh3.googleusercontent.com/a/ACg8ocLnRmgQnZjlGQ3qpeT1DjNmvxjNO7dXq6hHlulE8FjhSUxJyxAA=s83-c",
+          "location":"Paris, France",
+          "socials":{
+            "github":"emma11y",
+            "twitter":"eaboaf_"
+          }
+        }
+      ],
+      "review":{
+        "average":4.25,
+        "positives":0,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn42dv7pjk13hpzfo1pwhq",
+      "title":"Tester dans l'Hexagone: du Mob, du DDD, du TDD,  des Doublures et les TestContainers !",
+      "abstract":"Vous avez entendu parler de DDD, d'architecture hexagonale ?\nDe la pyramide des tests?\nVous en avez marre de ces conférences théoriques sur le sujet et vous aimeriez enfin coder avec ces paradigmes?\n\nVous auriez tant voulu appliquer le TDD, mais il vous fait peur; ou bien \"vous n'avez pas le temps\" pour le faire en prod?\nVous aimeriez savoir comment écrire ET tester des entités métier ? \n\nVous avez entendu parler des ports/adapteurs, comment les utiliser ? \nVous voudriez savoir si c'est  vraiment incontournable d'utiliser les \"mocks\"?\nEt ces fameux TestContainers, sont ils vos amis ou vos ennemis ?\n\nEt si en plus, vous pouviez faire le 1er (ou pas) mob programming de votre vie??\n\nTout cela en quelques heures par la pratique ?\n Alors, cet atelier est complètement fait pour vous !\n\n\n### Bénéfices attendus\n - Comprendre les tests unitaires et le besoin de doublures dans un début d’architecture hexagonale; comprendre ce que l’on appelle doublure de tests.\n - Introduire pas à pas les bases du DDD et de l'architecture Hexagonale\n - Cet atelier se base sur un cas métier réel\n - Appréhender quand ces doublures de tests sont légitimes dans leurs usages.\n - Démystifier ce qu’est un dummy, un stub, un spy, un fake, un mock.\n- Jouer avec les  TestContainers\n - En produisant (en TDD, toujours) un code empreint de contraintes techniques réelles : dialogue avec une base de données, un service web, une imprimante…\n - Apprendre en s’amusant, en collaborant afin de produire, tous ensemble, le code.\n\nC# ou Kotlin",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"INTERMEDIATE",
+      "references":"Donné à Devoxx 2023 et Agile Nantes 2022, avec de bons retours. Mise à jour avec les  TestContainers.\nhttps://docs.google.com/presentation/d/1PRbO7dpnD6TJSdLp22inb7wcklTqH7ofq-I_45NfKEw/edit?usp=sharing\n\nInstallation de la salle:  max 30 personnes. Les chaises doivent être placées en demi cercle autour des orateurs. Pas de tables, juste des chaises.\nPour l'orateur: 1 table, 1 chaise, 1 tableau ou paperboard et un videoprojecteur.\n\n",
+      "formats":[
+        "Interactif : 120 mins (jeux, atelier, dojo,...)"
+      ],
+      "categories":[
+        "💻 Tech"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"craft Softwr & Music",
+          "bio":"J'ai écrit mes premières lignes de code à l'age de 11 ans sur un ZX81. \n\nJ'ai développé des écrans Videotex\nJe suis artisan développeur depuis 30 ans déjà, élève de Laurent Bossavit, Jonathan Peret et Olivier Azeau.\n\nJ'ai été aussi architecte logiciel, chef de projet, responsable d'équipe , j'ai travaillé pour diverses ESN et éditeurs logiciels, dont Varian Medical Systems pendant 10 ans, Primobox plus récemment.\n\nCodeur C# + JS depuis le début, j'ai dernièrement plongé dans Kotlin avec délectation. Je pense que bien développer c'est : 70% de discussion, 20% de tests, 10% de code.",
+          "company":null,
+          "references":"School of Product, MixIt, Devoxx, \nAgile Grenoble, Bordeaux, Rennes, Paris, Nantes",
+          "picture":"https://pbs.twimg.com/profile_images/1432834656693628931/5UY9g_2i_normal.jpg",
+          "location":"Toulouse, France",
+          "socials":{
+            "github":"guillaumeagile",
+            "twitter":"guillaume_agile"
+          }
+        }
+      ],
+      "review":{
+        "average":4,
+        "positives":0,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn4c1t7pn213hpzeuhzaut",
+      "title":"L'agilité de la décroissance",
+      "abstract":"Timothée Parrique présente la décroissance comme une transition pour aller vers la post-croissance, phase de fluidité et stabilité.\n\nL’agilité est — déjà — un outil pour la transition avec comme fondamentaux des boucles orientées utilisateurs et des équipes auto-organisées.\n\nL’agilité de la décroissance, c’est la mise au premier plan des valeurs environnementales et sociales, tout en restant centrée sur la valeur pour les utilisateurs — rien n’est développé si cela ne correspond pas à un besoin — et sur la décision collective. \n",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"INTERMEDIATE",
+      "references":"J'ai présenté L'agilité de la décroissance en introduction de la conférence d'Agile Grenoble.\nhttps://claudeaubry.fr/series/decroissance/\nJe propose une version plus courte et actualisée pour Agile Pays basque.",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "🌶️ Autres propositions pimentées "
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Claude Aubry",
+          "bio":"Papet agile radical, auteur de livres publiés chez Dunod : \n- Scrum, un outil radical pour une agilité conviviale (6 éditions depuis 2010),\n- L'art de devenir une équipe agile.\n\n#canaldumidi #vélo #écologie #postrock #rugby #permaculture #communs #philo #scrum #rando #gohugo #jeu5ans #lecture #metal #pyrénées\n\n- [mon blog Scrum, agilité & rock'n roll](https://claudeaubry.fr)\n- [ma bio](https://claudeaubry.fr/ca/claude-aubry/)\n- [ce que je fais maintenant](https://claudeaubry.fr/now/)\n\n",
+          "company":null,
+          "references":"[Mes conférences](https://claudeaubry.fr/ca/conferencier/)",
+          "picture":"https://avatars.githubusercontent.com/u/677321?v=4",
+          "location":"Castanet-Tolosan, France",
+          "socials":{
+
+          }
+        }
+      ],
+      "review":{
+        "average":4.6,
+        "positives":2,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn3qz77pfb13hpn8irljsu",
+      "title":"Refacto ou re-ecriture ?",
+      "abstract":"On entend souvent le mot \"refacto\" dans le quotidien de développement produit. Parfois, on se demande si les gens comprennent ce qu'ils disent...\nUn regard sur le pratique de refactoring, des malentendus communs et des idées d'amélioration. ",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"INTERMEDIATE",
+      "references":"C'est dans le cadre de réintroduction des pratiques de base pour les nouveaux arrivés dans le monde de l'agilité. Le refacto fait partie de mes découvert le plus important et j'aimerais le partager avec plus de monde. ",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "💻 Tech"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Sam Cranford",
+          "bio":"An American Polyglot Artisanal Retro-Futurist ⊗ Team-Scale Anarcho-Syndicalismi­st in France.\nAgile Catalyst, eXtreme Programmer, Trainer, Coach & Manager\nArdent AntiFa",
+          "company":null,
+          "references":"I have been speaking at conferences for over 10 years. I've spoken at the Agile Tours in Bordeaux, Paris, Toulouse, Nantes and Lille. I've also spoken at Agile Pays Basque as well as in several meetups. I have 5 years of experience as a professional trainer. Furthermore, I've also helped organize several conferences and open space events and have been an active participant in many more. Finally, I've been the president of Okiwi, an association of crafters and agilists which organizes regular events, for over 10 years. ",
+          "picture":"https://avatars.githubusercontent.com/u/1654770?v=4",
+          "location":null,
+          "socials":{
+            "github":"nostradamnit",
+            "twitter":"https://mamot.fr/@nostradamnit"
+          }
+        }
+      ],
+      "review":{
+        "average":4,
+        "positives":0,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn3y9g7pi113hpz8q9f3z6",
+      "title":"Le biomimétisme au secours des dév",
+      "abstract":"Le biomimétisme, qui tire inspiration et solutions de la nature pour résoudre des défis humains, offre une perspective novatrice pour le développement logiciel. \n\nCette présentation explorera comment la nature peut être une source d'inspiration pour améliorer notre quotidien de développeur, gérer les bugs au plus tôt, améliorer les tests, la productiion et restructuration de code :  \n- Le figuier étrangleur  \n- Les tests pastèques et le Darwinisme  \n- Le syndrome de la méduse immortelle  \n- La danse TDD de l’abeille\n- Le principe de dispersion du criquet migrateur\n- La singularité de l'orchidée\n- L’adaptabilité harmonieuse du caméléon\n- La diversité de la prairie\n- L’interdépendance symbiotique de l'abeille et de la fleur\n",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"BEGINNER",
+      "references":"Cette session s'inscrit dans la continuité d'une série de mes talks explorant, avec une touche d'humour, des approches innovantes dans le domaine du développement logiciel, comme \"adoptez la clean archigonale\" et \"comment votre conception logicielle influence votre stratégie de test\".\n\nLes éléments de cette présentation sont le résultat d'une recherche approfondie permettant de vulgariser les concepts et sont régulièrement présentés et améliorés en interne Octo et en meetup. Ces analogies sont très appréciées.\n\nConvient à des sessions de 45mn à 1h\n\nLes slides sont disponibles ici : https://docs.google.com/presentation/d/17m1gA618zdZks-4WM3n4Ep6bqRu4lrHI8WqspYRlHIo/edit?usp=sharing",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "💻 Tech"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Christophe Breheret-Girardin",
+          "bio":"CTO @Zenika Paris, Coach craft, formateur, auteur et conférencier, Christophe partage avec enthousiasme ses connaissances, afin d’inspirer et de guider chacun vers son plein potentiel",
+          "company":"Octo Technology",
+          "references":"🎤 \"Let’s adopt the clean archigonal\" @Geecamp (Prague en République Tchèque) en octobre 2023.  \n🎤 \"Adoptez la clean archigonale\" @Volcamp (Clermont-Ferrand) en octobre 2023.  \n🎤 \"Comment votre architecture influence votre stratégie de test » @ParisTeStConf en octobre 2023.  \n🎤 \"Adoptez la clean archigonale\" @Breizhcamp (Rennes) en juin 2023.   \n🎤 \"Ne passez pas 5 ans à recruter un mouton à 5 pattes, créez-le dès à présent\" @Web2day (Nantes) en juin 2023.  \n🎧 \"La clean archigonale\" @Archilocus en mars 2023    \n🎤 \"La clean archigonale\" @Devday (Mons en Belgique) en mars 2023   \n🎧 \"Architecture Hexagonale & Clean architecture bonnet blanc, blanc bonnet ?\" @Comptoir x La Duck Conf en janvier 2023.   \n🎤 \"Isoler la valeur de votre produit\" @ Agile tour Aix-Marseille en novembre  2022.   \n🎤 \"L'hexagonal architecture et la clean architecture sont-elles équivalentes ?\" @Software Crafters Paris en juillet 2022.   \n🎤 \"Devenir un développeur d'élite\" @ TechNext SopraSteria en 2021    \n🎤 \"SonarQube en action\" @ InnovTech CGI 2014    \n🎤 \"Devenir auditeur technique\" @ InnovTech CGI en 2013.",
+          "picture":"https://sessionize.com/image/c09f-400o400o2-sLCpqttppyCsKCTSiMcBfy.jpg",
+          "location":"Paris, France",
+          "socials":{
+            "twitter":"ChristopheB_G"
+          }
+        }
+      ],
+      "review":{
+        "average":4.25,
+        "positives":1,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn4hhf7poz13hpc09gko9j",
+      "title":"Le Continuous Discovery est-il l’avenir du Continuous Delivery ?  ",
+      "abstract":"Depuis une vingtaine d'années, le Continuous Delivery a terriblement évolué. Consciente de cette accélération, la communauté Product Management propose de s’aligner sur les principes du Continuous Delivery avec une nouvelle approche, le Continuous Discovery. \n\nNous plongerons  dans cette nouvelle approche orientée Produit, qui repose à la fois sur une organisation spécifique, un rythme soutenu et un atelier autour d’un arbre visuel permettant de passer de l’espace du problème à l’espace de la solution. \n\nLe Continuous Dicovery n’est pas décorrélé de l’équipe de développement, mais en fait partie. L’objectif est limpide : permettre aux équipes de développement de délivrer encore plus vite des besoins du métier calibrés avec soin pour un impact maximum auprès des utilisateurs.",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"BEGINNER",
+      "references":"Ce talk s'inspire sur une synthèse des dernières approches sur le Product Management offrant une symbiose avec les équipes  de développement pratiquant déjà le Continuous Delivery. J’ai aussi écrit une synthèse de cette approche : https://medium.com/@boucard.bruno.thierry/product-discovery-in-nutshell-8d78d6d97fce",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "🎯 Product"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"brunoboucard",
+          "bio":"Ma longue expérience en informatique m'a permis de concevoir de meilleures approches collaboratives pour créer des produits à fort impact.\n\nComme le colibri, chacun fait sa part pour créer un logiciel qui aura un meilleur impact sur ses utilisateurs. En tirant parti d'une approche de conception axée sur le domaine, je facilite une communication plus transparente entre les parties prenantes et les créateurs de logiciels grâce à une modélisation collaborative et une démocratie profonde, décodant les complexités, résolvant les conflits et garantissant que les logiciels restent agiles face aux demandes de l'entreprise.\n\nDans mes rôles de consultant pour OCTO Technology, responsable technique et architecte logiciel, et coach agile et technique, je catalyse les organisations et les équipes vers la conception et la construction d'architectures logicielles durables et résilientes.\n\n\nBruno intervient en tant que speaker dans nombreuses conférences : DDD EUROPE, Explore DDD, DDD eXchange, XP Conference, NewCraft, Devoxx France, SchoolOfPo, Agile Tour, BDXIO …",
+          "company":"OCTO Technology",
+          "references":"**Functional Core, l’alternative FP à l’architecture hexagonale** - Thomas Pierrain & Bruno Boucard Les RDV des Speakers\nhttps://www.youtube.com/watch?v=T_9mqhrY3QA\n\n**L'après-midi du DDD (épisode 2)**\nhttps://www.youtube.com/watch?v=PIo6jUl4VO8\n\nThomas Pierrain & Bruno Boucard - **How To Distill The Core Domain From Your Legacy App** (Live Coding) Explore DDD\nhttps://www.youtube.com/watch?v=mZzPwt9vhHM&t=2287s\n\n**L’après-midi du DDD (épisode 1)** 1/3 – Keynote & Test Harness\nhttps://www.youtube.com/watch?v=qzygjKpFSq4\n\n**Distill the Core Domain from Your Legacy App** - Thomas Pierrain and Bruno Boucard - DDD Europe 2018\nhttps://www.youtube.com/watch?v=F3DV9YDeA6Q\n\n**Du DDD dans mon legacy !** live coding Devoxx 2018  (T. Pierrain, B. Boucard, J. Grodziski)\nhttps://www.youtube.com/watch?v=dzKKqS5ewLg\n\n**BDX I/O 2018 - Pair ou impairs ?** (live-coding sanglant) - Thomas PIERRAIN et bruno boucard\nhttps://www.youtube.com/watch?v=RiVSIbkss6A&t=413s\n\n**Organisateur du Meetup BDD Paris**\nhttps://www.meetup.com/fr-FR/BDD-Paris/\n\n**Legacy Club** (Thomas Pierrain - Bruno Boucard) Devoxx FR https://www.youtube.com/watch?v=zeogtrxqc38&t=191s\n\n16/02/09 - **SOFTWARE CRAFTMANSHIP**  Bruno Boucard / Thomas Pierrain / Diego Lemos\nhttps://www.youtube.com/watch?v=Cov4MGzozSA&t=6216s\n\n**Que pouvons-nous faire face à la programmation parallèle ?** - Bruno Boucard à l'USI  2014 : https://www.youtube.com/watch?v=PjijxuV0v1I&t=11s\n\n0090 - Bruno Boucard - **Parallélisme et concurrence (PODCAST**\nhttps://www.youtube.com/watch?v=3cfaP79puIQ&t=101s",
+          "picture":"https://pbs.twimg.com/profile_images/1074819979520995328/9xpTMaok_normal.jpg",
+          "location":"Maisons-Laffitte, France",
+          "socials":{
+            "github":"boucardbruno",
+            "twitter":"brunoboucard"
+          }
+        }
+      ],
+      "review":{
+        "average":4.6,
+        "positives":2,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn3fte7pb913hpn6zialr6",
+      "title":"From Evidence to Action: The Data Driven Transformations #NoFrameworks",
+      "abstract":"\"Etre agile pour être agile ne sert à rien.\" J'entends cette phrase depuis une décennie et pourtant voit encore beaucoup cette agilité sans objectifs qui devient plus un exercice de style plutôt qu'un levier de transformation réelle.\n\nDans un monde où l’agilité est devenue un mantra, ce talk \"From Evidence to Action: The Data Driven Transformations #NoFrameworks\" défie l’orthodoxie. Être agile juste pour l’agilité ? Inefficace. Ce talk propose une approche moderne : piloter la transformation par les données, non par des dogmes. L’Evidence-Based Management (EBM), DORA et nos analyses démontrent comment aligner véritablement agilité et objectifs business. Exit les cadres rigides, bienvenue dans une ère où chaque décision, action et initiative est justifiée par des données tangibles, mesurables. Nous plongeons dans des stratégies concrètes où les métriques deviennent le phare guidant vers l’excellence opérationnelle, satisfaction client et innovation continue. Préparez-vous à redéfinir l’agilité, où la donnée n’est pas qu’un outil mais le fondement d’une transformation réelle et mesurable. \n\n",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"INTERMEDIATE",
+      "references":null,
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "👥 People management"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Coach Agile",
+          "bio":"« Réfléchir c’est commencer à désobéir« … Coach Lean & Agile, j’organise la désobéissance sérieuse chez mes clients ( Cdiscount, Bouygues, Axa,…) au niveau organisationnel mais aussi auprès des équipes techniques (TDD, CICD, …) et des équipes produit en les incitant à se poser de bonnes questions afin de trouver du sens et de la valeur dans leurs actions au quotidien. Cette approche m’a permis d’acquérir une vision 360°: Technologie, Produit/Vision & Méthode employée pour améliorer le bien-être des équipes et la valeur des produits sur lesquels j’interviens. Actif dans la communauté agile, je participe à de nombreuses initiatives comme agile.christmas, la chaine Scrum Life, le meetup agile playground, agile cook book, et d’autres sujets comme l’organisation et la participation à certains agile tours ou encore une collaboration avec d’Alistair Cockburn …",
+          "company":"Scrum Life",
+          "references":"Entre autres : \n\n\nAgile En Med Casablanca 2024\nJune 2024 Casablanca, Morocco\nAgile Grenoble 2023\nNovember 2023 Grenoble, France\nAgile Tour Nantais 2023\nNovember 2023 Nantes, France\nAgile Tour Bordeaux 2023\nOctober 2023 Bordeaux, France\nAgile Lyon 2022\nJune 2022 Lyon, France\nAgile tour Bordeaux 2020\nOctober 2020 Bordeaux, France\nAgile Tour Toulouse\nOctober 2020 Balma, France\nAgile en ligne\nApril 2020",
+          "picture":"https://lh3.googleusercontent.com/a-/AOh14Gh15Oy89F8UK4iWCtd7WaX3xPZecmXXvoYgf3icgA",
+          "location":"Barcelone, Espagne",
+          "socials":{
+            "twitter":"BeraudSudreau"
+          }
+        }
+      ],
+      "review":{
+        "average":4.6,
+        "positives":1,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn2zmp7p4q13hp54xjm21n",
+      "title":"Le produit entre la qualité et  l’Over-Engineering",
+      "abstract":"Avez vous déjà écrit un code supplémentaire pour recouvrir un besoin future <i>**\"au cas où\"**<i/> 🤓? \n\n**L'over-engineering**, est une pratique consistant à développer des solutions excessivement complexes et sophistiquées et qui ne répondent pas forcement aux besoins de l'utilisateur.\n\nDans le domaine du logiciel, cela se traduit par une focalisation excessive sur <u>la qualité au détriment de la rapidité 🚀. </u>\n\nLa sur-ingénierie coûte généralement très cher à l'entreprise :\n\n💸 une augmentation des **coûts**\\\n⌛ des délais de développement prolongés \\\n🤯 une **complexité** accrue du système\n\nPour éviter <u>**ce piège**</u> ☠️, des exemples et des astuces sont à découvrir dans cette conférence 😉.\n",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"DECLINED",
+      "publicationStatus":"PUBLISHED",
+      "level":"INTERMEDIATE",
+      "references":"<i>**Sommaire :** </i>\n\n**C’est quoi l’Over-engineering ?**\n- Exemple : l’industrie automobile\n\n**Software Over-engineering : définitions**\n- La qualité logicielle \n- Le triangle QCD\n- DORA : entre la qualité et le rendement\n\n**Software Over-engineering : exemples concrets**\n- L’utilisation inutile des types génériques\n- Sauvegarde des données inutiles\n- L' application inutile des concepts de qualité :\n           - exemple : DRY (Don’t Repeat Yourself)\n\n**Software over-enginnering : les vraies raisons**\n\n**L’Over-engineering d'organisation**\n- La structure des équipes\n- Les processus\n\n**Les conséquences de l'over-engineering**\n\n**Quelques tips pour éviter ce piège** \n\n\n**SlideShare :** https://fr.slideshare.net/secret/bAay7CaQHw9jMX \n",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "🌶️ Autres propositions pimentées "
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Jihène Mejri",
+          "bio":"Je suis ingénieure spécialisée en systèmes embarqués et je suis passionnée par tout ce qui touche à la pomme  depuis 2012.\nAnimée par la passion de l'innovation et des nouvelles technologies, je suis en perpétuel quête d’apprentissage.\n\nActuellement, je suis Chapter Lead  chez Bforbank 🐸",
+          "company":"Bforbank",
+          "references":"- **Speaker DevFest Lille 2023** : L'accessibilité numérique dans l'écosystème d'Apple\n- **Speaker Mobilis in Mobile 2023** : L'accessibilité numérique dans l'écosystème d'Apple\n- **Organisatrice du DevFest Paris 2024**\n- **Speaker DevFest Lille 2024** : Le produit entre la qualité et l'over-Engineering\n- **Speaker DevQuest Niort 2024** : Le produit entre la qualité et l'over-Engineering\n- **Speaker Agile en Seine 2024** : Le produit entre la qualité et l'over-Engineering\n- **Speaker DevFest Strasbourg 2024** : Le produit entre la qualité et l'over-Engineering",
+          "picture":"https://media.licdn.com/dms/image/v2/D4E03AQEGtSJVPFbB3A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724054603389?e=1729728000&v=beta&t=O6Tb5w_aqgn50EML69sxpvuNXDmXWyfyZQIaaA3Ds-M",
+          "location":null,
+          "socials":{
+            "twitter":"https://www.linkedin.com/in/jihenemejri/"
+          }
+        }
+      ],
+      "review":{
+        "average":4.25,
+        "positives":0,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn33m87p6j13hp86gq96gc",
+      "title":"Expirmenter et jouer en limitant le travail en cours durant un project",
+      "abstract":"Dans cet atelier, vous allez expérimenter et apprendre comment l'organisation d'une équipe influe sur son flux de travail, quelles sont les bonne pratiques et les pièges à éviter.\n\nNous ferons des simulations d'organisation d'une équipe pour bien comprendre l'effet que cela a sur son flux total du travail.\n\nLes sujets que nous aborderons :\n- Pourquoi limiter le travail en cours ?\n- Pourquoi préférons-nous des membres d'équipe en forme de T ?\n- Pourquoi avons-nous du mal à estimer quand le travail sera fini ?\n- En quoi la collaboration peut-elle nous aider ?\n",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"DECLINED",
+      "publicationStatus":"PUBLISHED",
+      "level":"BEGINNER",
+      "references":"I can give this talk in French or in English.\n\nPrevious talks include DDD Europe, NewCrafts, AlpesCraft and several SoCraTes meetups.\n\nAn (unedited) video of the talk can be found here (no sound during the first few minutes): https://www.youtube.com/watch?v=pOqfOdSiA7I&t=370s",
+      "formats":[
+        "Interactif : 120 mins (jeux, atelier, dojo,...)"
+      ],
+      "categories":[
+        "🎯 Product"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "en"
+      ],
+      "speakers":[
+        {
+          "name":"Michel Grootjans",
+          "bio":"Michel Grootjans has been programming since the age of 12. He has programmed strange machines like the TI 99-4A, the Atari 2600, Mac128, HP28, Apple II, Siemens PLC's, using languages like Basic, Pascal, C, HyperTalk, Assembler, ... along the way.\n\nHis professional experiences include building enterprise applications for retail, media, government, chemical plants, telecom, HR, insurance, ... in javascript, C#, java and, ruby.\n\nHe helps teams with continuous improvement, focusing on outcomes over output.",
+          "company":"SmallSteps",
+          "references":"I'm an occasional speaker at conferences and meetups.\n\nPast speaking experiences include DDDEurope, NewCrafts, ExploreDDD, AlpesCraft, SoCraTes conferences and meetups, XPDays BeNeLux, ACCU ...",
+          "picture":"https://lh3.googleusercontent.com/a/ACg8ocLoH3iXqUq1NlB4uNSjfM3EmbsnNEuWO_psmY0CoewJPQ=s96-c",
+          "location":"Brussels, Belgium",
+          "socials":{
+
+          }
+        }
+      ],
+      "review":{
+        "average":4.166666666666667,
+        "positives":1,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn3qdk7pf213hpc0usc9xf",
+      "title":"Où sont les speakeuses dans la tech ?",
+      "abstract":"Les femmes dans la tech il n'y en a pas assez, et des femmes oratrices encore moins ! Mais pourquoi enfaite ?!\n\nEnsemble nous aborderons les raisons, bonnes ou mauvaises, pour lesquelles elles ne se lancent pas. Mais aussi l'intérêt pour l'entreprise d'avoir plus de femmes qui parlent à des évènements tech. Et puis bien sûr comment les amener à se lancer et comment ça se passe quand elles sont sélectionnées ! Pour finir on verra les raisons qui les ont motivé à franchir le pas et comment concrètement on peut se lancer dans l'aventure de speakeuse !",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"BEGINNER",
+      "references":"Plan du talk :\n1. Le choix des mots\n2. Les chiffres\n3. Pourquoi elles ne se lancent pas ?\n4. Quel est l'intérêt pour l'entreprise ?\n5. Comment les amener ?\n6. Et quand elles sont prises\n7. Pourquoi certaines se lancent ?\n8. Comment faire pour vous lancer ?\n9. Conclusion ",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "🌶️ Autres propositions pimentées "
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Noémie M. Rivière",
+          "bio":"Product designer depuis 14 ans ; J’ai à cœur les sujets sur l’accessibilité et l’inclusivité !",
+          "company":"Onepoint",
+          "references":"**2024** 📆\n- **BDX I/O** \"l'IA, la nouvelle fracture !\"\n- **Agile Pays Basque** \"Où sont les speakeuses dans la tech ?\"\n- **Devoxx FR** [\"Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital?\"](https://www.youtube.com/watch?v=bAqNNq_mnhY)\n- **Epitech** Intervenante pour une table ronde sur les femmes dans la Tech\n- **Touraine Tech 2024** [\"PO/Designer, duo-gagnant pour la conception de votre produit !\"](https://www.youtube.com/watch?v=vAaC1Es97po)\n- **Women In Tech Bordeaux** \"Où sont les speakeuses dans la tech ?\"\n\n**2023** 📆\n- **DevFest Toulouse 2023** [\"Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital ?\"](https://www.youtube.com/watch?v=BVWm0FcswQc)\n- **Agile Tour Bordeaux 2023** \"PO/Designer, duo-gagnant pour la conception de votre produit !\"\n- **Women In Tech Bordeaux** \"Accessibilité numérique : on fait tout ça pour qui ?\"\n\n**2022** 📆\n\n- **BDX.io 2022** [\"Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital ?\"](https://www.youtube.com/watch?v=KNlVkRs9a94)\n- **Women In Tech Bordeaux** \"Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital ?\"",
+          "picture":"https://pbs.twimg.com/profile_images/845340728481996800/mn8rexeL_normal.jpg",
+          "location":"Bordeaux, France",
+          "socials":{
+
+          }
+        }
+      ],
+      "review":{
+        "average":3.6,
+        "positives":0,
+        "negatives":0
+      }
+    }
+  ]
+}

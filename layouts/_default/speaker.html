@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+{{ partial "page-title" . }}
+
+<!-- Speaker Section Begin -->
+<section class="speaker-section spad">
+    <div class="container">
+        <div class="row">
+            {{ range .Site.Data.edition.apb2024.proposals }}
+            {{ if eq .confirmationStatus "CONFIRMED" }}
+            {{ range .speakers }}
+            <div class="col-sm-12">
+                <div class="speaker-item">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="si-pic">
+                                <img src="{{ .picture }}" class="img-fluid" alt="{{ .name }}">
+                            </div>
+                        </div>
+                        <div class="col-lg-8">
+                            <div class="si-text">
+                                <div class="si-title">
+                                    <h4>{{ .name }} {{ with .location }}<span class="location">({{ . }})</span>{{ end }}</h4>
+                                    {{ with .company }}
+                                    <span class="company">{{ . }}</span>
+                                    {{ end }}
+                                </div>
+                                <div class="si-social">
+                                {{ partial "social-media/speaker" . }}
+                                <p class="bio">
+                                    {{ .bio }}
+                                </p>
+                                {{ if gt (len .bio) 620 }}
+                                <button class="btn btn-link toggle-bio-btn p-0">
+                                    Voir plus
+                                </button>
+                                {{ end }}
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Speaker Section End -->
+
+{{ partial "newsletter" . }}
+
+{{ end }}

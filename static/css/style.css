@@ -1371,26 +1371,36 @@ ol {
 	padding-top: 0;
 }
 
+.speaker-section .bio {
+	-webkit-line-clamp: 8;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	margin-bottom: 0px;
+}
+.speaker-section .ft-social {
+	padding-bottom: 8px;
+}
+
 .speaker-item {
 	margin-bottom: 50px;
 }
 
-.speaker-item .si-pic img {
-	min-width: 100%;
-	border-radius: 2px;
-}
-
 .speaker-item .si-text .si-title {
-	margin-bottom: 28px;
+	margin-bottom: 10px;
 }
 
 .speaker-item .si-text .si-title h4 {
 	color: #171822;
 	font-weight: 600;
-	margin-bottom: 13px;
+	margin-bottom: 5px;
 }
 
-.speaker-item .si-text .si-title span {
+.speaker-section h4 span.location {
+	font-size: 14px;
+}
+
+.speaker-section span.company {
 	color: #f44949;
 	font-size: 16px;
 	display: block;

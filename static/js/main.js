@@ -26,4 +26,19 @@
         var bg = $(this).data('setbg');
         $(this).css('background-image', 'url(' + bg + ')');
     });
+
+    /*------------------
+        Speaker
+    --------------------*/
+    $(".toggle-bio-btn").on("click", function () {
+        const $bio = $(this).prev('.bio');
+
+        if ($(this).text() == "Voir moins") {
+            $bio.css("display", "-webkit-box");
+            $(this).text("Voir plus");
+        } else {
+            $bio.css("display", "block");
+            $(this).text("Voir moins");
+        }
+    });
 })(jQuery);
