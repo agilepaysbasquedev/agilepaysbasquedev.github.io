@@ -32,7 +32,9 @@
                             <p>{{ $talk.abstract | safeHTML }}</p>
                             <h3 class="speaker-name">
                                 {{ range $talk.speakers }}
-                                — {{ .name }} {{ with .company }}<span class="position">{{ . }}</span>{{ end }}
+                                {{ $filename := printf "speakers/%s.jpeg" (replace .name " " "") }}
+                                {{ partial "asset-image" (dict "src" $filename "alt" .name  "size" "96x" "class" "img-fluid rounded-circle") }}
+                                {{ .name }} {{ with .company }}<span class="position">{{ . }}</span>{{ end }}
                                 {{ end }}
                             </h3>
                         </div>
