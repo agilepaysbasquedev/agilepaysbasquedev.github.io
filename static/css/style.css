@@ -494,137 +494,287 @@ ol {
   Schedule Section
 -----------------------*/
 
-.schedule-section {
-	padding-bottom: 60px;
+.ftco-search {
+	position: relative;
+	width: 100%;
+	display: block;
 }
 
-.schedule-tab .nav-tabs {
-	border: none;
-	border-radius: 2px;
-	margin-bottom: 60px;
-	-webkit-box-shadow: 3px 10px 30px rgba(74, 74, 77, 0.15);
-	box-shadow: 3px 10px 30px rgba(74, 74, 77, 0.15);
+.ftco-search .nav-pills {
+	width: 100%;
+	display: block;
 }
 
-.schedule-tab .nav-tabs .nav-item {
-	border-right: 1px solid #e7e7e8;
-	width: 20%;
-	text-align: center;
-}
-
-.schedule-tab .nav-tabs .nav-item:last-child {
-	border-right: none;
-}
-
-.schedule-tab .nav-tabs .nav-item .nav-link {
-	padding: 14px 0 13px 0;
-	border: none;
-	border-top-left-radius: 0;
-	border-top-right-radius: 0;
-}
-
-.schedule-tab .nav-tabs .nav-item .nav-link.active {
-	border-radius: 2px;
-	border-color: #e7e7e8;
-}
-
-.schedule-tab .nav-tabs .nav-item .nav-link.active h5 {
-	color: #ffffff;
-}
-
-.schedule-tab .nav-tabs .nav-item .nav-link.active p {
-	color: #ffffff;
-}
-
-.schedule-tab .nav-tabs .nav-item .nav-link h5 {
-	color: #171822;
-	font-weight: 600;
-}
-
-.schedule-tab .nav-tabs .nav-item .nav-link p {
+.ftco-search .nav-pills p {
 	margin-bottom: 0;
 }
 
-.schedule-tab .st-content {
-	border: 1px solid #ebebeb;
-	border-radius: 2px;
-	margin-bottom: 40px;
-	-webkit-transition: all 0.3s;
-	-o-transition: all 0.3s;
-	transition: all 0.3s;
-}
-
-.schedule-tab .st-content:hover {
-	-webkit-box-shadow: 3px 12px 30px rgba(23, 24, 34, 0.05);
-	box-shadow: 3px 12px 30px rgba(23, 24, 34, 0.05);
-	border: 1px solid transparent;
-}
-
-.schedule-tab .st-content .sc-pic {
-	text-align: center;
-	padding: 30px 0;
-}
-
-.schedule-tab .st-content .sc-pic img {
-	height: 120px;
-	width: 120px;
-	border-radius: 50%;
-}
-
-.schedule-tab .st-content .sc-text {
-	padding: 58px 0;
-}
-
-.schedule-tab .st-content .sc-text h4 {
-	color: #171822;
-	font-weight: 600;
-	margin-bottom: 10px;
-}
-
-.schedule-tab .st-content .sc-text ul li {
-	list-style: none;
-	display: inline-block;
-	font-size: 16px;
-	color: #6a6b7c;
-	margin-right: 25px;
+.ftco-search .nav-pills .nav-link {
+	padding: 35px 30px !important;
+	border-radius: 0;
+	margin-bottom: 0;
+	color: #000000;
+	font-size: 22px;
+	font-weight: 700;
 	position: relative;
+	display: inline-block;
+	border: 1px solid transparent;
+	background: #fff;
+	width: 33%;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	-ms-border-radius: 0;
+	border-radius: 0;
 }
 
-.schedule-tab .st-content .sc-text ul li:last-child:after {
-	display: none;
-}
-
-.schedule-tab .st-content .sc-text ul li:after {
+.ftco-search .nav-pills .nav-link:after {
 	position: absolute;
-	right: -18px;
-	top: 0;
-	content: "/";
+	bottom: -10px;
+	left: 0;
+	right: 0;
+	width: 0;
+	content: '';
+	height: 0;
+	margin: 0 auto;
+	border-style: solid;
+	border-width: 10px 10px 0 10px;
+	border-color: #6b76ff transparent transparent transparent;
+	opacity: 0;
 }
 
-.schedule-tab .st-content .sc-text ul li i {
-	color: #f44949;
+.ftco-search .nav-pills .nav-link span {
+	display: block;
 	font-size: 14px;
 }
 
-.schedule-tab .st-content .sc-widget {
-	padding: 58px 0;
+@media (max-width: 991.98px) {
+	.ftco-search .nav-pills .nav-link {
+		color: rgba(255, 255, 255, 0.7);
+	}
 }
 
-.schedule-tab .st-content .sc-widget li {
-	list-style: none;
-	font-size: 16px;
-	color: #6a6b7c;
-	line-height: 32px;
-	position: relative;
-	padding-left: 22px;
+.ftco-search .nav-pills .nav-link:hover {
+	background: #525eff;
+	color: #fff;
 }
 
-.schedule-tab .st-content .sc-widget li i {
-	color: #f44949;
-	position: absolute;
-	left: 0;
-	top: 7px;
+.ftco-search .nav-pills .nav-link.active {
+	color: #fff;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	-webkit-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	border: 1px solid transparent;
+	background: #6b76ff;
 }
+
+.ftco-search .nav-pills .nav-link.active:after {
+	opacity: 1;
+}
+
+@media (max-width: 767.98px) {
+	.ftco-search .nav-pills .nav-link.active:after {
+		opacity: 0;
+	}
+}
+
+@media (max-width: 767.98px) {
+	.ftco-search .nav-pills .nav-link {
+		display: block;
+		margin-bottom: 5px;
+	}
+}
+
+.ftco-search .tab-content {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	-ms-border-radius: 0;
+	border-radius: 0;
+	margin-top: 15px;
+}
+
+.speaker-wrap {
+	width: 100%;
+	background: #fff;
+	padding: 40px;
+	margin-bottom: 20px;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	-webkit-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+.speaker-wrap .speaker-img {
+	width: 120px;
+	height: 120px;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.speaker-wrap .text {
+	width: calc(100% - 120px);
+}
+
+.speaker-wrap .text h2 {
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.speaker-wrap .text h2 a {
+	color: #000000;
+}
+
+.speaker-wrap .text h3.speaker-name {
+	font-size: 20px;
+}
+
+.speaker-wrap .text .position {
+	font-size: 18px;
+	color: rgba(0, 0, 0, 0.4);
+}
+
+.speaker-wrap:hover, .speaker-wrap:focus {
+	-webkit-box-shadow: 0px 7px 15px -5px rgba(0, 0, 0, 0.07);
+	-moz-box-shadow: 0px 7px 15px -5px rgba(0, 0, 0, 0.07);
+	box-shadow: 0px 7px 15px -5px rgba(0, 0, 0, 0.07);
+}
+
+
+/*.schedule-section {*/
+/*	padding-bottom: 60px;*/
+/*}*/
+
+/*.schedule-tab .nav-tabs {*/
+/*	border: none;*/
+/*	border-radius: 2px;*/
+/*	margin-bottom: 60px;*/
+/*	-webkit-box-shadow: 3px 10px 30px rgba(74, 74, 77, 0.15);*/
+/*	box-shadow: 3px 10px 30px rgba(74, 74, 77, 0.15);*/
+/*}*/
+
+/*.schedule-tab .nav-tabs .nav-item {*/
+/*	border-right: 1px solid #e7e7e8;*/
+/*	width: 20%;*/
+/*	text-align: center;*/
+/*}*/
+
+/*.schedule-tab .nav-tabs .nav-item:last-child {*/
+/*	border-right: none;*/
+/*}*/
+
+/*.schedule-tab .nav-tabs .nav-item .nav-link {*/
+/*	padding: 14px 0 13px 0;*/
+/*	border: none;*/
+/*	border-top-left-radius: 0;*/
+/*	border-top-right-radius: 0;*/
+/*}*/
+
+/*.schedule-tab .nav-tabs .nav-item .nav-link.active {*/
+/*	border-radius: 2px;*/
+/*	border-color: #e7e7e8;*/
+/*}*/
+
+/*.schedule-tab .nav-tabs .nav-item .nav-link.active h5 {*/
+/*	color: #ffffff;*/
+/*}*/
+
+/*.schedule-tab .nav-tabs .nav-item .nav-link.active p {*/
+/*	color: #ffffff;*/
+/*}*/
+
+/*.schedule-tab .nav-tabs .nav-item .nav-link h5 {*/
+/*	color: #171822;*/
+/*	font-weight: 600;*/
+/*}*/
+
+/*.schedule-tab .nav-tabs .nav-item .nav-link p {*/
+/*	margin-bottom: 0;*/
+/*}*/
+
+/*.schedule-tab .st-content {*/
+/*	border: 1px solid #ebebeb;*/
+/*	border-radius: 2px;*/
+/*	margin-bottom: 40px;*/
+/*	-webkit-transition: all 0.3s;*/
+/*	-o-transition: all 0.3s;*/
+/*	transition: all 0.3s;*/
+/*}*/
+
+/*.schedule-tab .st-content:hover {*/
+/*	-webkit-box-shadow: 3px 12px 30px rgba(23, 24, 34, 0.05);*/
+/*	box-shadow: 3px 12px 30px rgba(23, 24, 34, 0.05);*/
+/*	border: 1px solid transparent;*/
+/*}*/
+
+/*.schedule-tab .st-content .sc-pic {*/
+/*	text-align: center;*/
+/*	padding: 30px 0;*/
+/*}*/
+
+/*.schedule-tab .st-content .sc-pic img {*/
+/*	height: 120px;*/
+/*	width: 120px;*/
+/*	border-radius: 50%;*/
+/*}*/
+
+/*.schedule-tab .st-content .sc-text {*/
+/*	padding: 58px 0;*/
+/*}*/
+
+/*.schedule-tab .st-content .sc-text h4 {*/
+/*	color: #171822;*/
+/*	font-weight: 600;*/
+/*	margin-bottom: 10px;*/
+/*}*/
+
+/*.schedule-tab .st-content .sc-text ul li {*/
+/*	list-style: none;*/
+/*	display: inline-block;*/
+/*	font-size: 16px;*/
+/*	color: #6a6b7c;*/
+/*	margin-right: 25px;*/
+/*	position: relative;*/
+/*}*/
+
+/*.schedule-tab .st-content .sc-text ul li:last-child:after {*/
+/*	display: none;*/
+/*}*/
+
+/*.schedule-tab .st-content .sc-text ul li:after {*/
+/*	position: absolute;*/
+/*	right: -18px;*/
+/*	top: 0;*/
+/*	content: "/";*/
+/*}*/
+
+/*.schedule-tab .st-content .sc-text ul li i {*/
+/*	color: #f44949;*/
+/*	font-size: 14px;*/
+/*}*/
+
+/*.schedule-tab .st-content .sc-widget {*/
+/*	padding: 58px 0;*/
+/*}*/
+
+/*.schedule-tab .st-content .sc-widget li {*/
+/*	list-style: none;*/
+/*	font-size: 16px;*/
+/*	color: #6a6b7c;*/
+/*	line-height: 32px;*/
+/*	position: relative;*/
+/*	padding-left: 22px;*/
+/*}*/
+
+/*.schedule-tab .st-content .sc-widget li i {*/
+/*	color: #f44949;*/
+/*	position: absolute;*/
+/*	left: 0;*/
+/*	top: 7px;*/
+/*}*/
 
 /*---------------------
   Pricing Section

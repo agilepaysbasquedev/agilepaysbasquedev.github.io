@@ -1,0 +1,44 @@
+tracks:
+  - id: amphi
+    name: Amphi
+    sessions:
+      - time: "09:15 - 10:00"
+        talk_id: "clzyn3ps27pev13hp1eoemk06" # Spotify, de l'intérieur :)
+      - time: "10:30 - 11:15"
+        talk_id: "clzyn4hhf7poz13hpc09gko9j" # Le Continuous Discovery est-il l’avenir du Continuous Delivery ?
+      - time: "11:30 - 12:15"
+        talk_id: "" #Comment passer d'un domaine métier à une architecture logicielle ?
+      - time: "14:30 - 15:15"
+        talk_id: "" # Résilience et agilité
+      - time: "15:30 - 16:15"
+        talk_id: "clzyn3wfw7phd13hpxfbnlemu" # Dynamiques de pouvoir : comment vos biais sabotent l'intelligence collective
+      - time: "16:45 - 17:30"
+        talk_id: "clzyn4c1t7pn213hpzeuhzaut" # L'agilité de la décroissance
+
+  - id: salle1
+    name: Salle 1
+    sessions:
+      - time: "09:15 - 10:00"
+        talk_id: "clzyn3qdk7pf213hpc0usc9xf" # Où sont les speakeuses dans la tech ?
+      - time: "10:30 - 11:15"
+        talk_id: "clzyn3b7y7p9j13hpz76fwaya" # La gestion des risques vue par une Agiliste
+      - time: "11:30 - 12:15"
+        talk_id: "clzyn2yfj7p4913hp3jol2oug" # Démystifier l'IA : Un guide pratique pour les développeurs
+      - time: "14:30 - 15:15"
+        talk_id: "clzyn30667p4y13hp74phcfnq" # Découvrez le Basque, l’OVNI linguistique européen
+      - time: "15:30 - 16:15"
+        talk_id: "clzyn3y9g7pi113hpz8q9f3z6" # Le biomimétisme au secours des devs
+      - time: "16:45 - 17:30"
+        talk_id: "clzyn3oot7peg13hpi1h6oded" # 'Tidy First?' de Kent Beck
+
+  - id: salle2
+    name: Salle 2
+    sessions:
+      - time: "09:15 - 10:00"
+        talk_id: "clzyn3qz77pfb13hpn8irljsu" # Refacto ou re-ecriture ?
+      - time: "10:30 - 12:15"
+        talk_id: "clzyn4gy77pos13hpxxy052cm" # Parle à mon coeur, ma tête est malade !
+      - time: "14:30 - 15:15"
+        talk_id: "clzyn42dv7pjk13hpzfo1pwhq" # Domaine Métier et architecture logicielle
+      - time: "16:45 - 17:30"
+        talk_id: "clzyn2uts7p2p13hpif7d1fix" # 'De l'exclusion à l'inclusion : l'accessibilité numérique pour tous et toutes.
