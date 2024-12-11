@@ -494,22 +494,22 @@ ol {
   Schedule Section
 -----------------------*/
 
-.ftco-search {
+.schedule {
 	position: relative;
 	width: 100%;
 	display: block;
 }
 
-.ftco-search .nav-pills {
+.schedule .nav-pills {
 	width: 100%;
 	display: block;
 }
 
-.ftco-search .nav-pills p {
+.schedule .nav-pills p {
 	margin-bottom: 0;
 }
 
-.ftco-search .nav-pills .nav-link {
+.schedule .nav-pills .nav-link {
 	padding: 35px 30px !important;
 	border-radius: 0;
 	margin-bottom: 0;
@@ -527,7 +527,7 @@ ol {
 	border-radius: 0;
 }
 
-.ftco-search .nav-pills .nav-link:after {
+.schedule .nav-pills .nav-link:after {
 	position: absolute;
 	bottom: -10px;
 	left: 0;
@@ -542,23 +542,23 @@ ol {
 	opacity: 0;
 }
 
-.ftco-search .nav-pills .nav-link span {
+.schedule .nav-pills .nav-link span {
 	display: block;
 	font-size: 14px;
 }
 
 @media (max-width: 991.98px) {
-	.ftco-search .nav-pills .nav-link {
+	.schedule .nav-pills .nav-link {
 		color: rgba(255, 255, 255, 0.7);
 	}
 }
 
-.ftco-search .nav-pills .nav-link:hover {
+.schedule .nav-pills .nav-link:hover {
 	background: #525eff;
 	color: #fff;
 }
 
-.ftco-search .nav-pills .nav-link.active {
+.schedule .nav-pills .nav-link.active {
 	color: #fff;
 	-moz-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
@@ -569,24 +569,24 @@ ol {
 	background: #6b76ff;
 }
 
-.ftco-search .nav-pills .nav-link.active:after {
+.schedule .nav-pills .nav-link.active:after {
 	opacity: 1;
 }
 
 @media (max-width: 767.98px) {
-	.ftco-search .nav-pills .nav-link.active:after {
+	.schedule .nav-pills .nav-link.active:after {
 		opacity: 0;
 	}
 }
 
 @media (max-width: 767.98px) {
-	.ftco-search .nav-pills .nav-link {
+	.schedule .nav-pills .nav-link {
 		display: block;
 		margin-bottom: 5px;
 	}
 }
 
-.ftco-search .tab-content {
+.schedule .tab-content {
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	-ms-border-radius: 0;
