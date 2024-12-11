@@ -14,7 +14,8 @@
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="si-pic">
-                                <img src="{{ .picture }}" class="img-fluid" alt="{{ .name }}">
+                                {{ $filename := printf "speakers/%s.jpeg" (replace .name " " "") }}
+                                {{ partial "asset-image" (dict "src" $filename "alt" .name  "size" "300x" "class" "img-fluid") }}
                             </div>
                         </div>
                         <div class="col-lg-8">

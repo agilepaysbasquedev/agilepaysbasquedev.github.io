@@ -148,7 +148,7 @@
       ],
       "speakers":[
         {
-          "name":"iana iatsun",
+          "name":"Iana Iatsun",
           "bio":"Iana a obtenu son doctorat en traitement d’images et du signal en 2014. Son premier réseau de neurone a été entrainé en 2013.  Après sa thèse, elle a travaillé comme data-scientist dans le domaine de la biométrie pour la reconnaissance d’empreintes digitales et des visages.  Depuis 4 ans, Iana gère avec son équipe les activités autour de la mise en production des modèles d’apprentissage automatique (MLOps)  dans une institution financière . Elle s’investit sur les sujets concernant une IA éthique, explicable et responsable.",
           "company":"IA parle",
           "references":"talk \"Intelligence Artificielle en Production\" AFUP Day Poitiers   05/2024\ntalk at meetup WIMLDS \"Mahine Learning in Production\" , online  12/2022\ntalk at meetup \"Paris Data Ladies\", 11/2019\n\nExperienced Toastmaster",
@@ -239,7 +239,7 @@
           }
         },
         {
-          "name":"GARRIC Pauline",
+          "name":"Pauline Garric",
           "bio":"Mordue du terrain, j'ai toujours eu à coeur de mettre l'humain et les échanges au centre de mes activités.\n\nAprès une maîtrise de lettres modernes, cinq années en tant qu'assistante d'éducation en ZUS, un master Stratégie d'entreprise et une dizaine d'année dans les RH chez OCTO Technology et DRH chez feu-benext.\nEn 2017, je développe ma posture de coach où j'accompagne les groupes à devenir des équipes avec un boîte à outils qui s'aagrandie au fur et à mesure : agilité, développement personnel, equicoaching...\n\nEn 2021 je rentre à nouveau chez OCTO Technology part of Accenture en temps que partner suite au rachat de benext et me lance à mon compte en janvier 2024.\n\nCette année, j'enrichi ma pratique avec un cursus de psychopraticienne pour accompagner les entreprises et les aider à appréhender les enjeux du futur du travail. ",
           "company":"Pauline Garric Coaching",
           "references":"- Flowcon en 2018 sur l'agilité RH\n- blog : https://www.le-lab-de-pauline.com/",
@@ -360,7 +360,7 @@
       ],
       "speakers":[
         {
-          "name":"craft Softwr & Music",
+          "name":"Guillaume Saint Etienne",
           "bio":"J'ai écrit mes premières lignes de code à l'age de 11 ans sur un ZX81. \n\nJ'ai développé des écrans Videotex\nJe suis artisan développeur depuis 30 ans déjà, élève de Laurent Bossavit, Jonathan Peret et Olivier Azeau.\n\nJ'ai été aussi architecte logiciel, chef de projet, responsable d'équipe , j'ai travaillé pour diverses ESN et éditeurs logiciels, dont Varian Medical Systems pendant 10 ans, Primobox plus récemment.\n\nCodeur C# + JS depuis le début, j'ai dernièrement plongé dans Kotlin avec délectation. Je pense que bien développer c'est : 70% de discussion, 20% de tests, 10% de code.",
           "company":null,
           "references":"School of Product, MixIt, Devoxx, \nAgile Grenoble, Bordeaux, Rennes, Paris, Nantes",
@@ -482,7 +482,7 @@
       ],
       "speakers":[
         {
-          "name":"Christophe Breheret-Girardin",
+          "name":"Christophe Breheret Girardin",
           "bio":"CTO @Zenika Paris, Coach craft, formateur, auteur et conférencier, Christophe partage avec enthousiasme ses connaissances, afin d’inspirer et de guider chacun vers son plein potentiel",
           "company":"Octo Technology",
           "references":"🎤 \"Let’s adopt the clean archigonal\" @Geecamp (Prague en République Tchèque) en octobre 2023.  \n🎤 \"Adoptez la clean archigonale\" @Volcamp (Clermont-Ferrand) en octobre 2023.  \n🎤 \"Comment votre architecture influence votre stratégie de test » @ParisTeStConf en octobre 2023.  \n🎤 \"Adoptez la clean archigonale\" @Breizhcamp (Rennes) en juin 2023.   \n🎤 \"Ne passez pas 5 ans à recruter un mouton à 5 pattes, créez-le dès à présent\" @Web2day (Nantes) en juin 2023.  \n🎧 \"La clean archigonale\" @Archilocus en mars 2023    \n🎤 \"La clean archigonale\" @Devday (Mons en Belgique) en mars 2023   \n🎧 \"Architecture Hexagonale & Clean architecture bonnet blanc, blanc bonnet ?\" @Comptoir x La Duck Conf en janvier 2023.   \n🎤 \"Isoler la valeur de votre produit\" @ Agile tour Aix-Marseille en novembre  2022.   \n🎤 \"L'hexagonal architecture et la clean architecture sont-elles équivalentes ?\" @Software Crafters Paris en juillet 2022.   \n🎤 \"Devenir un développeur d'élite\" @ TechNext SopraSteria en 2021    \n🎤 \"SonarQube en action\" @ InnovTech CGI 2014    \n🎤 \"Devenir auditeur technique\" @ InnovTech CGI en 2013.",
@@ -522,7 +522,7 @@
       ],
       "speakers":[
         {
-          "name":"brunoboucard",
+          "name":"Bruno Boucard",
           "bio":"Ma longue expérience en informatique m'a permis de concevoir de meilleures approches collaboratives pour créer des produits à fort impact.\n\nComme le colibri, chacun fait sa part pour créer un logiciel qui aura un meilleur impact sur ses utilisateurs. En tirant parti d'une approche de conception axée sur le domaine, je facilite une communication plus transparente entre les parties prenantes et les créateurs de logiciels grâce à une modélisation collaborative et une démocratie profonde, décodant les complexités, résolvant les conflits et garantissant que les logiciels restent agiles face aux demandes de l'entreprise.\n\nDans mes rôles de consultant pour OCTO Technology, responsable technique et architecte logiciel, et coach agile et technique, je catalyse les organisations et les équipes vers la conception et la construction d'architectures logicielles durables et résilientes.\n\n\nBruno intervient en tant que speaker dans nombreuses conférences : DDD EUROPE, Explore DDD, DDD eXchange, XP Conference, NewCraft, Devoxx France, SchoolOfPo, Agile Tour, BDXIO …",
           "company":"OCTO Technology",
           "references":"**Functional Core, l’alternative FP à l’architecture hexagonale** - Thomas Pierrain & Bruno Boucard Les RDV des Speakers\nhttps://www.youtube.com/watch?v=T_9mqhrY3QA\n\n**L'après-midi du DDD (épisode 2)**\nhttps://www.youtube.com/watch?v=PIo6jUl4VO8\n\nThomas Pierrain & Bruno Boucard - **How To Distill The Core Domain From Your Legacy App** (Live Coding) Explore DDD\nhttps://www.youtube.com/watch?v=mZzPwt9vhHM&t=2287s\n\n**L’après-midi du DDD (épisode 1)** 1/3 – Keynote & Test Harness\nhttps://www.youtube.com/watch?v=qzygjKpFSq4\n\n**Distill the Core Domain from Your Legacy App** - Thomas Pierrain and Bruno Boucard - DDD Europe 2018\nhttps://www.youtube.com/watch?v=F3DV9YDeA6Q\n\n**Du DDD dans mon legacy !** live coding Devoxx 2018  (T. Pierrain, B. Boucard, J. Grodziski)\nhttps://www.youtube.com/watch?v=dzKKqS5ewLg\n\n**BDX I/O 2018 - Pair ou impairs ?** (live-coding sanglant) - Thomas PIERRAIN et bruno boucard\nhttps://www.youtube.com/watch?v=RiVSIbkss6A&t=413s\n\n**Organisateur du Meetup BDD Paris**\nhttps://www.meetup.com/fr-FR/BDD-Paris/\n\n**Legacy Club** (Thomas Pierrain - Bruno Boucard) Devoxx FR https://www.youtube.com/watch?v=zeogtrxqc38&t=191s\n\n16/02/09 - **SOFTWARE CRAFTMANSHIP**  Bruno Boucard / Thomas Pierrain / Diego Lemos\nhttps://www.youtube.com/watch?v=Cov4MGzozSA&t=6216s\n\n**Que pouvons-nous faire face à la programmation parallèle ?** - Bruno Boucard à l'USI  2014 : https://www.youtube.com/watch?v=PjijxuV0v1I&t=11s\n\n0090 - Bruno Boucard - **Parallélisme et concurrence (PODCAST**\nhttps://www.youtube.com/watch?v=3cfaP79puIQ&t=101s",
@@ -537,46 +537,6 @@
       "review":{
         "average":4.6,
         "positives":2,
-        "negatives":0
-      }
-    },
-    {
-      "id":"clzyn3fte7pb913hpn6zialr6",
-      "title":"From Evidence to Action: The Data Driven Transformations #NoFrameworks",
-      "abstract":"\"Etre agile pour être agile ne sert à rien.\" J'entends cette phrase depuis une décennie et pourtant voit encore beaucoup cette agilité sans objectifs qui devient plus un exercice de style plutôt qu'un levier de transformation réelle.\n\nDans un monde où l’agilité est devenue un mantra, ce talk \"From Evidence to Action: The Data Driven Transformations #NoFrameworks\" défie l’orthodoxie. Être agile juste pour l’agilité ? Inefficace. Ce talk propose une approche moderne : piloter la transformation par les données, non par des dogmes. L’Evidence-Based Management (EBM), DORA et nos analyses démontrent comment aligner véritablement agilité et objectifs business. Exit les cadres rigides, bienvenue dans une ère où chaque décision, action et initiative est justifiée par des données tangibles, mesurables. Nous plongeons dans des stratégies concrètes où les métriques deviennent le phare guidant vers l’excellence opérationnelle, satisfaction client et innovation continue. Préparez-vous à redéfinir l’agilité, où la donnée n’est pas qu’un outil mais le fondement d’une transformation réelle et mesurable. \n\n",
-      "deliberationStatus":"ACCEPTED",
-      "confirmationStatus":"CONFIRMED",
-      "publicationStatus":"PUBLISHED",
-      "level":"INTERMEDIATE",
-      "references":null,
-      "formats":[
-        "Talk : 45 mins présentation, 5 mins questions"
-      ],
-      "categories":[
-        "👥 People management"
-      ],
-      "tags":[
-
-      ],
-      "languages":[
-        "fr"
-      ],
-      "speakers":[
-        {
-          "name":"Coach Agile",
-          "bio":"« Réfléchir c’est commencer à désobéir« … Coach Lean & Agile, j’organise la désobéissance sérieuse chez mes clients ( Cdiscount, Bouygues, Axa,…) au niveau organisationnel mais aussi auprès des équipes techniques (TDD, CICD, …) et des équipes produit en les incitant à se poser de bonnes questions afin de trouver du sens et de la valeur dans leurs actions au quotidien. Cette approche m’a permis d’acquérir une vision 360°: Technologie, Produit/Vision & Méthode employée pour améliorer le bien-être des équipes et la valeur des produits sur lesquels j’interviens. Actif dans la communauté agile, je participe à de nombreuses initiatives comme agile.christmas, la chaine Scrum Life, le meetup agile playground, agile cook book, et d’autres sujets comme l’organisation et la participation à certains agile tours ou encore une collaboration avec d’Alistair Cockburn …",
-          "company":"Scrum Life",
-          "references":"Entre autres : \n\n\nAgile En Med Casablanca 2024\nJune 2024 Casablanca, Morocco\nAgile Grenoble 2023\nNovember 2023 Grenoble, France\nAgile Tour Nantais 2023\nNovember 2023 Nantes, France\nAgile Tour Bordeaux 2023\nOctober 2023 Bordeaux, France\nAgile Lyon 2022\nJune 2022 Lyon, France\nAgile tour Bordeaux 2020\nOctober 2020 Bordeaux, France\nAgile Tour Toulouse\nOctober 2020 Balma, France\nAgile en ligne\nApril 2020",
-          "picture":"https://lh3.googleusercontent.com/a-/AOh14Gh15Oy89F8UK4iWCtd7WaX3xPZecmXXvoYgf3icgA",
-          "location":"Barcelone, Espagne",
-          "socials":{
-            "twitter":"BeraudSudreau"
-          }
-        }
-      ],
-      "review":{
-        "average":4.6,
-        "positives":1,
         "negatives":0
       }
     },
@@ -683,7 +643,7 @@
       ],
       "speakers":[
         {
-          "name":"Noémie M. Rivière",
+          "name":"Noemie Riviere",
           "bio":"Product designer depuis 14 ans ; J’ai à cœur les sujets sur l’accessibilité et l’inclusivité !",
           "company":"Onepoint",
           "references":"**2024** 📆\n- **BDX I/O** \"l'IA, la nouvelle fracture !\"\n- **Agile Pays Basque** \"Où sont les speakeuses dans la tech ?\"\n- **Devoxx FR** [\"Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital?\"](https://www.youtube.com/watch?v=bAqNNq_mnhY)\n- **Epitech** Intervenante pour une table ronde sur les femmes dans la Tech\n- **Touraine Tech 2024** [\"PO/Designer, duo-gagnant pour la conception de votre produit !\"](https://www.youtube.com/watch?v=vAaC1Es97po)\n- **Women In Tech Bordeaux** \"Où sont les speakeuses dans la tech ?\"\n\n**2023** 📆\n- **DevFest Toulouse 2023** [\"Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital ?\"](https://www.youtube.com/watch?v=BVWm0FcswQc)\n- **Agile Tour Bordeaux 2023** \"PO/Designer, duo-gagnant pour la conception de votre produit !\"\n- **Women In Tech Bordeaux** \"Accessibilité numérique : on fait tout ça pour qui ?\"\n\n**2022** 📆\n\n- **BDX.io 2022** [\"Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital ?\"](https://www.youtube.com/watch?v=KNlVkRs9a94)\n- **Women In Tech Bordeaux** \"Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital ?\"",
