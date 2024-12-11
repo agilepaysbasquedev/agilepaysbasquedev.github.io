@@ -2,53 +2,48 @@
 
 {{ partial "page-title" . }}
 
-<div class="schedule">
-    <div class="row">
-        <!-- Navigation pour les tracks -->
-        <div class="col-md-12 nav-link-wrap">
-            <div class="nav nav-pills d-flex text-center" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                {{ range .Site.Data.edition.schedule2024.tracks }}
-                <a class="nav-link ftco-animate fadeInUp {{ if eq .id "amphi" }}active{{ end }}" id="v-pills-{{ .id }}-tab" data-toggle="pill" href="#v-pills-{{ .id }}" role="tab" aria-controls="v-pills-{{ .id }}" aria-selected="true">
-                {{ .name }}
-                </a>
-                {{ end }}
-            </div>
-        </div>
-
-        <!-- Contenu des tracks -->
-        <div class="col-md-12 tab-wrap">
-            <div class="tab-content" id="v-pills-tabContent">
-                {{ range .Site.Data.edition.schedule2024.tracks }}
-                <div class="tab-pane fade {{ if eq .id "amphi" }}show active{{ end }}" id="v-pills-{{ .id }}" role="tabpanel" aria-labelledby="v-pills-{{ .id }}-tab">
-                {{ range .sessions }}
-                <!-- Récupérer les données du talk depuis la liste des proposals -->
-                {{ $talks := where $.Site.Data.edition.apb2024.proposals "id" .talk_id }}
-                {{ $talk := index $talks 0 }}
-
-                <div class="speaker-wrap ftco-animate d-flex fadeInUp">
-                    <!-- Afficher les données des speakers -->
-                    {{ range $talk.speakers }}
-                    <div class="img speaker-img" style="background-image: url({{ .picture }});"></div>
+<section class="page-section">
+    <div class="schedule">
+        <div class="row">
+            <!-- Navigation pour les tracks -->
+            <div class="col-md-12 nav-link-wrap">
+                <div class="nav nav-pills d-flex text-center" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                    {{ range .Site.Data.edition.schedule2024.tracks }}
+                    <a class="nav-link ftco-animate fadeInUp {{ if eq .id "amphi" }}active{{ end }}" id="v-pills-{{ .id }}-tab" data-toggle="pill" href="#v-pills-{{ .id }}" role="tab" aria-controls="v-pills-{{ .id }}" aria-selected="true">
+                    {{ .name }}
+                    </a>
                     {{ end }}
+                </div>
+            </div>
 
-                    <!-- Afficher les données du talk -->
-                    <div class="text pl-md-5">
-                        <span class="time">{{ .time }}</span>
-                        <h2><a href="#">{{ $talk.title }}</a></h2>
-                        <p>{{ $talk.abstract | safeHTML }}</p>
-                        <h3 class="speaker-name">
-                            {{ range $talk.speakers }}
-                            — <a href="#">{{ .name }}</a> <span class="position">{{ .company }}</span>
-                            {{ end }}
-                        </h3>
+            <!-- Contenu des tracks -->
+            <div class="col-md-12 tab-wrap">
+                <div class="tab-content" id="v-pills-tabContent">
+                    {{ range .Site.Data.edition.schedule2024.tracks }}
+                    <div class="tab-pane fade {{ if eq .id "amphi" }}show active{{ end }}" id="v-pills-{{ .id }}" role="tabpanel" aria-labelledby="v-pills-{{ .id }}-tab">
+                    {{ range .sessions }}
+                    {{ $talks := where $.Site.Data.edition.apb2024.proposals "id" .talk_id }}
+                    {{ $talk := index $talks 0 }}
+
+                    <div class="speaker-wrap">
+                        <div class="text">
+                            <span class="time">{{ .time }}</span>
+                            <h2>{{ $talk.title }}</h2>
+                            <p>{{ $talk.abstract | safeHTML }}</p>
+                            <h3 class="speaker-name">
+                                {{ range $talk.speakers }}
+                                — {{ .name }} {{ with .company }}<span class="position">{{ . }}</span>{{ end }}
+                                {{ end }}
+                            </h3>
+                        </div>
                     </div>
+                    {{ end }}
                 </div>
                 {{ end }}
             </div>
-            {{ end }}
         </div>
     </div>
-</div>
+</section>
 
 {{ partial "newsletter" . }}
 
