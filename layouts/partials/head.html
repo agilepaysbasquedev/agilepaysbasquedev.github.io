@@ -28,6 +28,9 @@
   {{ template "_internal/schema.html" . }}
   {{ template "_internal/opengraph.html" . }}
 
+  <!-- Favicons and Manifest -->
+  {{ partial "favicon/favicons" . }}
+
   <link rel="canonical" href="{{ .Permalink }}" />
   <meta name="robots" content="index,follow">
 </head>
