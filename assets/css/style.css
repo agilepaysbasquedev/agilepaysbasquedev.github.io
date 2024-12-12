@@ -996,7 +996,7 @@ ol {
 -----------------------*/
 
 .bio {
-	-webkit-line-clamp: 8;
+	-webkit-line-clamp: 5;
 	display: -webkit-box;
 	-webkit-box-orient: vertical;
 	overflow: hidden;
@@ -1014,10 +1014,11 @@ ol {
 	margin-bottom: 10px;
 }
 
-.speaker-item .si-text .si-title h4 {
+.speaker-item .si-text .si-title h2 {
 	color: #171822;
 	font-weight: 600;
 	margin-bottom: 5px;
+	font-size: 24px;
 }
 
 h4 span.location {
