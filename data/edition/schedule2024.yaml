@@ -7,9 +7,9 @@ tracks:
       - time: "10:30 - 11:15"
         talk_id: "clzyn4hhf7poz13hpc09gko9j" # Le Continuous Discovery est-il l’avenir du Continuous Delivery ?
       - time: "11:30 - 12:15"
-        talk_id: "" #Comment passer d'un domaine métier à une architecture logicielle ?
+        talk_id: "clzyn3qdk7pf213hpc0usc111" #Comment passer d'un domaine métier à une architecture logicielle ?
       - time: "14:30 - 15:15"
-        talk_id: "" # Résilience et agilité
+        talk_id: "clzyn3qdk7pf213hpc0usc112" # Résilience et agilité
       - time: "15:30 - 16:15"
         talk_id: "clzyn3wfw7phd13hpxfbnlemu" # Dynamiques de pouvoir : comment vos biais sabotent l'intelligence collective
       - time: "16:45 - 17:30"

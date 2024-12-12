@@ -659,6 +659,104 @@
         "positives":0,
         "negatives":0
       }
+    },
+    {
+      "id":"clzyn3qdk7pf213hpc0usc111",
+      "title":"Comment passer d'un domaine métier à une architecture logicielle ?",
+      "abstract": "Depuis des années, les architectes et les équipes de développement prônent le faible couplage. Nous avons toutes et tous souffert en travaillant sur des systèmes Big Balls Of Mud où les changements sont risqués et parfois coûteux. Une des clés pour apporter sereinement et rapidement des modifications dans nos systèmes est de réduire le couplage. Que vous construisiez des monolithes ou travailliez sur une architecture microservices, un des éléments essentiels est d'identifier quelles sont les choses qui changent ensemble et de les regrouper au niveau du code. Pour identifier avec confiance les éléments qui changent ensemble, il est nécessaire de bien creuser le domaine métier et de découvrir quels concepts évoluent ensemble, notamment lors du développement de nouvelles fonctionnalités. Nous traçons ainsi les frontières du domaine métier, qui deviendront la base d'une architecture logicielle à faible couplage. Cette conférence, axée sur des cas pratiques, montrera comment cartographier un domaine métier, l'organiser en sous-domaines et concevoir une architecture logicielle alignée sur cette subdivision. Nous couvrirons une gamme d'outils et de techniques issus du Domain Driven Design (DDD), comme l'Event Storming, la Modélisation de Flux de Messages, le Bounded Context Canvas et le Core Domain Chart.",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"",
+      "references":"",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        " Tech"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Maxime Sanglan Charlier",
+          "bio": "Plus de 20 ans dans l'informatique et pas une ride (ou presque). Maxime est curieux de nature et toujours à la recherche de tout ce qui peut nous rendre plus efficients en tant qu'individu, en équipe ou au sein d'une organisation. Il accompagne ses clients dans l'adoption d'une approche centrée sur le domaine métier, alternant les rôles de consultant, facilitateur et formateur, selon les besoins de chaque mission. Je co-organise la conférence Newcrafts (https://ncrafts.io/), je suis membre de l'équipe de VirtualDDD (https://virtualddd.com/), contributeur sur [DDD-Crew](https://github.com/ddd-crew) et co-fondateur du groupe Software Crafters Nantes (https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/).",
+          "company":"Aardling",
+          "references":"",
+          "picture":"MaximeSanglanCharlier.jpeg",
+          "location":"Nantes, France",
+          "socials":{
+          }
+        },
+        {
+          "name":"Nick Tune",
+          "bio": "Nick est un consultant dans le développement logiciel qui aide les organisations à moderniser leurs architectures et leurs méthodes de travail. Ses sujets préférés sont le Domain-Driven Design (DDD) et le Continuous Delivery (CD). Il est l'auteur de « Architecture Modernization » (Manning) et « Patterns, Principles, and Practices of Domain-Driven Design » (Wrox). Vous trouverez son blog et plus d'informations sur nick-tune.me",
+          "company":"Aardling",
+          "references":"",
+          "picture":"NickTune.jpeg",
+          "location":"Londres",
+          "socials":{
+          }
+        }
+      ],
+      "review":{
+        "average":3.6,
+        "positives":0,
+        "negatives":0
+      }
+    },
+    {
+      "id":"clzyn3qdk7pf213hpc0usc112",
+      "title":"Résilience et agilité",
+      "abstract": "Oyé oyé petits colibris, tu n'as jamais pris le temps de lire le rapport du GIEC(IPCC — Intergovernmental Panel on Climate Change)? Tu te demandes comment tu peux faire ta part pour transmettre une planète vivable aux générations futures? Tu es convaincu que l'agilité a un rôle à jouer? Tu es anxieux car l’année 2023 a été si chaude que les couleurs des “warming stripes” ne permettent plus de représenter la hausse des températures moyennes au niveau mondial*? Cette session est faite pour toi ! On y parle d'enjeux d'adaptation et de vulnérabilité. On réfléchit à des moyens d'action. On se questionne sur comment ce rapport du GIEC, au même titre que le guide Scrum, peut guider le quotidien et les décisions de chaque dirigeant/manager/membre d'une équipe agile ? Comment chacun peut collaborer et s'engager au sein de l'organisation pour réduire ses impacts et rembourser sa dette écologique.",
+      "deliberationStatus":"ACCEPTED",
+      "confirmationStatus":"CONFIRMED",
+      "publicationStatus":"PUBLISHED",
+      "level":"",
+      "references":"",
+      "formats":[
+        "Talk : 45 mins présentation, 5 mins questions"
+      ],
+      "categories":[
+        "\uD83D\uDC65 People management"
+      ],
+      "tags":[
+
+      ],
+      "languages":[
+        "fr"
+      ],
+      "speakers":[
+        {
+          "name":"Alice Barralon",
+          "bio": "Artisan agiliste, et céramiste sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). Pour que l’impossible devienne possible!",
+          "company":"ORIIONS",
+          "references":"",
+          "picture":"AliceBarralon.jpeg",
+          "location":"Nantes, France",
+          "socials":{
+          }
+        },
+        {
+          "name":"Emeline Boulet Ronteix",
+          "bio": "Après des années comme Product Owner et Scrum Master, j'ai élargi ma posture pour inclure le coaching, grâce à laquelle j'aide les équipes et organisations à mieux communiquer et s'organiser, avec une approche à la fois pragmatique et positive",
+          "company":"Aardling",
+          "references":"",
+          "picture":"EmelineBouletRonteix.jpeg",
+          "location":"Londres",
+          "socials":{
+          }
+        }
+      ],
+      "review":{
+        "average":3.6,
+        "positives":0,
+        "negatives":0
+      }
     }
   ]
 }
