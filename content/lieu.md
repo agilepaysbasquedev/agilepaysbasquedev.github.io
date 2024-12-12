@@ -12,7 +12,7 @@ menus:
         weight: 5
 ---
 
-L'ESTIA se trouve dans la technopole Izarbel situé sur Bidart.
+L'ESTIA se trouve dans la technopole Izarbel située sur Bidart.
 
 ## Venir en bus
 
