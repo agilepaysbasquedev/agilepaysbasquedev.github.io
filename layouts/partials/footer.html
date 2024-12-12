@@ -2,18 +2,41 @@
 <footer class="footer-section">
   <div class="container">
     <div class="row">
+      <div class="col-lg-4">
+        <p class="category">La conférence</p>
+        <ul class="row">
+          {{ range .Site.Menus.footer }}
+          <li class="col-lg-6">
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <p class="category">Les communautés</p>
+        <ul class="row">
+          {{ range .Site.Params.footer.communities }}
+          <li class="col-lg-12">
+            <a href="{{ .link }}" target="_blank">{{ .label }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <p class="category">Editions précédentes</p>
+        <ul class="row">
+          {{ range .Site.Menus.edition }}
+          <li class="col-lg-6">
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-lg-12">
         <div class="footer-text">
-          <ul>
-            {{ range .Site.Menus.footer }}
-            <li>
-              <a href="{{ .URL }}" {{ with .Params.target }}target="{{ . }}"{{ end }}>{{ .Name }}</a>
-            </li>
-            {{ end }}
-          </ul>
-
           {{ partial "social-media/footer" .  }}
-
           <div class="copyright-text mt-5">
             <p>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->

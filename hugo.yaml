@@ -29,6 +29,13 @@ params:
       display: false
     venue:
       display: true
+  footer:
+    communities:
+      - label: Le collection dev Basque
+        link: https://www.linkedin.com/company/collectif-dev-pays-basque/
+      - label: Owiki (Bordeaux)
+        link: https://okiwi.org
+
   venue:
     address: Technopole Izarbel 90 Allée Fauste d’Elhuyar, <br> 64210 Bidart
     link: http://www.estia.fr/

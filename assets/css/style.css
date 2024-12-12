@@ -858,86 +858,57 @@ ol {
 .footer-section {
 	background: #171822;
 	padding-top: 50px;
-	padding-bottom: 60px;
+	padding-bottom: 20px;
 	margin-top: 90px;
-}
-
-.footer-text {
-	text-align: center;
-}
-
-.footer-text .ft-logo {
-	margin-bottom: 20px;
-}
-
-.footer-text .ft-logo a {
-	display: inline-block;
-}
-
-.footer-text ul {
-	margin-bottom: 18px;
-}
-
-.footer-text ul li {
-	list-style: none;
-	display: inline-block;
-	margin-right: 52px;
-}
-
-.footer-text ul li:last-child {
-	margin-right: 0;
-}
-
-.footer-text ul li a {
-	font-size: 18px;
 	color: #a0a1b5;
-	display: inline-block;
-	-webkit-transition: all 0.3s;
-	-o-transition: all 0.3s;
-	transition: all 0.3s;
-}
+	.category {
+		color: #ee8425;
+		margin-bottom: 5px;
+	}
+	ul {
+		margin-bottom: 18px;
+	}
+	li {
+		list-style: none;
+		a {
+			font-size: 18px;
+			color: #a0a1b5;
 
-.footer-text ul li a:hover {
-	color: #f44949;
-}
-
-.footer-text .copyright-text {
-	font-size: 14px;
-	color: #a0a1b5;
-	margin-bottom: 28px;
-}
-
-.footer-text .copyright-text i {
-	color: #f44949;
-}
-
-.footer-text .copyright-text a {
-	color: #a0a1b5;
-}
-
-.footer-text .copyright-text a:hover {
-	color: #f44949;
-}
-
-.footer-text .ft-social {
-	padding-top: 40px;
-}
-
-.footer-text .ft-social a {
-	display: inline-block;
-	width: 40px;
-	height: 40px;
-	text-align: center;
-	line-height: 40px;
-	font-size: 16px;
-	color: #a3a3ae;
-	border: 1px solid #45464e;
-	border-radius: 50%;
-	margin-right: 15px;
-}
-
-.footer-text .ft-social a:last-child {
-	margin-right: 0;
+		}
+		a:hover {
+			color: #f44949;
+		}
+	}
+	li:last-child {
+		margin-right: 0;
+	}
+	.footer-text {
+		text-align: center;
+		.copyright-text {
+			font-size: 14px;
+			a {
+				color: #a0a1b5;
+			}
+		}
+		.ft-social {
+			padding-top: 40px;
+			a {
+				display: inline-block;
+				width: 40px;
+				height: 40px;
+				text-align: center;
+				line-height: 40px;
+				font-size: 16px;
+				border: 1px solid #ee8425;
+				color: #ee8425;
+				border-radius: 50%;
+				margin-right: 15px;
+			}
+			a:last-child {
+				margin-right: 0;
+			}
+		}
+	}
 }
 
 /* ----------------------------------- Other Pages Styles ------------------------------- */
