@@ -2064,7 +2064,8 @@ span.company {
 		margin-bottom: 10px;
 	}
 	.cc-text {
-		padding-left: 40px;
+		padding: 20px 30px 20px 30px;
+		height: auto;
 	}
 	.ha-pic {
 		margin-right: 0;
