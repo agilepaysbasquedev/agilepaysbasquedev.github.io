@@ -828,86 +828,56 @@ ol {
   Newslatter Section
 -----------------------*/
 
-.newslatter-section {
+.newsletter-section {
 	margin-top: 90px;
-}
 
-.newslatter-section.about-newslatter .newslatter-inner  {
-	margin-top: 0;
-}
-
-.newslatter-inner {
-	padding: 60px 70px 48px;
-	overflow: hidden;
-	border-radius: 2px;
-}
-
-.newslatter-inner .ni-text {
-	float: left;
-}
-
-.newslatter-inner .ni-text h3 {
-	color: #ffffff;
-	font-weight: 700;
-	margin-bottom: 8px;
-}
-
-.newslatter-inner .ni-text p {
-	color: #ffffff;
-	margin-bottom: 0;
-}
-
-.newslatter-inner .ni-form {
-	width: 400px;
-	position: relative;
-	float: right;
-	margin-top: 12px;
-}
-
-.newslatter-inner .ni-form input {
-	width: 100%;
-	height: 50px;
-	font-size: 16px;
-	color: #a0a1b5;
-	padding-left: 20px;
-	background: #ffffff;
-	border-radius: 50px;
-	border: none;
-	padding-right: 140px;
-}
-
-.newslatter-inner .ni-form input::-webkit-input-placeholder {
-	color: #a0a1b5;
-}
-
-.newslatter-inner .ni-form input::-moz-placeholder {
-	color: #a0a1b5;
-}
-
-.newslatter-inner .ni-form input:-ms-input-placeholder {
-	color: #a0a1b5;
-}
-
-.newslatter-inner .ni-form input::-ms-input-placeholder {
-	color: #a0a1b5;
-}
-
-.newslatter-inner .ni-form input::placeholder {
-	color: #a0a1b5;
-}
-
-.newslatter-inner .ni-form button {
-	width: 128px;
-	height: 40px;
-	text-align: center;
-	border: none;
-	color: #ffffff;
-	font-size: 16px;
-	font-weight: 600;
-	border-radius: 50px;
-	position: absolute;
-	right: 5px;
-	top: 5px;
+	.content {
+		padding: 60px 70px 48px;
+		overflow: hidden;
+		border-radius: 2px;
+	}
+	form {
+		width: 400px;
+		position: relative;
+		float: right;
+		margin-top: 12px;
+		input {
+			width: 100%;
+			height: 50px;
+			font-size: 16px;
+			color: #a0a1b5;
+			padding-left: 20px;
+			background: #ffffff;
+			border-radius: 50px;
+			border: none;
+			padding-right: 140px;
+		}
+		button {
+			width: 128px;
+			height: 40px;
+			text-align: center;
+			border: none;
+			color: #ffffff;
+			font-size: 16px;
+			font-weight: 600;
+			border-radius: 50px;
+			position: absolute;
+			right: 5px;
+			top: 5px;
+		}
+	}
+	.text {
+		float: left;
+		h3 {
+			color: #ffffff;
+			font-weight: 700;
+			margin-bottom: 8px;
+		}
+		p {
+			color: #ffffff;
+			margin-bottom: 0;
+		}
+	}
 }
 
 /*---------------------
@@ -1368,7 +1338,7 @@ span.company {
 	.footer-section {
 		margin-top: 30px;
 	}
-	.newslatter-section {
+	.newsletter-section {
 		margin-top: 30px;
 	}
 	.member-item {
