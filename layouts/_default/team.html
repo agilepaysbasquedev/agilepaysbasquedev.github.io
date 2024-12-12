@@ -2,7 +2,7 @@
 
 {{ partial "page-title" . }}
 
-<section class="page-section">
+<section class="page-section team-section">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -22,7 +22,7 @@
                     {{ partial "social-media/team" . }}
                 </div>
                 <div class="mi-text">
-                    <h5>{{ .name }}</h5>
+                    <h3>{{ .name }}</h3>
                    {{ with .position }}<span>{{ . }}</span>{{ end }}
                 </div>
             </div>
@@ -48,7 +48,7 @@
                     {{ partial "social-media/team" . }}
                 </div>
                 <div class="mi-text">
-                    <h5>{{ .name }}</h5>
+                    <h3>{{ .name }}</h3>
                     {{ with .position }}<span>{{ . }}</span>{{ end }}
                 </div>
             </div>

@@ -446,8 +446,14 @@ ol {
   Member Item
 -----------------------*/
 
-.member-item {
+.team-section .member-item {
 	text-align: center;
+
+	h3 {
+		font-size: 20px;
+		font-weight: 600;
+		margin-bottom: 5px;
+	}
 }
 
 .member-item .mi-social {
