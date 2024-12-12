@@ -18,10 +18,12 @@
         rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap" rel="stylesheet">
 
-  <!-- Stylesheets and Javascript -->
-  <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css">
+  <!-- Stylesheets -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="/css/style.css" type="text/css">
+  {{ $style := resources.Get "/css/style.css" | resources.Minify }}
+  {{ $bootstrap := resources.Get "/css/bootstrap.min.css" | resources.Minify }}
+  {{ $style := slice $style $bootstrap | resources.Concat "css/bundle.css" | resources.Minify }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" type="text/css">
 
   <!-- SEO -->
   {{ template "_internal/twitter_cards.html" . }}
