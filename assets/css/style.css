@@ -147,7 +147,6 @@ ol {
 .bd-text .bd-tag-share .s-share a:hover,
 .bh-text .play-btn,
 .schedule-table-tab .nav-tabs .nav-item .nav-link.active,
-.newslatter-inner .ni-form button,
 .latest-item .li-tag,
 .price-item .price-btn:hover,
 .price-item .pi-price,
@@ -1092,7 +1091,7 @@ span.company {
 	.testimonial-slider.owl-carousel .owl-nav button.owl-next {
 		right: -10px;
 	}
-	.newslatter-inner .ni-form {
+	.newsletter-section form {
 		width: 350px;
 	}
 	.venue-section {
@@ -1137,12 +1136,14 @@ span.company {
 	.story-right {
 		padding-left: 0;
 	}
-	.newslatter-inner .ni-text {
-		float: none;
-	}
-	.newslatter-inner .ni-form {
-		float: none;
-		margin-top: 30px;
+	.newsletter-section {
+		.text {
+			float: none;
+		}
+		form {
+			float: none;
+			margin-top: 30px;
+		}
 	}
 	.testimonial-slider.owl-carousel .owl-nav button {
 		left: -10px;
@@ -1247,15 +1248,15 @@ span.company {
 	}
 	.newsletter-section {
 		margin-top: 30px;
+		.content {
+			padding: 60px 20px 48px
+		}
+		form {
+			width: 350px;
+		}
 	}
 	.member-item {
 		width: 50%;
-	}
-	.newslatter-inner {
-		padding: 60px 50px 48px;
-	}
-	.newslatter-inner .ni-form {
-		width: 350px;
 	}
 	.footer-text ul li {
 		margin-right: 15px;
@@ -1357,14 +1358,19 @@ span.company {
 	.member-item {
 		width: 100%;
 	}
-	.newslatter-inner .ni-form {
-		width: 100%;
-	}
-	.newslatter-inner .ni-form button {
-		width: 95px;
-	}
-	.newslatter-inner .ni-form input {
-		padding-right: 100px;
+	.newsletter-section {
+		.content {
+			padding: 60px 20px 48px
+		}
+		form {
+			width: 100%;
+		}
+		button {
+			width: 95px;
+		}
+		input {
+			padding-right: 100px;
+		}
 	}
 	.footer-text ul li {
 		margin-bottom: 10px;
