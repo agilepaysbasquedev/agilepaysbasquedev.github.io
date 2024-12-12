@@ -163,19 +163,17 @@
             <div class="col-lg-6">
                 {{ partial "venue" . }}
             </div>
-            <div class="col-lg-6">
-                <div class="cs-map">
-                    {{ with .map }}
-                    <iframe src="{{ . }}"
-                            width="510"
-                            height="400"
-                            style="border:0;"
-                            allowfullscreen="false"
-                            loading="lazy"
-                            title="Google map pour montrer où se trouve la conférence"
-                            referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    {{ end }}
-                </div>
+            <div class="col-lg-6 map">
+                {{ with .map }}
+                <iframe src="{{ . }}"
+                        width="100%"
+                        height="400"
+                        style="border:0;"
+                        allowfullscreen="false"
+                        loading="lazy"
+                        title="Google map pour montrer où se trouve la conférence"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                {{ end }}
             </div>
         </div>
     </div>

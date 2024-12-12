@@ -14,16 +14,14 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <div class="cc-map">
-                    {{ with .map }}
-                    <iframe
-                        src="{{ . }}"
-                        height="580"
-                        style="border:0;"
-                        title="Google map pour montrer où se trouve la conférence"
-                        allowfullscreen=""></iframe>
-                    {{ end }}
-                </div>
+                {{ with .map }}
+                <iframe
+                    src="{{ . }}"
+                    height="580"
+                    style="border:0;"
+                    title="Google map pour montrer où se trouve la conférence"
+                    allowfullscreen=""></iframe>
+                {{ end }}
             </div>
         </div>
     </div>

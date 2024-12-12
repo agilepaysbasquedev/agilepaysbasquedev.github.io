@@ -969,16 +969,6 @@ ol {
 	}
 }
 
-.cs-map {
-	height: 400px;
-	-webkit-box-shadow: 0px 12px 30px rgba(11, 12, 48, 0.15);
-	box-shadow: 0px 12px 30px rgba(11, 12, 48, 0.15);
-}
-
-.cs-map iframe {
-	width: 100%;
-}
-
 /*---------------------
   Footer
 -----------------------*/
@@ -2116,6 +2106,11 @@ span.company {
 		margin-top: 10px;
 		position: relative;
 	}
+	.venue-section {
+		.col-lg-6.map {
+			padding: 0;
+		}
+	}
 }
 
 /* Small Mobile: 320px */
@@ -2158,6 +2153,9 @@ span.company {
 		.content {
 			padding-left: 30px;
 			padding-top: 35px;
+		}
+		.col-lg-6.map {
+			padding: 0;
 		}
 	}
 	.story-item h2 {
