@@ -742,7 +742,6 @@ ol {
 	form {
 		width: 400px;
 		position: relative;
-		float: right;
 		margin-top: 12px;
 		input {
 			width: 100%;
@@ -770,7 +769,6 @@ ol {
 		}
 	}
 	.text {
-		float: left;
 		h3 {
 			color: #ffffff;
 			font-weight: 700;
