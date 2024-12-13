@@ -1,0 +1,832 @@
+{
+  "name": "Agile Pays Basque 2018",
+  "startDate": "2018-09-05T22:00:00.000Z",
+  "endDate": "2018-09-07T21:59:59.999Z",
+  "proposals": [
+    {
+      "id": 9001,
+      "title": "Cessons les estimations !",
+      "abstract": "Alors que les estimations sont à la base des méthodes classiques et que dans le domaine Agile, SCRUM notamment lui accorde une grande importance, nous allons l’espace d’une conférence remettre en cause celles-ci.\n\nAprès un bref rappel de différentes méthodes permettant de réaliser des estimations et croyances qui y sont attachées, nous prendrons le temps de réfléchir sur les effets néfastes de ces dernières. Enfin, nous verrons comment dans la réalité des projets, il est possible de s’en extraire.\n\nConférence iconoclaste, sous la forme d’un one man show, afin de réfléchir (et de rire ?) sur un aspect essentiel de l’agilité.\n\nOuvert à tout public ayant une première approche des projets de développement logiciel. Durée : 45 min.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "TOUT PUBLIC",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Frédéric LEGUEDOIS",
+          "bio": "Evangéliste Agile, libriste, voire polémiste ;-) Garanti zéro certification.",
+          "company": "Cloud Temple",
+          "references": "https://www.cloud-temple.com",
+          "picture": "FredericLeguedois.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/f_leguedois"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 10151,
+      "title": "Entre industrialisation et artisanat : le métier de développeur",
+      "abstract": "",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "TOUT PUBLIC",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Arnaud LEMAIRE",
+          "bio": "J’ai été tour à tour (et pas dans le bon ordre) : CTO d’une startup, directeur de la production chez un éditeur logiciel, architecte logiciel, consultant et développeur.Après avoir travaillé pour des Startups, des PME, des grands groupes et le secteur public, je suis maintenant membre d’un bureau d’étude pour aider des clients de toute taille à réussir leurs projets logiciels depuis la conception jusqu’au déploiement en production. ",
+          "company": "LGO Exchange",
+          "references": null,
+          "picture": "ArnaudLemaire.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 10152,
+      "title": "Leucosélophobie ou la peur de la page blanche pour le PO",
+      "abstract": "Comme l'auteur de romans, la peur de la page blanche peut frapper certains \"Product Owner\". \n\nVous avez été nommé pour ce rôle pour la première fois dans votre entreprise, et vous aviez une casquette de chef de projet ou MOA auparavant. Vous êtes consultant externe et on a besoin de vos services pour un projet où vous tiendrez le rôle stratégique de la gestion du backlog, et ce, sans complètement connaître le sujet métier et son contexte. \n\nLe backlog est vide... comment le remplir ? Comment s'assurer que les premières user stories auront de la valeur ?\n\nUne course contre le temps démarre, celle pour obtenir de la reconnaissance, de la confiance et de la crédibilité de la part de votre équipe et de vos responsables. \n\nOn commence par poser des questions, écrire quelques \"user stories\" en marquant le qui, le quoi et le pourquoi. On passe beaucoup de temps à prioriser les récits dans le backlog, cette longue liste de choses à faire... et c'est la paralysie, le doute, plus rien ! \n\nVenez débloquer la situation avec Bastien et Alexandre !",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Alexandre THIBAULT",
+          "bio": "Québécois en France depuis 2005, facilitateur de projets, coach agile, créateur d’ambiance, connecteur, surfeur de meetups, ancien développeur logiciel pendant 15 ans ! On dit que je suis empathique, surtout sur mes patins de hockey sur glace !",
+          "company": "BeNext",
+          "references": null,
+          "picture": "AlexandreThibault.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/alexandrethib"
+          }
+        },
+        {
+          "name": "Bastien NAUDE",
+          "bio": "Palois à Paris depuis 5 ans, j’ai commencé par des lignes de codes et des traces de logs. Très tôt séduit par l’agilité, ses valeurs et son bon sens (caché derrière les buzzwords), j’aide aujourd’hui les équipes à mettre en place des environnements où les personnes s’épanouissent dans leur travail.",
+          "company": "BeNext",
+          "references": "",
+          "picture": "BastienNaude.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/_bnaude"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 10153,
+      "title": "Développez l’intelligence collective de vos équipes avec les “Liberating Structures”",
+      "abstract": "Avez-vous déjà vécu :\n - des réunions épouvantablement ennuyeuses ?\n - l’application aveugle des Best Practices des autres ?\n - les interrogations des managers sur le mutisme des collaborateurs ou leur manque d’implication ?\n - l’application de procédures ingrates ?\n - la sempiternelle séparation entre décideurs et opérationnels ?\n - la mise à l’écart de certains collaborateurs parce qu’ils ralentissent le groupe ?\n - la déception engendrée par le fait que les idées d’amélioration ne sont jamais mises en place ?\n\nVous souhaitez développer l’intelligence collective de vos équipes de façon efficace, ludique et rapide ? Les “Liberating Structures” peuvent vous aider !\n\nLes “Liberating Structures” sont des stratégies de facilitation extrêmement efficaces;  qui peuvent être utilisées pour animer des réunions, des séances de planification, des formations, des ateliers, des présentations  ou encore lors de changements organisationnels complexes.\n\nLes “Liberating Structures” permettent de libérer la parole et d'inclure tout le monde dans les échanges et la prise de décision qui façonnent les prochaines étapes.. Les “Liberating Structures” nous invitent à envisager des alternatives aux «structures conventionnelles» (par exemple, des réunions de suivi, des conférences, des discussions non structurées) et favorisent une participation active dans des groupes de toute taille.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "TOUT PUBLIC",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Anne GABRILLAGUES",
+          "bio": "Depuis une première rencontre avec l'Agilité en 2008, j'accompagne les équipes en tant que Scrum Master, Product Owner ou Coach Agile. Agiliste convaincue, je participe activement à la diffusion de l'Agilité via l'organisation de Meetups et de conférences à Paris.\n\nJ'ai fait partie de l'équipe organisatrice des 3 derniers ScrumDay et j'ai rejoint l'équipe Lean Kanban France en 2016 (conférences Lean Kanban France et FlowCon). Parmi mes projets personnels figurent aussi le développement du jeu d'apprentissage Kanbanzine et divers projets de traduction.",
+          "company": "Ippon Technologies",
+          "references": null,
+          "picture": "AnneGabrillagues2.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "agabrillagues"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 10154,
+      "title": "Coaching Dojo",
+      "abstract": "Christophe Deniaud et Fabrice Aimetti souhaitent réunir des personnes qui\ndésirent découvrir, apprendre, développer, … des techniques de coaching qui les\naideront dans leur quotidien. Ils co-facilitent depuis janvier 2016 des Coaching\nDojo sur Bordeaux.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Fabrice AIMETTI",
+          "bio": "Fabrice est Coach Agile et Coach d'Entreprise. Il est convaincu et croit dans l'accompagnement des personnes, équipes et organisations.",
+          "company": "Ayeba",
+          "references": null,
+          "picture": "FabriceAimetti.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        },
+        {
+          "name": "Christophe DENIAUD",
+          "bio": "Christophe Deniaud est Coach en Agilité et Coach d’Entreprise chez AUSY.\nCurieux et passionné d’agilité, il accompagne des équipes dans leurs transitions\norganisationnelles visant à replacer l’individu et les relations au centre de leur\nactivité.",
+          "company": "Ausy",
+          "references": "http://chrisdeniaud.com/",
+          "picture": "ChristopheDeniaud.jpg",
+          "location": "",
+          "socials": {
+            "twitter": ""
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 11151,
+      "title": "Clean Design, Clean Code",
+      "abstract": "During this session, we will talk about a glimpse of best practices I've learned in my career at Microsoft, AWS and Oracle regarding coding and designing Software.\n\nHow to do code review? What is a clean code? How to design? How to do a design review? How to build things at scale? What does it mean to be a good 'developer'?\n",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "EXPERT",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Julien DOLLON",
+          "bio": "Julien: Auteur, Director des ingenieurs Oracle, Ancien AWS et Microsoft\nSoumow: CEO de sa startup, Ex Product Manager Microsoft",
+          "company": "Oracle",
+          "references": "",
+          "picture": "JulienDollon.jpg",
+          "location": "",
+          "socials": {
+            "twitter": ""
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 11152,
+      "title": "Le point de vélocité vide",
+      "abstract": "A la poursuite d'un rendement industriel élevé, des entreprises mettent en place plusieurs processus de vérifications et de contrôles multi niveaux, des découpages de projets en trop petites tailles ou avec trop d'adhérences ou encore des gestions de \"ressources\" interchangeables à volonté. Ceci a pour effet d'éroder la valeur produite par point de vélocité.\nSans adresser l'équipe de développement et les pratiques de craftmanship, je ferais un tour des mauvaises pratiques en bordure (entendez actionnable au niveau management) qui perturbent, ralentissent ou ne pas permettent pas de tirer le meilleur d'une équipe de réalisation. \n",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "TOUT PUBLIC",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Benjamin CABANNE",
+          "bio": "Coach pro, coach agile, facilitateur et scribeur. Avec ma casquette de coach, j'accompagne les humains, les équipes et les organisations à se poser leurs bonnes questions pour définir leur chemin et s'engager dessus. Avec ma casquette de facilitateur ou scribeur, j'accompagne les humains, les équipes et les organisations à mettre plus de plaisir et plus de collectif dans leurs engagements de tous les jours pour progresser sur leur chemin.\nIssu du monde du développement logiciel, j’ai vécu et appris de l’intérieur et compris la nécessité de l’agilité. Issu également du sport en compétition, j’ai une appétence particulière pour l’apprentissage par l'expérimentation.\n#Happy #CoachPro #CoachAglile #Scribing \n",
+          "company": "Orange",
+          "references": "",
+          "picture": "BenjaminCabanne.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/plopMaker"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 11153,
+      "title": "Cadrage agile ux d'un produit : du concept aux US\"",
+      "abstract": "\" En tant que Product Owner je veux découvrir les différents outils agile ux de cadrage du besoin afin de piloter efficacement la conception de mon produit \" : en reprenant le processus de conception d'un produit depuis les premières étapes d'idéation, nous  aborderons successivement les différents outils pouvant être mobilisés pour assurer un cadrage itératif centré sur les besoins de l'utilisateur final et permettre la conception d'une solution Produit vraiment adaptée.  Cette session sera prolongée le deuxième jour d'un atelier de mise en pratique de  2 outils présentés : Design Studio et Value Proposition Canvas\"",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMÉDIAIRE",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Rachel JOLIN DUBOIS",
+          "bio": "Houlaaaaa !!  Ancienne \"Marketing Product Manager\" devenue \"Product Owner agile\" suite à une rencontre avec SCRUM et Claude Aubry en 2006, je continue à tracer mon chemin en enrichissant mes pratiques à la faveur des nouvelles rencontres et des lectures. Aujourd'hui je forme et j'accompagne les équipes, et plus particulièrement les PO. ",
+          "company": "Airbus",
+          "references": null,
+          "picture": "RachelJolinDubois.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 12151,
+      "title": "The Art of Product Management",
+      "abstract": "Complete overview of what product management is and lessons I learned from  being a Product Manager at Microsoft ",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Soumow ATITALLAH",
+          "bio": "Entrepreneur and ex-Product Manager at Microsoft ",
+          "company": "",
+          "references": "",
+          "picture": "SoumowAtitallah.jpg ",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/soumow"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 12451,
+      "title": "Commment le recrutement peut s'inspirer des méthodes agiles ?",
+      "abstract": "Avec l'évolution du marché et de la technologie les méthodes traditionnelles de recrutement ne fonctionnent plus. De nombreuses entreprises se heurtent à la problématique de recrutement de profils techniques. Et si les méthodes agiles nous aidaient à améliorer la qualité et la performance des recrutements et à offrir une meilleure expérience candidat ?",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Marija PEREZ",
+          "bio": "Responsable recrutement",
+          "company": "Cafpi",
+          "references": "",
+          "picture": "MarjaPerez.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/marija_perez"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 13151,
+      "title": "De Bruce Lee à Darwin : Découvrez ces agilistes insoupçonnés",
+      "abstract": "\"Soyez Agile ! \"... vous avez déjà entendu cette phrase en entreprise ? Mettons des mots précis sur ce que signifie \"être Agile\" en balayant la vie de plusieurs Agilistes insoupçonnés comme Bruce Lee, Schumacher ou Darwin",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Robin BERAUD-SUDREAU",
+          "bio": "Coach Agile, j'accompagne mes clients ( Cdiscount, Bouygues, Axa,) et interviens pour des missions de coaching d’équipe où je couvre aussi bien le coaching technique (TDD, intégration continue, …) et organisationnel que le coaching des équipes produits (Personaes, vision, Story mapping,…). Cette approche m'a permis d'acquérir une vision 360°:  Technologie, Produit/Vision & Méthode employée pour maximiser le bien-être des équipes et le ROI des projets sur lesquels j'interviens.",
+          "company": "",
+          "references": "http://coach-agile.com/",
+          "picture": "RobinBeraud.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/beraudsudreau"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 14151,
+      "title": "Alice in Agile-Land",
+      "abstract": "Alice re-visite l'agilité à Agile-Land à travers son histoire.  \"Voudriez-vous me dire, s’il vous plaît, quel chemin je dois prendre pour [faire de l'agilité] ? – Cela dépend beaucoup de l’endroit où tu veux aller, répondit le chat. – Peu m’importe l’endroit...dit Alice. – En ce cas, peu importe la route que tu prendras, répliqua-t-il.\"\nRencontre théâtralisée avec Alice et le Chapelier fou qui vivent au Pays des Merveilles ou les valeurs humaines et le respect des individus passent avant les képis-aïe ! Ou les managers, comme le chat du cheschire s'éclipsent pour faire place aux principaux protagonistes qui \"font\" l'histoire.\nNous passeront ensuite \"de l'autre côté du miroir\" pour voir ce qu'il en est vraiment de Pays de l'Agilité, dans le monde de l'entreprise.\n\nNous vous proposons un parallèle entre l'aventure d'Alice racontée par Lewis Caroll et notre aventure au Pays de l'Agilité. Cette présentation théatrale permet de revisiter les fondamentaux de l'agilité en s'amusant.\n\nA l'issue de cette présentation, les participants seront amenés à s'interroger sur la voie qu'ils ont chois pour aller vers leur chemin de l'agilité.\n\nNous trouvons le livre de Lewis Caroll très philosophique et nous aimerions faire des parallèles avec notre histoire et l'apprentissage que nous avons de l'agilité.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMÉDIAIRE",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Franck RAGEADE",
+          "bio": "Agiliplanchiste chevronné. Je planche sur l'agilité depuis 2006 : consultant SAFe (SPC), Scrum Master (CSM, PSM) et Product Owner (PSPO) certifié, j'accompagne de grandes sociétés dans leur transformation digitale à travers la mise en place de méthodes agiles. ",
+          "company": "",
+          "references": "http://thelor.com/",
+          "picture": "FranckRageade.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "@thelor "
+          }
+        },
+        {
+          "name": "Alice BARRALON",
+          "bio": "Artisan agiliste, et développeur sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). J'ai co-fondé l’événement AgilePaysBasque.",
+          "company": "Oriions",
+          "references": "oriions.com",
+          "picture": "AliceBarralon.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "@a_barralon"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 14152,
+      "title": "Agile Rocket - Module Coopérer",
+      "abstract": "Lorsque l’on se lance sur le chemin de l’agilité arrive souvent cette fameuse question : Scrum ou Kanban ? Mais est-ce véritablement la bonne question ? Quels sont les objectifs que l’on souhaite atteindre ?\n\nManager l’auto-organisation, énergiser sans contraindre, structurer une démarche d’amélioration sans imposer de méthode ou encore satisfaire ses clients en anticipant leurs besoins sont des sujets qui font également partie intégrante du processus de transformation.\n\nC’est suite à ce constat qu’a émergé l’Agile Rocket, une démarche alternative vers une agilité respectueuse, modulaire et progressive basée sur la métaphore de la fusée.\n\nDans cette session, vous découvrirez :\n\n- une métaphore pour parler d'Agilité, différemment\n- la mise en oeuvre concrète de son premier module “Coopérer” au sein d’une équipe hors IT",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Olivier MY",
+          "bio": "Olivier est Coach professionnel et Coach Agile chez Soat où il accompagne ses clients dans l'optimisation de leur performance par l'intelligence collective. Passionné par les relations humaines, il cherche avant tout à redonner du sens aux pratiques utilisées en entreprise afin de stimuler plus de responsabilisation, de motivation et d'engagement.",
+          "company": "Soat",
+          "references": "http://oyomy.fr/",
+          "picture": "OlivierMy.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "Oyomy"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 14153,
+      "title": "Introduction aux revues de code pour votre équipe",
+      "abstract": "Les projets open-source font des code-reviews. Facebook fait des code-reviews. Pourquoi pas vous ? Venez découvrir comment les mettre en pratique dans votre équipe et échanger sur ce rituel permettant la propriété collective du code.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMÉDIAIRE",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Fabien LAMARQUE",
+          "bio": "Développer / TechLead passionné de Craftsmanship et de TDD.",
+          "company": "Guarani FR",
+          "references": "fabien-lamarque.eu",
+          "picture": "FabienLamarque.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/Fabinout"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 14154,
+      "title": "Découvrir Event Storming et le quotidien des développeurs",
+      "abstract": "Cet atelier s'adresse aussi bien à un développeur, un PO qu'à un expert métier. \n\nEn alternant rapidement des phases d'échanges sur le métier et d'implémentation, nous allons :\n    -Découvrir EventStorming\n    -Sentir comment il permet d'aligner la compréhension des Product Owners, des Experts Métiers et des Programmeurs\n    -Voir comment écrire un code cohérent avec la vision partagée du métier \n    -Bien nous amuser\n    -...\n\nAucune connaissance en programmation n'est nécessaire. \n\nPrérequis : si possible amener un PC dans lequel vous aurez préchargé Scratch dans votre navigateur en ouvrant la page https://beta.scratch.mit.edu/",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "TOUT PUBLIC",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Fabien TREGAN",
+          "bio": "After spending 10+ years of my life coding, I started to feel that the problems in software development were not in the code and tryed finding solution elsewhere. Since I started doing that, I started to love coding again :)",
+          "company": "",
+          "references": "",
+          "picture": "FabienTregan.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "ftregan"
+          }
+        },
+        {
+          "name": "Isabelle BLASQUEZ",
+          "bio": "Enseignant-chercheur. \nArtisan pédagogue développeur d'agilité.\nMembre de la team Duchess France et Fondatrice des journées #iutagile.",
+          "company": "Université de Limoges",
+          "references": "https://github.com/iblasquez",
+          "picture": "IsabelleBlasquez.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/iblasquez"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 15151,
+      "title": "Découvrez les forces de vos collaborateurs",
+      "abstract": "Nous sommes généralement efficaces pour identifier les problèmes d’une situation ou ce que les autres, ou nous-mêmes, ne faisons pas correctement. Par contre, lorsqu’il s’agit de parler de nos points forts, ou de ceux des autres, nous sommes souvent mal à l’aise et parfois démunis.\n\nJe vous propose de découvrir un atelier à la fois concret (des cartes joliment imagées) et ludique (dynamique d’équipe) pour faire émerger vos points forts et générer des échanges bénéfiques.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Alexandre BOUTIN",
+          "bio": "Agiliste depuis 2005 alors en charge du déploiement de l'agilité pour Yahoo! à l'international (Europe, Asie, Inde, Amérique Latine), j'accompagne depuis 2009 de nombreuses entreprises en France et à l'étranger dans leur transition vers l'agilité.\nConvaincu de l'efficacité des approches ludiques pour apprendre ou produire un résultat, j'utilise régulièrement des jeux sérieux dans mes coaching ou en animation de séminaire.\nJ'interviens régulièrement dans les conférences agiles en France pour présenter mes travaux ou faire jouer à de nouveaux jeux sérieux agile que je crée.",
+          "company": "Agile To You",
+          "references": "http://www.agiletoyou.com/",
+          "picture": "AlexandreBoutin.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/agilex"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 15152,
+      "title": "Il faut tuer les Super Héros! (pour leurs propres bien)",
+      "abstract": "Imaginez...\nJohn à Brigitte: \"J’ai un problème, mon Superman d'élite est au bord du burn out… je sens qu’il va se casser! Mais si il se barre toute ma prod part en vrille !\"\n\nPatrick à son écran : \"Purée !!!! J’en ai marre de sauver le monde! J’ai même pas encore pris mon café! J’ai pas le temps de descendre au fond des problèmes… et je reste à éteindre les incendies! je vais finir par me tirer de cette boîte de m...de\"\n\nKevin devant sa spec : \"Oula, la prod est pétée : Vite Patrick viens corriger!\" - \"Euh je sais pas comment faire : Je vais demander à Patrick!\" - \"Aïe! c’est compliqué, je suis sur que Patrick saura le faire!\" - \"Euh non, ça j’ai pas envie, baah Patrick le fera bien pour moi!\"\n\nSi vous êtes John, Brigitte, Patrick, Kevin, un écran, ou une spec… vous avez un problème de super héros !\nOn vous explique comment l’identifier, pourquoi il faut le résoudre et comment nous l’avons fait!\n",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Nicolas SAVOIS",
+          "bio": "Dev depuis 20 ans, je suis CTO depuis 5 ans, d’abord d'une startup interne dans une grand banque. Je suis actuellement CTO chez TalanLabs,\noù je fais grandir des développeurs, et où j'accompagne mes clients dans leur transformation numérique.\n\nFan d’Elixir, de Programmation Fonctionnel, et d'Agilité.\n\nJe pense que l'IT en France a raté pas mal de virage technologique et méthodologique et n'est pas en train de prendre de virage du tout... j'essaye d’éduquer mes clients et collègues pour que ça change !\n\nKeep on Elixiring !",
+          "company": "TalanLabs",
+          "references": "https://savoisn.github.io/",
+          "picture": "NicolasSavois.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/NicoSavois"
+          }
+        },
+        {
+          "name": "Matthieu RIBOULET",
+          "bio": "J'ai été tour à tour (pas dans l'ordre): Scrum Master, consultant, Responsable Data, Agile Leader. Aprés avoir travaillé chez un éditeur logiciel, une grande banque, je co dirige TalanLabs où j'essaye d'en faire une organisation \"plus agile\", où j'accompagne nos clients dans la transformation numérique et où je cultive des Scrum Master\n\nJe suis intimement persuadé que la révolution numérique appelle à:\n- l’aplanissement de la structure managériale pour apporter fluidité et agilité pour libérer la créativité, l’innovation,\n- un changement de culture dans les entreprises afin de valoriser la richesse qu’elle a en son sein: le Capital Humain\n\nJ'évangélise mes clients et collègues pour qu'ils comprennent la nécessité de ce changement s'ils souhaitent rester performant\n",
+          "company": "TalanLabs",
+          "references": "",
+          "picture": "MatthieuRiboulet.jpeg",
+          "location": "",
+          "socials": {
+            "twitter": ""
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 15153,
+      "title": "Domain Driven Design, une étude de cas",
+      "abstract": "Le Domain driven design semble enfin devenir un sujet tendance dans les conférences.\n\nL’approche DDD pourtant ne consiste pas à jeter des patterns à la mode dans son architecture, CQRS et Event Sourcing en tête, mais bien à remettre le métier, et ses problèmes, au coeur de nos préoccupations et de notre code, pour devenir finalement des Full spectrum developers, concept mis en avant par Michal Feather.\n\nTout ceci peut être très abstrait, d’autant plus qu’il est délicat de l’expliquer tant le DDD est somme toute un état d’esprit et une suite de micro-décisions du quotidien. C’est pourquoi, pour tenter de donner un peu de sens à tout ça,  je propose de vous faire une étude de cas sur ma dernière annéel : la refonte de l’application mobile de Sud-Ouest. Je tenterai d’expliquer la démarche stratégique, puis les choix au quotidien. Juste pour le plaisir des buzzwords, oui cette nouvelle application s’appuie sur Google Kubernetes Engine, Firebase, react-native, rx-java, mais ces technologies restent à notre service, pas l’inverse.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMÉDIAIRE",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Jean-Baptiste DUSSEAUT",
+          "bio": "Principal Solution Architect at LGO Exchange, et co-fondateur d'Arpinum. ",
+          "company": "LGO Exchange",
+          "references": null,
+          "picture": "Jean-baptisteDusseaut.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 15154,
+      "title": "Des outils pour mesurer l'UX",
+      "abstract": "Comment mesurer efficacement l'UX (expérience utilisateur) avec des outils faciles à mettre en place et à exploiter ?",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "TOUT PUBLIC",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Raphaël IBARBOURE",
+          "bio": "Nous sommes Clément et Raphaël, co-fondateurs de l’agence d’ergonomie et UX Design Pigwii, localisée à Biarritz. On est également co-organisateurs de UX Pays-Basque. Ce Meetup vise à démocratiser les diﬀérentes méthodologies et pratiques d’UX Design au Pays-Basque en organisant un événement par mois. De part notre formation d’ingénieurs cogniticiens, nous sommes à même de travailler dans des environnements complexes. ",
+          "company": "Pigwii",
+          "references": "https://pigwii.com",
+          "picture": "RaphaelIbarboure.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/Pigwii_"
+          }
+        },
+        {
+          "name": "Clément DRIOLLET",
+          "bio": "629794428",
+          "company": "Pigwii",
+          "references": "https://pigwii.com",
+          "picture": "ClementDriollet.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "https://twitter.com/Pigwii_"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 16301,
+      "title": "Charles Babbage et Ada Lovelace, une équipe de dev du XIXe siècle",
+      "abstract": "Une visite 200 ans en arrière pour découvrir une des premières et plus intéressantes collaborations dans toute l'aventure de l'informatique. Nous découvrons ensemble un peu d'histoire du \"pré-ordinateur\" et une investigation dans les annales du développement pour découvrir un couple pas-comme-les-autres, Charles Babbage et Ada Lovelace,  travaillant égal à égal dans une ère où ça ne devrait pas arriver. Même 2 siècles plus tard nous avons beaucoup de leçons à tirer des premiers pas autour de la \"Machine Analytique\". ",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "TOUT PUBLIC",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Alan MCCULLAGH",
+          "bio": "Un grand passionné de l'éducation numérique pour les jeunes et moins jeunes. Je suis tombé dans l'informatique agé de 6 ans et je me soigne encore à ce jour. J'adore le Raspberry Pi et toute chose à la framboise.",
+          "company": "Pichoun France",
+          "references": "https://www.pichoun.fr/",
+          "picture": "AlanMccullagh.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "tyrower"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 16302,
+      "title": "Une Transformation Agile Impossible",
+      "abstract": "La R&D de la BU “Building System” de Legrand a engagé une transformation Agile courant 2016 suite à des échecs commerciaux et des difficultés à sortir des produits nouveaux depuis plusieurs années. La transformation a mal commencé, uniquement incantatoire et sans aucun accompagnement, les incompréhensions entre direction et collaborateurs, renforcées par des tensions sociales fortes et des craintes pour l’avenir, ont amené l’organisation à être très rapidement bloquée.\nC’est dans ce contexte que Claude, qui jusque là libérait les énergies d’une PME, a accepté de rejoindre Legrand en qualité de responsable R&D (mais avant tout en tant que jardinier holiste). Pourtant, tout lui indiquait qu’une transformation Agile était impossible : un grand groupe du CAC40, à l’organisation pyramidale et à la gestion financière serrée, qui a fait du “contrôle-commande” la norme indiscutable et qui envisagerait de sauver une de ces entités en passant par l’agilité ?!?... Une entreprise vouée à l’échec pour beaucoup d’observateurs...\nC’est aussi dans ce contexte que la tribu Culture Hacking d’OCTO a été retenu pour accompagner cette transformation, notamment grâce à sa proposition de travailler avant tout sur la culture et les relations entre les individus, plutôt que sur une ou des méthodes Agile.\nDepuis 1 an et demi, et ce n’est pas fini, le chemin se construit, des sourires sont revenus, des initiatives ont émergé, des projets de développement engrangent leurs premiers résultats et beaucoup de questions se posent encore.\nNous proposons de partager ce REX “une transformation Agile impossible”. Nous y traiterons de son lot de succès, de doutes, d’échecs, de hasards, au travers d’un jeu des 7 familles d’acteurs du changement et des anecdotes qui tissent ensemble un fil rouge délicat et congruent, à l’image des relations humaines.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Claude ANDRIEUX",
+          "bio": "https://www.linkedin.com/in/claudejardinier/",
+          "company": "Legrand",
+          "references": "www.legrand.fr",
+          "picture": "ClaudeAndrieux.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "@claude_64510"
+          }
+        },
+        {
+          "name": "Alexis NICOLAS",
+          "bio": "",
+          "company": "Octo",
+          "references": "www.octo.com",
+          "picture": "AlexisNicolas.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "@alexis8nicolas"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 16303,
+      "title": "Super-green ? Super-green !",
+      "abstract": "L'agilité, ce sont essentiellement des principes énoncés dans un\nmanifeste. Pour que ces mots ne restent pas que des mots, nous devons\nnous essayer à les mettre en pratique.\nOn peut être agile dans bien des domaines, mais évidemment le champ\nprivilégié reste le développement informatique, parce qu'il est le\nberceau de ce mouvement.\n\nQuelles sont les pratiques ou les outils \"modernes\" de l'informatique\nqui aident à devenir ou rester agile ?\nConnaissez-vous le développement dirigé par les tests ? Le pair\nprogramming ? Les gestionnaires de révision ? La revue de code ? Le\ndéploiement continu ? Automatisez-vous tout ce que vous faites ?\nFaites-vous des POC ? Des Feature Flags ?\n\nEt surtout... pourquoi ne pratiquez-vous pas tout ça déjà ?\n\nSans tomber dans le \"solutionnisme\", nous essaierons de faire un tour\nd'horizon de ces avancées du métier et de leur application dans notre\ncontexte habituel : celui d'un monde changeant, complexe et\nrock'n'roll.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "",
+      "references": null,
+      "formats": [],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Bruno BORD",
+          "bio": "Né en l'an 0 après Donjons & Dragons, développeur depuis le premier album d'Alice in Chains, spécialisé dans le web et surtout dans le développement Python depuis l'an 2000.",
+          "company": "PeopleDoc Inc.",
+          "references": "https://jehaisleprintemps.net",
+          "picture": "BrunoBord.jpg",
+          "location": "",
+          "socials": {
+            "twitter": "brunobord"
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    }
+  ]
+}

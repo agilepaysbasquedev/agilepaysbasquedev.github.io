@@ -1,0 +1,1212 @@
+{
+    "name": "Agile Pays Basque 202016",
+    "startDate": "2024-09-05T22:00:00.000Z",
+    "endDate": "2024-09-07T21:59:59.999Z",
+    "proposals": [
+        {
+            "id": 102,
+            "title": "#JeVisAvecUnCycleEnV",
+            "abstract": "Pérégrinations d'un agiliste au coeur d'une transformation agile à la maison (avec 1 CP et 2 jeunes enfants) quand sa moitié d'en comprend pas tout à fait l'état d'esprit... Que ce soit au boulot ou à la maison, les situations, les outils et les apprentissages se retrouvent. Partageons nos expériences !",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Amphi"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Régis SCHNEIDER",
+                    "bio": "Je suis marié, avec 2 enfants (7 & 8 ans). J'adore la randonnée (disons trekking si ça fait mieux), la montagne. J'apprécie particulièrement les voyages éloignés, mais aussi ceux au bout de la rue. Tant d'opportunités de rencontrer et d'apprendre !Sinon, je suis Coach Agile à tendance Product Owner chez Valtech à Paris.Je suis tombé dans Agile en 2009 et je ne veux maintenant plus m'en sortir. En particulier pour la raison que je trouve là un bon prétexte pour [m']amuser au boulot. Mais c'est toujours fait avec beaucoup de sérieux.",
+                    "company": "Valtech",
+                    "references": null,
+                    "picture": "RegisSchneider.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 104,
+            "title": "Agilitation",
+            "abstract": "\"A travers l'agitation constante subie par nos équipes de développement, nous avons réussi à subsister grâce, entre autres, à notre agilité ! Ce talk est un retour d'expérience à propos de ce que nous avons vécu dans nos équipes Scrum sur les derniers mois, avec par exemple des changements incessants de priorités, des travaux dans l'entreprise, ou encore de nouvelles activités à réaliser, puis de partager ce qui nous a permis de rester productifs et motivés. L'agilité nous a protégé de l'agitation !\".",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "BEGINNER",
+            "references": null,
+            "formats": [
+                "Presentation"
+            ],
+            "categories": [
+                "Trinquet 2"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Ane Diaz De Tuesta",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "AneDiazDeTuesta.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                },
+                {
+                    "name": "Mathieu MERZEREAU",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "MathieuMerzereau.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 105,
+            "title": "Agilité et Liberté",
+            "abstract": "Si l’adhésion totale du dirigeant à une démarche de libération d’entreprise demeure indispensable, les salariés qui baignent dans les méthodes de développement logiciel dites « Agiles » sont d’excellents acteurs et promoteurs de telles libérations et c'est ainsi que la libération des énergies touchent des entités marketing opérationnel, des équipes commerciales, des fonction support...",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Amphi"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Claude ANDRIEUX",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "ClaudeAndrieux.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 106,
+            "title": "Clean CODE",
+            "abstract": "Une attention continue à l'excellence technique et à une bonne conception renforce l’Agilité » — 9e principe du manifeste agile. À quoi ça sert de faire du code propre ? Et puis c'est quoi d'abord ? Et surtout, comment je m'y mets ? Par quoi je commence ?",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": "http://avernois.github.io/training-clean_code/#/",
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Salle Lang 6"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Antoine VERNOIS",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "AntoineVernois.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 109,
+            "title": "DoDelinant de la tête",
+            "abstract": "Reprise et aménagement du talk donné à Agile Tour Bordeaux 2015 : C'est bien beau d'avoir une \"\"Définition de terminé\"\" dans une équipe mais cette définition est-elle adoptée par l'équipe? Aide-t-elle l'équipe à terminer ses user stories? Pour éviter les \"\"ça compile donc ça marche\"\", \"\"mais c'est pas du tout ce que j'avais demandé\"\" ou autres \"\"je comprends pas, ça marchait sur ma machine\"\", je reviendrai sur les fondamentaux de la pratique, je donnerai des pistes pour aider à la coconstruction de la DoD et des conseils pour faciliter son utilisation au quotidien, expérimentés dans mes propres équipes.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": "https://fr.slideshare.net/ffaure32/agile-tour2015",
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Salle Lang 6"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Frédéric FAURE",
+                    "bio": "Javagiliste18 ans dans le code10 ans dans l'agilitéApproche pragmatique et empiriqueCoaching d'équipes opérationnelles",
+                    "company": "Zenika",
+                    "references": null,
+                    "picture": "FredFaure.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 110,
+            "title": "Doublure en folie",
+            "abstract": "Codeur est contrarié. Il s'est toujours considéré comme une virtuose du développement logiciel mais quand ses collègues lui ont dit qu'ils voulaient désormais pratiquer le TDD, il n'a pas eu le choix. Tests, Rouge, Vert, Refactor... Il devait assimiler tous ces mots nouveaux et il fallait le faire vite. Il s'attaque alors à la lecture de xUnit Test Patterns par Gerard Meszaros mais la fatigue le gagne. Dans son rêve, les tests et le code prennent vie... La première pièce de théâtre au monde qui se déroule entièrement dans un environnement de tests automatisés ! Après une première partie où quelques volontaires joueront la pièce devant le public, tout le monde pourra pratiquer le TDD en inventant une suite possible à l'histoire.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "workshop"
+            ],
+            "categories": [
+                "Salle Lang 5"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Olivier AZEAU",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "OlivierAzeau.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 111,
+            "title": "Facilitation graphique : Devenez le seigneur des pictos",
+            "abstract": "Cette conférence/atelier essayera de répondre à la cruciale question que tout le monde se pose (ou pas) : \"Comment faire pour devenir le seigneur des pictos et des visuels percutants quand on ne sait dessiner que des carrés et des patates ?\" Et accessoirement on regardera aussi les questions \"Qu'est-ce que la facilitation graphique ?\"\" et \"\"Qu'est-ce que cela apporte au quotidien ?\"\", mais honnêtement c'est moins important ... Venez avec vos papiers et crayons (ou tablette et stylet, ou toile et pinceaux ... ) ! \"",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": "https://www.linkedin.com/pulse/quest-ce-que-la-facilitation-graphique-marc-dugu%C3%A9",
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Salle Lang 6"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Marc DUGUE",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "MarcDugue.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 112,
+            "title": "Implémenter DDD, CQRS, ES",
+            "abstract": "Je construis des applications web et mobiles, de bout en bout, sur des domaines variés. J’ai appris, avec humilité, différents principes pour “tacler la complexité”. Mon outil principal est DDD qui place le métier au coeur de l’application. J’applique aussi CQRS pour obtenir un modèle d'écriture strict et décorrélé des modèles de lecture hétérogènes. Lorsque l'application s'y prête, les évènements métier deviennent la principale source de vérité grâce à Event Sourcing. Cette présentation technique aura pour but de montrer comment j’implémente ces approches. Il y aura du code, beaucoup de code.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "AVANCÉ",
+            "references": "https://github.com/MichaelBorde/ddd-cqrs-es-agilepb2016",
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Salle Lang 6"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Mickaël BORDE",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "MickaelBorde.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 113,
+            "title": "Kanbanzine",
+            "abstract": "Ce jeu peut servir différent objectif. Il a été initialement pensé pour faciliter l’apprentissage de la méthode Kanban. Cependant grâce au jeu, on peut apprendre bien au-delà de la méthode, notamment en termes de dynamique d’équipe, de collaboration ou de leadership.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": "https://kanbanzine.wordpress.com/",
+            "formats": [
+                "workshop"
+            ],
+            "categories": [
+                "Salle Lang 5"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Arnaud GONZALES",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "ArnaudGonzales.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                },
+                {
+                    "name": "Anne GABRILLAGUES",
+                    "bio": "Depuis une première rencontre avec l'Agilité en 2008, j'accompagne les équipes de développement en tant que Scrum Master, Product Owner ou Coach Agile. Agiliste convaincue, je participe activement à la diffusion de l'Agilité via l'organisation de Meetup et de conférences à Paris. J'ai fait partie de l'équipe organisatrice des 3 derniers ScrumDay et j'ai rejoint l'an dernier l'équipe Lean Kanban France. Parmi mes projets personnels figurent aussi le développement du jeu d'apprentissage Kanbanzine et divers projets de traduction.",
+                    "company": "Ippon Technologies",
+                    "references": null,
+                    "picture": "AnneGabrillagues.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 114,
+            "title": "L'agilité et le mal : l'histoire de l'aïe",
+            "abstract": "Un regard sur les raisons pour lesquelles l'agilité est devenue la méthodologie de référence dans le domaine du développement de logiciel et autre produits complexes. Ou un truc comme ca...",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "BEGINNER",
+            "references": "https://fr.slideshare.net/nostradamnit/lagilit-et-le-mal",
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Trinquet 1"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Sam CRANFORD",
+                    "bio": "",
+                    "company": "Upwiser",
+                    "references": null,
+                    "picture": "SamCranford.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 115,
+            "title": "La délication agilité du mammouth",
+            "abstract": "Retour d'expérience sur la mise en place de l'agilité, sous forme d'un documentaire animalier.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": "http://torlus.github.io/apb2016/",
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Amphi"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Gregory ESTRADE",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "GregoryEstrade.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 116,
+            "title": "La solution est en vous, alors ACTION!",
+            "abstract": "L'art de mener des rétrospectives par une approche positive. Je vous propose d'imaginer ensemble des situations, lieux, objets, produits et de nous transporter dans le temps afin de construire ensemble une représentation idéale dans ce futur proche. Puis, dans une démarche orientée solution (donc positive), nous allons ensemble touché le champs des possibles pour actionner concrètement le mouvement !",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "workshop"
+            ],
+            "categories": [
+                "Salle Lang 5"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Frédéric DUFFAU",
+                    "bio": "Consultant en Agilité / Coach Agile / Facilitateur / Formateur",
+                    "company": "Duffau Consulting",
+                    "references": null,
+                    "picture": "FrédéricDuffau.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 117,
+            "title": "Le coach (agile) au service de la relation",
+            "abstract": "Je propose un retour d'expérience sur le rôle du coach agile au service d'une équipe / organisation. J'y mentionnerai les pièges potentiels (dans lequels je suis évidemment tombés) qui deviennent plus fréquents à une époque où l'Agilité peut être vu par certains comme une n-ième injonction de performance.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": "http://ayeba.fr/2016/11/le-manager-coach-de-son-equipe/",
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Amphi"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Fabrice AIMETTI",
+                    "bio": "Fabrice est Coach Agile et Coach d'Entreprise. Il est convaincu et croit dans l'accompagnement des personnes, équipes et organisations.",
+                    "company": "Ayeba",
+                    "references": null,
+                    "picture": "FabriceAimetti.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 118,
+            "title": "Lego à la rescousse",
+            "abstract": "Pour créer demain un code de qualité, venez (re)découvrir les bases des pratiques techniques du Software Craftsmanship de manière ludique ! Cet atelier s'appuye sur de petits exercices à base de LEGO proposés initialement par Bryan Beecham et Mike Bowler. Il permet de réviser et d'apprendre les bonnes pratiques en s'amusant (TDD, Clean Code, Refactoring, Dette Technique et Integration continue seront au programme !) L'usage des LEGO offre l'opportunité à tous (développeurs ou non) de venir s'essayer, comprendre et approfondir des concepts techniques. A l'issue de cet atelier une discussion sera ouverte sur l'état des lieux de ces bonnes pratiques et sur la pertinence d'un tel mode d'apprentissage.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "BEGINNER",
+            "references": "https://www.slideshare.net/alicebarralon9/lego-bonnes-pratiquesdevoxx2017",
+            "formats": [
+                "Presentation"
+            ],
+            "categories": [
+                "Trinquet 2"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Isabelle BLASQUEZ",
+                    "bio": "Enseignant-chercheur. Artisan pédagogue développeur d'agilitéMembre de la team Duchess France, Ambassadrice de la Code Week et Fondatrice des journées #iutagileBlog: http://www.duchess-france.org/",
+                    "company": "Université de Limoges",
+                    "references": null,
+                    "picture": "IsabelleBlasquez.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                },
+                {
+                    "name": "Alice BARRALON",
+                    "bio": "Artisan agiliste, et développeur sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). J'ai co-fondé l’événement AgilePaysBasque.",
+                    "company": "Oriions",
+                    "references": null,
+                    "picture": "AliceBarralon.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 119,
+            "title": "Les phases du programmeur",
+            "abstract": "\"Il y a quelques années, j’avais annoncé pompeusement lors d’une soirée « je crois que je n’ai plus rien à apprendre sur mon métier» Bien entendu, je ne pouvais pas être plus loin de la réalité, mais cette attitude est typique de ce qu’on pourrait appeler un expert débutant (terme de Erik Dietrich). Je me pose depuis la question de savoir comment je suis sorti de ce piège, et du coup comment aider les autres à en sortir. Dans cette conférence, j’aimerai vous parler de modèle d’apprentissage, de biais cognitifs, de motivations intrinsèques, en saupoudrant le tout de quelques trolls, pour tenter d’expliquer par quelles phases nous passons en tant que développeur avant d’être moins des dangers pour les produits que nous fabriquons. \".",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": "http://www.arpinum.fr/2014/04/08/les-phases-du-programmeur/",
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Salle Lang 6"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Jean-Baptiste DUSSEAUT",
+                    "bio": "eXtreme programmer, co-fondateur d'Arpinum. ",
+                    "company": "Arpinum",
+                    "references": null,
+                    "picture": "Jean-baptisteDusseaut.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 120,
+            "title": "Management Agile ... Concrètement",
+            "abstract": "Le Management est décisif dans une transformation agile. Pourtant, c'est un rôle méconnu. Cette présentation est une cartographie des activités de management agile, entre soutien aux activités et soutien aux équipes et personnes... Ce qui suppose une posture particulière qui privilégie l'autonomie de l'équipe. La présentation est ponctuée de plusieurs mises en pratique.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Amphi"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Thierry CROS",
+                    "bio": "Création de l'association Extreme Programming France en 200Auteur de \"Spécifiez agile\" en 2013, \"Managez agile\" en 2016",
+                    "company": "Être Agile",
+                    "references": null,
+                    "picture": "ThierryCros.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 121,
+            "title": "Monde de merde",
+            "abstract": "De l’industrialisation du difficile à l’exploration du complexe. « L’emploi est mort, vive le travail ! » nous dit le philosophe Bernard Stiegler. Pourquoi le système pyramidal vacille ? Pourquoi notre rapport au travail évolue ? 30% des tâches répétitives disparaissent tous les ans, à quoi ressemble les nouvelles activités ? On n'a pas forcément les réponses mais on a fait des expériences. Et on aime bien partager :-).",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Salle Lang 6"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Stéphane LANGLOIS",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "StephaneLanglois.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                },
+                {
+                    "name": "Bénédicte LAMBERT",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "none.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 122,
+            "title": "Notre 1er patch \"bonheur au travail\"",
+            "abstract": "Josiane travaille dans une entreprise où les tableaux Gantt, les cahiers des charges et le cycle en V sont rois... Que va faire Josiane ? Quels artifices va-t-elle utiliser pour changer ces affreuses habitudes ? Est-elle consciente qu'elle se dirige vers la libération de l'entreprise ?",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": "https://www.slideshare.net/agiletoulouse/agile-tour-toulouse-2015-patch-bonheur-au-travail",
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Amphi"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Denis BENOIST",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "DenisBenoist.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 123,
+            "title": "Co-construisons la librairie visuelle idéale",
+            "abstract": "Séance de créativité collective visant à construire ensemble une librairie visuelle couvrant autant de besoins que possible pour autant de monde que possible (facilitateurs graphiques, coach, chef de projet, touriste, étudiants, ...) L'objectif est d'identifier tous les besoins professionnels les plus courants (Ateliers, Icebreacker, réunions, technologies, etc.) mais aussi les besoins personnels (aliments, voyages, etc.), puis de les représenter ensemble au sein d'une librairie visuelle qui sera ensuite diffusée sous Creative Commons.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "BEGINNER",
+            "references": null,
+            "formats": [
+                "Presentation"
+            ],
+            "categories": [
+                "Trinquet 1"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Marc DUGUE",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "MarcDugue.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                },
+                {
+                    "name": "Jean-Pierre BONNAFOUS",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "Jean-pierreBonnafous.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 124,
+            "title": "Oser l'innovation Jugaad et un management par la confiance pour être heureux",
+            "abstract": "Jugaad, de l’hindi « débrouilliardise », est une approche indienne d’innovation frugale et agile pour le 21ième siècle, conceptualisée par Navi Radjou, qui a reçu le prix \"Thinkers50 Innovation Award\" en 2013. L’innovation Jugaad permet d’improviser des solutions ingénieuses dans des conditions adverses. Dotés de cet état d'esprit agile, les entrepreneurs en Inde parviennent à transformer les contraintes en opportunités et à faire mieux avec moins, tout en restant simple, flexible, faisant appel à l’intuition, et intégrant les exclus. L’objectif est de partager avec vous mon retour d’expérience, mes intuitions sur les liens entre la communication en Inde basée sur la confiance, les entreprises libérées, et l’approche d’innovation Jugaad, et de vous apporter de nouvellesidées en abordant ces approches d’Orient.\"",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": "http://twicsy.com/i/qqefri",
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Amphi"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Fanny WALTER",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "FannyWalter.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 130,
+            "title": "Road-trip d'auto organisation",
+            "abstract": "Récit d'une démarche d'auto-organisation d'équipes de développement, services et conseil dans une PME de 38 personnes. Aout 2015, le PDG décide de s'éloigner de l'opérationnel pour se consacrer à la préparation du futur. Il ne souhaite pas nommer un DG mais laisser les équipes s'auto-organiser. Au delà d'une équipe de développement, c'est toute une entreprise qui se prépare à un voyage vers l'inconnu...",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "BEGINNER",
+            "references": null,
+            "formats": [
+                "Presentation"
+            ],
+            "categories": [
+                "Trinquet 1"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "François SALAZAR",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "FrancoisSalazar.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 131,
+            "title": "Scrum façon puzzle",
+            "abstract": "Pendant cet atelier nous allons pratiquer du Scrum à grande échelle. Apprendre à s’organiser en feature teams, à travailler ensemble, à se synchroniser à plusieurs équipes, à prioriser selon la valeur, à intégrer en continu, à faire des prévisions sur la release en toute transparence, à identifier les obstacles d’organisation, à s’améliorer dans ce contexte.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "workshop"
+            ],
+            "categories": [
+                "Salle Lang 5"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Yannick AMEUR",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "YannickAmeur.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                },
+                {
+                    "name": "Alice BARRALON",
+                    "bio": "Artisan agiliste, et développeur sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). J'ai co-fondé l’événement AgilePaysBasque.",
+                    "company": "Oriions",
+                    "references": null,
+                    "picture": "AliceBarralon.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 132,
+            "title": "Scrum mon scrutom !",
+            "abstract": "(titre directement inspiré du livre Qualité mon Q ! de Dominique Dupagne). On est en mode agile et on utilise la méthode Scrum pour nos projets\" ou alors \"on adapté Scrum à notre contexte\" ou alors (venant d'un manager) \"on réussit à peu près à maintenir la vélocité des sprints\". Mmmmmh, il y a dans ces paroles des indices qui laissent penser à du Scrum dénaturé.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": "https://www.aubryconseil.com/blog/public/prez/ClaudeAubry-ScrumMonScrotum.pdf",
+            "formats": [
+                "keynote"
+            ],
+            "categories": [
+                "Amphi"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Claude AUBRY",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "ClaudeAubry.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 133,
+            "title": "Spécifications en milieu Agile",
+            "abstract": "Les spécifications ont parfois mauvaise presse : trop rigides, peu adaptées, elles sont vécues comme un fardeau par les développeurs. En face, les méthodologies agiles sont parfois accusées d'être trop dans le détail et d'empêcher la vision à long terme du projet. Et s’il était possible d'associer spécifications fonctionnelles et techniques avec les méthodologies agiles pour associer vision à long terme et flexibilité ? En associant les pratiques du user story mapping, de l'impact mapping et de l'event storming, nous verrons comment concilier agilité et vision produit !",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": "https://speakerdeck.com/lilobase/specifications-en-milieu-agile-agile-pays-basque-2016",
+            "formats": [
+                "presentation"
+            ],
+            "categories": [
+                "Salle Lang 6"
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Arnaud LEMAIRE",
+                    "bio": "J’ai été tour à tour (et pas dans le bon ordre) : CTO d’une startup, directeur de la production chez un éditeur logiciel, architecte logiciel, consultant et développeur.Après avoir travaillé pour des Startups, des PME, des grands groupes et le secteur public, je suis maintenant membre d’un bureau d’étude pour aider des clients de toute taille à réussir leurs projets logiciels depuis la conception jusqu’au déploiement en production. ",
+                    "company": "Arpinum",
+                    "references": null,
+                    "picture": "ArnaudLemaire.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 134,
+            "title": "Agilité et Coworking",
+            "abstract": "Créée il y a 4 ans, l'association Coworking Pays basque continue son chemin. Début 2016, elle agrandit ses locaux (+150%), ouvre un second lieu, rassemble plus de 80 coworkers (soit presque autant d'entreprises), adopte une gouvernance « horizontale », et vit toujours plus de convivialité et de bonheur au travail ! Dans un contexte où chacun exerce sa propre activité, où chacun est présent à son rythme, où il n'y a pas de « chef », comment trouver sa place ? Qu'est-ce qui favorise la coopération ? Comment prendre les décisions ? Pour quels objectifs et quels résultats ? Vous vous en doutez, il y a une bonne dose d'agilité dans la recette ! Sylvain et Benoît, membres du conseil d'animation de l'association, vous proposent quelques partages de pratiques et mises en situation pour échanger sur cette expérience et témoigner de leur joie à y contribuer.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "workshop"
+            ],
+            "categories": [
+                ""
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Sylvain LEBOSQUAIN",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "SylvainLebosquain.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                },
+                {
+                    "name": "Benoit BRYON",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "BenoitBryon.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 135,
+            "title": "Néo le robot",
+            "abstract": "Le scénario consiste à remplir une mission pour déclencher l'évacuation de la base Martienne de la WASA (World Around Space Agency) car elle est menacée de destruction par une imminente éruption solaire.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "workshop"
+            ],
+            "categories": [
+                ""
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Cyrille  FRANCOIS",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "CyrilleFrancois.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 136,
+            "title": "Atelier spirale dynamique.",
+            "abstract": "La spirale dynamique est un outil inventé par le sociologue Clare Graves, postérieur à Maslow, dans les années 70. Il permet d'identifier et de lire les différents systèmes de valeurs qui co-existent au sein d'une même société, d'une organisation et par les individus qui la composent. Dans cette période que nous vivons de changement de paradigme, il est intéressant à utiliser par les animateurs et promoteurs de projets agiles, pour amener des personnes de niveaux de conscience différents à trouver de l'intérêt à participer à des projets de plus en plus transversaux et systémiques.",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "workshop"
+            ],
+            "categories": [
+                ""
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Ivan KOMAROFF",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "IvanKomaroff.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 137,
+            "title": "Sortir du cadre Voile et Marche",
+            "abstract": "Oui, oser sortir physiquement du cadre de vos bureaux. Sortir de ses bureaux met le corps en mouvement, favorise l'authenticité, l'ouverture aux émotions et à la confiance, la flexibilité, tout ceci pour plus de créativité, simplicité en revenant à l’essentiel, joie et performance. La métaphore de la voile sera utilisée, un lien sera fait avec l’agilité, puis en route dans les jardins pour expérimenter, avec quelques consignes, le coaching en milieu naturel par groupe de 2 sur un projet qui vous tient à cœur. Dans la Silicone Vallée, ils appellent cela des \"one on one\".\".",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "workshop"
+            ],
+            "categories": [
+                ""
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Fanny WALTER",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "FannyWalter.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 138,
+            "title": "Table Ronde autour des livres du collectif",
+            "abstract": "",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "workshop"
+            ],
+            "categories": [
+                ""
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        },
+        {
+            "id": 139,
+            "title": "Artisanat Logiciel : une impasse culturelle ?",
+            "abstract": "Qu'on l'appelle \"\"artisanat du logiciel\"\" ou \"\"software craftsmanship\"\" dans sa version anglo-saxonne, la volonté des développeurs de logiciels de définir une certaine vision de leur métier est aussi ancienne que les méthodes agiles. Les deux mouvements ont d'ailleurs une longue histoire commune. Cependant, alors que la place de l'un est désormais reconnue dans le monde de l'entreprise, l'autre reste au mieux un truc anecdotique qui n'a d'importance que pour une poignée de \"\"craftsmen\"\" autoproclamés. Et pourtant, ce n'est pas par manque d'analogies pour imaginer un mode d'organisation dans les professions du développement logiciel : des guildes médiévales aux artisans contemporains, de l'ordre des médecins à celui des pirates... Beaucoup d'efforts pour un résultat relativement faible. Pourquoi les initiatives réussissent quand il s'agit de développeurs qui se cantonnent à parler entre eux ? Pourquoi le statut d'un développeur de logiciel ressemble bien trop souvent à celui d'un ouvrier du code ? Alors que les logiciels deviennent omniprésents dans la société, pourquoi leur processus de création est-il encore si mal compris des non initiés ? Et si le problème venait des développeurs eux-mêmes ? Ouvrons le débat !",
+            "deliberationStatus": "ACCEPTED",
+            "confirmationStatus": "CONFIRMED",
+            "publicationStatus": "PUBLISHED",
+            "level": "TOUS",
+            "references": null,
+            "formats": [
+                "workshop"
+            ],
+            "categories": [
+                ""
+            ],
+            "tags": [],
+            "languages": [
+                "fr"
+            ],
+            "speakers": [
+                {
+                    "name": "Olivier AZEAU",
+                    "bio": "",
+                    "company": "",
+                    "references": null,
+                    "picture": "OlivierAzeau.jpg",
+                    "location": null,
+                    "socials": {
+                        "twitter": null
+                    }
+                }
+            ],
+            "review": {
+                "average": 0,
+                "positives": 0,
+                "negatives": 0
+            }
+        }
+    ]
+}

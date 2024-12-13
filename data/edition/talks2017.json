@@ -1,0 +1,937 @@
+{
+  "name": "Agile Pays Basque 2024",
+  "startDate": "2024-09-05T22:00:00.000Z",
+  "endDate": "2024-09-07T21:59:59.999Z",
+  "proposals": [
+    {
+      "id": 9001,
+      "title": "Etes vous prêt pour le grand saut ?",
+      "abstract": "La semaine je suis facilitateur, animateur, accompagnateur sur différents sujets dont l'agilité. Le week-end je suis moniteur de saut à l’élastique ... une sorte de coaching. Jusqu’ici aucun rapport me direz vous La semaine je suis payé pour faire quelque chose qui est ma passion : aider des êtres humains à être plus à l’aise avec le tumulte du monde du travail. Le week-end, je suis bénévole : je garde les gens en vie. Jusqu’ici aucun rapport ! Oui ! Et voilà ... en fait il y a énormément de parallèles ! Je vous propose de parcourir la vie d'une entreprise qui tend à évoluer avec son environnement et la vie d'une personne, de personnes, qui va (vont) réaliser un changement très perturbant personnel nous regarderons les ponts qui existent entre ces différents contextes et envisagerons quelques clés pour la transformation d'une entreprise.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "https://www.slideshare.net/AurlienMorvant/transformations-tes-vos-prt-pour-le-grand-saut",
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Aurélien MORVANT",
+          "bio": "La semaine, j’essaye d’être un agilitateur.J'ai la chance d'être un spectateur privilégié de très grandes transformations de ces dernières années.Bon, spectateur, et surtout acteur de ces transformationsMa dernière passion est exercée tous les week-ends lorsque j'aide les plus motivés à sauter à l’élastique du haut d’un pont : une forme de gestion du changement … assez bouleversante car c’est le succès ou …",
+          "company": "KoKan",
+          "references": null,
+          "picture": "AurelienMorvant.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 10151,
+      "title": "Carte, boussole et territoire",
+      "abstract": "Des clés pour comprendre l'enjeu du Management agile et sa posture de soutien",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "https://www.slideshare.net/ThierryGabrielCros/manager-agile-carte-boussole-et-territoire/1",
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Thierry CROS",
+          "bio": "Création de l'association Extreme Programming France en 200Auteur de \"Spécifiez agile\" en 2013, \"Managez agile\" en 2016",
+          "company": "Être Agile",
+          "references": "2016",
+          "picture": "ThierryCros.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 10152,
+      "title": "Software craftsmanship",
+      "abstract": "Si quand on vous dit \"software craftsmanship\", vous répondez \"à vos souhaits\" ; si quand vous entendez \"TDD, BDD, DDD\" vous pensez \"encore des acronymes à la mode\" ; si quand on vous dit \"clean code\" vous vous dites \"ça n'existe pas\"... alors venez voir ce qui se cache derrière tout ça et comment gravir une à une les marches qui mènent au paradis des développeurs.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMÉDIAIRE",
+      "references": "https://www.slideshare.net/niiils/software-craftsmanship-je-commence-par-o",
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Nils LESIEUR",
+          "bio": "Développeur surtout en .Net depuis 10 ansFan de l'agilité depuis 5 ans (j'aurai tellement aimé tomber dedans avant)Joueur, coach de rugby mais aujourd'hui seulement supporterMembre de l'organisation de Lean Kanban France 2016 & 17Speaker à l'Agile Tour Toulouse et Sophia 2016Responsable technique et opérationnel chez Nexeo",
+          "company": "Nexeo",
+          "references": null,
+          "picture": "NilsLesieur.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 10153,
+      "title": "Coaching Dojo",
+      "abstract": "Christophe Deniaud et Fabrice Aimetti souhaitent réunir des personnes qui désirent découvrir, apprendre, développer, … des techniques de coaching qui les aideront dans leur quotidien. Ils co-facilitent depuis janvier 2016 des Coaching Dojo sur Bordeaux.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "https://www.meetup.com/fr-FR/Agile-Bordeaux/events/235134649/",
+      "formats": [
+        "Workshop"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Fabrice AIMETTI",
+          "bio": "Fabrice est Coach Agile et Coach d'Entreprise. Il est convaincu et croit dans l'accompagnement des personnes, équipes et organisations.",
+          "company": "Ayeba",
+          "references": "2016",
+          "picture": "FabriceAimetti.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        },
+        {
+          "name": "Christophe DENIAUD",
+          "bio": "Christophe Deniaud est Coach en Agilité et Coach d’Entreprise chez AUSY. Curieux et passionné d’agilité, il accompagne des équipes dans leurs transitions organisationnelles visant à replacer l’individu et les relations au centre de leur activité.",
+          "company": "Ausy",
+          "references": null,
+          "picture": "ChristopheDeniaud.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 10154,
+      "title": "Il était une fois la vie d'un Product Owner",
+      "abstract": "« Il était une fois la vie d’un Product Owner (PO) » est un retour d’expérience de 9 mois, une immersion dans la peau d’un Product Owner qui découvre son rôle et qui doit livrer son premier produit. Entre les visionnaires, les utilisateurs, l’équipe de développement et les investisseurs, il évolue dans un environnement exigeant, sans filet. De l’initiation à la maturité, ce Product Owner va vivre des échecs, des réussites et construire pas à pas son produit en utilisant des techniques d’expression de besoins dans le seul et unique but de valider ses hypothèses.  Entre fiction et réalité, « Il était une fois la vie d’un Product Owner » est une illustration concrète et fantastique du quotidien et de l’apprentissage d’un Product Owner fraîchement débarqué qui va gérer son produit en mode startup. ",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "http://talondagile.fr/2013/10/conference-il-etait-une-fois-la-vie-dun-product-owner/",
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Romain COUTURIER",
+          "bio": "Romain Couturier est coach agile et facilitateur graphique. En tant qu’artisan du changement, il accompagne les équipes et les organisations dans leur transition et évolution vers l’agilité. Il travaille à développer la valeur ajoutée des produits avec les responsables métier, unifier les équipes, et soutenir les managers dans le déploiement de contextes d'amélioration continue. Il est passé indépendant avec Terre d’Agile en 2012 après 10 années d’apprentissage dans les mondes de l’édition logicielle, startup et SSII. En 2016, il créé 1CUBE&GO, fournisseur de micro-formations.Intervenant ponctuel dans les universités pour l'enseignement de l'Agilité, il transmet et contribue à la communauté agile en tant que membre du CARA Lyon et de la Fédération Agile.",
+          "company": "Terredagile",
+          "references": null,
+          "picture": "RomainCouturier.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 11151,
+      "title": "Où en est le contrat Agile en 2017 ?",
+      "abstract": "La manière de contractualiser des développements Agile est un choix crucial qui peut avoir de lourdes conséquences sur la réussite d'un produit. Quel est l'état de l'art des différents type de contrats ? Quel niveau de compatibilité offrent-ils pour les développement d'un produit en méthode Agile ? En quoi un contrat Agile peut-il aider ? Quelles sont les règles de base d'un contrat Agile ? Cette conférence parcourra les bénéfices et inconvénients de chaque contrat en les illustrant à l'aide de cas réels.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Laurent DELVAUX",
+          "bio": "Diplômé de Telecom Nancy, Laurent débute sa carrière en 2001 et devient un expert des technologies Open-Source. Passionné par le partage des connaissances, il se consacre pleinement à la formation de 2004 à 2006. Après avoir couvert la France et l’Europe durant 2 ans pour partager sa passion technique, il co-crée Zenika en 2006 avec la volonté de créer la société d’experts dans laquelle il rêvait de travailler. Après des projets internationaux entre Londres et Paris, il se spécialise dans l’Agilité puis met en place et commercialise une gamme complète de services Agile allant de la formation au coaching en passant par de nouveaux types de contractualisation.",
+          "company": "ZENIKA",
+          "references": null,
+          "picture": "LaurentDelvaux.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        },
+        {
+          "name": "Mathilde GAUTIER",
+          "bio": "Diplômée de l’UTC, Mathilde débute sa carrière chez Worldline où elle s’est orientée vers la gestion de projets à grande échelle et a capitalisé son expertise via la structure PMO et les pratiques PMI (certifié PMP). Elle découvre l’Agilité dans son poste de manager et met en œuvre une transformation dans son département. Fort de cette expérience, elle se spécialise chez Zenika dans la formation et le coaching en agilité (Certifications : Scrum Master, Product Owner, Management 3.0 et Consultant SAFe 4).Facilitatrice, elle utilise les approches ludinnovantes pour transmettre motivation et passion.",
+          "company": "ZENIKA",
+          "references": null,
+          "picture": "MathildeGautier.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 11152,
+      "title": "TDD et event sourcing",
+      "abstract": "Peut être vous êtes vous intéressé au Test Driven Development. Peut-être avez vous fait quelques katas, mais voilà, vous avez l’impression qu’un kata reste un exemple trop simple confronté à ce que vous vivez au quotidien.Dans cette session de live coding, je vous propose de découvrir mon quotidien de développeur pratiquant le TDD à 100%. Nous allons développer une fonctionnalité de bout en bout sur une application web, et peut être découvrir qu’il n’y a plus d’écart entre un kata et mon code de tous les jours. ",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMÉDIAIRE",
+      "references": null,
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Jean-Baptiste DUSSEAUT",
+          "bio": "eXtreme programmer, co-fondateur d'Arpinum. ",
+          "company": "Arpinum",
+          "references": "2016",
+          "picture": "Jean-baptisteDusseaut.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 11154,
+      "title": "Le Design Sprint du Géant agile ! ",
+      "abstract": "Retour d'expérience sur la mise en oeuvre du Design Sprint au sein d'une grande DSI : UX et agilité à l'échelle ça fonctionne ? ",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "https://fr.slideshare.net/racheldubois/le-design-sprint-du-gant-agile",
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Rachel JOLIN DUBOIS",
+          "bio": "Houlaaaaa !!  Ancienne \"Marketing Product Manager\" devenue \"Product Owner agile\" suite à une rencontre avec SCRUM et Claude Aubry en 2006, je continue à tracer mon chemin en enrichissant mes pratiques à la faveur des nouvelles rencontres et des lectures. Aujourd'hui je forme et j'accompagne les équipes, et plus particulièrement les PO. ",
+          "company": "DSI de Pôle emploi ",
+          "references": null,
+          "picture": "RachelJolinDubois.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        },
+        {
+          "name": "Cécile AURET",
+          "bio": "Agent du changement, aide les projets et les programmes à se mettre à l'agilité avec scrum, kanban et le Scaled Agile Framework®. Expérience en conception fonctionnelle, scrum master et chef de projet avec CMMi pour des projets d'informatique de gestion dans des domaines métier variés. Formateur sur les méthodes agiles, de gestion de projet et de gestion des exigences",
+          "company": "",
+          "references": null,
+          "picture": "CecileAuret.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 12151,
+      "title": "Le work hackisme est un humanisme",
+      "abstract": "Selon wikipedia, l'existentialisme considère chaque personne comme un être unique maître de ses actes, de son destin et des valeurs qu'il décide d'adopter. Peut-on être existentialiste au travail? Je pense que oui, en pratiquant le \"work hackisme\"! C'est ce que j'essaie de faire depuis quelques années via un certain nombre de pratiques, de postures. Dans cette session, je vous présenterez tous ces petits trucs du quotidien qui me permettent d'arriver au boulot le matin avec le sourire et de pouvoir me regarder dans la glace le soir en rentrant.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Frédéric FAURE",
+          "bio": "Javagiliste18 ans dans le code10 ans dans l'agilitéApproche pragmatique et empiriqueCoaching d'équipes opérationnelles",
+          "company": "Zenika",
+          "references": "2016",
+          "picture": "FredericFaure.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 12451,
+      "title": "Libérée Délivrée ",
+      "abstract": "Retour d'expérience sur la \"libération\" de notre groupe et sur notre gouvernance collective et modes de travail dans le Sud-Ouest",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "https://www.slideshare.net/VanessaHumphreys1/librs-dlivrs",
+      "formats": [
+        "Keynote"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Vanessa HUMPHREYS",
+          "bio": "Coach Agile et Leader en innovation managériale depuis des années, j'accompagne les équipes et les entreprises dans leurs transformations agiles et managériales",
+          "company": "onepoint",
+          "references": null,
+          "picture": "VanessaHumphreys.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 13151,
+      "title": "Développeur après 30 ans",
+      "abstract": "Dans l'univers informatique français, le métier de développeur est très peu valorisé.Il est considéré comme une basse tâche de réalisation réservée aux débutants et voué à disparaître avec l'avènement de la robotisation.Pour évoluer dans sa carrière, il faut ensuite s'orienter vers des \"vrais\" métiers comme le management ou l'expertise.A cette vision purement française des choses s'oppose une autre vision issue du Software Craftsmanship. Le développement est alors considéré comme un métier aux multiples facettes, en éternelle évolution et porteur d'avenir !",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "https://www.slideshare.net/christopheheral/agile-tour-toulouse-2016-dveloppeur-aprs-30-ans-nastu-donc-aucune-ambition",
+      "formats": [
+        "Keynote"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Christophe HERAL",
+          "bio": "Convaincu par l'agilité, Christophe l'applique plus particulièrement à travers la mise en place de méthodes d'ingénierie : Extreme Programming, Software Craftsmanship...Il se définit comme un développeur, artisan logiciel, en est fier et souhaite revaloriser son métier.",
+          "company": "",
+          "references": null,
+          "picture": "ChristopheHeral.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 13451,
+      "title": "L'Agilité ? Oui ! Mais pas seulement pour les geeks",
+      "abstract": "Vous n’êtes pas informaticien mais l’agilité vous intéresse ! Transformez ce concept en action. Mon atelier a pour objectif de faire rentrer les débutants dans le monde de l’agilité en accompagnant sur les termes barba... euh spécifiques à l’agilité. Nous traiterons de l’animation de réunion, de créativité des équipes… En résumé, faire en sorte d’appliquer le fameux « thinking out of de box ».",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Sandrine ANTOINE",
+          "bio": "Accélératrice de la qualité de vie au travail, j’accompagne les entreprises aussi bien sur l’amélioration du bien-être des salariés que sur des problématiques liées à l’organisation et le management, bien entendu en mode Agile ! ",
+          "company": "",
+          "references": null,
+          "picture": "SandrineAntoine.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 14301,
+      "title": "Coaching à tous les étages",
+      "abstract": "Cette présentation traitera des questions essentielles : de l’intégration d’un nouvel arrivant dans une entreprise, à l’encouragement de la progression individuelle, en passant par le bien-être au travail de tous. La solution miracle (ou une partie du miracle) ? Le pair coaching maison !\nNous vous expliquerons tout de ce système que nous avons mis en place l’an dernier et continuons à améliorer depuis.\nUn coach (coaché) et une coachée viennent vous présenter la méthode (“du bonheur”).",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Nicolas SAVOIS",
+          "bio": "Je suis développeur depuis 15 ans et CTO dans une grande banque depuis peu. \nJ'ai mangé du cycle en V pendant trop longtemps. \nMais aujourd'hui, je fais parti d'un service en rupture (lean startup interne) ou nous testons de nouvelles méthodes de travail, aussi bien techniques que méthodologiques. \nJe suis aussi coach et coaché depuis 1 an et demi, grâce à notre système de pair coaching. \nCe qui entraîne des changements drastiques dans ma manière d'aborder le travail en entreprise.",
+          "company": "",
+          "references": null,
+          "picture": "NicolasSavois.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        },
+        {
+          "name": "Aurélie AMBAL",
+          "bio": "Je suis une jeune développeur web tout juste sortie d'une grande école. En janvier, j'ai intégré la même entreprise que Nicolas Savois, où nous testons ensemble de nouvelles méthodes de management et d'organisation. Je suis actuellement sa coachée et nous améliorons nos méthodologies en permanence.",
+          "company": "",
+          "references": null,
+          "picture": "AurelieAmbal.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 14302,
+      "title": "Entropie du logiciel",
+      "abstract": "Souvent mal comprise et confondue avec l’érosion du logiciel, la dette technique a mauvaise presse. Elle reste pourtant un processus essentiel (si maitrisé correctement) lors des développements.A contrario, l’entropie logicielle est un phénomène naturel conduisant progressivement le logiciel à perdre en maintenabilité et évolutivité. Nous étudierons les causes d’accélération de cette entropie, mais surtout, comment combattre ce processus qui finit par bloquer l’évolution du logiciel (et au passage sa rentabilité) ?Une conférence ouverte à tous (y compris non développeurs), pour s’intéresser à pourquoi et comment le code source d’un logiciel finit par être immaintenable.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "https://speakerdeck.com/lilobase/entropie-du-logiciel-dette-technique-and-complexite-accidentelle-agile-pays-basque-2017",
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Arnaud LEMAIRE",
+          "bio": "J’ai été tour à tour (et pas dans le bon ordre) : CTO d’une startup, directeur de la production chez un éditeur logiciel, architecte logiciel, consultant et développeur.Après avoir travaillé pour des Startups, des PME, des grands groupes et le secteur public, je suis maintenant membre d’un bureau d’étude pour aider des clients de toute taille à réussir leurs projets logiciels depuis la conception jusqu’au déploiement en production. ",
+          "company": "Arpinum",
+          "references": "2016",
+          "picture": "ArnaudLemaire2.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 14303,
+      "title": "Co-concevoir un atelier de co-conception",
+      "abstract": "Dans une démarche de Design thinking, la phase de conception se fait avec l’ensemble des participants du projet sous la forme d’ateliers. C’est souvent un moment clef où l’avenir du projet prend forme. Alors comment concevoir un atelier de co-conception pour qu’il fonctionne bien auprès des personnes qui vont participer et atteindre les objectifs fixés ? À partir d’un cas pratique, nous nous mettrons dans les conditions pour créer ensemble un atelier de co-conception. Nous appliquerons les mêmes techniques de facilitation que lors d’un atelier avec les clients afin de créer une belle dynamique dans les groupes. Le but est de découvrir les astuces et les principes qui permettent de faciliter efficacement un atelier de co-conception.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMÉDIAIRE",
+      "references": "http://blocnotes.iergo.fr/wp-content/uploads/2017/06/Co-concevoir-un-atelier-de-Co-conception.pdf",
+      "formats": [
+        "Workshop"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Raphaël YHARRASSARRY",
+          "bio": "Je travaille en freelance comme lead UX designer, psychologue depuis le dernier millénaire. Mon parcours m’a permis de travailler sur des sujets variés allant du WAP à la télévision, en passant par, le web, le e-commerce et les applications professionnelles ou le design de service. J’interviens sur les phases de recherches utilisateurs, l’animation d’ateliers de co-conception, la réalisation et l’évaluation des services, ainsi que sur la mise en place de stratégies centrées sur l’Utilisateur.Depuis 2009, je partage mon expérience et mes connaissances sur mon bloc-notes. Ce qui m’a amené par la suite, à enseigner dans divers écoles et notamment à créer une formation en UX Design. Je suis aussi au conseil de l’association Flupa qui cordonne de nombreux événements pour les professionnels de l’UX francophone.",
+          "company": "iergo",
+          "references": null,
+          "picture": "RaphaelYharrassarry.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 14304,
+      "title": "Construisons ensemble notre Management visuel idéal",
+      "abstract": "Nous voulons un Management Visuel qui soit flexible, évolutif et surtout utile à l'équipe... Partageons nos pratiques, besoins et idées respectives pour en comprendre le fonctionnement et l'intérêt.<BR/>Bref, une belle opportunité de partager (et encourager) les pratiques autour du management visuel.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [
+        "Workshop"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Régis SCHNEIDER",
+          "bio": "Je suis marié, avec 2 enfants (7 & 8 ans). J'adore la randonnée (disons trekking si ça fait mieux), la montagne. J'apprécie particulièrement les voyages éloignés, mais aussi ceux au bout de la rue. Tant d'opportunités de rencontrer et d'apprendre !Sinon, je suis Coach Agile à tendance Product Owner chez Valtech à Paris.Je suis tombé dans Agile en 2009 et je ne veux maintenant plus m'en sortir. En particulier pour la raison que je trouve là un bon prétexte pour [m']amuser au boulot. Mais c'est toujours fait avec beaucoup de sérieux.",
+          "company": "",
+          "references": "2016",
+          "picture": "RegisSchneider.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        },
+        {
+          "name": "Margerie GUILLOT",
+          "bio": "Ze SM",
+          "company": "Valtech",
+          "references": null,
+          "picture": "MargerieGuillot.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 15301,
+      "title": "Ne créez pas un produit inutile!",
+      "abstract": "\"Il n’y a rien de plus inutile que de faire avec efficacité quelque chose qui ne doit pas du tout être fait.\" -Peter Drucker \nCette phrase vous parle ? Et bien venez ! \nNous parlerons de la vie du produit, de son idée à sa mise sur le marché en se concentrant sur la VALEUR. \n#LeanEntreprise #StoryMapping",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "https://fr.slideshare.net/alicebarralon9",
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Alice BARRALON",
+          "bio": "Artisan agiliste, et développeur sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). Co-fondatrice l’événement AgilePaysBasque.",
+          "company": "Oriions",
+          "references": "2016",
+          "picture": "AliceBarralon.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 15302,
+      "title": "Tests Tout-Terrain",
+      "abstract": "# Tests Tout-Terrain Je fais des tests, mais: - Stubs, mock, fake, spy, property? je suis un peu paumé... - les tests unitaire, fonctionnels, techniques, de perfs, d'intégration c'est cher.- ca met 40 plombes! - Je débute, et franchement je ne sais pas par ou commencer. - legacy! FONCTION test_la_conf_TTT():    #Arrange    participants = genere_des_participants(2,MAX_DE_LA_SALLE) #au moins 2 orgas!    #Act    participants.viens_a_la_conf_TTT()     #Assert     POUR participant DANS participants:         ASSERT participant.a_appris_un_truc_sur_les_tests",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "https://krilivye.github.io/TTT/",
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Pierre BOUSQUI&Eacute;",
+          "bio": "Je suis un informaticien; programmeur,développeur,architecte logiciel,administrateur système...\nJe suis un généraliste aussi bien hardware que software.\nJe cherche néanmoins à atteindre un niveau d'excellence dans toutes les spécialités.\nJe participe à de nombreuses associations (Okiwi, JUG, April, GUTemberg...) autour de l'informatique.",
+          "company": "Yaal",
+          "references": null,
+          "picture": "PierreBousquie.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 16451,
+      "title": "Parce-qu'on ne change pas une culture",
+      "abstract": "Les \"méthodes\" de conduite du changement fonctionnent très mal lorsque l'on cherche à faire bouger les mentalités. Expériences et théories sur la nature profonde du changement dans les groupes humains",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "https://www.slideshare.net/francois_salazar/agile-pays-basque-2017-parcequon-ne-change-pas-une-culture-comme-on-change-une-roue-de-voiture/1",
+      "formats": [
+        "Workshop"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "François SALAZAR",
+          "bio": "François occupe aujourd’hui un poste de directeur dans une PME Innovante en transition vers un modèle agile intégral. Il partage aussi ses retours d’expériences comme facilitateur de transition pour les dirigeants. Bien avant : Développeur, chef de projet, manager, entrepreneur, formateur",
+          "company": "Waavy",
+          "references": null,
+          "picture": "FrancoisSalazar.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 16452,
+      "title": "Mob Programming 101",
+      "abstract": "Le Mob Programming est cette pratique de développement étrange où toutes les personnes travaillent en même temps, en un même lieu sur une même fonctionnalité et sur un seul ordinateur ! \nL'objectif de cet atelier est de faire découvrir le Mob Programming par la pratique en réalisant quelques kata classiques (FizzBuzz, Bowling Counter) dans un langage à déterminer ensemble (Python, C#, Java, JavaScript, Zombie...)",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [
+        "Workshop"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Stéphane WOJEWODA",
+          "bio": "Ma passion : rester à la pointe des tendances tech et culture. Ma mission : aider les individus et leurs entreprises à grandir à un rythme soutenable. Mon sourire : quand les équipes que j'accompagne comprennent pourquoi elles font ce qu'elles font, et parviennent à bien faire les bonnes choses au bon moment avec un effort just suffisant. Ce qui me rend encore plus heureux : voir le sourire de ma fille qui grandit. Et elle le fait plus vite que les entreprises.",
+          "company": "INFOQ",
+          "references": null,
+          "picture": "StephaneWojewoda.png",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 16453,
+      "title": "The NoEstimates Game",
+      "abstract": "Vous vous demandez ce que NoEstimates veut dire en pratique, ou pourquoi vous devriez l'utiliser ? Peut être vous avez entendu parler du buzz, vous avez lu l'excellent livre de Vasco Duarte ou vous voulez simplement comprendre comment mieux planifier et réduire les risques. Si c'est le cas, vous devriez participer à ce jeu multi-joueurs, il vous aidera à :* Apprendre les bases du NoEstimates et pourquoi le concept peut aider* Savoir comment créer une manière risquée de planifier* Comprendre comment réduire la variation qui affecte la livraison",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "https://mattphilip.wordpress.com/noestimates-game/",
+      "formats": [
+        "Workshop"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Matthew PHILIP",
+          "bio": "Matt Philip is the Director of Learning and Development at ThoughtWorks. In his work as a coach, trainer, quality advocate and facilitator, Matt helps organizations and teams become fit for their purpose through continuous learning. He draws on lean and agile values, principles and practices (Kanban Method, XP, Scrum) to offer experience, models and options to customers and teammates. ",
+          "company": "ThoughtWorks",
+          "references": null,
+          "picture": "MatthewPhilip.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 16454,
+      "title": "Job Story",
+      "abstract": "Si vous avez déjà travaillé sur un projet agile, vous avez sans doute rencontré la User Story. Vous avez même peut-être utilisé des \"persona\", ces fiches de personnage qui représentent un de vos utilisateurs type. Ces formats ont marqué une vraie étape dans l'évolution de la spécification agile et sont le support actuellement le plus largement utilisé pour la formalisation du besoin en mode agile. Mais est-ce suffisant ? Est-ce que cela permet de capter l'essence du besoin ? Pas forcément ! La Job Story est une approche complémentaire, qui peut venir enrichir votre compréhension des attentes de vos clients, et vous aider à développer un super produit !",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMEDIATE",
+      "references": "https://speakerdeck.com/agabrillagues/agile-pays-basque-2017-job-story-penser-autrement-lexpression-du-besoin-agile",
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Anne GABRILLAGUES",
+          "bio": "Depuis une première rencontre avec l'Agilité en 2008, j'accompagne les équipes de développement en tant que Scrum Master, Product Owner ou Coach Agile. Agiliste convaincue, je participe activement à la diffusion de l'Agilité via l'organisation de Meetup et de conférences à Paris. J'ai fait partie de l'équipe organisatrice des 3 derniers ScrumDay et j'ai rejoint l'an dernier l'équipe Lean Kanban France. Parmi mes projets personnels figurent aussi le développement du jeu d'apprentissage Kanbanzine et divers projets de traduction.",
+          "company": "Ippon Technologies",
+          "references": "2016",
+          "picture": "AnneGabrillagues.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 17451,
+      "title": "Agile Exprès",
+      "abstract": "L'agilité ne se fait pas toute seule, il faut l'instaurer avec soin et attention. Un regard sur les différentes façons d'implémenter l'agilité et les pièges à éviter. Intéressant pour les débutants aussi bien que les initiés, les développeurs aussi bien que les directeurs. Pas de connaissance particulière nécessaire, je parlerai de tous ce qu'il est nécessaire pour réussir une bonne et durable implémentation agile.L'idée de cette présentation est de partager un retour d'expérience et une vue étrangère tirés des discussions et questions posées sur les transitions vers l'agilité.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": null,
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Sam CRANFORD",
+          "bio": "Catalyseur agile, extrême programmeur et formateur avec plus de 20 ans d'experience dans le monde informatique en transition agile",
+          "company": "Upwiser",
+          "references": "2016",
+          "picture": "SamCranford.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        },
+        {
+          "name": "Bastien GALLAY",
+          "bio": "",
+          "company": "Upwiser",
+          "references": null,
+          "picture": "BastienGallay.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": 17454,
+      "title": "Lean Takeoff",
+      "abstract": "Découvrez la posture entrepreneuriale du Lean Startup pour mitiger le risque marché avant le risque produit",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "DÉBUTANT",
+      "references": "http://leantakeoff.com/",
+      "formats": [
+        "Presentation"
+      ],
+      "categories": [],
+      "tags": [],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Alfred ALMENDRA",
+          "bio": "Consultant en management agile de l'innovation",
+          "company": "",
+          "references": null,
+          "picture": "AlfredAlmendra.jpg",
+          "location": "",
+          "socials": {
+            "twitter": null
+          }
+        }
+      ],
+      "review": {
+        "average": 0,
+        "positives": 0,
+        "negatives": 0
+      }
+    }
+  ]
+}
