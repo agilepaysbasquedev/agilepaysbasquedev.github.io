@@ -5,8 +5,8 @@
 {{ $schedule := index .Site.Data.edition (printf "schedule%s" .Params.edition) }}
 {{ $talks := index $.Site.Data.edition (printf "talks%s" .Params.edition) }}
 
-<section class="page-section">
-    <div class="schedule">
+<section class="page-section schedule">
+    <div class="container">
         <div class="row">
             <!-- Navigation pour les tracks -->
             <div class="col-md-12 nav-link-wrap">
