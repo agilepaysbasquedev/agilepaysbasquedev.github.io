@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+{{ partial "page-title" . }}
+
+{{ $talks := index $.Site.Data.edition (printf "talks%s" .Params.edition) }}
+
+<!-- Speaker Section Begin -->
+<section class="page-section">
+    <div class="container">
+        <div class="row">
+            {{ range $talks.proposals }}
+            {{ if eq .confirmationStatus "CONFIRMED" }}
+            <div class="col-md-12 tab-wrap">
+                <div class="speaker-wrap">
+                    <div class="text">
+                        <h2>{{ .title | safeHTML }}</h2>
+                        <p>{{ .abstract | safeHTML }}</p>
+                        <h3 class="speaker-name">
+                            {{ range .speakers }}
+                            {{ $filename := printf "speakers/%s.jpeg" (replace .name " " "") }}
+                            {{ partial "asset-image" (dict "src" $filename "alt" .name  "size" "96x" "class" "img-fluid rounded-circle") }}
+                            {{ .name  | safeHTML }} {{ with .company }}<span class="position">{{ .  | safeHTML }}</span>{{ end }}
+                            {{ end }}
+                        </h3>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+<!-- Speaker Section End -->
+
+{{ partial "newsletter" . }}
+
+{{ end }}
