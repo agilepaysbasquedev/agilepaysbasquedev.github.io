@@ -2,12 +2,11 @@
 
 {{ partial "page-title" . }}
 
-{{ $talks := index $.Site.Data.edition (printf "talks%s" .Params.edition) }}
-
-<!-- Speaker Section Begin -->
+<!-- Last Edition Section Begin -->
 <section class="page-section">
     <div class="container">
         <div class="row">
+            {{ $talks := index $.Site.Data.edition (printf "talks%s" .Params.edition) }}
             {{ range $talks.proposals }}
             {{ if eq .confirmationStatus "CONFIRMED" }}
             <div class="col-md-12 tab-wrap">
@@ -17,7 +16,10 @@
                         <p>{{ .abstract | safeHTML }}</p>
                         <h3 class="speaker-name">
                             {{ range .speakers }}
-                            {{ $filename := printf "speakers/%s.jpeg" (replace .name " " "") }}
+
+                            {{ $imageName := replaceRE "[ -]" "" ((replaceRE "([A-Z])([A-Z]+)" "${1}${2}" .name | lower) | title) }}
+                            {{ $filename := printf "speakers/%s.jpeg" $imageName }}
+
                             {{ partial "asset-image" (dict "src" $filename "alt" .name  "size" "96x" "class" "img-fluid rounded-circle") }}
                             {{ .name  | safeHTML }} {{ with .company }}<span class="position">{{ .  | safeHTML }}</span>{{ end }}
                             {{ end }}
@@ -30,7 +32,7 @@
         </div>
     </div>
 </section>
-<!-- Speaker Section End -->
+<!-- Last Edition Section End -->
 
 {{ partial "newsletter" . }}
 

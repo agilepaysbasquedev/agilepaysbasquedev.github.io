@@ -1145,32 +1145,6 @@
             }
         },
         {
-            "id": 138,
-            "title": "Table Ronde autour des livres du collectif",
-            "abstract": "",
-            "deliberationStatus": "ACCEPTED",
-            "confirmationStatus": "CONFIRMED",
-            "publicationStatus": "PUBLISHED",
-            "level": "TOUS",
-            "references": null,
-            "formats": [
-                "workshop"
-            ],
-            "categories": [
-                ""
-            ],
-            "tags": [],
-            "languages": [
-                "fr"
-            ],
-            "speakers": [],
-            "review": {
-                "average": 0,
-                "positives": 0,
-                "negatives": 0
-            }
-        },
-        {
             "id": 139,
             "title": "Artisanat Logiciel : une impasse culturelle ?",
             "abstract": "Qu'on l'appelle \"\"artisanat du logiciel\"\" ou \"\"software craftsmanship\"\" dans sa version anglo-saxonne, la volonté des développeurs de logiciels de définir une certaine vision de leur métier est aussi ancienne que les méthodes agiles. Les deux mouvements ont d'ailleurs une longue histoire commune. Cependant, alors que la place de l'un est désormais reconnue dans le monde de l'entreprise, l'autre reste au mieux un truc anecdotique qui n'a d'importance que pour une poignée de \"\"craftsmen\"\" autoproclamés. Et pourtant, ce n'est pas par manque d'analogies pour imaginer un mode d'organisation dans les professions du développement logiciel : des guildes médiévales aux artisans contemporains, de l'ordre des médecins à celui des pirates... Beaucoup d'efforts pour un résultat relativement faible. Pourquoi les initiatives réussissent quand il s'agit de développeurs qui se cantonnent à parler entre eux ? Pourquoi le statut d'un développeur de logiciel ressemble bien trop souvent à celui d'un ouvrier du code ? Alors que les logiciels deviennent omniprésents dans la société, pourquoi leur processus de création est-il encore si mal compris des non initiés ? Et si le problème venait des développeurs eux-mêmes ? Ouvrons le débat !",
