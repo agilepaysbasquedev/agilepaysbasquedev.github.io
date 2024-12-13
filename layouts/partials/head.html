@@ -22,7 +22,7 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" rel="stylesheet">
   {{ $style := resources.Get "/css/style.css" | resources.Minify }}
   {{ $bootstrap := resources.Get "/css/bootstrap.min.css" | resources.Minify }}
-  {{ $style := slice $style $bootstrap | resources.Concat "css/bundle.css" | resources.Minify }}
+  {{ $style := slice $bootstrap $style | resources.Concat "css/bundle.css" | resources.Minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}" type="text/css">
 
   <!-- SEO -->
