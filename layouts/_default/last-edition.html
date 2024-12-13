@@ -8,26 +8,9 @@
         <div class="row">
             {{ $talks := index $.Site.Data.edition (printf "talks%s" .Params.edition) }}
             {{ range $talks.proposals }}
-            {{ if eq .confirmationStatus "CONFIRMED" }}
-            <div class="col-md-12 tab-wrap">
-                <div class="speaker-wrap">
-                    <div class="text">
-                        <h2>{{ .title | safeHTML }}</h2>
-                        <p>{{ .abstract | safeHTML }}</p>
-                        <h3 class="speaker-name">
-                            {{ range .speakers }}
-
-                            {{ $imageName := replaceRE "[ -]" "" ((replaceRE "([A-Z])([A-Z]+)" "${1}${2}" .name | lower) | title) }}
-                            {{ $filename := printf "speakers/%s.jpeg" $imageName }}
-
-                            {{ partial "asset-image" (dict "src" $filename "alt" .name  "size" "96x" "class" "img-fluid rounded-circle") }}
-                            {{ .name  | safeHTML }} {{ with .company }}<span class="position">{{ .  | safeHTML }}</span>{{ end }}
-                            {{ end }}
-                        </h3>
-                    </div>
-                </div>
-            </div>
-            {{ end }}
+                {{ if eq .confirmationStatus "CONFIRMED" }}
+                    {{ partial "talk" . }}
+                {{ end }}
             {{ end }}
         </div>
     </div>

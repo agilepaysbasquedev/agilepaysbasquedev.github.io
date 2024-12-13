@@ -27,21 +27,7 @@
                     {{ range .sessions }}
                     {{ $talks := where $talks.proposals "id" .talk_id }}
                     {{ $talk := index $talks 0 }}
-
-                    <div class="speaker-wrap">
-                        <div class="text">
-                            <span class="time">{{ .time }}</span>
-                            <h2>{{ $talk.title }}</h2>
-                            <p>{{ $talk.abstract | safeHTML }}</p>
-                            <h3 class="speaker-name">
-                                {{ range $talk.speakers }}
-                                {{ $filename := printf "speakers/%s.jpeg" (replace .name " " "") }}
-                                {{ partial "asset-image" (dict "src" $filename "alt" .name  "size" "96x" "class" "img-fluid rounded-circle") }}
-                                {{ .name }} {{ with .company }}<span class="position">{{ . }}</span>{{ end }}
-                                {{ end }}
-                            </h3>
-                        </div>
-                    </div>
+                        {{ partial "talk" $talk }}
                     {{ end }}
                 </div>
                 {{ end }}

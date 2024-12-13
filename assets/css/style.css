@@ -591,27 +591,28 @@ ol {
 .speaker-wrap {
 	width: 100%;
 	background: #fff;
-	padding: 40px;
+	padding: 20px 0;
 	margin-bottom: 20px;
 	border-bottom: 1px solid #e5e5e5;
-}
 
-.speaker-wrap .text h2 {
-	font-size: 24px;
-	font-weight: 700;
-}
-
-.speaker-wrap .text h2 a {
-	color: #000000;
-}
-
-.speaker-wrap .text h3.speaker-name {
-	font-size: 20px;
-}
-
-.speaker-wrap .text .position {
-	font-size: 18px;
-	color: rgba(0, 0, 0, 0.4);
+	.talk {
+		font-size: 24px;
+		font-weight: 700;
+		text-align: left;
+	}
+	.speakers {
+		font-size: 20px;
+		.image {
+			margin-right: 5px;
+		}
+		.name {
+			margin-right: 20px;
+		}
+	}
+	.position {
+		font-size: 18px;
+		color: rgba(0, 0, 0, 0.4);
+	}
 }
 
 /*---------------------
