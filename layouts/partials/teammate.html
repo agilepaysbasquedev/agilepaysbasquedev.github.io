@@ -1,0 +1,10 @@
+<div class="member-item col-lg-4 mb-3">
+  {{ partial "asset-image" (dict "src" .image "alt" .name "size" "200x") }}
+  <div class="mi-social">
+    {{ partial "social-media/team" . }}
+  </div>
+  <div class="mi-text">
+    <h3>{{ .name }}</h3>
+    {{ with .position }}<span>{{ . }}</span>{{ end }}
+  </div>
+</div>
