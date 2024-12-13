@@ -2,11 +2,13 @@
 
 {{ partial "page-title" . }}
 
+{{ $talks := index $.Site.Data.edition (printf "talks%s" .Params.edition) }}
+
 <!-- Speaker Section Begin -->
 <section class="page-section">
     <div class="container">
         <div class="row">
-            {{ range .Site.Data.edition.apb2024.proposals }}
+            {{ range $talks.proposals }}
             {{ if eq .confirmationStatus "CONFIRMED" }}
             {{ range .speakers }}
             <div class="col-sm-12">
