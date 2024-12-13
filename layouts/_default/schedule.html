@@ -10,7 +10,7 @@
         <div class="row">
             <!-- Navigation pour les tracks -->
             <div class="col-md-12 nav-link-wrap">
-                <div class="nav nav-pills d-flex text-center" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                <div class="nav d-flex text-center" role="tablist" aria-orientation="vertical">
                     {{ range $schedule.tracks }}
                     <a class="nav-link ftco-animate fadeInUp {{ if eq .id "amphi" }}active{{ end }}" id="v-pills-{{ .id }}-tab" data-toggle="pill" href="#v-pills-{{ .id }}" role="tab" aria-controls="v-pills-{{ .id }}" aria-selected="true">
                         {{ .name }}
@@ -21,7 +21,7 @@
 
             <!-- Contenu des tracks -->
             <div class="col-md-12 tab-wrap">
-                <div class="tab-content" id="v-pills-tabContent">
+                <div class="tab-content">
                     {{ range $schedule.tracks }}
                     <div class="tab-pane fade {{ if eq .id "amphi" }}show active{{ end }}" id="v-pills-{{ .id }}" role="tabpanel" aria-labelledby="v-pills-{{ .id }}-tab">
                     {{ range .sessions }}
