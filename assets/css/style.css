@@ -416,7 +416,6 @@ ol {
 
 .ha-text ul li {
 	list-style: none;
-	font-size: 16px;
 	line-height: 30px;
 	color: #6a6b7c;
 }
@@ -440,6 +439,12 @@ ol {
 	width: 100%;
 	background: #f44949;
 	content: "";
+}
+
+.shape-image {
+	float: left;
+	width: 600px; /* Ajustez la taille selon vos besoins */
+	margin-right: 20px;
 }
 
 /*---------------------
