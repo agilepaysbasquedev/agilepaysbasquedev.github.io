@@ -9,7 +9,7 @@
             {{ $talks := index $.Site.Data.edition (printf "talks%s" .Params.edition) }}
             {{ range $talks.proposals }}
                 {{ if eq .confirmationStatus "CONFIRMED" }}
-                    {{ partial "talk" . }}
+                    {{ partial "talk" (dict "talk" .) }}
                 {{ end }}
             {{ end }}
         </div>
