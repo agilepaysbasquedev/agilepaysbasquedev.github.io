@@ -16,11 +16,11 @@ L'ESTIA se trouve dans la technopole Izarbel située sur Bidart.
 
 ## Venir en bus
 
-La technopole Izarbel est desservie par plusieurs lignes de bus : 
-* la **ligne N30** (arrêt Antoine d'Abbadie)
+La technopole Izarbel est desservie par plusieurs lignes de bus :
+
+* la **4** (arrêt Izarbel)
+* la **3** (arrêt Barbarenia)
 * la **46** (arrêt Antoine d'Abbadie)
-* la **4** (arrêt d’izabel)
-* la 3 (arrêt Barbarenia).
 
 ## Venir en voiture
 
