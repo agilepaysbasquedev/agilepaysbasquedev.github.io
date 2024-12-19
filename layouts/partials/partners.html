@@ -1,0 +1,20 @@
+<section class="partners-section">
+  <div class="container">
+    {{ $partners := index .Site.Data.edition (printf "partners%s" .Params.edition) }}
+    {{ range $partners.partners }}
+      <h2 class="group-title">{{ .group }}</h2>
+      <div class="row">
+        {{ range .elements }}
+        <div class="col-lg-3">
+          <div class="partner-item">
+            <a href="{{ .link }}" target="_blank" rel="noopener noreferrer">
+              {{ $filename := printf "partners/%s" .imageUrl }}
+              {{ partial "asset-image" (dict "src" $filename "alt" .name "class" "img-fluid") }}
+            </a>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</section>

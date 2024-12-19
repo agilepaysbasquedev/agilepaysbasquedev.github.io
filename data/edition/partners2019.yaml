@@ -1,0 +1,23 @@
+
+partners:
+  - group: "Sponsors"
+    elements:
+    - {name: "Agile Tribu", description: "Agile Tribu, Améliorons ensemble nos pratiques Agiles.", link: "http://www.agiletribu.com/", imageUrl: "agile-tribu.png", width: "190px"}
+    - {name: "ANEO", description: "ANEO", link: "https://www.aneo.eu/", imageUrl: "ANEO_LOGO_Qualité max.png", width: "150px"}
+    - {name: "EXAKIS NELITE", description: "Exakis Nelite, partenaire de la DSI et des Métiers, pour bâtir des plateformes Cloud intelligentes, encourager la collaboration, favoriser la mobilité,l&#039;innovation", link: "http://www.exakis-nelite.com", imageUrl: "exakis-nelite.png", width: "170px"}
+    - {name: "OnePoint", description: "OnePoint, conseil en transformation et solutions digitales", link: "https://www.groupeonepoint.com/", imageUrl: "Onepoint.png", width: "215px"}
+    - {name: "Oriions", description: "Oriions, Avez-vous pensé à vous faire former ou accompagner dans votre transition agile et votre innovation continue ?", link: "http://www.oriions.com/", imageUrl: "oriions.png", width: "150px"}
+    - {name: "SOPHiA GENETICS", description: "SOPHiA GENETICS is a health tech company which has developed SOPHiA Artificial Intelligence, the universal and innovative technology for genomic data analysis.", link: "https://www.sophiagenetics.com", imageUrl: "logo_sophiagenetics.png", width: "150px"}
+    - {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
+  - group: "Partenaires privilégiés"
+    elements:
+    - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
+    - {name: "IUT Bayonne Pays Basque", description: "IUT Bayonne Pays Basque", link: "https://www.iutbayonne.univ-pau.fr/", imageUrl: "iut-bayonne.jpg", width: "150px"}
+  - group: "Avec la participation de"
+    elements:
+    - {name: "Le Spot", description: "Bar-Brasserie-Snack Le Spot", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
+    - {name: "Bleu Blanc Jaune", description: "Bleu Blanc Jaune", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bbj.jpg", width: "120px"}
+    - {name: "Moulin de Bassilour", description: "Moulin de Bassilour", link: "https://www.facebook.com/moulinde.bassilour", imageUrl: "moulindebassilour.jpg", width: "120px"}
+    - {name: "L'Eau Vive", description: "L'Eau Vive", link: "http://www.eau-vive.com/", imageUrl: "eau-vive.png", width: "140px"}
+    - {name: "La Ferme Elizaldia", description: "La Ferme Elizaldia", link: "https://www.ferme-elizaldia.com/", imageUrl: "ferme-elizaldia.jpg", width: "120px"}
+

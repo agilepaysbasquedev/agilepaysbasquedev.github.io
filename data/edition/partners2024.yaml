@@ -1,0 +1,4 @@
+partners:
+  - group: "Partenaires privilégiés"
+    elements:
+      - { name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px" }
