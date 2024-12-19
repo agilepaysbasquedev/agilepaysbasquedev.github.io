@@ -1,9 +1,10 @@
 <div class="col-md-12 tab-wrap">
     <div class="talk">
-          <h2 class="title">{{ .title | safeHTML }}</h2>
-          <p>{{ .abstract | safeHTML }}</p>
+          <h2 class="title">{{ .talk.title | safeHTML }}</h2>
+          <p>{{ .time | safeHTML }}</p>
+          <p>{{ .talk.abstract | safeHTML }}</p>
           <h3 class="speakers">
-              {{ range .speakers }}
+              {{ range .talk.speakers }}
               <span class="image">
                   {{ $imageName := replaceRE "[ -]" "" ((replaceRE "([A-Z])([A-Z]+)" "${1}${2}" .name | lower) | title) }}
                   {{ $filename := printf "speakers/%s.jpeg" $imageName }}
