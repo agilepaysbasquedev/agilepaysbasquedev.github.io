@@ -170,16 +170,7 @@
                 {{ partial "venue" . }}
             </div>
             <div class="col-lg-6 map">
-                {{ with .map }}
-                <iframe src="{{ . }}"
-                        width="100%"
-                        height="400"
-                        style="border:0;"
-                        allowfullscreen="false"
-                        loading="lazy"
-                        title="Google map pour montrer où se trouve la conférence"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                {{ end }}
+                {{ partial "map" (dict "width" "100%" "height" "400") }}
             </div>
         </div>
     </div>

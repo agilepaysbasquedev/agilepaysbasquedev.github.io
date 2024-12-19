@@ -14,21 +14,13 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                {{ with .map }}
-                <iframe
-                    src="{{ . }}"
-                    height="580"
-                    style="border:0;"
-                    title="Google map pour montrer où se trouve la conférence"
-                    allowfullscreen=""></iframe>
-                {{ end }}
+                {{ partial "map" (dict "height" "580") }}
             </div>
         </div>
     </div>
 </section>
 <!-- Venue Top Content Section End -->
 {{ end }}
-
 <section class="page-section">
     <div class="container">
         <div class="row">
