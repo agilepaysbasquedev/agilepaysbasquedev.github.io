@@ -26,7 +26,7 @@ params:
       display: true
       date: 2025-12-12
     pricing:
-      display: true
+      display: false
     venue:
       display: true
   footer:
