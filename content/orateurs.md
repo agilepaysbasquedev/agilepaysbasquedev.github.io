@@ -1,5 +1,5 @@
 ---
-title: "Orateurs"
+title: "Orateur·rice.s"
 draft: false
 layout: speaker
 description: "Découvrez les orateurs d’Agile Pays Basque : des personnes passionnées du monde du logiciel, prêts à partager leurs expériences, leurs savoir-faire et leurs visions de l’agilité."
@@ -7,9 +7,9 @@ keywords: "Agile Pays Basque, Agile, Pays Basque, Conférence agile, Développem
 edition: "2024"
 menus:
     main:
-        name: "Les orateurs"
+        name: "Les orateur·rice.s"
         weight: 3
     footer:
-        name: "Les orateurs"
+        name: "Les orateur·rice.s"
         weight: 3
 ---
