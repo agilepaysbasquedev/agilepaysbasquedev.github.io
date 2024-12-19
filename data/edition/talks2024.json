@@ -244,7 +244,7 @@
           "company":"Pauline Garric Coaching",
           "references":"- Flowcon en 2018 sur l'agilité RH\n- blog : https://www.le-lab-de-pauline.com/",
           "picture":"https://drive.google.com/drive/folders/1Iy14Lu6dm8LukOA_XKid3ie45BtZS_pb",
-          "location":"5 Rue du Moulin, 89500 Rousson, France",
+          "location":"Rousson, France",
           "socials":{
 
           }
@@ -446,7 +446,7 @@
           "company":null,
           "references":"I have been speaking at conferences for over 10 years. I've spoken at the Agile Tours in Bordeaux, Paris, Toulouse, Nantes and Lille. I've also spoken at Agile Pays Basque as well as in several meetups. I have 5 years of experience as a professional trainer. Furthermore, I've also helped organize several conferences and open space events and have been an active participant in many more. Finally, I've been the president of Okiwi, an association of crafters and agilists which organizes regular events, for over 10 years. ",
           "picture":"https://avatars.githubusercontent.com/u/1654770?v=4",
-          "location":null,
+          "location": "Bordeaux, France",
           "socials":{
             "github":"nostradamnit",
             "twitter":"https://mamot.fr/@nostradamnit"
@@ -695,10 +695,10 @@
         {
           "name":"Nick Tune",
           "bio": "Nick est un consultant dans le développement logiciel qui aide les organisations à moderniser leurs architectures et leurs méthodes de travail. Ses sujets préférés sont le Domain-Driven Design (DDD) et le Continuous Delivery (CD). Il est l'auteur de « Architecture Modernization » (Manning) et « Patterns, Principles, and Practices of Domain-Driven Design » (Wrox). Vous trouverez son blog et plus d'informations sur nick-tune.me",
-          "company":"Aardling",
+          "company":"PayFit",
           "references":"",
           "picture":"NickTune.jpeg",
-          "location":"Londres",
+          "location":"Londres, Royaume Unis",
           "socials":{
           }
         }
@@ -747,7 +747,7 @@
           "company":"Octo",
           "references":"",
           "picture":"EmelineBouletRonteix.jpeg",
-          "location":"Londres",
+          "location":"Biarritz, Pays Basque",
           "socials":{
           }
         }
