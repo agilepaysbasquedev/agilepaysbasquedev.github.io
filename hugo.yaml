@@ -40,7 +40,7 @@ params:
     address: Technopole Izarbel 90 Allée Fauste d’Elhuyar, <br> 64210 Bidart
     link: http://www.estia.fr/
 
-ecurity:
+security:
   funcs:
     getenv:
       - 'ANALYTICS_PROJECT_ID'
