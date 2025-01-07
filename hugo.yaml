@@ -23,7 +23,7 @@ params:
       url: /sponsor
       label: Devenir Sponsor
     countdown:
-      display: true
+      display: false
       date: 2025-12-12
     pricing:
       display: false

@@ -11,12 +11,12 @@ members:
     socials:
       twitter: "https://x.com/BouletEmeline"
       linkedin: "https://www.linkedin.com/in/emelineboulet/"
-  - name: "Audrey Portron"
-    image: "team/audrey.png"
-    position: "Coach Agile"
-    socials:
-      twitter: "https://x.com/atron_pi"
-      linkedin: "https://www.linkedin.com/in/audreyportron/"
+#  - name: "Audrey Portron"
+#    image: "team/audrey.png"
+#    position: "Coach Agile"
+#    socials:
+#      twitter: "https://x.com/atron_pi"
+#      linkedin: "https://www.linkedin.com/in/audreyportron/"
   - name: "Pascal Menardais"
     image: "team/pascal.png"
     position: "Ingénieur logiciel senior"
