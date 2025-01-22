@@ -2,6 +2,7 @@ baseURL: 'https://agile-paysbasque.fr/'
 languageCode: 'fr'
 title: 'Agile Pays Basque'
 
+enableRobotsTXT: true
 params:
   social:
     linkedin: "https://www.linkedin.com/company/agile-paysbasque"
