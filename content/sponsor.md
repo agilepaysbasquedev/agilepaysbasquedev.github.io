@@ -22,6 +22,8 @@ En devenant sponsor, vous contribuerez à réunir la communauté Agile autour d�
 
 - **Soutien financier** : Contribuez à couvrir les frais logistiques et organisationnels.
 - **Dons en nature** : Offrez des produits ou services utiles aux participants (goodies, fournitures, etc.).
+  
+{{< button class="primary-btn" href="/Dossier-de-sponsoring-Agile-Pays-Basque.pdf" >}}Télécharger le dossier de sponsoring{{< /button >}}
 
 ## Contactez-nous
 
