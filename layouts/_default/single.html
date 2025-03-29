@@ -2,14 +2,18 @@
 
 {{ partial "page-title" . }}
 
+{{ with .Content }}
 <section class="page-section">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        {{ .Content | safeHTML }}
+        {{ . | safeHTML }}
       </div>
     </div>
   </div>
 </section>
+{{ end }}
+
 {{ partial "newsletter" . }}
+
 {{ end }}
