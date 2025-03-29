@@ -19,13 +19,15 @@ params:
   homepage:
     title: "Agile Pays Basque"
     topTitle: "La conférence les pieds dans l'eau"
-    subTitle: "La conférence est de retour en 2025"
+    subTitle: "L'édition 2025 est en préparation"
     link:
       url: /sponsor
       label: Devenir Sponsor
     countdown:
-      display: false
-      date: 2025-12-12
+      display: true
+      date: 2025-09-12
+      subtitle: Entre mer et montagne,
+      title: Agile Pays Basque est de retour le 12 septembre 2025
     pricing:
       display: false
     venue:

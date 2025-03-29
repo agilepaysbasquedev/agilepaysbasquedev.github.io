@@ -26,15 +26,16 @@
 </section>
 <!-- Hero Section End -->
 
-{{ with .Site.Params.homepage.countdown.display }}
+{{ with .Site.Params.homepage.countdown }}
 <!-- Counter Section Begin -->
+{{ if .display }}
 <section class="counter-section bg-gradient">
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
                 <div class="counter-text">
-                    <span>Entre mer et montagne,</span>
-                    <h3>Agile Pays Basque est de retour en 2025</h3>
+                    <span>{{ .subtitle | safeHTML }}</span>
+                    <h3>{{ .title | safeHTML }}</h3>
                 </div>
             </div>
             <div class="col-lg-8">
@@ -45,6 +46,7 @@
     </div>
 </section>
 <!-- Counter Section End -->
+{{ end }}
 {{ end }}
 
 <!-- Home About Section Begin -->
@@ -64,15 +66,15 @@
                         La conférence Agile Pays Basque se tient tous les ans à Bidart, dans les Pyrénées Atlantiques (64), à quelques pas de l'océan. <br>
                     </p>
                     <p>
-                        L’objectif de cette conférence, qui se tient sur 2 jours, est de réunir les acteurs du monde du logiciel. Que vous soyez développeur, product manager, UX/UI designer, facilitateur ou tout simplement curieux et désireux de découvrir et d'apprendre de nouvelles choses.<br>
+                        L’objectif de cette conférence, qui se tient sur 1 journée, est de réunir les acteurs du monde du logiciel. Que vous soyez développeur, product manager, UX/UI designer, facilitateur ou tout simplement curieux et désireux de découvrir et d'apprendre de nouvelles choses.<br>
                     </p>
                     <p>
-                        Agile Pays Basque, c'est aussi l'occasion de rencontrer la communauté Agile et de partager dans une atmosphère conviviale. 2 jours de conférence pour assister à :
+                        Agile Pays Basque, c'est aussi l'occasion de rencontrer la communauté Agile et de partager dans une atmosphère conviviale. 1 journée de conférence pour assister à :
                     </p>
                     <ul>
                         <li><i class="fa-solid fa-check"></i> Des talks</li>
                         <li><i class="fa-solid fa-check"></i> Des ateliers</li>
-                        <li><i class="fa-solid fa-check"></i> Un "Forum ouvert"</li>
+                        <!--<li><i class="fa-solid fa-check"></i> Un "Forum ouvert"</li>-->
                     </ul>
                     <p>
                         Et bien sûr, échanger sur les bonnes pratiques autour du développement, du product management, du design… rencontrer vos pairs et pourquoi pas profiter de l’océan Atlantique en allant faire un petit tour à la plage…
